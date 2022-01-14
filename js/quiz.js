@@ -97,12 +97,12 @@ wordsList.addEventListener('click',(e)=>{
       comboBox.classList.remove('combo-boxOn');
     },500)
     // 10문제 다 맞히면 클리어. platBtn 활성화
-    if(matchedNo === 2 ){
+    if(matchedNo === 10 ){
       setTimeout(()=>{
         audioClear.play();
         let m = Math.floor(Math.random()*4+1);
         console.log(m);
-        //character.style.backgroundImage = `url('../image/character0${m}.png')`;
+        character.style.backgroundImage = `url('../image/character0${m}.png')`;
         clearBox.style.display = 'block';
         let scoreProgressValue = scoreValue / 50;
         scoreProgress.style.width = `${scoreProgressValue}px`
