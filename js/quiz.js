@@ -101,6 +101,7 @@ wordsList.addEventListener('click',(e)=>{
       setTimeout(()=>{
         audioClear.play();
         let m = Math.floor(Math.random()*4+1);
+        console.log(m);
         character.style.backgroundImage = `url('../image/character0${m}.png')`;
         clearBox.style.display = 'block';
         let scoreProgressValue = scoreValue / 50;
