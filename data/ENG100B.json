@@ -1,0 +1,1748 @@
+{
+  "items":
+  [
+    {
+      "chapter": "ENG100B",
+      "serial": 1,
+      "text": "How have you been?",
+      "meaning": "그 동안 어떻게 지냈어?",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 2,
+      "text": "You haven't changed a bit",
+      "meaning": "하나도 안 변했다.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 3,
+      "text": "Say hello to your father.",
+      "meaning": "너의 아버지께 안부 전해줘.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 4,
+      "text": "I'll keep in touch with you.",
+      "meaning": "너한테 연락할게.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 5,
+      "text": "You shouldn't have!",
+      "meaning": "이러지 않아도 되는데!",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 6,
+      "text": "Give me a ride home.",
+      "meaning": "나를 집까지 데려다 줘.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 7,
+      "text": "That's what friends are for",
+      "meaning": "친구 좋다는 게 뭐야.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 8,
+      "text": "Just be yourself.",
+      "meaning": "평소처럼 해.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 9,
+      "text": "What's the weather like?",
+      "meaning": "날씨가 어때?",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 10,
+      "text": "It slipped my mind.",
+      "meaning": "깜빡 잊고 있었네.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 11,
+      "text": "Don’t tell me you have changed your mind.",
+      "meaning": "설마 마음이 변한 건 아니겠지.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 12,
+      "text": "I'll go with the flow.",
+      "meaning": "대세에 따를게.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 13,
+      "text": "I feel like crying my eyes out.",
+      "meaning": "눈이 붓도록 펑펑 울고 싶어.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 14,
+      "text": "Nothing beats this place for crabs.",
+      "meaning": "게 요리는 여기만 한 곳이 없어요.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 15,
+      "text": "We might as well sing.",
+      "meaning": "우리는 노래하는 게 낫겠어요.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 16,
+      "text": "Could you postpone it for another day?",
+      "meaning": "다른 날로 연기해 줄래?",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 17,
+      "text": "[Would you] care for dessert?",
+      "meaning": "디저트 좀 드시겠어요?",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 18,
+      "text": "Please, go easy on the sugar",
+      "meaning": "설탕은 조금만 넣어주세요.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 19,
+      "text": "It's not gonna kill you to smile.",
+      "meaning": "웃는다고 큰일 나지 않아.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 20,
+      "text": "Don't forget to drop by the clinic.",
+      "meaning": "병원에 들르는 거 잊지 마세요.",
+      "unit": 1
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 21,
+      "text": "Have you fixed the date for the wedding?",
+      "meaning": "결혼식 날짜 잡았어요?",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 22,
+      "text": "Too bad you have to stay home on a day like this.",
+      "meaning": "이런 날 너 집에 있어야 하다니, 정말 안타깝다.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 23,
+      "text": "Look on the bright side.",
+      "meaning": "긍정적으로 생각해",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 24,
+      "text": "Please keep me posted with any updates.",
+      "meaning": "새로운 소식 있으면 계속 알려주세요",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 25,
+      "text": "I made a reservation in the name of Smith.",
+      "meaning": "Smith라는 이름으로 예약했습니다.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 26,
+      "text": "How many in your family?",
+      "meaning": "가족 수가 몇 명이세요?",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 27,
+      "text": "Do you have a table for three?",
+      "meaning": "3명이 앉을 테이블이 있나요?",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 28,
+      "text": "I meet them on a weekly basis.",
+      "meaning": "일주일에 한 번씩 만나요.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 29,
+      "text": "Can you give me a hand with this box?",
+      "meaning": "이 박스 옮기는 것 좀 도와줄래?",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 30,
+      "text": "Stop making lame excuses.",
+      "meaning": "핑계 대지 마.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 31,
+      "text": "Why do you take it out on me?",
+      "meaning": "왜 나한테 화풀이 하는 거야?",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 32,
+      "text": "All you have to do is press this button.",
+      "meaning": "당신은 이 버튼만 누르면 되요.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 33,
+      "text": "Mind if I come along?",
+      "meaning": "나도 따라가도 돼?",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 34,
+      "text": "I'm planning to hit the road on vacation.",
+      "meaning": "방학 때 여행 갈 계획이야.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 35,
+      "text": "I've been looking forward to meeting you.",
+      "meaning": "당신과 만나기를 고대하고 있었어요.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 36,
+      "text": "I wouldn't miss it for anything.",
+      "meaning": "무슨 일이 있어도 꼭 갈게.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 37,
+      "text": "Nowadays children are getting out of hand.",
+      "meaning": "요즘 애들은 정말 감당에 안 돼.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 38,
+      "text": "You look like you are in a good mood today.",
+      "meaning": "당신 오늘 기분이 좋아 보여요.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 39,
+      "text": "I don't think I'm cut out to be a stay-at-home mom.",
+      "meaning": "나한테 전업주부가 적성에 맞지 않나 봐.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 40,
+      "text": "Don't kiss up to me.",
+      "meaning": "나한테 아부하지 마.",
+      "unit": 2
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 41,
+      "text": "The interviewers gave me a hard time.",
+      "meaning": "면접관들이 날 정말 힘들게 했어.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 42,
+      "text": "I don't think we'll be getting back together again.",
+      "meaning": "이제 다시는 만나는 일 없을 거라 생각해.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 43,
+      "text": "I guess your wife is cheating on you.",
+      "meaning": "네 아내가 바람을 피우는 것 같은데.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 44,
+      "text": "I think you crossed the line this time.",
+      "meaning": "이번에는 네가 좀 지나친 것 같아.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 45,
+      "text": "I put my house on the market last week.",
+      "meaning": "지난 주에 우리 집 내놨어.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 46,
+      "text": "Are you sure this is the right way?",
+      "meaning": "이쪽으로 가는 게 확실히 맞아?",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 47,
+      "text": "From now on, we should cut back on spending.",
+      "meaning": "이제부터 우린 소비를 줄여야 해.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 48,
+      "text": "Don't panic. Just calm down.",
+      "meaning": "당황하지 말고 침착해.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 49,
+      "text": "I'll have you over for dinner sometime.",
+      "meaning": "조만간 저녁 식사에 초대할게요.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 50,
+      "text": "What's the occasion?",
+      "meaning": "무슨 일이지요?",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 51,
+      "text": "Don't tell me what to do.",
+      "meaning": "잔소리 좀 하지 마.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 52,
+      "text": "Over my dead body!",
+      "meaning": "절대로 안 돼!",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 53,
+      "text": "I'm not feeling well.",
+      "meaning": "몸이 좋지 않네.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 54,
+      "text": "I'm gonna call in sick.",
+      "meaning": "병가를 내야겠어.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 55,
+      "text": "Can I take a few days off next week?",
+      "meaning": "다음 주에 며칠 휴가를 내도 되나요?",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 56,
+      "text": "Thanks for your concern.",
+      "meaning": "걱정해 줘서 고마워요.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 57,
+      "text": "What's up with your face?",
+      "meaning": "너 얼굴이 왜 그래?",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 58,
+      "text": "We were supposed to get back together.",
+      "meaning": "우리 다시 시작하기로 했던 것 같은데요.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 59,
+      "text": "Can I help you with your bag?",
+      "meaning": "가방 좀 들어 드릴까요?",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 60,
+      "text": "We have to book at least 2 weeks in advance.",
+      "meaning": "최소 2주일 전에 미리 예약해야겠네요.",
+      "unit": 3
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 61,
+      "text": "I'm gonna take my kids outside for a picnic.",
+      "meaning": "애들 데리고 야외로 소풍 가려고 해.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 62,
+      "text": "We’ve decided to catch a late-night movie together.",
+      "meaning": "우리 함께 심야영화 보기로 결정했어요.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 63,
+      "text": "I'm signing up for the gym next month.",
+      "meaning": "다음 달에 헬스 클럽에 등록할거야.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 64,
+      "text": "I stick to my diet and exercise a lot.",
+      "meaning": "다이어트를 꾸준히 하고 운동을 많이 해요.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 65,
+      "text": "I got a flat tire on my way to work.",
+      "meaning": "출근하다가 타이어에 펑크가 났어.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 66,
+      "text": "Would you drop me off in front of my house?",
+      "meaning": "우리 집 앞에서 내려 주실래요?",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 67,
+      "text": "This is ridiculous.",
+      "meaning": "말도 안 돼요.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 68,
+      "text": "Maybe you should go easy on the drinks.",
+      "meaning": "술 좀 적당히 마시는 게 좋을 것 같아.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 69,
+      "text": "How can I reach you?",
+      "meaning": "당신에게 어떻게 연락을 하죠?",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 70,
+      "text": "I will return your call this afternoon.",
+      "meaning": "오늘 오후에 회신전화 할게.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 71,
+      "text": "Can I take a rain check?",
+      "meaning": "다음에 하면 안 될까?",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 72,
+      "text": "We're booked solid for the next two weeks.",
+      "meaning": "앞으로 2주 동안은 예약이 꽉 찼습니다.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 73,
+      "text": "What's up?",
+      "meaning": "무슨 일이죠?",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 74,
+      "text": "I used to sneak out of the house at night.",
+      "meaning": "난 밤에 집에서 몰래 나가곤 했어.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 75,
+      "text": "Let's call it a day and go grab a bite.",
+      "meaning": "오늘은 마감(그만)하고 뭐 좀 먹으러 가자.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 76,
+      "text": "Let’s wrap things up.",
+      "meaning": "마무리 합시다.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 77,
+      "text": "Don't worry about it.",
+      "meaning": "걱정 마세요.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 78,
+      "text": "I used to be a heavy smoker.",
+      "meaning": "전 예전에 골초이곤 했죠.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 79,
+      "text": "That's why you can't take your eyes off her.",
+      "meaning": "그래서 네가 그녀에게서 눈을 떼지 못하는구나.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 80,
+      "text": "Don't pay attention to him.",
+      "meaning": "그 녀석한테 관심 주지 마.",
+      "unit": 4
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 81,
+      "text": "What if it rains tomorrow?",
+      "meaning": "내일 비가 오면 어쩌죠?",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 82,
+      "text": "That guy blackmailed me into doing it.",
+      "meaning": "저 남자가 나에게 그 일을 하라고 협박했어요.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 83,
+      "text": "Not to worry.",
+      "meaning": "걱정 마.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 84,
+      "text": "I'll keep an eye on you.",
+      "meaning": "내가 지켜봐 줄게.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 85,
+      "text": "commit a crime",
+      "meaning": "범죄를 저지르다",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 86,
+      "text": "break the law[rules]",
+      "meaning": "법[규정]을 어기다",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 87,
+      "text": "report to the police",
+      "meaning": "경찰에 신고하다.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 88,
+      "text": "I'm in a real sticky situation",
+      "meaning": "제가 정말 곤란한 상황에 빠졌어요.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 89,
+      "text": "Let's go for a drive.",
+      "meaning": "드라이브 가자.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 90,
+      "text": "I was taken in by his smooth manners.",
+      "meaning": "난 그의 부드러운 매너에 속았어.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 91,
+      "text": "You're not allowed to smoke here.",
+      "meaning": "여기서 담배 못 피우십니다.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 92,
+      "text": "Hurry up",
+      "meaning": "서둘러",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 93,
+      "text": "play movies",
+      "meaning": "영화를 상영하다",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 94,
+      "text": "Have you seen?",
+      "meaning": "너 본 적 있어?",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 95,
+      "text": "by any chance",
+      "meaning": "혹시",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 96,
+      "text": "I came here to see if you're free.",
+      "meaning": "네가 시간이 있는지 보려고 왔어.",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 97,
+      "text": "They split up",
+      "meaning": "그들이 헤어졌대",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 98,
+      "text": "What's the point of learning English if you can't speak?",
+      "meaning": "네가 말을 못 할거면 영어를 배우는 게 무슨 소용 있어?",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 99,
+      "text": "Could you set me up with someone nice?",
+      "meaning": "좋은 사람 소개시켜 주실 수 있나요?",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 100,
+      "text": "go your separate ways",
+      "meaning": "각자의 길을 가다",
+      "unit": 5
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 101,
+      "text": "I'm in a hurry.",
+      "meaning": "내가 바빠",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 102,
+      "text": "I bet",
+      "meaning": "단언컨대",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 103,
+      "text": "I can't wait to see my family.",
+      "meaning": "가족을 보고 싶어 참을 수가 없어요.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 104,
+      "text": "Just because you're rich doesn't mean you can waste your money.",
+      "meaning": "단지 당신이 부자라고 해서 돈을 낭비해도 된다는 것은 아니에요.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 105,
+      "text": "Take whatever you want.",
+      "meaning": "원하는 거 뭐든지 가져가세요.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 106,
+      "text": "Slow down",
+      "meaning": "천천해 해",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 107,
+      "text": "We go out",
+      "meaning": "우리 사귀어.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 108,
+      "text": "We’re a good match",
+      "meaning": "우리 잘 어울려요.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 109,
+      "text": "You're all dressed up.",
+      "meaning": "당신 오늘 쫙 빼 입었네요.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 110,
+      "text": "We haven't had pizza in a while.",
+      "meaning": "우리 한동안 피자를 먹어보질 않았네.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 111,
+      "text": "That's where you're wrong.",
+      "meaning": "넌 거기서 틀린 거야.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 112,
+      "text": "Just wait and see.",
+      "meaning": "두고 봐. 지켜 봐.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 113,
+      "text": "Clothes make the man.",
+      "meaning": "옷이 날개다.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 114,
+      "text": "wash-and-wear",
+      "meaning": "(물 빨래 하는)싸구려 옷",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 115,
+      "text": "drop it",
+      "meaning": "됐어. 그만해",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 116,
+      "text": "come out",
+      "meaning": "(결과가)나오다",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 117,
+      "text": "What do you thinking of his acting?",
+      "meaning": "그의 연기를 어떻게 생각해?",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 118,
+      "text": "I'm going on a vacation.",
+      "meaning": "저 휴가 떠나요.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 119,
+      "text": "I plan to take her to a nice restaurant this weekend.",
+      "meaning": "나 이번 주말에 그녀를 식당에 데려갈 계획이야.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 120,
+      "text": "Suit yourself",
+      "meaning": "마음대로 해.",
+      "unit": 6
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 121,
+      "text": "What's wrong with it?",
+      "meaning": "뭐가 어때서?",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 122,
+      "text": "You really have an eye for color.",
+      "meaning": "너 정말 색깔에 대한 안목이 있어.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 123,
+      "text": "You look good in blue.",
+      "meaning": "너한테 파란색이 잘 어울린다.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 124,
+      "text": "Why did you take my side against him?",
+      "meaning": "왜 그와 반대해서 제 편을 드셨어요?",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 125,
+      "text": "Your skirt is way too short.",
+      "meaning": "네 치마가 너무 짧다.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 126,
+      "text": "wear dress to the party",
+      "meaning": "드레스 입고 파티에 가다",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 127,
+      "text": "You're impossible",
+      "meaning": "넌 구제불능이야.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 128,
+      "text": "I stayed up all night.",
+      "meaning": "난 밤을 꼴딱 샜어.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 129,
+      "text": "He's living it up with the inheritance.",
+      "meaning": "그는 유산으로 신나게 즐기며 살고 있죠.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 130,
+      "text": "Keep it a secret",
+      "meaning": "비밀로 해.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 131,
+      "text": "I'd better get a move on.",
+      "meaning": "난 빨리 서두르는 게 낫겠어.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 132,
+      "text": "I didn't mean to break the rules.",
+      "meaning": "전 규정을 어길 의도는 아니었어요.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 133,
+      "text": "Watch your language!",
+      "meaning": "말 조심해!",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 134,
+      "text": "I'll keep that in mind.",
+      "meaning": "명심할게요.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 135,
+      "text": "I don't know what to say.",
+      "meaning": "뭐라고 할 말이 없다.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 136,
+      "text": "You hurt my feelings",
+      "meaning": "넌 내 감정을 상하게 했어.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 137,
+      "text": "swear",
+      "meaning": "욕을 하다",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 138,
+      "text": "How many times do I have to tell you?",
+      "meaning": "대체 내가 너한테 몇 번을 얘기해야 하니?",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 139,
+      "text": "I was attracted to her inner beauty.",
+      "meaning": "난 그녀의 내면의 아름다움에 끌렸어.",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 140,
+      "text": "Don't even think about it.",
+      "meaning": "꿈도 꾸지 마",
+      "unit": 7
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 141,
+      "text": "Can you take out the garbage, son?",
+      "meaning": "아들아, 쓰레기 좀 버려 줄래?",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 142,
+      "text": "Don't hang out with bad friends.",
+      "meaning": "나쁜 친구들과 어울려 놀지 마.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 143,
+      "text": "I'll see what I can do.",
+      "meaning": "제가 어떻게 할 수 있을지(가능한지) 알아볼게요.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 144,
+      "text": "Don't get your hopes up.",
+      "meaning": "너무 기대는 하지 마.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 145,
+      "text": "on my way out",
+      "meaning": "내 나가는 길에",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 146,
+      "text": "pizza place",
+      "meaning": "피자 가게",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 147,
+      "text": "break down",
+      "meaning": "(기계가) 고장 나다",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 148,
+      "text": "What took you so long?",
+      "meaning": "왜 이렇게 늦었어?",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 149,
+      "text": "If we don't get stuck in traffic.",
+      "meaning": "우리가 교통체증에 갇히지 않으면(차가 안 밀리면)",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 150,
+      "text": "He got caught speeding.",
+      "meaning": "그는 속도위반으로 걸렸대.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 151,
+      "text": "Nothing is working out for you today.",
+      "meaning": "당신 오늘 되는 일이 없네요.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 152,
+      "text": "traffic is heavy",
+      "meaning": "차가 밀리다",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 153,
+      "text": "at this time of day",
+      "meaning": "하루 중 이 시간에",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 154,
+      "text": "I've been through a lot.",
+      "meaning": "난 많은 일을 겼었지.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 155,
+      "text": "Anything good happen today?",
+      "meaning": "오늘 무슨 좋은 일 있어요?",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 156,
+      "text": "It's written all over your face.",
+      "meaning": "네 얼굴에 다 쓰여 있어",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 157,
+      "text": "I got accepted to a large company.",
+      "meaning": "나 대기업에 합격했어",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 158,
+      "text": "Everything is under control.",
+      "meaning": "모든 일이 순조롭게 진행되고 있어요.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 159,
+      "text": "How could you tell?",
+      "meaning": "너 어떻게 알았어?",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 160,
+      "text": "You deserve to be happy.",
+      "meaning": "넌 행복할 자격이 있어.",
+      "unit": 8
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 161,
+      "text": "I made fun of his new hairstyle.",
+      "meaning": "내가 그의 머리스타일을 놀렸어.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 162,
+      "text": "That's what you think.",
+      "meaning": "그건 네 생각이고",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 163,
+      "text": "That's what people say.",
+      "meaning": "사람들이 그러던데",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 164,
+      "text": "Don't get me wrong.",
+      "meaning": "날 오해하지 마.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 165,
+      "text": "I'll call you back as soon as I can.",
+      "meaning": "최대하 빨리 전화 드릴게요.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 166,
+      "text": "She was upset.",
+      "meaning": "그녀는 화났어.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 167,
+      "text": "gold digger",
+      "meaning": "돈 많은 남자를 쫓는 여자",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 168,
+      "text": "apologize",
+      "meaning": "사과하다",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 169,
+      "text": "Take a wild guess.",
+      "meaning": "대충 맞춰봐",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 170,
+      "text": "I'll put everything aside and come.",
+      "meaning": "만사 제쳐두고 갈 거에요.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 171,
+      "text": "I tried everything.",
+      "meaning": "모든 노력을 다하다",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 172,
+      "text": "You're all talk and no action.",
+      "meaning": "넌 행동은 안 하고 항상 말뿐이잖아.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 173,
+      "text": "go up",
+      "meaning": "(점수, 성적, 가격이) 오르다.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 174,
+      "text": "I'm not sure about that",
+      "meaning": "나 잘 모르겠어.(확실치 않아)",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 175,
+      "text": "The key is",
+      "meaning": "비결은~",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 176,
+      "text": "It'll take a while.",
+      "meaning": "시간이 좀 거릴 거야.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 177,
+      "text": "Now that you mention it, I'm kind of hungry.",
+      "meaning": "얘기가 나와서 말인데, 나 좀 배고프다.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 178,
+      "text": "I always get cold feet before a blind date.",
+      "meaning": "난 항상 소개팅 하기 전에 너무 긴장돼.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 179,
+      "text": "I go along with that.",
+      "meaning": "그 말에 동의해.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 180,
+      "text": "It'll help with my future.",
+      "meaning": "내 미래에 도움이 될거야.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 181,
+      "text": "No worries.",
+      "meaning": "걱정 마",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 182,
+      "text": "Well begun is half done",
+      "meaning": "시작이 반이다.",
+      "unit": 9
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 183,
+      "text": "Why the long face?",
+      "meaning": "왜 우울한 표정이야?",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 184,
+      "text": "Good thing we came home early.",
+      "meaning": "집에 일찍 오길 잘했네.(다행이야)",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 185,
+      "text": "Every word you say is freaking me out.",
+      "meaning": "네가 하는 모든 말이 날 식겁하게 해.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 186,
+      "text": "I'm sick of your complaints.",
+      "meaning": "난 네 불평에 질렸어.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 187,
+      "text": "Our wedding photos are all messed up.",
+      "meaning": "우리 결혼 사진이 완전 망쳤어.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 188,
+      "text": "we didn't pay for it yet.",
+      "meaning": "우리 아직 지불 안했어.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 189,
+      "text": "complain about this.",
+      "meaning": "이것에 대해 불평하다.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 190,
+      "text": "What brings you here?",
+      "meaning": "겨긴 어쩐 일이세요?",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 191,
+      "text": "I was in the neighborhood and dropped by to say hello.",
+      "meaning": "근처에 왔다가 인사 하려고 들렀어요.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 192,
+      "text": "I'm so glad that you're my friend.",
+      "meaning": "네가 내 친구라서 너무 기뻐.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 193,
+      "text": "Let's grab a bite to eat.",
+      "meaning": "간단히 뭐 좀 먹자.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 194,
+      "text": "come by",
+      "meaning": "잠시 들르다",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 195,
+      "text": "starving",
+      "meaning": "몹시 배고픈",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 196,
+      "text": "favorite hangout",
+      "meaning": "단골집",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 197,
+      "text": "When was the last time you emailed me?",
+      "meaning": "언제 마지막으로 당신이 저에게 이메일 보냈죠?",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 198,
+      "text": "I have to go to the dentist to get a regular checkup.",
+      "meaning": "나 치과 가야 해요. 정기 검진 받으러",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 199,
+      "text": "medical checkup",
+      "meaning": "건강 검진",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 200,
+      "text": "How did your exam go?",
+      "meaning": "시험 결과 어떻게 됐어?",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 201,
+      "text": "I've been under a lot of stress at work these days.",
+      "meaning": "요즘 이 때문에 엄청 스트레스 받고 있어.",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 202,
+      "text": "blood pressure",
+      "meaning": "혈압",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 203,
+      "text": "go up",
+      "meaning": "(수치, 혈압이) 올라가다",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 204,
+      "text": "take good care of my health",
+      "meaning": "내 건강을 각별히 보살피다",
+      "unit": 10
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 205,
+      "text": "My hands are full.",
+      "meaning": "나 엄청 바빠",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 206,
+      "text": "My memory is not what it used to be.",
+      "meaning": "내 기억력이 예전 같지 않아.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 207,
+      "text": "Drinking is not my thing.",
+      "meaning": "술 마시는 건 내 취향이 아니야.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 208,
+      "text": "He hasn't played to his strengths in this game.",
+      "meaning": "그는 이번 경기에서 강점을 발휘 못했어.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 209,
+      "text": "Can you help me with this?",
+      "meaning": "이것 좀 도와줄래요?",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 210,
+      "text": "What can I say?",
+      "meaning": "[체념] 어쩌겠어요?",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 211,
+      "text": "I get used to it.",
+      "meaning": "나 그것에 익숙해졌어.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 212,
+      "text": "The salesperson talked me into buying it.",
+      "meaning": "판매원이 날 사도록 설득해버렸어.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 213,
+      "text": "I won't blame you for being late.",
+      "meaning": "난 늦었다고 널 탓하지 않을 거야.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 214,
+      "text": "I can't take it anymore!",
+      "meaning": "더 이상 못 참아!",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 215,
+      "text": "I hate the way you treat me.",
+      "meaning": "네가 날 대하는 방식이 싫어.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 216,
+      "text": "My stomach feels heavy",
+      "meaning": "내 속이 더부룩해.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 217,
+      "text": "indigestion",
+      "meaning": "소화불량",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 218,
+      "text": "You shouldn't have eaten so much.",
+      "meaning": "너무 먹지 말았어야지.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 219,
+      "text": "go on a diet.",
+      "meaning": "다이어트하다",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 220,
+      "text": "I get goose bumps all over.",
+      "meaning": "나 온몸에 닭살이 돋아",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 221,
+      "text": "I was bored to death during lecture.",
+      "meaning": "강의 동안에 나 지루해 죽는 줄 알았어.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 222,
+      "text": "Bundle him up.",
+      "meaning": "그 옷 따뜻하게 입혀.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 223,
+      "text": "I dozed off.",
+      "meaning": "나 깜빡 졸았어.",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 224,
+      "text": "chilly",
+      "meaning": "쌀쌀한",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 225,
+      "text": "behind the wheel",
+      "meaning": "운전 중인",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 226,
+      "text": "fortunately",
+      "meaning": "다행히",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 227,
+      "text": "a fender-bender",
+      "meaning": "(경미한) 접촉사고",
+      "unit": 11
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 228,
+      "text": "Is Lucy available?",
+      "meaning": "루시 있나요?",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 229,
+      "text": "Hold on, please.",
+      "meaning": "잠시만요.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 230,
+      "text": "He's on the phone right now.",
+      "meaning": "그는 지금 통화 중이시네요.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 231,
+      "text": "He just stepped out of the office.",
+      "meaning": "그는 방금 사무실에서 나갔어요.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 232,
+      "text": "He is out of town this week.",
+      "meaning": "그는 이번 주에 출장입니다.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 233,
+      "text": "He will get back to you soon.",
+      "meaning": "그가 곧 당신께 회신전화 할거에요.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 234,
+      "text": "He's out to lunch.",
+      "meaning": "그는 점심 먹으러 나갔네요.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 235,
+      "text": "Don't be such a baby. Act your age.",
+      "meaning": "애처럼 굴지마.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 236,
+      "text": "Look who's talking.",
+      "meaning": "사돈 남 말 하네.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 237,
+      "text": "You're known for drinking.",
+      "meaning": "너는 술로 유명하잖아.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 238,
+      "text": "Mind your own business.",
+      "meaning": "너나 잘해.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 239,
+      "text": "I'll take care of myself.",
+      "meaning": "내 일은 내가 알아서 해.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 240,
+      "text": "I'm so relieved that you've come to your senses.",
+      "meaning": "네가 정신을 차려서 정말 안심이 된다.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 241,
+      "text": "Please complete this form and wait in line.",
+      "meaning": "이 양식을 작성하시고 줄을 서세요.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 242,
+      "text": "How did you get interested in Yoga?",
+      "meaning": "어떻게 요가에 관심을 갖게 되셨죠?",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 243,
+      "text": "Don't worry. I wasn't born yesterday.",
+      "meaning": "걱정마. 그 정도는 알아.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 244,
+      "text": "Please don't rub it in.",
+      "meaning": "아픈 데 좀 건드리지 마.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 245,
+      "text": "You'll never guess.",
+      "meaning": "상상도 못할걸.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 246,
+      "text": "I'm too young to settle down.",
+      "meaning": "난 정착하기엔 너무 어려.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 247,
+      "text": "I want to play the field.",
+      "meaning": "여러 사람과 사귀고 싶어.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 248,
+      "text": "I think he still has feelings for you.",
+      "meaning": "그가 아직 널 좋아하는 것 같아.",
+      "unit": 12
+    },
+    {
+      "chapter": "ENG100B",
+      "serial": 249,
+      "text": "I have a lot on my mind these days.",
+      "meaning": "요즘 생각이 많아서 머리가 복잡해",
+      "unit": 12
+    }
+  ]
+}

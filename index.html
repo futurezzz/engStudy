@@ -19,24 +19,37 @@
 <body>
   <div id="menu"></div>
   <div class="container">
+    <div class="signIn"></div>
+    <div class="change-user"></div>
     <div class="main-unit">
       <ul class="main-unit-list">
-        <li class="list" data-chapter="ENG100A">영어회화100일A</li>
-        <li class="list" data-chapter="ENG100A">2files</li>
-        <li class="list">3</li>
-        <li class="list">4</li>
-        <li class="list">5</li>
+        <li class="list" data-chapter="ENG100A">100일 A</li>
+        <li class="list" data-chapter="ENG100B">100일 B</li>
+        <li class="list" data-chapter="Conversation">Conversation</li>
+        <li class="list" data-chapter="NativeA">네이티브 A</li>
+        <li class="list" data-chapter="MSWordsA">중학단어 A</li>
       </ul>
+    </div>
+    <div class="user">
+      <div><img src="image/user_skyshim.png" data-user="SkyShim" alt="SkyShim" width="150px"></div>
+      <div><img src="image/user_lamon.png" data-user="Lamon" alt="Lamon" width="150px"></div>
+      <div><img src="image/user_mirae.png" data-user="Mirae" alt="Mirae" width="150px"></div>
     </div>
     <div class="sub-unit">
       <ul class="sub-unit-list">
         <!-- <li class="unit"></li> -->
       </ul>
+      <ul class="calender-unit-list">
+        <!-- <li class="calender-unit"></li> -->
+      </ul>
     </div>
   </div>
   
-<!--   <script src="js/includeHTML.js"></script> -->
-  <script src="js/menu.js"></script>
+
+  <!-- IMPORTS + CONFIGURATION -->
+  <script type="module" src="js/firebase.js"></script>
+  <!--   <script src="js/includeHTML.js"></script> -->
+  <!-- <script src="js/menu.js"></script> -->
   <script src="js/main.js"></script>
 </body>
 </html>

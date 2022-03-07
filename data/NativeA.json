@@ -1,0 +1,3505 @@
+{
+  "items":
+  [
+    {
+      "chapter": "NativeA",
+      "serial": 1,
+      "text": "You bet",
+      "meaning": "물론! (내기할 만큼 당연하지)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 2,
+      "text": "Sure thing",
+      "meaning": "물론이지. (확실한 것)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 3,
+      "text": "You can say that again",
+      "meaning": "두말하면 잔소리",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 4,
+      "text": "I know",
+      "meaning": "내 말이! (나도 알아)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 5,
+      "text": "Tell me about it",
+      "meaning": "말이라고(격하게 동의할 때)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 6,
+      "text": "Way to go",
+      "meaning": "잘했어! (격려, 응원, 칭찬)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 7,
+      "text": "That's my girl",
+      "meaning": "잘한다, 우리 딸!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 8,
+      "text": "Attaboy",
+      "meaning": "옳지! (아이나 애완동물 칭찬)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 9,
+      "text": "Good for you",
+      "meaning": "잘 됐네.(너에게 좋은 일)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 10,
+      "text": "Good call",
+      "meaning": "좋은 결정",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 11,
+      "text": "Go for it",
+      "meaning": "해 보는 거야! 자, 해봐!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 12,
+      "text": "Give me five",
+      "meaning": "하이파이브!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 13,
+      "text": "Go get'em, tiger",
+      "meaning": "잘 해! 아자아자! 용기를 내! ",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 14,
+      "text": "Knock'em dead!",
+      "meaning": "본때를 보여줘!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 15,
+      "text": "Go kick some ass",
+      "meaning": "다 보내버려! 엉덩이를 뻥 차버려! 박살내!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 16,
+      "text": "Touche",
+      "meaning": "한 방 먹었네!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 17,
+      "text": "Kudos to you",
+      "meaning": "(물개박수와 함께) 당신에게 칭찬을",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 18,
+      "text": "I've got to admit it",
+      "meaning": "(자존심 상하지만)인정할 건 해야지",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 19,
+      "text": "I'll give you that",
+      "meaning": "(너 진짜 멋져 등..) 그건 진짜 인정!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 20,
+      "text": "I gotta hand it to you",
+      "meaning": "(너한테 항복)네 실력은 알아줘야겠다.",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 21,
+      "text": "You got it",
+      "meaning": "바로 맞혔어! ",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 22,
+      "text": "That's it",
+      "meaning": "그렇지!. 바로 그거야. (또는 됐어!)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 23,
+      "text": "There you go",
+      "meaning": "잘하네! (또는 물건을 건네며 여기있어요)",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 24,
+      "text": "You got that right",
+      "meaning": "그 말이 맞네. 옳거니!",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 25,
+      "text": "Right on",
+      "meaning": "정답! 족집게네.",
+      "unit": 1
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 26,
+      "text": "Ta-da",
+      "meaning": "짜잔~",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 27,
+      "text": "Drum roll, please",
+      "meaning": "두구두구두구",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 28,
+      "text": "Moment of truth",
+      "meaning": "진실의 순간. 중요한 순간입니다.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 29,
+      "text": "Look what I've got",
+      "meaning": "내가 뭐 가져왔게?(나한테 뭐가 있나 봐.)",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 30,
+      "text": "Here we go",
+      "meaning": "자, 간다. 출발한다.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 31,
+      "text": "What can you do?",
+      "meaning": "어쩌겠어? 넌 뭘 할 수 있니? ",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 32,
+      "text": "It happens all the time",
+      "meaning": "항상 있는 일이야. 원래 그래.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 33,
+      "text": "Everything happens for a reason",
+      "meaning": "모든 일에는 다 이유가 있는 법",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 34,
+      "text": "Well, shit happens",
+      "meaning": "개똥같은 일인 거야. 어쩔 수 없지",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 35,
+      "text": "Go with the flow",
+      "meaning": "대세에 따라야지.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 36,
+      "text": "I swear",
+      "meaning": "맹세해. 진짜야.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 37,
+      "text": "I mean it",
+      "meaning": "진심이야.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 38,
+      "text": "I'm telling you",
+      "meaning": "내가 말하잖아. 진짜라니까!",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 39,
+      "text": "Scout's honor",
+      "meaning": "(스카우트의 명예를 걸고)거짓말 아니야",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 40,
+      "text": "Cross my heart",
+      "meaning": "(내 심장에 십자가를 그릴만큼) 맹세해",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 41,
+      "text": "Talk is cheap",
+      "meaning": "말로는 누가 못해? (말은 쉽지)",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 42,
+      "text": "He's all talk",
+      "meaning": "그는 온통 말뿐이야. 입만 살았어.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 43,
+      "text": "Me and my big mouth",
+      "meaning": "나와 내 큰 입. 내 입이 방정이지.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 44,
+      "text": "That's easy for you to say",
+      "meaning": "네가 그런 말 하는 거야 쉽겠지",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 45,
+      "text": "It's easier said than done",
+      "meaning": "말이야 쉽지. 행동(실천)하기가 힘든 법",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 46,
+      "text": "Watch out",
+      "meaning": "조심해! 앞을 봐!",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 47,
+      "text": "Watch your step",
+      "meaning": "발 조심 해",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 48,
+      "text": "Watch your language",
+      "meaning": "말 조심해",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 49,
+      "text": "Watch your back",
+      "meaning": "등 조심해. 방심하지 마라.",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 50,
+      "text": "Be careful what you wish for",
+      "meaning": "말이 씨가 된다. (소원을 빌 때는 조심)",
+      "unit": 2
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 51,
+      "text": "Guess what",
+      "meaning": "있잖아. (뭔지 맞혀봐)",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 52,
+      "text": "I'll tell you what",
+      "meaning": "내 말 들어봐. 내가 해결해 줄게.",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 53,
+      "text": "You know what?",
+      "meaning": "그거 알아?",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 54,
+      "text": "Get this",
+      "meaning": "들어 봐.",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 55,
+      "text": "Here's the thing",
+      "meaning": "그게 말이지. 그게 뭐냐 하면",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 56,
+      "text": "Give me a break",
+      "meaning": "한 번만 봐줘. (또는 웃기지마. 말도 안돼)",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 57,
+      "text": "Look the other way",
+      "meaning": "모른 척 해 줘",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 58,
+      "text": "Easy does it",
+      "meaning": "살살 해",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 59,
+      "text": "Put in a good word for me",
+      "meaning": "말 좀 잘 해 주세요",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 60,
+      "text": "Humor me",
+      "meaning": "비위 좀 맞춰 줘. 맞장구 좀 쳐 줘 (날 달래줘)",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 61,
+      "text": "Hear me out",
+      "meaning": "끝까지 들어",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 62,
+      "text": "I'm not done yet",
+      "meaning": "내 말 안 끝났어",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 63,
+      "text": "Don't interrupt me",
+      "meaning": "내 말 끊지 마",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 64,
+      "text": "I can explain",
+      "meaning": "내가 설명할게",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 65,
+      "text": "Mark my words",
+      "meaning": "내 말 잘 들어. 내 말 표시해 둬",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 66,
+      "text": "Are you following me?",
+      "meaning": "제 말 따라오고 있나요? 무슨 말인지 알겠어요?",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 67,
+      "text": "Is that clear?",
+      "meaning": "확실히 이해됐나요? ",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 68,
+      "text": "You hear me?",
+      "meaning": "내 말 들었지? 알았지?",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 69,
+      "text": "Have I made myself clear?",
+      "meaning": "내 말을 잘 이해시켰니?  내 말 알겠어?",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 70,
+      "text": "Don't you see?",
+      "meaning": "모르겠어? (안 보여?)",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 71,
+      "text": "Been there, done that",
+      "meaning": "갈 데도 가 봤고, 할 거도 해 봤어. 나도 다 해봤어.",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 72,
+      "text": "I know a thing or two",
+      "meaning": "내가 (세상 물정을) 좀 알지",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 73,
+      "text": "I've learned my lesson",
+      "meaning": "(쓰디쓴)경험으로 배웠지.",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 74,
+      "text": "I know him like a book",
+      "meaning": "그 친구는 내가 잘 알아. (내가 그의 책이지)",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 75,
+      "text": "He knows all the answers",
+      "meaning": "그는 모든 답을 알아. 모르는 게 없어",
+      "unit": 3
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 76,
+      "text": "Who knows?",
+      "meaning": "(누가 알겠어) 혹시 알아? (한가닥 희망)",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 77,
+      "text": "You never know",
+      "meaning": "그건 절대 모르는 거야. 어떻게 될지 아무도 몰라.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 78,
+      "text": "Just in case",
+      "meaning": "만약을 대비해. 혹시 모르니까",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 79,
+      "text": "Here goes nothing",
+      "meaning": "한번 해 보지 뭐. 밑져야 본전인데.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 80,
+      "text": "You'll see",
+      "meaning": "너 두고 보자. 두고 보면 알 거야.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 81,
+      "text": "I got your back",
+      "meaning": "네 뒤엔 내가 있잖아. 난 언제나 네 편",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 82,
+      "text": "You can count on me",
+      "meaning": "나한테 의지해도 돼. 나한테 맡겨",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 83,
+      "text": "Follow my lead",
+      "meaning": "나만 따라와 내가 이끄는 대로 따라와. ",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 84,
+      "text": "I know what I'm doing",
+      "meaning": "내가 알아서 할게. 나도 내가 뭘 하는지 알아.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 85,
+      "text": "I'll take it from here",
+      "meaning": "이제부터 내가 맡을게. (인수인계)",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 86,
+      "text": "I don't mind",
+      "meaning": "난 신경 안 써. 난 괜찮아.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 87,
+      "text": "Don't take it so seriously",
+      "meaning": "너무 신경쓰지 마. 너무 심각히 받아들이지 마.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 88,
+      "text": "Money is no object",
+      "meaning": "돈은 문제가 안 돼. 돈이 목적이 아니야. ",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 89,
+      "text": "Size doesn't mater",
+      "meaning": "사이즈는 중요치 않아.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 90,
+      "text": "It's just the booze talking",
+      "meaning": "술김에 하는 소리야",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 91,
+      "text": "Leave me alone",
+      "meaning": "나 혼자 내버려 둬",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 92,
+      "text": "Get off my back",
+      "meaning": "그만 좀 귀찮게 해. 내 등 뒤에서 떨어져.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 93,
+      "text": "Stop bugging me",
+      "meaning": "그만 좀 괴롭혀",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 94,
+      "text": "Back off",
+      "meaning": "뒤로 물러서. 꺼져",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 95,
+      "text": "Don't mess with me",
+      "meaning": "날 건드리지 마. 귀찮게 하지 마",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 96,
+      "text": "Speak of the devil",
+      "meaning": "호랑이도 제 말 하면 온다더니",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 97,
+      "text": "Monkey see, monkey do",
+      "meaning": "애들 앞에선 찬물도 못 마셔",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 98,
+      "text": "Walls have ears",
+      "meaning": "벽에도 귀가 있어. 낮말은 새가 듣고 밤 말은 쥐가 듣는다.",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 99,
+      "text": "It takes one to know one",
+      "meaning": "뭐 눈엔 뭐만 보인다더니",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 100,
+      "text": "Look before you leap",
+      "meaning": "돌다리도 두드려 보고 건너라. 뛰기 전에 살펴",
+      "unit": 4
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 101,
+      "text": "Don't tell me",
+      "meaning": "(~라고) 말하지 마. 설마 ~인건 아니지?",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 102,
+      "text": "Is that right?",
+      "meaning": "진짜? 그게 맞아? ",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 103,
+      "text": "Get out of here",
+      "meaning": "말도 안 돼! (Or 여기서 나가)",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 104,
+      "text": "Yeah, right",
+      "meaning": "(비꼬면서) 참 나, 웃기시네.",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 105,
+      "text": "That's ridiculous",
+      "meaning": "웃기지 마. 터무니 없어 웃긴다",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 106,
+      "text": "Nice try",
+      "meaning": "안 속아. 시도는 좋았어.",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 107,
+      "text": "I don't buy it",
+      "meaning": "난 못 믿어",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 108,
+      "text": "You're bluffing",
+      "meaning": "너 뻥이지?",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 109,
+      "text": "I'm not falling for it again",
+      "meaning": "다신 안 속아",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 110,
+      "text": "You're faking it, aren't you?",
+      "meaning": "너 꾀병이지, 그렇지?",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 111,
+      "text": "No means no",
+      "meaning": "안 된다면 안 되는 거야.",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 112,
+      "text": "Over my dead body",
+      "meaning": "내 눈에 흙이 들어가기 전엔 안 돼",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 113,
+      "text": "Not in a million years",
+      "meaning": "택도 없는 소리! 백만 년 동안은 안 될 일!",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 114,
+      "text": "No can do",
+      "meaning": "아무도 못 해. 절대 못 해",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 115,
+      "text": "I'm not a quitter",
+      "meaning": "난 포기자가 아니야. 절대 포기 못 해.",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 116,
+      "text": "Stay out of this",
+      "meaning": "넌 빠져. 이 일에서 손 떼",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 117,
+      "text": "None of your business",
+      "meaning": "네가 상관할 일이 아니야",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 118,
+      "text": "You don't wanna know",
+      "meaning": "모르는 게 나아. 넌 알고 싶지 않을 거야.",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 119,
+      "text": "Butt out",
+      "meaning": "엉덩이 빼! 참견 마!",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 120,
+      "text": "Don't even go there",
+      "meaning": "그 얘긴 꺼내지도 마. (거긴 가지도 마)",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 121,
+      "text": "Same here",
+      "meaning": "나도 그래",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 122,
+      "text": "That makes two of us",
+      "meaning": "나도 마찬가지야. (그게 우리 둘을 만드네)",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 123,
+      "text": "Join the club",
+      "meaning": "너만 그런 거 아니야. (클럽에 가입해)",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 124,
+      "text": "Get in line",
+      "meaning": "다 그래. (그런 사람이 많아 줄을 설 지경)",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 125,
+      "text": "You and me both",
+      "meaning": "너나 나나 같은 처지",
+      "unit": 5
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 126,
+      "text": "What's with you?",
+      "meaning": "너 왜 그래? 너 뭐 있지?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 127,
+      "text": "What's up with that?",
+      "meaning": "왜 저런데? 무슨 일이 벌어지는 거지?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 128,
+      "text": "What are you up to?",
+      "meaning": "무슨 꿍꿍이야?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 129,
+      "text": "What for?",
+      "meaning": "뭐 때문에? 뭘 위해서?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 130,
+      "text": "Why should I?",
+      "meaning": "내가 왜 그래야 해?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 131,
+      "text": "So what?",
+      "meaning": "그래서 어쩌라고?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 132,
+      "text": "Who cares?",
+      "meaning": "알게 뭐야? 누가 상관이야?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 133,
+      "text": "Whatever",
+      "meaning": "그러거나 말거나. 아무거나",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 134,
+      "text": "I don't give a damn",
+      "meaning": "전혀 상관 안 해",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 135,
+      "text": "I couldn't care less",
+      "meaning": "난 신경도 안 써. 이보다 덜 상관할 수는 없지.",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 136,
+      "text": "I knew it",
+      "meaning": "그럴 줄 알았어.",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 137,
+      "text": "I thought so",
+      "meaning": "그럴 것 같더라. (나도 그렇게 생갔했지)",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 138,
+      "text": "I told you so",
+      "meaning": "내가 뭐랬어. 내가 그럴 거라 했잖아.",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 139,
+      "text": "I can tell",
+      "meaning": "척 보면 알아. (말할 수 있어)",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 140,
+      "text": "Great minds think alike",
+      "meaning": "역시 우리는 통한다니까 (위인들끼리는 비슷한 생각을 하지)",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 141,
+      "text": "Come again?",
+      "meaning": "뭐라고요? 다시 말해 주시겠어요?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 142,
+      "text": "Pardon me?",
+      "meaning": "뭐라고요?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 143,
+      "text": "What was that?",
+      "meaning": "방금 뭐라고 했죠? 그게 뭐였죠? ",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 144,
+      "text": "Meaning?",
+      "meaning": "무슨 뜻이야?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 145,
+      "text": "What's that supposed to mean?",
+      "meaning": "그건 또 무슨 뜻이야?(이해를 못했거나 화가 났을 때)",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 146,
+      "text": "What's up?",
+      "meaning": "무슨 일이야?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 147,
+      "text": "Walk me through it",
+      "meaning": "차근차근 말해 줄래?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 148,
+      "text": "What did I miss?",
+      "meaning": "무슨 일 있었어? 어떻게 됐어?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 149,
+      "text": "What brings you here?",
+      "meaning": "여긴 어쩐 일이야?",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 150,
+      "text": "Keep me posted",
+      "meaning": "상황을 계속 알려줘",
+      "unit": 6
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 151,
+      "text": "Crystal clear",
+      "meaning": "잘 알았습니다. 100% 확실히 알았습니다.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 152,
+      "text": "I get it",
+      "meaning": "알았다. 이해했어.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 153,
+      "text": "I got it",
+      "meaning": "알았어. (또는) 그렇게 할게",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 154,
+      "text": "I totally understand",
+      "meaning": "완전 이해해",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 155,
+      "text": "I'm on it",
+      "meaning": "바로 할게요 (이미 달라붙어 있어요)",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 156,
+      "text": "You're right on the money",
+      "meaning": "백 번 지당한 말씀입니다.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 157,
+      "text": "You've got a point there",
+      "meaning": "그 말도 일리는 있어요.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 158,
+      "text": "Hear! Hear!",
+      "meaning": "옳고! 찬성!",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 159,
+      "text": "My point exactly",
+      "meaning": "내 말이 그 말이야.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 160,
+      "text": "Back me up here",
+      "meaning": "맞장구 좀 쳐 줘  (날 지지해 줘)",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 161,
+      "text": "I doubt it",
+      "meaning": "아닌 것 같은데. 난 의심해",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 162,
+      "text": "Not even close",
+      "meaning": "전혀 아니야. 근처도 못 갔어",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 163,
+      "text": "It's the other way around",
+      "meaning": "정 반대야",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 164,
+      "text": "That's what you think",
+      "meaning": "그건 네 생각이고",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 165,
+      "text": "You missed by a mile",
+      "meaning": "한참 빗나갔어",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 166,
+      "text": "No biggies",
+      "meaning": "별 거 아니야. 중요한 일 아니야",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 167,
+      "text": "Any time",
+      "meaning": "천만에. (언제든 말만해. 들어줄게)",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 168,
+      "text": "No sweat",
+      "meaning": "괜찮아. 땀도 안 났어. 어려운 일 아니야",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 169,
+      "text": "No harm done",
+      "meaning": "다친 데는 없어요. 괜찮아요.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 170,
+      "text": "Not much",
+      "meaning": "별 일 없어.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 171,
+      "text": "Not bad",
+      "meaning": "나쁘지 않네. 괜찮네",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 172,
+      "text": "Fair enough",
+      "meaning": "그렇다면 뭐. 충분히 일리가 있네.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 173,
+      "text": "I can live with that",
+      "meaning": "그 정도는 괜찮아. 그 정도는 감수할 수 있어.",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 174,
+      "text": "That'll do",
+      "meaning": "그거면 됐어",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 175,
+      "text": "Anything goes",
+      "meaning": "다 돼. 뭐든 말만해",
+      "unit": 7
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 176,
+      "text": "Beats me",
+      "meaning": "난들 아나? 나도 몰라.",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 177,
+      "text": "You lost me",
+      "meaning": "무슨 말인지 모르겠어. (날 놓쳤어)",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 178,
+      "text": "You got me there",
+      "meaning": "전혀 모르겠어 (너한테 잡혔네)",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 179,
+      "text": "Your guess is as good as mine",
+      "meaning": "모르기는 나도 마찬가지야",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 180,
+      "text": "No clue",
+      "meaning": "실마리가 없군. 전혀 모르겠어",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 181,
+      "text": "No wonder",
+      "meaning": "어쩐지. 이상할 것도 아니야",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 182,
+      "text": "That explains it",
+      "meaning": "그래서 그랬군. 그게 설명이 되네.",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 183,
+      "text": "I'm not surprised",
+      "meaning": "놀랍지도 않아",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 184,
+      "text": "It all makes sense now",
+      "meaning": "이제야 말이 되네",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 185,
+      "text": "It figures",
+      "meaning": "그렇겠지. 놀랄 일도 아니네",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 186,
+      "text": "That's funny",
+      "meaning": "이상하네. 수상쩍네",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 187,
+      "text": "It doesn't add up",
+      "meaning": "앞뒤가 안 맞잖아",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 188,
+      "text": "Something's not right",
+      "meaning": "뭔가 잘못됐어",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 189,
+      "text": "You're acting weird",
+      "meaning": "너 행동이 수상하다",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 190,
+      "text": "I'm not myself today",
+      "meaning": "오늘 내 정신이 아니네",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 191,
+      "text": "Go easy on him",
+      "meaning": "그한테 살살해. 너무 그러지 마",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 192,
+      "text": "Don't be so hard on me",
+      "meaning": "나 좀 구박하지 마. 나한테 심하게 하지 마",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 193,
+      "text": "Cut me some slack",
+      "meaning": "사정 좀 봐줘요. 기회를 주세요",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 194,
+      "text": "Have a little faith in me",
+      "meaning": "날 좀 믿어봐",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 195,
+      "text": "You can't blame yourself",
+      "meaning": "너 자신을 자책하지 마. 네 잘못이 아니야",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 196,
+      "text": "Every cloud has a silver lining",
+      "meaning": "하늘이 무너져도 솟아날 구멍은 있다.",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 197,
+      "text": "Every dog has its day",
+      "meaning": "모든 개들도 전성기가 있다. 쥐구멍에도 볕 들 날 있다",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 198,
+      "text": "Beggars can't be choosers",
+      "meaning": "거지들이 뭘 가려. 찬밥 더운밥 가리랴",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 199,
+      "text": "You only live once",
+      "meaning": "인생 한 번 사는 거지. 한 번 죽지 두 번 죽나",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 200,
+      "text": "I've got bigger fish to fry",
+      "meaning": "난 튀겨야 할 더 큰 생선이 있어. 내 코가 석자야.",
+      "unit": 8
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 201,
+      "text": "You rule",
+      "meaning": "너 짱이다. 너 다해",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 202,
+      "text": "You're the best boss ever",
+      "meaning": "사장님이 최고에요",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 203,
+      "text": "Nothing beats beer with chicken",
+      "meaning": "치맥보다 좋은 건 없지",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 204,
+      "text": "There's no place like home",
+      "meaning": "집 만한 곳이 없지",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 205,
+      "text": "You're the king of Minecraft",
+      "meaning": "마인크래프트의 왕이네. ",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 206,
+      "text": "What do you know!",
+      "meaning": "어라? 별일 다 봤네! 이럴 줄 몰랐네!",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 207,
+      "text": "I'll be damned",
+      "meaning": "뜻밖인데? 이런! 놀라운데?",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 208,
+      "text": "Oh, shoot",
+      "meaning": "이런! 젠장!",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 209,
+      "text": "What the heck",
+      "meaning": "에라, 모르겠다. 아무러면 어때?",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 210,
+      "text": "Did hell just freeze over?",
+      "meaning": "방금 지옥이 얼어붙었나? 오늘 해가 서쪽에서 떴나?",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 211,
+      "text": "It's a no-brainer",
+      "meaning": "그 정도는 껌이지. 머리 안 쓰고도 하는 일",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 212,
+      "text": "Piece of cake",
+      "meaning": "식은 중 먹기",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 213,
+      "text": "That I can do",
+      "meaning": "그거라면 할 수 있지.",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 214,
+      "text": "What's the big deal?",
+      "meaning": "뭐 대단한 거라고. 별 일 아니구만",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 215,
+      "text": "You can't miss it",
+      "meaning": "찾기 쉬어. 놓칠 수가 없어",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 216,
+      "text": "Dream on",
+      "meaning": "어림도 없지. (꿈을 백 번 꿔봐라. 그렇게 되나)",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 217,
+      "text": "In your dreams",
+      "meaning": "꿈 같은 소리 하네. 가망 없어",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 218,
+      "text": "Don't even think about it",
+      "meaning": "생각조차 하지마. 꿈도 꾸지 마",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 219,
+      "text": "Get real",
+      "meaning": "현실을 봐. 꿈 깨!",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 220,
+      "text": "Wake up",
+      "meaning": "정신 차려! 일어나!",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 221,
+      "text": "Suit yourself",
+      "meaning": "마음대로 하셔. 너 좋을 대로 해",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 222,
+      "text": "Whatever you say",
+      "meaning": "좋으실 대로. (상대방 의견에 무조건 따르겠다)",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 223,
+      "text": "It's your funeral",
+      "meaning": "망해도 네가 망하지. 네 장례식일테니 맘대로 해",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 224,
+      "text": "Bite me",
+      "meaning": "됐네요. (재수 없게 무시할 때). 됐으니 꺼져",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 225,
+      "text": "So sue me",
+      "meaning": "그러니 날 고소해. 배 째",
+      "unit": 9
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 226,
+      "text": "Don't bother",
+      "meaning": "굳이 그럴 거 없어. 신경 쓰지 마",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 227,
+      "text": "Forget it",
+      "meaning": "잊어버려. 됐어",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 228,
+      "text": "Save it",
+      "meaning": "그런 소린 됐어. 넣어 둬. 더 듣고 싶지 않군",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 229,
+      "text": "Cut the crap",
+      "meaning": "헛소리 하지 마. 허튼소리 잘라",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 230,
+      "text": "Take it or leave it",
+      "meaning": "갖던지 말던지. 싫으면 말고",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 231,
+      "text": "I wasn't born yesterday",
+      "meaning": "누굴 바보로 아나. 난 어제 태어난 게 아니라고",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 232,
+      "text": "Don't I know it",
+      "meaning": "그걸 누가 몰라! 내가 모른다고 생각해?",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 233,
+      "text": "Tell me something I don't know",
+      "meaning": "다 아는 얘길 왜 하고 그래? 내가 모르는 것 좀 말해 봐라.",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 234,
+      "text": "What do you take me for?",
+      "meaning": "날 뭘로 보는 거야?",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 235,
+      "text": "Give me some credit",
+      "meaning": "나 못 믿어? 나도 인정 좀 해 줘",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 236,
+      "text": "For crying out loud",
+      "meaning": "아, 진짜! 기가 막히고 코가 막히네",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 237,
+      "text": "Enough is enough",
+      "meaning": "그만 좀 해라. 그거면 충분하다.",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 238,
+      "text": "Just let it go",
+      "meaning": "그냥 내버려 둬. 그쯤 해 두자",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 239,
+      "text": "Cut it out",
+      "meaning": "그만!",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 240,
+      "text": "You've gone too far",
+      "meaning": "너 너무 갔다. 너무 심했어",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 241,
+      "text": "That sucks",
+      "meaning": "형편없군. 짜증나네",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 242,
+      "text": "There you go again",
+      "meaning": "또 시작이네",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 243,
+      "text": "She's a pain in the neck",
+      "meaning": "왕 짜증이야. 그녀는 골칫거리",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 244,
+      "text": "I'm sick of it",
+      "meaning": "지긋지긋해. 나 정말 (아프도록)질렸어",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 245,
+      "text": "I'm fed up with it",
+      "meaning": "지겨워 죽겠어. 진저리가 난다.",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 246,
+      "text": "What was that all about?",
+      "meaning": "왜 저러는 거야? (방금) 그거 뭐야?",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 247,
+      "text": "What took you so long?",
+      "meaning": "왜 이렇게 늦었어? 뭐 하다 이제 와?",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 248,
+      "text": "Cat got your tongue?",
+      "meaning": "고양이가 네 혀 물었어? 왜 꿀 먹은 벙어리야?",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 249,
+      "text": "Why the change of heart?",
+      "meaning": "왜 변심했어? (고무신 거꾸로 신은 사람에게)",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 250,
+      "text": "What's the world coming to?",
+      "meaning": "세상이 왜 이러지? 세상이 뭐가 되려고 이러는 거지?",
+      "unit": 10
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 251,
+      "text": "Are you nuts?",
+      "meaning": "너 미쳤어?",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 252,
+      "text": "Are you out of your mind?",
+      "meaning": "제정신이야? 정신이 가출했어?",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 253,
+      "text": "What's gotten into you?",
+      "meaning": "뭐 잘못 먹었어? 너 뭐에 씌였니?",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 254,
+      "text": "What do you think you're doing?",
+      "meaning": "네가 뭘 하고 있다고 생각하니? 무슨 짓이야?",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 255,
+      "text": "What the hell's the matter with you?",
+      "meaning": "도대체 무슨 일이야? 미친 거 아니야?",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 256,
+      "text": "I don't know jack",
+      "meaning": "쥐뿔도 몰라. 완전 문외한이야.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 257,
+      "text": "How should I know?",
+      "meaning": "내가 어떻게 알아? ",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 258,
+      "text": "I wish I knew",
+      "meaning": "나도 알면 좋겠네. 나도 몰라.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 259,
+      "text": "It's all Greek to me",
+      "meaning": "나에겐 그리스어일 뿐. 뭐가 뭔지 하나도 모르겠어",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 260,
+      "text": "In English, please",
+      "meaning": "영어로요, 제발~ (쉬운 말로 해주세요)",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 261,
+      "text": "I blew it",
+      "meaning": "내가 날려버렸네. 망했다.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 262,
+      "text": "I'm screwed",
+      "meaning": "일이 꼬였어. 망했어.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 263,
+      "text": "I'm in trouble",
+      "meaning": "나 곤경에 처했어. 큰일 났네",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 264,
+      "text": "What have I done?",
+      "meaning": "내가 무슨 짓을 한 거지? (실수를 자책할 때)",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 265,
+      "text": "My bad",
+      "meaning": "내 잘못이야.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 266,
+      "text": "Grow up",
+      "meaning": "철 좀 들어라",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 267,
+      "text": "Act your age",
+      "meaning": "나잇값 좀 해",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 268,
+      "text": "You should know better",
+      "meaning": "그 정도는 알아야지. 더 잘 알겠지. 분별력은 있겠지.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 269,
+      "text": "You're so spoiled",
+      "meaning": "너 엉망이구나. 넌 정말 제멋대로구나.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 270,
+      "text": "Don't be so immature",
+      "meaning": "유치하기는. 비성숙한 것처럼 굴지 마.",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 271,
+      "text": "Take that back",
+      "meaning": "그 말 취소해",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 272,
+      "text": "You want a piece of me?",
+      "meaning": "나의 한 조각을 원해? 나랑 해보겠다는 거냐?",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 273,
+      "text": "Let's see what you're made of",
+      "meaning": "네가 뭘로 만들어졌는지 함 보자. 어디 실력 한번 보자",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 274,
+      "text": "Let's take this outside",
+      "meaning": "(여기서 이러지 말고) 나가자. 한 판 붙자",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 275,
+      "text": "You started it",
+      "meaning": "네가 시작한 거야. 제가 시비 걸었잖아",
+      "unit": 11
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 276,
+      "text": "Who do you think you are?",
+      "meaning": "넌 네가 누구라고 생각하는데? 너 그렇게 잘났어?",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 277,
+      "text": "Don't be a wise guy",
+      "meaning": "현명한 척 하지마. 잘난 척 하지 마",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 278,
+      "text": "He's full of himself",
+      "meaning": "그는 그로 가득 찼어. 자기가 잘난 줄 알아",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 279,
+      "text": "Don't flatter yourself",
+      "meaning": "자만하지 마",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 280,
+      "text": "Look who’s talking",
+      "meaning": "사돈 남 말 하네. 누가 말하고 있는지 봐. ",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 281,
+      "text": "Coming through",
+      "meaning": "지나갈게요",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 282,
+      "text": "Make way",
+      "meaning": "비켜요! 길 좀 열어주세요.",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 283,
+      "text": "Get out of my way",
+      "meaning": "비켜! (공손하지 않은 표현)",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 284,
+      "text": "Step aside",
+      "meaning": "옆으로 비켜주세요",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 285,
+      "text": "Could you excuse us",
+      "meaning": "자리 좀 비켜 줄래요?",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 286,
+      "text": "Give it a rest",
+      "meaning": "그만 좀 해. 쉴 시간을 줘. 시끄러워",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 287,
+      "text": "Zip it",
+      "meaning": "(입에) 지퍼 채워. 조용히 해",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 288,
+      "text": "Shut up and listen",
+      "meaning": "닥치고 내 말 들어",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 289,
+      "text": "Say no more",
+      "meaning": "더 말하지 마. 아무 말 마",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 290,
+      "text": "Don't rub it in",
+      "meaning": "아픈데 건드리지 마. 알았으니 그만해.",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 291,
+      "text": "Get lost",
+      "meaning": "넌 꺼져",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 292,
+      "text": "Get out of my sight",
+      "meaning": "내 눈 앞에서 꺼져",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 293,
+      "text": "Get away from me",
+      "meaning": "나한테서 꺼져",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 294,
+      "text": "Beat it",
+      "meaning": "저리 꺼져. ",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 295,
+      "text": "I'll be out of your hair",
+      "meaning": "이제 그만 귀찮게 할게",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 296,
+      "text": "Barking dogs never bite",
+      "meaning": "짖는 개는 결코 물지 않아. 말만 험하지 험한 사람 아니야.",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 297,
+      "text": "Even Homer sometimes nods",
+      "meaning": "호머도 깜빡 졸 때가 있어. 원숭이도 나무에서 떨어질 때가 있다.",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 298,
+      "text": "It takes two to tango",
+      "meaning": "탱고를 추려면 두 사람이 필요해. 둘 다 잘못이야.",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 299,
+      "text": "Chickens come home to roost",
+      "meaning": "닭이 해가 지면 집으로 돌아오듯, 자업자득이야",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 300,
+      "text": "What goes around comes around",
+      "meaning": "뿌린 대로 거둔다.",
+      "unit": 12
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 301,
+      "text": "Thank you for the heads up.",
+      "meaning": "귀띔해 줘서 고마워.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 302,
+      "text": "I appreciate it.",
+      "meaning": "고맙게 생각해요.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 303,
+      "text": "I don't know how to thank you.",
+      "meaning": "어떻게 감사 드려야 할지.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 304,
+      "text": "That means a lot to me.",
+      "meaning": "큰 힘이 됐어요.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 305,
+      "text": "You shouldn't have.",
+      "meaning": "뭐 이런 걸 다... (안 그래도 되는데)",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 306,
+      "text": "My apologies.",
+      "meaning": "사과 드립니다.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 307,
+      "text": "Apology accepted.",
+      "meaning": "사과 받아 줄게.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 308,
+      "text": "Sorry to keep you waiting.",
+      "meaning": "기다리게 해서 미안해.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 309,
+      "text": "I'm sorry about the mess.",
+      "meaning": "집이 지저분해서 미안하네.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 310,
+      "text": "I'm sorry to bother you.",
+      "meaning": "성가시게 해서 미안해.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 311,
+      "text": "I feel like a million bucks.",
+      "meaning": "좋아 죽겠어.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 312,
+      "text": "I'm walking on air.",
+      "meaning": "날아갈 것 같아.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 313,
+      "text": "You made my day.",
+      "meaning": "덕분에 기분이 좋아졌어.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 314,
+      "text": "I feel much better now.",
+      "meaning": "기분이 훨씬 나아졌어.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 315,
+      "text": "I'm jumping up and down.",
+      "meaning": "좋아서 팔짝팔짝 뛰겠네.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 316,
+      "text": "Why the long face?",
+      "meaning": "왜 울상이야?",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 317,
+      "text": "Why are you so depressed?",
+      "meaning": "왜 그렇게 풀이 죽었어?",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 318,
+      "text": "Today I'm feeling blue.",
+      "meaning": "오늘 좀 꿀꿀하네.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 319,
+      "text": "I'm not in the mood.",
+      "meaning": "그럴 기분 아니야.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 320,
+      "text": "I've been down in the dumps.",
+      "meaning": "요즘 저기압이었어.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 321,
+      "text": "I feel like crying.",
+      "meaning": "울고 싶다.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 322,
+      "text": "I cried my eyes out.",
+      "meaning": "펑펑 울었어.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 323,
+      "text": "I got misty-eyed.",
+      "meaning": "눈가가 촉촉해졌어.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 324,
+      "text": "I burst into tears.",
+      "meaning": "울음이 터졌어.",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 325,
+      "text": "You need a shoulder to cry on?",
+      "meaning": "어깨 빌려 줘?",
+      "unit": 13
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 326,
+      "text": "I'm totally beat.",
+      "meaning": "정말 지친다.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 327,
+      "text": "I'm just exhausted.",
+      "meaning": "너무 피곤해.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 328,
+      "text": "You look pretty wiped out.",
+      "meaning": "넌 녹초가 된 것 같네.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 329,
+      "text": "I could really use some sleep.",
+      "meaning": "잠 좀 자고 싶다.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 330,
+      "text": "I'd better catch some Z's.",
+      "meaning": "눈 좀 붙여야겠어.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 331,
+      "text": "Lucky you.",
+      "meaning": "넌 좋겠다.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 332,
+      "text": "I envy you.",
+      "meaning": "부럽다.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 333,
+      "text": "Jealous much?",
+      "meaning": "샘 나?",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 334,
+      "text": "You're acting like a jealous boyfriend.",
+      "meaning": "네가 내 애인이라도 돼?",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 335,
+      "text": "I'm not the jealous type.",
+      "meaning": "난 질투 같은 거 안 해.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 336,
+      "text": "You scared me!",
+      "meaning": "깜짝이야!",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 337,
+      "text": "I freaked out.",
+      "meaning": "식겁했잖아.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 338,
+      "text": "I was shocked.",
+      "meaning": "충격이었어.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 339,
+      "text": "I almost fainted.",
+      "meaning": "기절할 뻔했어.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 340,
+      "text": "It was a real eye opener.",
+      "meaning": "정말 대박이었어.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 341,
+      "text": "I really lost it.",
+      "meaning": "내가 이성을 잃었어.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 342,
+      "text": "I got carried away.",
+      "meaning": "내가 좀 흥분했나 봐.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 343,
+      "text": "I can't wait!",
+      "meaning": "너무 기대돼!",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 344,
+      "text": "I've had it!",
+      "meaning": "더는 못 참겠다!",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 345,
+      "text": "That's the last straw!",
+      "meaning": "이젠 못 참아! (마지막 지푸라기야!)",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 346,
+      "text": "Take it easy.",
+      "meaning": "진정해.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 347,
+      "text": "Chill out.",
+      "meaning": "침착해. 냉철해",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 348,
+      "text": "Sit back and relax.",
+      "meaning": "편하게 앉아 있어.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 349,
+      "text": "Lighten up.",
+      "meaning": "긴장 풀어.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 350,
+      "text": "Just be yourself.",
+      "meaning": "그냥 하던 대로 해.",
+      "unit": 14
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 351,
+      "text": "That's life",
+      "meaning": "사는 게 다 그렇지.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 352,
+      "text": "Life sucks.",
+      "meaning": "사는 게 뭔지.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 353,
+      "text": "Just my luck.",
+      "meaning": "내 팔자지.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 354,
+      "text": "Story of my life.",
+      "meaning": "내 인생이 그렇지.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 355,
+      "text": "Life is no bed of roses.",
+      "meaning": "인생이 그런 장밋빛은 아니야.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 356,
+      "text": "I'm speechless.",
+      "meaning": "말이 안 나오네요.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 357,
+      "text": "I was so moved.",
+      "meaning": "감동이었어.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 358,
+      "text": "I'm impressed.",
+      "meaning": "대단하네요.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 359,
+      "text": "Your speech was so touching.",
+      "meaning": "강연이 감동적이었어요.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 360,
+      "text": "Her performance blew me away.",
+      "meaning": "그녀의 무대에 감동받았어요.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 361,
+      "text": "Don't be such a crybaby.",
+      "meaning": "우는 소리 좀 하지 마.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 362,
+      "text": "Be a man.",
+      "meaning": "남자답게 좀 해 봐.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 363,
+      "text": "Take it like a man.",
+      "meaning": "남자답게 받아들여.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 364,
+      "text": "You chicken?",
+      "meaning": "너 겁쟁이야?",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 365,
+      "text": "Grow a pair.",
+      "meaning": "네가 그러고도 남자냐.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 366,
+      "text": "You're a lifesaver.",
+      "meaning": "네가 생명의 은인이다.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 367,
+      "text": "That was close.",
+      "meaning": "큰일 날 뻔했네.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 368,
+      "text": "What a relief.",
+      "meaning": "정말 다행이다.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 369,
+      "text": "Thank god.",
+      "meaning": "천만다행이야.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 370,
+      "text": "Saved by the bell.",
+      "meaning": "간신히 살았네.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 371,
+      "text": "Bummer.",
+      "meaning": "저런…",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 372,
+      "text": "Poor thing.",
+      "meaning": "가엾어라.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 373,
+      "text": "What a shame!",
+      "meaning": "안됐네.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 374,
+      "text": "You're pathetic.",
+      "meaning": "너도 참 한심하다.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 375,
+      "text": "I feel sorry for him.",
+      "meaning": "쟤 불쌍하다.",
+      "unit": 15
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 376,
+      "text": "Don't get me wrong.",
+      "meaning": "오해하지 말고 들어.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 377,
+      "text": "No hard feelings.",
+      "meaning": "언짢게 생각하지 마.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 378,
+      "text": "Nothing personal.",
+      "meaning": "유감은 없어.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 379,
+      "text": "No offense.",
+      "meaning": "기분 나쁘라고 하는 말 아니야.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 380,
+      "text": "He means well.",
+      "meaning": "나쁜 애는 아니야.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 381,
+      "text": "How are you holding up?",
+      "meaning": "좀 괜찮아?",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 382,
+      "text": "Look on the bright side.",
+      "meaning": "긍정적으로 생각해.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 383,
+      "text": "It's better than nothing.",
+      "meaning": "그거라도 어디야.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 384,
+      "text": "No news is good news.",
+      "meaning": "무소식이 희소식이야.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 385,
+      "text": "Time heals all wounds.",
+      "meaning": "시간이 약이야.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 386,
+      "text": "Cheer up.",
+      "meaning": "기운 내.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 387,
+      "text": "Snap out of it.",
+      "meaning": "털고 일어나.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 388,
+      "text": "Pull yourself together.",
+      "meaning": "기운 차려.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 389,
+      "text": "Hang in there.",
+      "meaning": "조금만 참아.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 390,
+      "text": "You're better off this way.",
+      "meaning": "오히려 잘됐어.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 391,
+      "text": "Don’t take it out on me.",
+      "meaning": "왜 나한테 화풀이야?",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 392,
+      "text": "Of all the people, why me?",
+      "meaning": "왜 하필 나야?",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 393,
+      "text": "Do I look that easy?",
+      "meaning": "내가 그렇게 만만해 보여?",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 394,
+      "text": "You've got some nerve.",
+      "meaning": "너 참 뻔뻔하구나.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 395,
+      "text": "How dare you!",
+      "meaning": "네가 눈에 뵈는 게 없구나.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 396,
+      "text": "Laughter is the best medicine.",
+      "meaning": "웃음이 명약이다.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 397,
+      "text": "Once bitten, twice shy.",
+      "meaning": "자라 보고 놀란 가슴 솥뚜껑 보고 놀란다.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 398,
+      "text": "Better safe than sorry.",
+      "meaning": "후회하는 것보다 안전한 게 낫지.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 399,
+      "text": "Curiosity killed the cat.",
+      "meaning": "너무 알려고 하면 다친다.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 400,
+      "text": "Still waters run deep.",
+      "meaning": "잔잔한 물이 깊다.",
+      "unit": 16
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 401,
+      "text": "How's life treating you?",
+      "meaning": "살만 해?",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 402,
+      "text": "How's it going?",
+      "meaning": "잘 지내?",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 403,
+      "text": "How's work?",
+      "meaning": "일은 잘 되지?",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 404,
+      "text": "Same old, same old.",
+      "meaning": "똑같이 뭐.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 405,
+      "text": "Can't complain.",
+      "meaning": "잘 지내지.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 406,
+      "text": "Look who's here.",
+      "meaning": "아니, 이게 누구야?",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 407,
+      "text": "It's been ages.",
+      "meaning": "이게 얼마 만이야?",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 408,
+      "text": "You haven't changed a bit.",
+      "meaning": "하나도 안 변했네.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 409,
+      "text": "Fancy meeting you here.",
+      "meaning": "널 여기서 만나다니.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 410,
+      "text": "What a small world.",
+      "meaning": "세상 참 좁다.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 411,
+      "text": "I should get going.",
+      "meaning": "슬슬 일어나야겠다.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 412,
+      "text": "It was nice talking to you.",
+      "meaning": "얘기 즐거웠어.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 413,
+      "text": "Let's get together again soon.",
+      "meaning": "조만간 또 보자.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 414,
+      "text": "Catch you later.",
+      "meaning": "나중에 봐.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 415,
+      "text": "I'll be in touch.",
+      "meaning": "내가 연락할게.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 416,
+      "text": "Rise and shine.",
+      "meaning": "(해가 중천이니) 기상!",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 417,
+      "text": "Wake up, sleepyhead.",
+      "meaning": "잠꾸러기, 일어나.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 418,
+      "text": "Up and at'em.",
+      "meaning": "벌떡 일어나.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 419,
+      "text": "I slept like a baby.",
+      "meaning": "푹 잤어.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 420,
+      "text": "I slept in today.",
+      "meaning": "오늘은 늦게까지 잤어.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 421,
+      "text": "Why are you still up?",
+      "meaning": "여태 안 자고 뭐 해?",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 422,
+      "text": "It's way past my bedtime.",
+      "meaning": "잘 시간을 한참 놓쳤네.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 423,
+      "text": "Sleep tight.",
+      "meaning": "잘 자.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 424,
+      "text": "Don't let the bedbugs bite.",
+      "meaning": "(빈대한테 물리지 말고) 잘 자렴.",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 425,
+      "text": "I need my beauty sleep.",
+      "meaning": "빨리 자야겠어.(미인은 잠꾸러기)",
+      "unit": 17
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 426,
+      "text": "I pulled an all-nighter.",
+      "meaning": "밤을 꼴딱 새웠어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 427,
+      "text": "Late night?",
+      "meaning": "어제 늦게 들어갔어? (늦은 밤?)",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 428,
+      "text": "I stayed up late last night.",
+      "meaning": "어제 늦게까지 못 잤어.(일.공부)",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 429,
+      "text": "I didn't get a wink of sleep.",
+      "meaning": "한 숨도 못 잤어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 430,
+      "text": "The heat kept me up all night.",
+      "meaning": "더워서 밤새 못 잤어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 431,
+      "text": "I'm starving.",
+      "meaning": "배고파.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 432,
+      "text": "My stomach is growling.",
+      "meaning": "배에서 꼬르륵 소리가 나.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 433,
+      "text": "I could eat a horse.",
+      "meaning": "(말 한 마리 먹을 만큼) 배고파 죽겠어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 434,
+      "text": "I'm stuffed.",
+      "meaning": "배불러.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 435,
+      "text": "I can't eat another bite.",
+      "meaning": "(배가 터질 것 같아) 더는 못 먹겠어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 436,
+      "text": "Come and get it.",
+      "meaning": "와서 밥 먹어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 437,
+      "text": "Let's dig in.",
+      "meaning": "어서 퍼 먹자.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 438,
+      "text": "Bon appetite.",
+      "meaning": "맛있게 드세요.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 439,
+      "text": "Save room for dessert.",
+      "meaning": "디저트 먹을 배는 남겨 놔.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 440,
+      "text": "She eats like a bird.",
+      "meaning": "밥을 새모이처럼 조금 먹네.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 441,
+      "text": "Nature calls.",
+      "meaning": "(자연이 부르는군) 화장실 좀 다녀올게.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 442,
+      "text": "Can I use your bathroom?",
+      "meaning": "화장실 써도 될까요?",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 443,
+      "text": "Is it number two?",
+      "meaning": "큰 거야? (대변이야?)",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 444,
+      "text": "Your fly is open.",
+      "meaning": "남대문 열렸어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 445,
+      "text": "Who farted?",
+      "meaning": "누가 방귀 뀌었어?",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 446,
+      "text": "Where are my manners?",
+      "meaning": "내 정신 좀 봐.(예의도 없이 실수했네)",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 447,
+      "text": "I totally forgot.",
+      "meaning": "까맣게 잊었어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 448,
+      "text": "It slipped my mind.",
+      "meaning": "깜빡 했어.(머릿속에서 미끄러졌어)",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 449,
+      "text": "I forgot to set the alarm.",
+      "meaning": "알람 맞추는 걸 잊었어.",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 450,
+      "text": "I lost track of time.",
+      "meaning": "시간이 벌써 이렇게 됐네.(시간가는 줄 몰랐네)",
+      "unit": 18
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 451,
+      "text": "Don't tell a soul.",
+      "meaning": "아무한테도 말하지 마.",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 452,
+      "text": "This just stays between us.",
+      "meaning": "이건 우리끼리 비밀이야",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 453,
+      "text": "Mum's the word.",
+      "meaning": "너만 알고 있어(함구하라는 말)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 454,
+      "text": "My lips are sealed.",
+      "meaning": "내 입술을 봉인했어(입 다물고 있을게)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 455,
+      "text": "Who spilled the beans?",
+      "meaning": "누가 소문 냈어?(누가 콩 쏟았어?)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 456,
+      "text": "I need a favor.",
+      "meaning": "부탁이 있어",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 457,
+      "text": "I'm begging you.",
+      "meaning": "내가 이렇게 빌게. (제발 들어줘)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 458,
+      "text": "Pretty please?",
+      "meaning": "제발요~(속눈썹을 깜박이며 예쁜척 하며 부탁할 때)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 459,
+      "text": "Please don't say no.",
+      "meaning": "안 된다 하지 마요(제발 들어줘요)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 460,
+      "text": "I owe you one.",
+      "meaning": "신세 한 번 졌다.",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 461,
+      "text": "You name it.",
+      "meaning": "뭐든 말만 해.",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 462,
+      "text": "It depends.",
+      "meaning": "봐서 (상황에 따라)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 463,
+      "text": "I'll see what I can do.",
+      "meaning": "(내가 뭘 할 수 있을지)알아는 볼게",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 464,
+      "text": "Don't get your hopes up.",
+      "meaning": "너무 기대는 하지 마",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 465,
+      "text": "My hands are tied.",
+      "meaning": "내 손이 묶였네(나도 어떻게 해 줄 수가 없네)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 466,
+      "text": "Shall we?",
+      "meaning": "가실가요?",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 467,
+      "text": "Care for some cake?",
+      "meaning": "케잌 좀 드시겠어요?",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 468,
+      "text": "Why don't you join us?",
+      "meaning": "우리랑 함께 하지 그래요?",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 469,
+      "text": "Let's order in some Chinese.",
+      "meaning": "중국음식 (전화로) 시켜 먹자",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 470,
+      "text": "Let's grab a bite to eat.",
+      "meaning": "뭐라도 간단히 먹자",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 471,
+      "text": "I think I'll pass.",
+      "meaning": "난 사양할게",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 472,
+      "text": "Some other time.",
+      "meaning": "다음에요",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 473,
+      "text": "Can I take a rain check?",
+      "meaning": "다음에 하면 안 될까?(우천시 경기취소)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 474,
+      "text": "Something came up.",
+      "meaning": "갑자기 일이 생겼어 (약속취소)",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 475,
+      "text": "I'd rather not.",
+      "meaning": "(내키지 않을 때) 안 했으면 좋겠는데요",
+      "unit": 19
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 476,
+      "text": "I'm in.",
+      "meaning": "(할 사람? 물어볼 때) 난 할게",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 477,
+      "text": "I'm with you.",
+      "meaning": "난 네 편이야. 너와 함께야.",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 478,
+      "text": "It's a deal.",
+      "meaning": "(계약.협상) 그렇게 합시다",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 479,
+      "text": "I second that.",
+      "meaning": "나도 찬성(의견 낸 사람 바로 두 번째로 찬성)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 480,
+      "text": "I'm all for it.",
+      "meaning": "대찬성이야",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 481,
+      "text": "I don't think so.",
+      "meaning": "난 그렇게 생각 안 해",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 482,
+      "text": "I don't see things that way.",
+      "meaning": "난 그렇게 보지 않아요",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 483,
+      "text": "I beg to differ.",
+      "meaning": "(격식을 차리며) 전 생각이 다릅니다",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 484,
+      "text": "I strongly disagree.",
+      "meaning": "난 강력히 반대야",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 485,
+      "text": "I object!",
+      "meaning": "이의 있습니다. 반대합니다!",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 486,
+      "text": "After you.",
+      "meaning": "먼저 하세요 (당신 한 다음에)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 487,
+      "text": "It's all yours.",
+      "meaning": "(이제 다 당신 거에요) 맘껏 쓰세요",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 488,
+      "text": "Be my guest.",
+      "meaning": "그렇게 해(나의 손님 무슨 부탁을 들어줄까요?)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 489,
+      "text": "You're the boss.",
+      "meaning": "(네가 대장이다) 좋을대로 하세요 (내가 무슨 힘이 있나)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 490,
+      "text": "Take your time.",
+      "meaning": "천천히 하세요 (시간을 가져요)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 491,
+      "text": "Let's see...",
+      "meaning": "어디 보자...",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 492,
+      "text": "Where was I?",
+      "meaning": "내가 어디까지 얘기했지?",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 493,
+      "text": "What do you call it?",
+      "meaning": "그게 뭐더라... (너 그거 뭐라고 하지?)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 494,
+      "text": "How shall I put it....",
+      "meaning": "뭐랄까...(이걸 어떻게 놓지?-적당한 표현을 찾으며)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 495,
+      "text": "If you ask me...",
+      "meaning": "(네가 나에게 묻는다면)내 생각에는(조심스럽게 조언할 때)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 496,
+      "text": "Money can't buy happiness.",
+      "meaning": "돈으로 행복을 살 순 없지",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 497,
+      "text": "Money talks.",
+      "meaning": "(돈이 말해) 돈이면 다 돼",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 498,
+      "text": "All's well that ends well.",
+      "meaning": "끝이 좋으면 다 좋다",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 499,
+      "text": "You get what you paid for.",
+      "meaning": "돈을 낸 만큼 얻는다(싼 게 비지떡)",
+      "unit": 20
+    },
+    {
+      "chapter": "NativeA",
+      "serial": 500,
+      "text": "You can't take it with you.",
+      "meaning": "저승까지 가지고 갈 것도 아닌데(죽고나서 못가져가)",
+      "unit": 20
+    }
+  ]
+}

@@ -1,23 +1,78 @@
-const mainChapter = document.querySelector('.list');
+const mainChapter = document.querySelector('.main-unit-list');
 const subUnitList = document.querySelector('.sub-unit-list');
+const calendarUnitList = document.querySelector('.calender-unit-list');
+const userBox = document.querySelector('.user');
+const signIn = document.querySelector('.signIn');
+const changeUser = document.querySelector('.change-user');
+const mainUnit = document.querySelector('.main-unit');
+let today = new Date();
+let thisMonth = `${today.getFullYear()}/${today.getMonth()+1}`;
+let user;
 let chapter;
+let week = ['일','월','화','수','목','금','토'];
+let todayDay = week[today.getDay()];
+let lastDay;
+let lastDayOfMonth;
+let dayOfFirst;
 let units = [];
 let itemArray = [];
+let dateScoreArray = [];
+let scoreArray = [];
 let unitLength = 0; //전체 unit의 개수
+const score = document.querySelector('.score');
+
+getDayOfFirst();
+
+// sign in - skyshim or lamon
+userBox.addEventListener('click', (e)=>{
+  user = e.target.dataset.user;
+  if(user){
+    userBox.style.display = 'none';
+    signIn.style.display = 'block';
+    changeUser.style.display = 'block';
+    mainUnit.style.display = 'block';
+    signIn.textContent = user;
+    console.log(user);
+  }
+});
+
+  changeUser.addEventListener('click',()=>{
+    if (user == 'SkyShim'){
+      user = 'Lamon'
+    }
+    else if (user == 'Lamon'){
+      user = 'Mirae'
+    }
+    else {
+      user = 'SkyShim'
+    }
+    signIn.textContent = user;
+})
+
+// import {SelectData} from './firebase.js';
 
 mainChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
-  init();
-  console.log(chapter);
+  if ( chapter ) {
+    init();
+    console.log(chapter);
+    // SelectData();
+    // displayUnits();
+  }
 })
+
+
 subUnitList.addEventListener('click',(e)=>{
   let elem = e.target.classList;
   let isAvailable = elem.contains("unit"); //빈공간이 아닌 버튼을 눌렀으면 true
   if(isAvailable){
     elem.add('unit-on');
     const unitNo = e.target.dataset.unit;
+    localStorage.setItem("user",user);
     localStorage.setItem("unit",unitNo);
-    localStorage.setItem("chapter",'ENG100A');
+    localStorage.setItem("chapter",chapter);
+    localStorage.setItem("scoreArray",JSON.stringify(scoreArray));
+    localStorage.setItem("dateScoreArray",JSON.stringify(dateScoreArray));
     if (typeof (window.open) == "function")
     { window.open("quiz.html"); 
     } else { window.location.href = "quiz.html";
@@ -27,12 +82,11 @@ subUnitList.addEventListener('click',(e)=>{
 
 
 //main
-
 function init(){
   loadItems()
   .then(items => {
     displayItems(items);
-    displayUnits();
+    // displayUnits();
   })
   .catch(console.log);
 }
@@ -40,12 +94,54 @@ function init(){
 
 // functions
 async function loadItems(){
-  const response = await fetch('data/data.json');
+  const response = await fetch(`data/${chapter}.json`);
   const json = await response.json();
-  itemArray = json.items
-    .filter(item => item.chapter == chapter);
+  itemArray = json.items;
+    // .filter(item => item.chapter == 'NativeA');
   return itemArray;
 }
+
+function getDayOfFirst(){
+  lastDay = new Date(today.getFullYear(),today.getMonth()+1,0);
+  lastDayOfMonth = lastDay.getDate();
+  dayOfFirst = (new Date(today.getFullYear(),today.getMonth(),1)).getDay();
+}
+
+
+function displayCalendar(){
+  //이전에 표시된 단원선택표가 있으면 우선 초기화(지우기)
+  subUnitList.innerHTML = ''; 
+  // 요일 표시
+  calendarUnitList.innerHTML = ''; //unit메뉴들을 초기화
+  for(let j=0; j<7; j++){
+    const li = document.createElement('li');
+    let realDay = (dayOfFirst + j)>6 ? (dayOfFirst + j)-7 : (dayOfFirst + j);
+    li.innerHTML = `${week[realDay]}`;
+    li.classList.add('calender-day-title');
+    if (realDay == 0){
+      li.style.backgroundColor = 'rgb(220,70,70)';
+    }
+    calendarUnitList.append(li);
+  }
+  for(let i=0; i<lastDayOfMonth; i++ ){
+    const li = document.createElement('li');
+    let dateScoreItem = dateScoreArray[i];
+    li.innerHTML = `Day ${i+1} <br/> ${dateScoreItem}`;
+    li.classList.add('calender-unit');
+    if (dateScoreItem >= 15000 ){
+      li.style.backgroundColor = "rgba(20, 54, 68,"+dateScoreItem/20000 +")"
+      li.style.color = "rgb(250,250,250)";
+    }
+    else if (dateScoreItem > 0){
+      li.style.backgroundColor = "rgba(20, 54, 68,"+dateScoreItem/25000 +")"
+      li.classList.add('unit-box-border');
+    }
+    // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
+    // li.dataset.unit = i+1; //나중에 li선택시 어떤 unit을 클릭했는지 데이터 전송을 위해 필요
+    calendarUnitList.append(li);
+  }
+}
+
 
 //groupBy 함수를 만들어 unit별로 group후 unit개수 알아내기
 // function groupBy(list, keyGetter) {
@@ -63,6 +159,7 @@ async function loadItems(){
 // }
 function groupBy(list) {
   let collectionArray = [];
+  unitLength = 0;
   list.forEach((item) => {
     const collection = item.unit;
     if (!collectionArray.includes(collection)){
@@ -77,16 +174,28 @@ function groupBy(list) {
 function displayItems(items){
   units = items.map(item=>item);
   const grouped = groupBy(units);
-  console.log(grouped);
+  // console.log(grouped);
 }
 
 function displayUnits(){
+  calendarUnitList.innerHTML = '';
   subUnitList.innerHTML = ''; //unit메뉴들을 초기화
-  for(let i=1; i<unitLength+1; i++ ){
+  for(let i=0; i<unitLength; i++ ){
     const li = document.createElement('li');
-    li.textContent = `Unit ${i}`;
+    let scoreItem = scoreArray[i];
+    let scoreColor = scoreItem/20000*250;
+    li.innerHTML = `Unit ${i+1} <br/> ${scoreItem}`;
     li.classList.add('unit');
-    li.dataset.unit = i; //나중에 li선택시 어떤 unit을 클릭했는지 데이터 전송을 위해 필요
+    if (scoreItem >= 7000 ){
+      li.style.backgroundColor = "rgba(220,10,10,"+scoreItem/15000 +")"
+      li.style.color = "rgb(250,250,250)";
+    }
+    else if (scoreItem > 0){
+      li.style.backgroundColor = "rgba(220,10,10,"+scoreItem/15000 +")"
+      li.classList.add('unit-box-border');
+    }
+    // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
+    li.dataset.unit = i+1; //나중에 li선택시 어떤 unit을 클릭했는지 데이터 전송을 위해 필요
     subUnitList.append(li);
   }
 }

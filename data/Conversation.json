@@ -1,0 +1,4219 @@
+{
+  "items":
+  [
+    {
+      "chapter": "Conversation",
+      "serial": 1,
+      "text": "Ryan! Look who's here!",
+      "meaning": "라이언! 이게 대체 누구야?",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 2,
+      "text": "Good to see you. What a small world.",
+      "meaning": "반가워. 세상 참 좁구나.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 3,
+      "text": "Long time no see. How have you been?",
+      "meaning": "오랜만이야. 어떻게 지냈어?",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 4,
+      "text": "I'm doing great. You haven’t changed a bit.",
+      "meaning": "잘 지내고 있어. 넌 하나도 안 변했구나.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 5,
+      "text": "Nice talking to you. Say hello to your wife.",
+      "meaning": "대화 즐거웠어. 와이프한테 안부 전해 줘.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 6,
+      "text": "Catch you later. I'll keep in touch.",
+      "meaning": "나중에 봐. 내가 연락할게.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 7,
+      "text": "I got something for your birthday.",
+      "meaning": "네 생일 선물로 뭘 좀 샀어.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 8,
+      "text": "A present for me? You shouldn't have!",
+      "meaning": "내 선물이라고? 이러지 않아도 되는데!",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 9,
+      "text": "It's cold outside. I'll give you a ride home.",
+      "meaning": "바깥 날씨가 추워. 집까지 태워줄게.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 10,
+      "text": "Don't bother, but thanks anyway.",
+      "meaning": "일부러 그럴 것 없어. 어쨌든 고마워.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 11,
+      "text": "Don’t mention it. That's what friends are for.",
+      "meaning": "별말을 다 하네. 친구 좋다는 게 뭐야.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 12,
+      "text": "Something smells fishy. Just be yourself.",
+      "meaning": "뭔가 수상한데. 평소처럼 해.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 13,
+      "text": "What's the weather gonna be like this Saturday?",
+      "meaning": "이번 주 토요일 날씨가 어떨 것 같아?",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 14,
+      "text": "The weather reporter said it was gonna be raining.",
+      "meaning": "일기예보에서 비가 올 거라고 했어.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 15,
+      "text": "I get the feeling that we should call off our trip.",
+      "meaning": "여행을 취소해야 할 것 같은 느낌이 들어.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 16,
+      "text": "Boy! It totally slipped my mind.",
+      "meaning": "이런! 깜빡 잊고 있었네.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 17,
+      "text": "Don't tell me you were going to go alone behind my back.",
+      "meaning": "설마 나 몰래 혼자 가려고 했던 건 아니겠지.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 18,
+      "text": "No way. I'll just go with the flow.",
+      "meaning": "말도 안 돼. 난 그냥 대세를 따를 거야.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 19,
+      "text": "I feel like going out with you tonight.",
+      "meaning": "오늘밤에 너랑 놀러 가고 싶어.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 20,
+      "text": "I'm sorry, but I have a previous engagement.",
+      "meaning": "미안한데 난 선약이 있어.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 21,
+      "text": "Nothing beats beer with chicken on a hot day.",
+      "meaning": "이렇게 더운 날엔 치맥보다 나은 게 없지.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 22,
+      "text": "Come to think of it, I can't miss a drinking session.",
+      "meaning": "생각해 보니, 내가 술자리를 놓치면 안 되지.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 23,
+      "text": "That's it! You might as well cancel your appointment.",
+      "meaning": "바로 그거야! 너 약속 취소하는 게 낫겠다.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 24,
+      "text": "I'm gonna have to postpone it for another day.",
+      "meaning": "약속을 다른 날짜로 옮겨야겠어.",
+      "unit": 1
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 25,
+      "text": "How did you get those plane tickets?",
+      "meaning": "비행기 티켓 어떻게 구했어?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 26,
+      "text": "I pulled some strings. I have good connections.",
+      "meaning": "내가 백을 좀 썼지. 좋은 인맥이 좀 있거든.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 27,
+      "text": "I knew it. Care for some coffee after lunch?",
+      "meaning": "그럴 줄 알았어. 점심 먹고 커피 한잔 어때?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 28,
+      "text": "You're a big fan of coffee. Go easy on it.",
+      "meaning": "커피 정말 좋아하는구나. 적당히 좀 마셔.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 29,
+      "text": "It's not gonna kill you to have one.",
+      "meaning": "한 잔 마신다고 큰일 나는 거 아니잖아.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 30,
+      "text": "Don't forget to bring Anna.",
+      "meaning": "안나 데려오는 거 잊지 말고.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 31,
+      "text": "Sorry to keep you waiting. So where were we?",
+      "meaning": "기다리게 해서 미안해요. 어디까지 얘기했죠?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 32,
+      "text": "We need to fix the date for the next meeting.",
+      "meaning": "다음 미팅 날짜를 확정해야 해요.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 33,
+      "text": "When is the most convenient time for you?",
+      "meaning": "언제가 가장 편한 시간이죠?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 34,
+      "text": "Too bad I'm not able to make time this week.",
+      "meaning": "안타깝게도 이번 주는 시간을 낼 수가 없어요.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 35,
+      "text": "Try to look on the bright side.",
+      "meaning": "긍정적으로 생각하도록 노력해봐요.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 36,
+      "text": "Got it. Keep me posted on your progress.",
+      "meaning": "알았어요. 진행 상황을 계속 알려 줘요.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 37,
+      "text": "I'm calling to make a reservation at seven.",
+      "meaning": "7시에 예약하려고 전화 드렸어요.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 38,
+      "text": "How many in your party, sir?",
+      "meaning": "일행이 몇 분이신가요?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 39,
+      "text": "Do you have a room for six?",
+      "meaning": "6명 방이 있나요?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 40,
+      "text": "It makes no difference whether you book or not.",
+      "meaning": "예약을 하시든 안 하시든 차이가 없어요.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 41,
+      "text": "What do you mean?",
+      "meaning": "무슨 뜻이죠?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 42,
+      "text": "You'll be admitted on a first-com first-served basis.",
+      "meaning": "선착순으로 입장 시켜 드리거든요.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 43,
+      "text": "Can you give me a hand with this?",
+      "meaning": "이것 좀 도와줄래?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 44,
+      "text": "I'd love to, but I'm too busy.",
+      "meaning": "그러고 싶은데 너무 바빠.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 45,
+      "text": "How come you're good at making excuses?",
+      "meaning": "넌 왜 그렇게 핑계 대기 선수니?",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 46,
+      "text": "Don't take it out on me.",
+      "meaning": "나한테 화풀이 하지 마.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 47,
+      "text": "All you have to do is just say yes.",
+      "meaning": "넌 이렇게만 하면 돼. '알았어'",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 48,
+      "text": "You have to do it yourself to improve your ability.",
+      "meaning": "네 능력을 키우려면 스스로 해야 해.",
+      "unit": 2
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 49,
+      "text": "I'm going camping this weekend. Want to come along?",
+      "meaning": "이번 주말에 캠핑 가려고 하는데, 같이 갈래요?",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 50,
+      "text": "Why not? Can I get you anything?",
+      "meaning": "물론이죠. 뭘 가져갈까요?",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 51,
+      "text": "Just bring yourself. I'll take care of everything.",
+      "meaning": "그냥 몸만 오세요. 제가 다 알아서 할게요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 52,
+      "text": "I've been wanting to hit the road for a change lately.",
+      "meaning": "요즘 기분 전환 삼아 좀 떠나고 싶었어요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 53,
+      "text": "That's great! I'm also looking forward to this trip.",
+      "meaning": "잘됐네요! 저도 이번 여행을 고대하고 있어요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 54,
+      "text": "I wouldn't miss it for anything.",
+      "meaning": "무슨 일이 있어도 갈게요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 55,
+      "text": "My boss is not easy to get along with.",
+      "meaning": "우리 사장님은 함께 지내기가 쉽지 않아.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 56,
+      "text": "What is it? Spit it out.",
+      "meaning": "뭐 때문에? 말해 봐.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 57,
+      "text": "He's two-faced and getting out of hand.",
+      "meaning": "그분은 이중적이고 갈수록 감당이 안 돼.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 58,
+      "text": "You're annoyed by his constant complaints.",
+      "meaning": "끊임없는 불평 때문에 짜증스럽다며.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 59,
+      "text": "He's in a bad mood for some reason today.",
+      "meaning": "오늘도 무슨 이유인지 기분이 안 좋으셔.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 60,
+      "text": "The thing is you're not cut out to kiss up to him.",
+      "meaning": "네가 아부에 소질이 없는 것도 문제야.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 61,
+      "text": "Please don't give me a hard time.",
+      "meaning": "나 좀 힘들게 하지 마세요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 62,
+      "text": "It's not like I asked you to marry me or what.",
+      "meaning": "당신에게 결혼해 달라고 한 것도 아니잖아요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 63,
+      "text": "You just occasionally wanna have coffee or lunch?",
+      "meaning": "가끔 커피나 점심 먹자는 것뿐이에요?",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 64,
+      "text": "I hope we can get back together again.",
+      "meaning": "우리가 다시 시작할 수 있기를 바라요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 65,
+      "text": "How could you cheat on me for that long?",
+      "meaning": "어떻게 그렇게 오래 바람을 피울 수가 있어요?",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 66,
+      "text": "I must admit, I've crossed the line.",
+      "meaning": "솔직히 제가 좀 심했어요.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 67,
+      "text": "I'd like to put my car on the market.",
+      "meaning": "내 차를 시장에 내 놓으려고 해.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 68,
+      "text": "Are you sure? What’s the deal?",
+      "meaning": "정말이야? 대체 무슨 일인데?",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 69,
+      "text": "We don't need two cars anymore.",
+      "meaning": "더 이상 자동차가 두 대나 필요 없잖아.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 70,
+      "text": "What if you have the car, and I have to go shopping?",
+      "meaning": "만약 당신이 차를 쓰고 있는데 내가 쇼핑 가야 되면 어떡해?",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 71,
+      "text": "We need to cut back on shopping.",
+      "meaning": "우린 쇼핑을 좀 줄여야 해.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 72,
+      "text": "Honey, I think you should just calm down a little bit.",
+      "meaning": "자기야, 당신 잠시 진정 좀 해야 할 것 같아.",
+      "unit": 3
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 73,
+      "text": "I'm gonna have my friend over tonight.",
+      "meaning": "오늘 밤에 친구를 집에 초대하려고.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 74,
+      "text": "What's the occasion? He's a friend from school?",
+      "meaning": "무슨 일인데? 학교 친구니?",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 75,
+      "text": "Yes, the real good kind. We have a lot in common.",
+      "meaning": "네, 정말 좋은 친구죠. 우린 공통점이 참 많아요.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 76,
+      "text": "You can't tell me something like this on such short notice.",
+      "meaning": "그런 일을 그렇게 갑자기 얘기하면 안 되지.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 77,
+      "text": "Mom, please don't tell me what to do.",
+      "meaning": "엄마, 제발 잔소리 좀 하지 마세요.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 78,
+      "text": "He's not coming. Over my dead body!",
+      "meaning": "친구는 못 와. 절대로 안 돼!",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 79,
+      "text": "I'm not feeling well today, so I called in sick.",
+      "meaning": "오늘 몸이 좀 안 좋아서 병가 냈어.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 80,
+      "text": "I think you should take a few days off.",
+      "meaning": "너 며칠 쉬어야 할 것 같아.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 81,
+      "text": "I'd like to. Thanks for your concern.",
+      "meaning": "그러고 싶어. 걱정해 줘서 고마워.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 82,
+      "text": "It’s like you've been working 24/7 these days.",
+      "meaning": "요즘 밤낮으로 일만 하는 것 같더라.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 83,
+      "text": "I don't want to work overtime, but it's the only way.",
+      "meaning": "야근하고 싶진 않은데, 방법이 없거든.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 84,
+      "text": "I'm telling you, nobody can stop you.",
+      "meaning": "정말이지, 아무도 못 말려.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 85,
+      "text": "Hey, What's up with your hair?",
+      "meaning": "야, 머리가 대체 왜 그래?",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 86,
+      "text": "I overslept. My office dinner ended after midnight.",
+      "meaning": "늦잠 잤어.사무실 회식이 자정 넘어서 끝났거든.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 87,
+      "text": "You are supposed to make a presentation tomorrow.",
+      "meaning": "너 내일 프레젠테이션 하기로 되어 있잖아.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 88,
+      "text": "Can you help me with my work a little?",
+      "meaning": "내 업무 좀 도와줄 수 있어?",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 89,
+      "text": "Okay. Let's go over your assignment first.",
+      "meaning": "그래, 먼저 과제물부터 검토해 보자.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 90,
+      "text": "Please book a meeting room in advance.",
+      "meaning": "회의실부터 미리 예약해 줘.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 91,
+      "text": "What are you gonna do this weekend?",
+      "meaning": "이번 주말에 뭐 할 거야?",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 92,
+      "text": "I'll take my kids outside and play in the yard.",
+      "meaning": "애들 야외에 데리고 가서 뛰어 놀려고",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 93,
+      "text": "Why don't we go catch a late-night movie tomorrow?",
+      "meaning": "내일 심야영화 한 편 볼까?",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 94,
+      "text": "Sounds good, but I'm signing up for yoga class.",
+      "meaning": "좋은 생각인데, 요가 수강신청 하러 가야 해.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 95,
+      "text": "Once you make a decision, you stick to it.",
+      "meaning": "일단 결정하면 끝까지 밀고 가는구나.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 96,
+      "text": "The clock is ticking. It’s now or never.",
+      "meaning": "시간이 흐르잖아. 지금 아니면 기회가 없어.",
+      "unit": 4
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 97,
+      "text": "I got a flat tire while dropping off my son at school.",
+      "meaning": "아들 학교 데려다 주다가 타이어 펑크가 났어.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 98,
+      "text": "Again? It happened two months ago.",
+      "meaning": "또? 두 달 전에도 그랬잖아.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 99,
+      "text": "Yeah, and now my car won't start. This is ridiculous.",
+      "meaning": "응, 게다가 시동도 안 걸려. 말도 안 돼.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 100,
+      "text": "Maybe you should call your insurance company.",
+      "meaning": "보험회사에 전화해야겠네.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 101,
+      "text": "I'm going to be a little late to work.",
+      "meaning": "출근이 조금 늦어질 것 같아.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 102,
+      "text": "OK. I'll tell your immediate supervisor.",
+      "meaning": "알았어. 네 상사에게 보고할게.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 103,
+      "text": "It's hard to reach you by phone.",
+      "meaning": "너랑 연락하기 정말 힘들다.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 104,
+      "text": "Sorry. I haven't had time to return calls.",
+      "meaning": "미안. 전화해 줄 시간이 없었어.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 105,
+      "text": "Do you remember we're going for a drink tonight?",
+      "meaning": "오늘 저녁에 술 약속한 거 기억하지?",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 106,
+      "text": "Yes, but can I take a rain check?",
+      "meaning": "그래. 근데 다음 기회로 미루면 안 될까?",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 107,
+      "text": "You can't break our promise this time.",
+      "meaning": "이번에는 약속 깨뜨리면 안 돼.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 108,
+      "text": "I'm booked solid today. My head's gonna explode.",
+      "meaning": "오늘 스케줄이 꽉 찼어. 머리가 터질 것 같아.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 109,
+      "text": "Could you come here a sec?",
+      "meaning": "잠깐만 이쪽으로 와 볼래?",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 110,
+      "text": "Speak of the devil, what's up?",
+      "meaning": "호랑이도 제 말 하면 온다더니, 무슨 일이야?",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 111,
+      "text": "Your boss is asking for the report.",
+      "meaning": "사장님이 보고서를 찾고 계셔.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 112,
+      "text": "One moment, I'll sneak out of the meeting.",
+      "meaning": "잠시만, 회의 중에 살짝 빠져나올게.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 113,
+      "text": "Look, it's almost 6. Time to call it a day.",
+      "meaning": "벌써 6시가 다 됐어. 마감할 시간이야.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 114,
+      "text": "Okay, I'll wrap things up in 5 minutes.",
+      "meaning": "알았어. 5분 내로 마무리할게.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 115,
+      "text": "It's like you worry about the kids too much.",
+      "meaning": "당신을 애들을 너무 걱정하는 것 같아",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 116,
+      "text": "Don't be silly. There's a good reason for that.",
+      "meaning": "바보 같은 소리 마요. 그럴 이유가 있어요",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 117,
+      "text": "When I was their age, I used to disappear for hours.",
+      "meaning": "내가 저 나이 땐 몇 시간씩 사라지곤 했어.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 118,
+      "text": "Times have changed. We can't take our eyes off them.",
+      "meaning": "세상이 변했어요. 애들한테서 눈을 떼면 안 돼요.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 119,
+      "text": "Okay, I will pay more attention.",
+      "meaning": "알았어. 좀 더 신경 쓸게.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 120,
+      "text": "Your room is a mess. Please help me clean it.",
+      "meaning": "당신 방이 엉망이에요. 청소하는 것 좀 도와줘요.",
+      "unit": 5
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 121,
+      "text": "Have you ever committed any crimes?",
+      "meaning": "혹시 범죄를 저지른 적 있나요?",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 122,
+      "text": "Absolutely not. I've never broken the law.",
+      "meaning": "물론 없죠. 법을 어겨 본 적이 없어요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 123,
+      "text": "What if someone blackmails you into something?",
+      "meaning": "누가 당신에게 뭔가를 하라고 협박하면 어떻게 하실래요?",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 124,
+      "text": "In that case, I'll report to the police.",
+      "meaning": "그런 경우엔, 전 경찰에 신고할거에요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 125,
+      "text": "Actually, I'm in a real sticky situation.",
+      "meaning": "사실, 제가 정말 곤란한 상황에 처해있어요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 126,
+      "text": "Not to worry. I'll keep an eye on you.",
+      "meaning": "걱정 마세요. 제가 지켜봐 줄게요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 127,
+      "text": "Let's go for a drive after the movie.",
+      "meaning": "영화 끝나고 드라이브 가자",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 128,
+      "text": "Sure. What movies are playing now?",
+      "meaning": "물론. 무슨 영화가 상영 중이지?",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 129,
+      "text": "Have you seen 'Interview' by any chance?",
+      "meaning": "혹시 '인터뷰' 본 적 있어?",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 130,
+      "text": "I thought it would be good, but was taken in by the ad.",
+      "meaning": "난 재밌을거라 생각했는데, 광고에 속은 거였어.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 131,
+      "text": "You're not allowed to tell me the story.",
+      "meaning": "나한테 스토리 얘기하면 안 돼.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 132,
+      "text": "Got it. Hurry up, or we’ll be late.",
+      "meaning": "알았어. 서두르자. 안 그럼 우리 늦을 거야.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 133,
+      "text": "I want to see if she wants to come back.",
+      "meaning": "그녀가 돌아오고 싶어 하는지 알고 싶어.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 134,
+      "text": "After splitting up, it's good to go your separate ways.",
+      "meaning": "헤어진 후엔, 각자 길을 가는 게 좋아.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 135,
+      "text": "Should I give back the things she got me?",
+      "meaning": "그녀가 나한테 사 준 물건을 돌려줘야 할까?",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 136,
+      "text": "Just throw them away. What's the point of keeping them?",
+      "meaning": "그냥 버려. 보관하고 있는 게 무슨 소용이야?",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 137,
+      "text": "I have no idea how I can get over her.",
+      "meaning": "모르겠어. 내가 어떻게 그녀를 잊을 수 있을지.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 138,
+      "text": "I'll set you up with a nice girl from my class.",
+      "meaning": "내가 우리 반에 멋진 여자친구 한 명 소개시켜 줄게.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 139,
+      "text": "Are you sure this it what you want to do?",
+      "meaning": "이게 정말 당신이 원한 거 확실해요?",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 140,
+      "text": "Don't you get it? I have made that clear.",
+      "meaning": "이해 안 돼요? 난 분명히 말했어요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 141,
+      "text": "I hate to say this, but you're dead wrong.",
+      "meaning": "이런 말하기 싫지만, 당신이 완전히 틀렸어요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 142,
+      "text": "If you don't trust me, count me out.",
+      "meaning": "날 믿지 못할 거라면, 날 빼 주세요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 143,
+      "text": "Oh, no. Here we go again.",
+      "meaning": "아이고, 또 시작이군요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 144,
+      "text": "What I want you to do is take some action.",
+      "meaning": "내가 당신에게 원하는 건, 무슨 조치를 취하는 거에요.",
+      "unit": 6
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 145,
+      "text": "I owe you an apology. I forgot your birthday.",
+      "meaning": "너한테 사과할 게 있어. 네 생일을 잊었네.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 146,
+      "text": "Come on. Let it go.",
+      "meaning": "에이. 내버려 둬 (잊어버려)",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 147,
+      "text": "I promise it'll never happen again.",
+      "meaning": "다시는 이런 일 없을 거라 약속해.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 148,
+      "text": "No problem. It could happen to anyone.",
+      "meaning": "괜찮아. 누구나 그럴 수 있어.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 149,
+      "text": "I want to make up for missing it.",
+      "meaning": "(네 생일) 놓친 걸 보상하고 싶어.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 150,
+      "text": "Forget it. I don't want to twist your arm.",
+      "meaning": "잊어버려. 엎드려 절 받기는 사양할래.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 151,
+      "text": "Why are you in a hurry? Just slow down.",
+      "meaning": "왜 이렇게 서둘러요? 좀 천천히 해요.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 152,
+      "text": "I can't wait to get married and live with you.",
+      "meaning": "당신과 결혼해서 살고 싶어 못 참겠어요.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 153,
+      "text": "Just because we go out doesn't mean we have to get married.",
+      "meaning": "우리가 사귄다고 해서 우리가 결혼해야 하는 건 아니잖아요.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 154,
+      "text": "I see what you mean. Take whatever time you need.",
+      "meaning": "당신 무슨 뜻인지 알아요. 필요한 만큼 충분히 시간을 가져요.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 155,
+      "text": "Now you're talking.",
+      "meaning": "이제야 말이 통하네요.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 156,
+      "text": "People say that we're a good match.",
+      "meaning": "사람들이 우리가 잘 어울린다고 말해요.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 157,
+      "text": "You're all dressed up for the interview today.",
+      "meaning": "오늘 면접을 위해서 쫙 차려 입었구나.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 158,
+      "text": "You know what they say, \"Clothes make the man.\"",
+      "meaning": "옷이 날개다' 라는 말 너도 알잖아.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 159,
+      "text": "It looks like you got a new suit.",
+      "meaning": "새 양복 장만한 것 같은데.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 160,
+      "text": "I haven't bought a new one in six years.",
+      "meaning": "나 6년 동안 새 것을 사 본 적이 없었지.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 161,
+      "text": "That's where you've changed. You used to wear wash-and-wear.",
+      "meaning": "그것이 네가 달라진 거구나. 넌 싸구려 옷만 입곤 했지.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 162,
+      "text": "Just drop it! Let's wait and see how the result comes out.",
+      "meaning": "그만 좀 해! 결과가 어떻게 나올지 기다려 보자.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 163,
+      "text": "Honey, what do you think of these sunglasses?",
+      "meaning": "자기야, 이 선글라스 어떻게 생각해?",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 164,
+      "text": "You're going on a vacation or something?",
+      "meaning": "너 휴가 가려는 거야 뭐야?",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 165,
+      "text": "Give me a break. I was just trying them out.",
+      "meaning": "한 번만 봐줘. 난 그냥 써보기만 하려는 거였어.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 166,
+      "text": "I'm gonna take our kids to the ice cream stand.",
+      "meaning": "난 애들을 아이스크림 매대에 데려갈게.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 167,
+      "text": "OK. Let's meet in the food court when I'm done.",
+      "meaning": "그래. 내 볼일 끝나면 푸드코트에서 만나.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 168,
+      "text": "Suit yourself. Don't buy anything on impulse.",
+      "meaning": "편한대로 해. 충동구매는 하지 마.",
+      "unit": 7
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 169,
+      "text": "I can't remember a thing about last night.",
+      "meaning": "어젯밤 일은 하나도 기억이 안나.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 170,
+      "text": "Me, neither. I'm in the mood for a beer tonight.",
+      "meaning": "나도 그래. 저녁에 맥주 한 잔 하고 싶은 기분인 걸.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 171,
+      "text": "Again? I'm suffering from a terrible hangover.",
+      "meaning": "또? 난 숙취로 고생하고 있는데",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 172,
+      "text": "Let's go get hangover soup before hitting the bars.",
+      "meaning": "술 마시러 가기 전에 해장국 먹으러 가자.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 173,
+      "text": "Perfect. Let's get wasted tonight.",
+      "meaning": "완벽해. 오늘 밤에 진탕 마셔 보자.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 174,
+      "text": "I'll get the bill this time.",
+      "meaning": "이번에는 내가 살게.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 175,
+      "text": "Our kids always fight over nothing.",
+      "meaning": "우리 애들은 항상 아무것도 아닌 일로 싸워.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 176,
+      "text": "It's no big deal. Never mind.",
+      "meaning": "별일 아니야. 신경 쓰지 마.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 177,
+      "text": "I agree with you to some degree, but I'm a little sensitive.",
+      "meaning": "나도 어느 정도는 너와 동의해. 그런데 내가 좀 예민한가 봐.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 178,
+      "text": "They have no trouble adjusting to school life?",
+      "meaning": "애들은 학교 생활에 적응하는 데 문제 없어?",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 179,
+      "text": "Yes, I guess so.",
+      "meaning": "응, 그런 것 같아.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 180,
+      "text": "I bet they'll grow up to be great people.",
+      "meaning": "내가 장담하건대, 걔들은 훌륭한 사람이 될 거야.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 181,
+      "text": "Your skirt is way too short.",
+      "meaning": "너의 치마 길이가 너무 짧다.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 182,
+      "text": "What's wrong with it?",
+      "meaning": "뭐가 어때서요?",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 183,
+      "text": "You're not wearing that to the party.",
+      "meaning": "너 파티에 그거 입고 못 간다.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 184,
+      "text": "Mom! You don't have an eye for fashion.",
+      "meaning": "엄마! 엄마는 패션 감각이 없어요.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 185,
+      "text": "You're impossible. You look good in everything.",
+      "meaning": "넌 구제불능이야. 넌 아무거나 입어도 잘 어울려.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 186,
+      "text": "Please stop! You never take my side at all.",
+      "meaning": "제발 그만요! 제 편은 절대 안 들어주시잖아요.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 187,
+      "text": "I had to stay up all night cramming for the finals.",
+      "meaning": "기말고사 준비로 벼락치기 하느라 밤을 꼬박 새워야 했어.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 188,
+      "text": "Now it's party time. Live it up.",
+      "meaning": "이제 파티 할 때야. 신나게 즐기자고.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 189,
+      "text": "Is it OK if I invite someone to the party?",
+      "meaning": "내가 누구 한 명 파티에 초대해도 괜찮을까?",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 190,
+      "text": "As long as it's not Henry. He's such a party pooper.",
+      "meaning": "헨리만 아니면 돼. 그는 정말 분위기 깨는 녀석이거든.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 191,
+      "text": "OK. We might as well keep it a secret from him.",
+      "meaning": "좋아. 우리 그한테는 비밀로 하는 게 낫겠다.",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 192,
+      "text": "Come on! Let's get a move on!",
+      "meaning": "자! 어서 서둘러야지!",
+      "unit": 8
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 193,
+      "text": "Why did you hurt her feelings?",
+      "meaning": "왜 그녀 감정을 상하게 했어?",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 194,
+      "text": "I didn't mean to.",
+      "meaning": "그럴 의도는 아니었어.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 195,
+      "text": "Watch your language and don't swear ever again.",
+      "meaning": "말 조심하고 다시는 욕하지 마.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 196,
+      "text": "I'm sorry. I'll keep that in mind.",
+      "meaning": "미안해. 명심할게.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 197,
+      "text": "How many times do I have to tell you the same thing?",
+      "meaning": "내가 너한테 같은 말을 몇 번이나 해야 하니?",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 198,
+      "text": "I don't know what to say.",
+      "meaning": "뭐라고 할 말이 없다.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 199,
+      "text": "Are you attracted to her?",
+      "meaning": "너 그녀에게 끌리는 거니?",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 200,
+      "text": "This is embarrassing, but I'm really into her.",
+      "meaning": "부끄럽지만, 나 그녀에게 정말 푹 빠졌어.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 201,
+      "text": "Don't even think about it. She's out of your league.",
+      "meaning": "꿈도 꾸지 마. 그녀는 너한테 과분해.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 202,
+      "text": "Is she seeing someone?",
+      "meaning": "그녀가 만나는 사람이 있어?",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 203,
+      "text": "I'm sorry to say that she's already taken.",
+      "meaning": "말하기 그렇지만 그녀는 임자가 있어.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 204,
+      "text": "I'm just gonna ask her out. It won't hurt to try.",
+      "meaning": "그냥 데이트 신청이라도 해봐야 겠다. 손해 볼 건 없잖아.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 205,
+      "text": "How long will it take to get the shopping done?",
+      "meaning": "쇼핑 끝날 때 까지 얼마나 걸릴까?",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 206,
+      "text": "I'm almost done. It'll just take a second.",
+      "meaning": "나 거의 다 됐어. 몇 초면 돼.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 207,
+      "text": "I've had it. My back is killing me.",
+      "meaning": "더 이상 못 참아. 허리 아파 죽겠어.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 208,
+      "text": "You'd better go get some rest in the lounge.",
+      "meaning": "너 휴게실 가서 좀 쉬는 게 낫겠다.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 209,
+      "text": "Two hours have passed in the blink of an eye.",
+      "meaning": "눈 깜짝할 사이에 두 시간이 지났어.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 210,
+      "text": "Cut me some slack, please.",
+      "meaning": "내 사정 좀 봐 줘, 제발.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 211,
+      "text": "Can you take out the garbage on your way out?",
+      "meaning": "나가는 길에 쓰레기 좀 버려 줄 수 있어?",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 212,
+      "text": "No problem. I'll get it.",
+      "meaning": "문제 없어요. 가져 갈게요.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 213,
+      "text": "What are you planning to do after school?",
+      "meaning": "학교 끝나고 뭐할 계획이니?",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 214,
+      "text": "I'm hanging out with my friends at the pizza place.",
+      "meaning": "친구들하고 피자 가게에서 놀려고요.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 215,
+      "text": "My car broke down. I need to get it fixed by tomorrow.",
+      "meaning": "내 차가 고장 났어. 내일까지 고쳐놓아야 해.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 216,
+      "text": "I'll see what I can do, but don't get your hopes up.",
+      "meaning": "제가 알아볼게요, 근데 너무 기대하진 마세요.",
+      "unit": 9
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 217,
+      "text": "What took you so long?",
+      "meaning": "왜 이렇게 늦었어?",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 218,
+      "text": "I got stuck in traffic near the City Hall.",
+      "meaning": "시청 근처에서 교통체증에 갇혀 있었어.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 219,
+      "text": "Traffic is heavy at this time of day.",
+      "meaning": "하루 중 이 시간은 교통이 혼잡해.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 220,
+      "text": "I got caught speeding yesterday.",
+      "meaning": "나 어제는 속도위반으로 걸렸다니까.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 221,
+      "text": "Nothing is working out for you these days.",
+      "meaning": "너 요즘에 되는 일이 없구나.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 222,
+      "text": "I've been through a lot in the past few weeks.",
+      "meaning": "지난 몇 주간 많은 일을 겪었지.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 223,
+      "text": "Anything good happen today?",
+      "meaning": "오늘 무슨 좋은 일 있어요?",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 224,
+      "text": "Wow! How could you tell?",
+      "meaning": "와우! 그걸 어떻게 알았죠?",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 225,
+      "text": "It's written all over your face.",
+      "meaning": "당신 얼굴에 다 쓰여 있어요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 226,
+      "text": "My son got accepted to Harvard Business School.",
+      "meaning": "우리 아들이 하버드 경영대에 합격했어요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 227,
+      "text": "That's good news. You deserve to take all the credit.",
+      "meaning": "좋은 소식이네요. 당신은 모든 공을 차지할 자격이 있어요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 228,
+      "text": "Thanks. Everything is under control.",
+      "meaning": "고마워요. 모든 게 잘 진행되고 있어요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 229,
+      "text": "Do you want insurance coverage?",
+      "meaning": "보험 들려고요?",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 230,
+      "text": "Yes. I don't want to take a big risk.",
+      "meaning": "네. 큰 위험을 감수하고 싶지 않아요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 231,
+      "text": "When is your baby due anyway?",
+      "meaning": "그나저나 언제가 출산 예정일이에요?",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 232,
+      "text": "It's coming up. It's about 3 months away.",
+      "meaning": "곧 다가와요. 대략 3개월 남았어요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 233,
+      "text": "Let's get together for lunch sometime.",
+      "meaning": "언제 점심 먹으러 함 만나요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 234,
+      "text": "Sounds like a plane.",
+      "meaning": "좋은 생각이에요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 235,
+      "text": "Please take me to this address.",
+      "meaning": "이 주소로 데려가 주세요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 236,
+      "text": "Sure. If it's all right, I'd like to take a short cut.",
+      "meaning": "물론이죠. 괜찮으시다면 지름길로 가고 싶네요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 237,
+      "text": "That's fine, but please step on it.",
+      "meaning": "좋아요, 하지만 속도를 내 주세요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 238,
+      "text": "It'll take 20 minutes at this time.",
+      "meaning": "이 시간에는 20분 정도 걸릴 거에요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 239,
+      "text": "Could you let me out over there?",
+      "meaning": "저기서 내려 주시겠어요?",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 240,
+      "text": "All right. Here we are. Enjoy your stay.",
+      "meaning": "넵. 다 왔습니다. 즐거운 시간 되세요.",
+      "unit": 10
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 241,
+      "text": "Why does she look so sad?",
+      "meaning": "그녀가 왜 슬퍼 보이지?",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 242,
+      "text": "Probably because I made fun of her, so she was upset.",
+      "meaning": "아마 내가 그녀를 놀려서 그녀가 화났나 봐.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 243,
+      "text": "What did you say?",
+      "meaning": "너 뭐라고 말했는데?",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 244,
+      "text": "Gold digger. That's what people say.",
+      "meaning": "돈만 밝히는 여자. 사람들이 그러던데.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 245,
+      "text": "I think you've got her wrong.",
+      "meaning": "내 생각엔 네가 그녀를 오해한 것 같다.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 246,
+      "text": "I think I'm gonna call her back and apologize.",
+      "meaning": "내 생각엔 내가 그녀에게 전화해서 사과해야겠다.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 247,
+      "text": "Wow! Your English score went up.",
+      "meaning": "와우! 너의 영어 점수가 올랐네.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 248,
+      "text": "I wasn't sure about a few questions, so I took a guess.",
+      "meaning": "몇 문제는 확실치 않아서, 대충 찍었어.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 249,
+      "text": "How did you get such a great score?",
+      "meaning": "어떻게 그렇게 좋은 점수를 받았어?",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 250,
+      "text": "The key is to put everything aside and study.",
+      "meaning": "비결은 만사를 제쳐 두고 공부하는 거지.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 251,
+      "text": "I tried everything, but nothing worked.",
+      "meaning": "난 모든 노력을 다했는데, 효과가 없네.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 252,
+      "text": "That's hard to believe. You're all talk.",
+      "meaning": "믿을 수 없어. 넌 항상 말뿐이잖아.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 253,
+      "text": "Are you learning English these days?",
+      "meaning": "너 요즘 영어 배우고 있니?",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 254,
+      "text": "I just started. I think it'll help with my future.",
+      "meaning": "나 막 시작했어. 내 생각엔 내 미래에 도움이 될 것 같아.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 255,
+      "text": "It'll probably take a while before you get fluent.",
+      "meaning": "네가 유창해질 때 까지 시간이 좀 걸릴 거야.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 256,
+      "text": "Now that you mention it, I'm getting cold feet.",
+      "meaning": "네가 그렇게 말하니까, 긴장되는 걸.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 257,
+      "text": "No worries. They say \"Well begun is half done.\"",
+      "meaning": "걱정 마. \"시작이 반이다\" 라는 말도 있잖아.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 258,
+      "text": "I go along with that.",
+      "meaning": "동감이야.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 259,
+      "text": "Why the upset tone in your voice?",
+      "meaning": "너 왜 화난 목소리야?",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 260,
+      "text": "Our wedding photos are all messed up.",
+      "meaning": "우리 결혼 사진이 완전 엉망진창이 됐어.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 261,
+      "text": "Good thing we didn't pay for it yet.",
+      "meaning": "우리 아직 결제를 안해서 다행이야.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 262,
+      "text": "I chose this studio because I heard it was popular.",
+      "meaning": "여기가 인기 있다고 들어서 이 스튜디오를 선택한 건데",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 263,
+      "text": "You must have really freaked out.",
+      "meaning": "너 정말로 기겁했나 보구나",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 264,
+      "text": "I'm sick of complaining about this.",
+      "meaning": "이런 걸로 불평하는 거 질렸어.",
+      "unit": 11
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 265,
+      "text": "What brings you here?",
+      "meaning": "여긴 어쩐 일이세요?",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 266,
+      "text": "I was in the neighborhood and came by.",
+      "meaning": "근처에 왔다가 들렀어요.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 267,
+      "text": "Great. I'm so glad you came here.",
+      "meaning": "잘했어요. 방문해 줘서 정말 기뻐요.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 268,
+      "text": "I'm starving. Have you had lunch?",
+      "meaning": "배가 많이 고파요. 점심은 드셨어요?",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 269,
+      "text": "No. Let's go grab a bite to eat.",
+      "meaning": "아뇨. 나가서 간단히 뭐 좀 먹죠.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 270,
+      "text": "Do  you have a favorite hangout around here?",
+      "meaning": "이 근처에 단골집이 있나요?",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 271,
+      "text": "When was the last time you got a medical checkup?",
+      "meaning": "언제 마지막으로 건강검진을 했나요?",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 272,
+      "text": "Two months ago. I get it at my company every year.",
+      "meaning": "두 달 전이요. 매년 회사에서 해요.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 273,
+      "text": "How did it go this time?",
+      "meaning": "이번엔 어떻게 나왔어요?",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 274,
+      "text": "Not good. My blood pressure went up a bit.",
+      "meaning": "좋진 않아요. 혈압이 조금 올라갔어요.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 275,
+      "text": "You've been under a lot of stress lately.",
+      "meaning": "최근에 스트레스를 받아왔잖아요.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 276,
+      "text": "I should take good care of my health.",
+      "meaning": "건강을 더 각별히 돌봐야겠어요.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 277,
+      "text": "Can you help me with my math homework?",
+      "meaning": "내 수학 숙제 좀 도와줄 수 있어?",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 278,
+      "text": "Sorry, I can't. My hands are full.",
+      "meaning": "미안하지만 안 되겠어. 지금 좀 바빠.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 279,
+      "text": "Math tests are not what they used to be.",
+      "meaning": "수학시험이 예전 같지 않아.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 280,
+      "text": "What can I say? You have to get used to it.",
+      "meaning": "어떻겠어? 네가 적응하는 수 밖에",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 281,
+      "text": "Math is not my thing, but English is my favorite.",
+      "meaning": "수학은 내 취향이 아니지만, 영어는 좋아해.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 282,
+      "text": "If so, you should play to your strengths.",
+      "meaning": "그렇다면, 나 강점을 발휘해봐.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 283,
+      "text": "My stomach feels heavy from indigestion.",
+      "meaning": "소화가 안 돼서 속이 더부룩해.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 284,
+      "text": "You shouldn't have eaten so much at the buffet.",
+      "meaning": "너 뷔페에서 그렇게 많이 먹지 말아야 했어.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 285,
+      "text": "You talked me into going there.",
+      "meaning": "네가 거기 가자고 설득했잖아.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 286,
+      "text": "Don't blame me for your eating too much.",
+      "meaning": "네가 과식한 걸 내 탓으로 돌리지 마.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 287,
+      "text": "I need to go on a diet or something.",
+      "meaning": "난 다이어트든 뭐든 할 필요가 있어.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 288,
+      "text": "I can't take it anymore. I hate the way you talk.",
+      "meaning": "더 이상 못 참겠어. 나는 네 말투가 싫어.",
+      "unit": 12
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 289,
+      "text": "Look at this. I've got goose bumps all over.",
+      "meaning": "이것 좀 봐. 나 온몸에 소름 돋았어.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 290,
+      "text": "It's getting pretty chilly in the morning.",
+      "meaning": "아치 날씨가 점점 쌀쌀해지고 있어.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 291,
+      "text": "I'm freezing to death. You should bundle up when going out.",
+      "meaning": "추워 죽겠다. 너 외출할 때 껴입어야겠다.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 292,
+      "text": "I had an accident dozing off behind the wheel.",
+      "meaning": "나 운전 중에 깜빡 졸다가 사고 났어.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 293,
+      "text": "Oh, no. Were you hurt?",
+      "meaning": "저런. 다쳤어?",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 294,
+      "text": "Fortunately, it was just a fender-bender.",
+      "meaning": "다행히도, 경미한 접촉 사고였어.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 295,
+      "text": "Hello, Customer Service, Brown speaking.",
+      "meaning": "안녕하세요. 고객 관리부 브라운입니다.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 296,
+      "text": "This is Tom. Is Mr. Robison available?",
+      "meaning": "저는 톰입니다. 로빈슨씨 계신가요?",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 297,
+      "text": "Hold on, please. He's stepped out for a moment.",
+      "meaning": "잠시만요. 잠시 자리 비우셨네요.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 298,
+      "text": "It's so hard to reach him. He was out of town last time.",
+      "meaning": "그분과 연락하기 참 힘드네요. 지난 번엔 출장을 가셨던데.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 299,
+      "text": "I'll tell him to get back to you when he gets in.",
+      "meaning": "돌아오시면 당신께 회신전화 드리라고 말씀 드릴게요.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 300,
+      "text": "It's almost lunch time. Maybe he's out to lunch.",
+      "meaning": "이제 거의 점심시간 이네요. 아마 점심 드시러 나가셨나 봐요.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 301,
+      "text": "What's up? You look exhausted.",
+      "meaning": "무슨 일이야? 너 지쳐 보인다.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 302,
+      "text": "I've been hooked on video games for the last few days.",
+      "meaning": "최근 며칠 동안 비디오 게임에 빠져 있었어.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 303,
+      "text": "How old are you? You should act your age.",
+      "meaning": "너 몇 살이야? 나잇값 좀 해야지.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 304,
+      "text": "Look who's talking. Mind your own business.",
+      "meaning": "사돈 남 말 하시네. 너나 잘 해.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 305,
+      "text": "Don't lecture me. I'll kick you ass.",
+      "meaning": "나한테 설교하지 마. 니 엉덩이 뻥찬다.(혼날 줄 알아)",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 306,
+      "text": "OK. Let's just come to our senses.",
+      "meaning": "알았어. 우리 정신 좀 차리자.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 307,
+      "text": "The iPad5 is coming out next month.",
+      "meaning": "아이패드5가 다음 달에 출시된대.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 308,
+      "text": "Wow! I have to wait in line from early morning.",
+      "meaning": "와! 아침 일찍부터 줄 서야겠다.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 309,
+      "text": "Since when did you get interested in the latest gadgets?",
+      "meaning": "언제부터 최신기기에 관심을 가졌니?",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 310,
+      "text": "I keep up with trends. I wasn't born yesterday.",
+      "meaning": "난 유행을 따라가고 있어. 나도 알 건 다 알아.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 311,
+      "text": "No offense, but you barely know how to use smart phones.",
+      "meaning": "악의는 없어, 근데 너 스마트폰 어떻게 쓰는 지도 거의 모르잖아.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 312,
+      "text": "Knock it off! You don't have to rub it in.",
+      "meaning": "그만 좀 해! 아픈데 좀 건드리지 마.",
+      "unit": 13
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 313,
+      "text": "You'll never guess what happened last night.",
+      "meaning": "어젯밤 무슨 일이 벌어졌는지 넌 상상도 못할 거야.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 314,
+      "text": "What? She stood you up or what?",
+      "meaning": "뭔데? 그녀에게 바람이나 뭐 그런 거 맞은 거야?",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 315,
+      "text": "Exactly. Don't you think she plays hard to get?",
+      "meaning": "정확해. 그녀가 너무 튕긴다고 생각지 않니?",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 316,
+      "text": "I'm sure she really likes to play the field.",
+      "meaning": "확실히 그녀는 여러 사람과 사귀는 걸 좋아해.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 317,
+      "text": "According to rumors, she has feelings for you.",
+      "meaning": "소문에 그녀가 너한테 마음이 있다고 하던데.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 318,
+      "text": "I don't buy it. I have a lot on my mind.",
+      "meaning": "믿을 수 없어. 머리가 복잡해진다.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 319,
+      "text": "How old do I look?",
+      "meaning": "저 몇 살처럼 보여요?",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 320,
+      "text": "Well, I thought you're in your mid-30s.",
+      "meaning": "글쎄요. 30대 중반이라고 생각했어요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 321,
+      "text": "Actually, I'm pushing 40.",
+      "meaning": "사실, 전 곧 40이에요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 322,
+      "text": "Really? You look young for your age.",
+      "meaning": "정말요? 나이에 비해 동안이네요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 323,
+      "text": "Thanks. I get that a lot. What are you up for?",
+      "meaning": "고마워요. 그런 말 많이 들어요. 뭐 드시고 싶으세요?",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 324,
+      "text": "Anything. I'm not picky about food.",
+      "meaning": "뭐든지요. 전 음식 안 가려요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 325,
+      "text": "Is Jason off today? He's not answering the phone.",
+      "meaning": "제이슨 오늘 쉬는 날인가요? 그가 전화를 받질 않아요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 326,
+      "text": "He has gone for the day for a family emergency.",
+      "meaning": "집에 급한 일이 생겨서 이미 퇴근했어요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 327,
+      "text": "Thank you for the information.",
+      "meaning": "알려줘서 고마워요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 328,
+      "text": "I’m in charge of this project, so you can tell me.",
+      "meaning": "제가 이 프로젝트 책임자에요. 그러니 저한테 말씀하세요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 329,
+      "text": "Sorry to bother you, but can you do me a favor?",
+      "meaning": "귀찮게 해서 죄송한데, 부탁 하나 들어 줄래요?",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 330,
+      "text": "Sure thing. What do you need?",
+      "meaning": "물론이죠. 뭐가 필요하세요?",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 331,
+      "text": "Wake up, sleepyhead! You sleep in every day.",
+      "meaning": "일어나, 잠꾸러기! 넌 매일 늦잠이야.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 332,
+      "text": "I tossed and turned all night. I couldn't sleep a wink.",
+      "meaning": "나 밤새 뒤척였어요. 한숨도 못 잤어요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 333,
+      "text": "I'm wondering if you can make it on time for school.",
+      "meaning": "난 네가 제 시간에 학교에 갈 수나 있을지 의문이다.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 334,
+      "text": "I'm in the middle of washing my hair already.",
+      "meaning": "전 이미 머리 감고 있는 중이에요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 335,
+      "text": "You're the black sheep of our family.",
+      "meaning": "넌 우리 집 골칫덩이야.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 336,
+      "text": "Come on. I just forgot to set the alarm.",
+      "meaning": "아 쫌~. 전 단지 알람 맞추는 걸 잊은 거라고요.",
+      "unit": 14
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 337,
+      "text": "I'm really out of shape. I keep on gaining weight.",
+      "meaning": "나 정말 몸매가 망가졌어. 나 계속 몸무게가 늘고 있어.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 338,
+      "text": "Speaking of which, I've started working out at the gym.",
+      "meaning": "말이 나와서 말인데, 나 헬스장에서 운동 시작했어.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 339,
+      "text": "Really? Maybe I should go on a crash diet.",
+      "meaning": "정말? 나도 속성 다이어트를 해야겠어.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 340,
+      "text": "Starving is not helpful. You should go by the book.",
+      "meaning": "굶는 건 도움이 안 돼. 너 원칙대로 해야 해.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 341,
+      "text": "Well, I don't know where to start.",
+      "meaning": "글쎄, 어디서부터 시작할 지 모르겠어.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 342,
+      "text": "Play it safe, start by joining the gym.",
+      "meaning": "신중히 해. 헬스장 다니는 것부터 시작해.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 343,
+      "text": "You look worried. What's bothering you?",
+      "meaning": "너 걱정 있어 보여. 뭐가 고민이야?",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 344,
+      "text": "I think I'm feeling a little left out at work.",
+      "meaning": "내 생각에 내가 회사에서 왕따가 된 기분이야.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 345,
+      "text": "Don't be frustrated. Time heals all wounds.",
+      "meaning": "좌절하지 마. 시간이 약이야.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 346,
+      "text": "Will you back me up when I talk in the meeting?",
+      "meaning": "내가 회의에서 얘기할 때 네가 내 편 좀 들어줄래?",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 347,
+      "text": "Don't worry. It's nothing.",
+      "meaning": "걱정 마. 별거 아니지.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 348,
+      "text": "I can't thank you enough.",
+      "meaning": "어떻게 고마워 해야 할 지 모르겠다. (정말 고마워)",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 349,
+      "text": "How about a little hair of the dog?",
+      "meaning": "해장술 어때?",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 350,
+      "text": "Sorry, but I think I'll pass tonight.",
+      "meaning": "미안하지만 오늘밤은 사양할게.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 351,
+      "text": "You promised to treat this time. You have a lot of nerve.",
+      "meaning": "이번엔 네가 사기로 약속했잖아. 너 참 뻔뻔하다.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 352,
+      "text": "Something urgent came up suddenly.",
+      "meaning": "갑자기 급한 일이 생겼거든.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 353,
+      "text": "You're so cheap and unreliable.",
+      "meaning": "너 정말 치사하고 믿을 수가 없어.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 354,
+      "text": "Sorry. I have a sore throat. Let's go out next week.",
+      "meaning": "미안. 목이 아파서 그래. 다음 주에 가자.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 355,
+      "text": "I haven't seen you around for a while.",
+      "meaning": "요즘 한 동안 니 얼굴을 못 봤네.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 356,
+      "text": "I'm between jobs. So I've been lying low.",
+      "meaning": "구직 중이거든. 그래서 잠수 탔어.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 357,
+      "text": "Don't work too hard and take your time.",
+      "meaning": "너무 무리 하지 말고 쉬엄쉬엄 해.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 358,
+      "text": "It's like beating my head against the wall.",
+      "meaning": "마치 맨 땅에 헤딩하는 것 같아.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 359,
+      "text": "I think you're kind of a late bloomer.",
+      "meaning": "난 네가 대기만성형이라고 생각해.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 360,
+      "text": "Thanks, I'm so flattered.",
+      "meaning": "고마워. 너무 과찬이다.",
+      "unit": 15
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 361,
+      "text": "Christmas is just around the corner.",
+      "meaning": "크리스마스가 코 앞으로 다가왔다.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 362,
+      "text": "I can't believe it's already the end of the year.",
+      "meaning": "벌써 연말이라니 믿을 수가 없어.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 363,
+      "text": "I deeply reflect on myself at this time of the year.",
+      "meaning": "일년 중 이맘 때면 나 자신을 깊이 되돌아보게 돼.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 364,
+      "text": "Come on. You're on the right track.",
+      "meaning": "무슨 소리. 넌 잘 하고 있어.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 365,
+      "text": "From now on, I'll try not to live in the past.",
+      "meaning": "지금부턴, 과거에 연연하지 않고 살려고 노력할거야.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 366,
+      "text": "OK, but you should take responsibility for your past.",
+      "meaning": "그래, 하지만 너의 과거에 대한 책임은 져야지.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 367,
+      "text": "Dinner is ready. Come and get it!",
+      "meaning": "저녁 준비됐다. 와서 먹어라!",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 368,
+      "text": "I'll skip my dinner. I lost my appetite.",
+      "meaning": "전 저녁 건너 뛸래요. 입맛이 없어요.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 369,
+      "text": "You shouldn't have snacked before a meal.",
+      "meaning": "너 식사 전에 군것질 하지 말았어야지.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 370,
+      "text": "Mom, I think this soup tastes funny.",
+      "meaning": "엄마, 제 생각엔 수프 맛이 이상한 것 같아요.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 371,
+      "text": "OK, fine. Have it your way.",
+      "meaning": "그래, 알았다. 좋을 대로 해.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 372,
+      "text": "May I be excused?",
+      "meaning": "먼저 일어나도 되죠?",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 373,
+      "text": "The tickets are almost sold out.",
+      "meaning": "표가 거의 다 매진되었네.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 374,
+      "text": "I want seats in the middle. I hate sitting on the sides.",
+      "meaning": "난 가운데 자리를 원해. 가장자리에 앉는 건 싫어.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 375,
+      "text": "Do you want some popcorn or drinks?",
+      "meaning": "팝콘이나 음료수 먹을래?",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 376,
+      "text": "Sure. The show's about to start. Let's get in.",
+      "meaning": "물론이지. 쇼가 곧 시작하려고 해. 들어가자.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 377,
+      "text": "Nature calls me. Save my seat.",
+      "meaning": "화장실 가고 싶네. 자리 잡아 놔.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 378,
+      "text": "OK. I need to put my phone on vibrate.",
+      "meaning": "알았어. 휴대폰 진동으로 바꿔놓아야겠다.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 379,
+      "text": "Have you ever been to that new family restaurant?",
+      "meaning": "새로 생긴 패밀리 레스토랑 가 본 적 있어?",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 380,
+      "text": "No. Do you think it's worth visiting?",
+      "meaning": "아니. 네 생각에 가 볼 가치가 있어?",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 381,
+      "text": "Absolutely! You'll be sorry if you miss that place.",
+      "meaning": "당연하지! 그 장소 안 가보면 후회할 걸.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 382,
+      "text": "How did you learn of it?",
+      "meaning": "넌 거기 어떻게 알았어?",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 383,
+      "text": "By word of mouth. A friend of mine told me.",
+      "meaning": "입소문으로 알았지. 내 친구 중 하나가 말해줬어.",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 384,
+      "text": "What was the name of that place?",
+      "meaning": "식당 이름이 뭐라고 했지?",
+      "unit": 16
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 385,
+      "text": "I'm really crazy about soccer lately.",
+      "meaning": "나 요즘 축구 경기에 완전히 미쳐있어.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 386,
+      "text": "Which team are you rooting for?",
+      "meaning": "어느 팀을 응원하는데?",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 387,
+      "text": "Chelsea. They came from behind and won 3 to 1 today.",
+      "meaning": "첼시. 오늘은 역전해서 3대1로 이겼어",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 388,
+      "text": "I guess your team is on a winning streak.",
+      "meaning": "내 추측엔 너희 팀이 연승을 하고 있구나.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 389,
+      "text": "Yeah. That's the ninth win in a row already.",
+      "meaning": "그래. 벌써 9연승째야.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 390,
+      "text": "My team's game ended in a tie.",
+      "meaning": "우리 팀은 무승부로 끝났어.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 391,
+      "text": "How long does it take to reach the top?",
+      "meaning": "정상까지 가는 데 얼마나 걸려요?",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 392,
+      "text": "We're almost there. Just hang in there.",
+      "meaning": "거의 다 왔어요. 조금만 참아요.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 393,
+      "text": "I can't go any further. I'm feeling a little queasy.",
+      "meaning": "더 못 가겠어요. 속이 울렁거려요.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 394,
+      "text": "OK. Let's get some rest and catch our breath.",
+      "meaning": "좋아요. 잠시 쉬면서 숨 좀 돌리죠.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 395,
+      "text": "Just a minute. I need to tie my shoes.",
+      "meaning": "잠시만요. 신발 끈 좀 묶을게요.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 396,
+      "text": "You're breaking in your new shoes.",
+      "meaning": "새 신발을 길들이고 있군요.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 397,
+      "text": "I ran into my ex-girlfriend on the street yesterday.",
+      "meaning": "나 어제 예전 여자친구와 우연히 마주쳤어.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 398,
+      "text": "Wow! Don’t tell me you chickened out.",
+      "meaning": "와우! 설마 너 겁먹고 도망친 건 아니지?",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 399,
+      "text": "I almost sprained my ankle while stepping backwards.",
+      "meaning": "뒷걸음치다 발목을 거의 삐끗할 뻔했어.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 400,
+      "text": "You should take your mind off her.",
+      "meaning": "너 그녀를 마음에서 떨쳐버려야 해.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 401,
+      "text": "Yeah. I think it's time to pull myself together.",
+      "meaning": "그래. 이제 마음을 다잡을 때라고 생각해.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 402,
+      "text": "Don't worry. I think you can manage.",
+      "meaning": "걱정 마. 넌 잘 할 수 있을 거야.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 403,
+      "text": "She has a big mouth. She can't keep a secret.",
+      "meaning": "그녀는 말이 많아. 그녀는 비밀을 못 지켜.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 404,
+      "text": "That's why you give her the cold shoulder, right?",
+      "meaning": "그래서 네가 그녀에게 차갑게 대하는 거구나.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 405,
+      "text": "What would you do if you were in my shoes?",
+      "meaning": "네가 내 입장이라면 넌 어떻게 할래?",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 406,
+      "text": "Well, I haven't given it a lot of thought.",
+      "meaning": "글쎄, 생각을 많이 안 해봤는데.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 407,
+      "text": "Anyway, she's kind of a pain in the neck.",
+      "meaning": "어쨌든, 그녀는 정말 골칫거리야.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 408,
+      "text": "I'm sorry to hear that.",
+      "meaning": "정말 안됐구나.",
+      "unit": 17
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 409,
+      "text": "Sorry for disturbing you on your day off.",
+      "meaning": "당신 쉬는 날 방해해서 죄송해요.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 410,
+      "text": "Please make it short. I can't talk long.",
+      "meaning": "제발 짧게 해주세요. 통화 길게 못해요.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 411,
+      "text": "I'm calling to ask you for your advice. You have a minute?",
+      "meaning": "당신의 조언을 구하려고 전화했어요. 시간 좀 있으세요?",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 412,
+      "text": "It's a bad time. Actually, I have company now.",
+      "meaning": "곤란해요(나쁜 시간).사실은 지금 손님이 있어요.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 413,
+      "text": "OK. Please let me know if you can free up some time.",
+      "meaning": "알았어요. 시간 낼 수 있으실 때 알려주세요.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 414,
+      "text": "How about if we meet in about an hour?",
+      "meaning": "한 시간쯤 후에 만나는 건 어때요?",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 415,
+      "text": "I think I'm on a tight budget today.",
+      "meaning": "오늘 예산이 좀 빠듯한 것 같아",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 416,
+      "text": "You paid last time, so it's my turn.",
+      "meaning": "저번엔 네가 계산했으니까 이번엔 내 차례야.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 417,
+      "text": "If you insist, why don't we split the bill?",
+      "meaning": "정 그렇다면, 나눠서 내는 건 어때?",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 418,
+      "text": "Sure. Let's chip in about five dollars each.",
+      "meaning": "물론. 대략 5달럴씩 더 걷자.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 419,
+      "text": "OK. Here you go. Can I have a doggy bag, please?",
+      "meaning": "그래. 여기 있어. 여기 남은 음씩 싸 주실래요?",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 420,
+      "text": "Excuse me, but would you call a designated driver?",
+      "meaning": "실례지만, 대리운전 불러 주실래요?",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 421,
+      "text": "I think I have a crush on Kate.",
+      "meaning": "내 생각에 나 케이트한테 반한 것 같아.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 422,
+      "text": "Rumor has it she's taken. But why not give it a try?",
+      "meaning": "소문에 그녀는 임자가 있데. 그래도 시도는 한번 해보지?",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 423,
+      "text": "I can't work up the courage. I'm not much of a talker.",
+      "meaning": "  ",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 424,
+      "text": "Don't be so hard on yourself. You're a nice guy.",
+      "meaning": "너무 자책하지마. 넌 괜찮은 녀석이야.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 425,
+      "text": "Just between you and me, I'll try to pick her up.",
+      "meaning": "우리끼리 얘기인데, 그녀를 한 번 꼬셔볼게.(노력해볼게)",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 426,
+      "text": "That's the spirit! I'll keep my fingers crossed.",
+      "meaning": "바로 그 정신이야! 내가 행운을 빌어줄게.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 427,
+      "text": "Telegram is all the rage among Korean people.",
+      "meaning": "텔레그램이 한국인들 사이에서 정말 인기야.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 428,
+      "text": "Call me old-fashioned, but I don't use Telegram.",
+      "meaning": "날 구식이라 부르겠지만, 난 텔레그램 안 해.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 429,
+      "text": "You don't wanna do that. People would play you for a fool.",
+      "meaning": "그러지 않는게 좋을 거야. 사람들이 바보 취급 할 수도 있어.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 430,
+      "text": "No wonder they weren't answering my texts.",
+      "meaning": "어쩐지 내 문자에 답장을 안 하더라고.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 431,
+      "text": "You can download the app online. You can't miss it.",
+      "meaning": "온라인에서 다운로드 받을 수 있어. 찾기 쉬워.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 432,
+      "text": "I see your point, but what's the big deal?",
+      "meaning": "무슨 말인지 알았어. 근데 뭐 대단한 거라고.",
+      "unit": 18
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 433,
+      "text": "I woke up with a stiff neck. I'm not feeling like myself.",
+      "meaning": "나 자고 일어났더니 목이 뻐근해. 내 몸 같지가 않아.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 434,
+      "text": "You drank till you dropped last night.",
+      "meaning": "너 어젯밤에 나가 떨어질 때까지 마셨구나.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 435,
+      "text": "To top it off, I think I left my phone in the taxi.",
+      "meaning": "설상가상으로, 내 생각에 택시에 내 전화기를 두고 내렸나 봐.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 436,
+      "text": "You remind me of a friend of mine from university.",
+      "meaning": "널 보니 대학교 친구 중 한 녀석이 생각난다.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 437,
+      "text": "He must be a real party animal.",
+      "meaning": "그도 파티광이 분명했나 보네.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 438,
+      "text": "He blacked out and even threw up sometimes.",
+      "meaning": "그는 필름도 끊겼고 가끔 토하기도 했지.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 439,
+      "text": "Let's make a toast to your success. Bottoms up!",
+      "meaning": "너의 성공을 위해 건배하자. 원 샷!",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 440,
+      "text": "I must not drink today. I'm on medication.",
+      "meaning": "오늘 나 술 마시면 안 돼. 약 먹고 있거든.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 441,
+      "text": "Come on. I'm not falling for that trick.",
+      "meaning": "왜 이래. 나는 그런 속임수에 안 넘어가.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 442,
+      "text": "I have a bad cold and ache all over.",
+      "meaning": "나 심한 감기에 몸살까지 있어.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 443,
+      "text": "Why don’t you take a day off and relax?",
+      "meaning": "하루 휴가 내고 쉬지 그래?",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 444,
+      "text": "I'd love to, but I'm tied up at work.",
+      "meaning": "그러고 싶어, 그런데 일 때문에 꼼짝 못해.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 445,
+      "text": "How did you get into an accident?",
+      "meaning": "어쩌다가 사고가 났어?",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 446,
+      "text": "A man crashed into my car and ran away.",
+      "meaning": "한 남자가 내 차를 박고 도망갔어.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 447,
+      "text": "That was close. Did you figure out who did that?",
+      "meaning": "큰일 날 뻔했네. 누가 그랬는지 알아냈어?",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 448,
+      "text": "Yes. But he was trying to put the blame on me.",
+      "meaning": "응. 근데 그 사람이 나한테 책임을 돌리려 하더라고.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 449,
+      "text": "You're out of luck today. Hope it works out for you.",
+      "meaning": "너 오늘 운이 없는 날이구나. 잘 해결되길 바라.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 450,
+      "text": "I was so upset. I almost burst into tears.",
+      "meaning": "나 너무 속상했어. 거의 눈물이 터질 뻔 했다니까.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 451,
+      "text": "Have you made a profit on your house?",
+      "meaning": "집으로 수익을 좀 냈어?",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 452,
+      "text": "Just getting by. I just broke even.",
+      "meaning": "그럭저럭 버티고 있지. 겨우 본전이야.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 453,
+      "text": "I'm thinking of taking out a loan from the bank.",
+      "meaning": "은행에서 대출을 받을까 생각 중이야.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 454,
+      "text": "Can you recommend a new area to invest in?",
+      "meaning": "새로운 투자처 좀 추천해 줄 수 있어?",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 455,
+      "text": "I have my own problems. I'm busy paying off a debt.",
+      "meaning": "내 코가 석자야. 빚 갚느라 정신이 없어.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 456,
+      "text": "We're in the same boat. I'm struggling to raise money.",
+      "meaning": "우리 같은 배를 탔네(같은처지). 나도 돈 마련하려고 애쓰는 중이야.",
+      "unit": 19
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 457,
+      "text": "I heard your wife was hospitalized last night.",
+      "meaning": "내가 듣기론 지난 밤에 네 부인이 입원했다면서.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 458,
+      "text": "She was in a coma when she was taken to the ER.",
+      "meaning": "그녀가 응급실에 실려갔을 때 혼수상태였어.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 459,
+      "text": "I hope she'll be released from the hospital soon.",
+      "meaning": "그녀가 곧 퇴원하길 바라.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 460,
+      "text": "After the surgery, she is in stable condition now.",
+      "meaning": "수술 후에, 그녀는 지금 안정된 상태야.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 461,
+      "text": "What did the doctor say? Is she all right?",
+      "meaning": "의사가 뭐래? 그녀 괜찮데?",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 462,
+      "text": "He said she should bring her cholesterol level down.",
+      "meaning": "그가 말하길 그녀가 콜레스테롤 수치를 낮춰야 한데.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 463,
+      "text": "Congratulations! Your book is selling like hotcakes.",
+      "meaning": "축해해요! 당신 책이 불티나게 팔리고 있어요.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 464,
+      "text": "Thanks. Please spread the word for me.",
+      "meaning": "고마워요. 제발 절 위해 입소문 좀 내주세요.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 465,
+      "text": "Sure. You have a way to promote it to the public.",
+      "meaning": "물론이죠. 당신 대중에게 홍보하는 방법이 있나요?",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 466,
+      "text": "Yes. I've been posting free lectures on my site.",
+      "meaning": "네. 제 사이트에 무료 강의를 올려왔어요.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 467,
+      "text": "I'll put in a good word to my friends and acquaintances.",
+      "meaning": "제가 친구들과 지인들한테 얘기 잘 해 줄게요.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 468,
+      "text": "Thanks a million. That means a lot to me.",
+      "meaning": "정말 고마워요. 정말 큰 힘(의미)가 되요.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 469,
+      "text": "I think it's too much for me to play golf.",
+      "meaning": "내 생각에 골프 치는 건 내겐 너무 벅차.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 470,
+      "text": "Once you get the hang of it, it's just a matter of time.",
+      "meaning": "일단 감을 잡으면, 그건 단지 시간문제야.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 471,
+      "text": "Would it be possible to catch up with you in a year?",
+      "meaning": "1년 안에 널 따라잡는 게 가능할까?",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 472,
+      "text": "I guess so. For starters, try to get used to it.",
+      "meaning": "아마도. 우선은, 익숙해지려고 노력해 봐.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 473,
+      "text": "All the practice will pay off in the near future.",
+      "meaning": "열심히 연습하면 가까운 미래에 성과가 있을 거야.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 474,
+      "text": "It's always easier said than done.",
+      "meaning": "항상 말이야 행동보다 쉽지.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 475,
+      "text": "Hey, I'm back. What did I miss?",
+      "meaning": "이봐, 나 돌아왔어. (나 없을 때)무슨 얘기 했어?",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 476,
+      "text": "Guess what I just heard? Take a guess.",
+      "meaning": "방금 무슨 얘기 들었는지 맞춰 봐. 한번 맞춰 봐.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 477,
+      "text": "What do you take me for? Give it to me straight.",
+      "meaning": "날 뭐로 보는 거야? 솔직히 말해.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 478,
+      "text": "They got carried away and kissed each other.",
+      "meaning": "걔네들 분위기에 휩쓸려서 서로 키스했대.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 479,
+      "text": "I knew it! They were drinking a lot.",
+      "meaning": "그럴 줄 알았어! 걔네들 술 엄청 마시더라.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 480,
+      "text": "I think they're made for each other.",
+      "meaning": "내 생각에 걔네들 천생연분인 것 같아.",
+      "unit": 20
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 481,
+      "text": "You didn't come out great in this picture.",
+      "meaning": "이 사진에는 당신이 잘 안 나왔네요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 482,
+      "text": "To be honest, I'm a little camera-shy.",
+      "meaning": "솔직히 전 사진 찍는 거 싫어해요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 483,
+      "text": "You look better than your picture.",
+      "meaning": "당신은 사진보다 실물이 나아요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 484,
+      "text": "That's what everybody tells me.",
+      "meaning": "다들 저한테 그렇게 말해요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 485,
+      "text": "You'd better change your mind and have confidence.",
+      "meaning": "당신의 생각을 바꾸고 자신감을 가지는 게 좋겠어요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 486,
+      "text": "On second thought, you have a point.",
+      "meaning": "다시 생각해 보니, 당신 말이 일리가 있네요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 487,
+      "text": "Can I help you find something?",
+      "meaning": "뭐 찾으시는 거 도와드릴까요?",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 488,
+      "text": "I'm wondering if you can give me a discount on this.",
+      "meaning": "이거 할인해 주실 수 있는지 궁금해요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 489,
+      "text": "That's a steal. We're selling these at cost.",
+      "meaning": "완전 공짜나 다름없어요. 우리 이것들을 원가에 팔고 있는 거에요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 490,
+      "text": "I don’t like to haggle, but it's way too expensive.",
+      "meaning": "흥정하고 싶진 않지만, 너무 비싸네요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 491,
+      "text": "Why don't you try it on for size?",
+      "meaning": "사이즈 맞는지 한 번 입어 보심 어때요?",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 492,
+      "text": "If you can't come down, let me sleep on it.",
+      "meaning": "깎아 줄 수 없다면, 생각 좀 해볼게요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 493,
+      "text": "This work is beyond my ability. I'm not sure if I can do it.",
+      "meaning": "이 일은 제 능력 밖이에요. 제가 할 수 있을지 모르겠어요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 494,
+      "text": "Stop beating around the bush. Just get to the point.",
+      "meaning": "말 돌리지 마세요. 본론만 얘기해요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 495,
+      "text": "I'm pulling my weight. I deserve a raise.",
+      "meaning": "전 제 역할을 다하고 있어요. 급여 인상을 받을 자격이 있다고요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 496,
+      "text": "Pay raise? Don't start with that again.",
+      "meaning": "급여 인상이요? 그 얘긴 꺼내지도 마세요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 497,
+      "text": "I'm going to put in for a transfer to another division.",
+      "meaning": "타 부서로 전근 신청할 거에요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 498,
+      "text": "Please stop pressuring me. You're driving me crazy.",
+      "meaning": "나 그만 괴롭혀요. 당신 때문에 미치겠어요.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 499,
+      "text": "Look outside! It's pouring.",
+      "meaning": "바깥 좀 봐! 비가 억수로 쏟아지고 있어.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 500,
+      "text": "I don't feel like cooking. Let's send out for Chinese food.",
+      "meaning": "요리하고 싶지 않아. 중국 음식 배달시키자.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 501,
+      "text": "What's the weather going to be like tomorrow?",
+      "meaning": "내일 날씨는 어떨 것 같아?",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 502,
+      "text": "There's a good chance it will rain in the afternoon.",
+      "meaning": "오후에 비 올 가능성이 높대",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 503,
+      "text": "Too bad we have to be cooped up at home on Sunday.",
+      "meaning": "일요일에 집에 처박혀 있으려니 죽겠네.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 504,
+      "text": "Damn it! There goes my weekend.",
+      "meaning": "제길! 내 주말은 망했어.",
+      "unit": 21
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 505,
+      "text": "Do you have any big plans this Saturday?",
+      "meaning": "이번 주 토요일에 특별한 계획이 있어?",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 506,
+      "text": "I'm afraid I have some work to catch up on.",
+      "meaning": "안타깝게도 밀린 일을 좀 해야 해.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 507,
+      "text": "You look really stressed out. What happened?",
+      "meaning": "너 정말 스트레스 받아 보여. 무슨 일이야?",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 508,
+      "text": "The last thing I wanna do is fill in for someone.",
+      "meaning": "다른 사람을 대신하는 건 절대 하고 싶지 않은 일이야.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 509,
+      "text": "Stick it out and don't bite off more than you can chew.",
+      "meaning": "조금만 참아, 그리고 무리하지는 마",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 510,
+      "text": "I can't stand the sight of him. Let's take a walk.",
+      "meaning": "그 녀석 꼴도 보기 싫어. 산책이나 하자",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 511,
+      "text": "Would you mind backing up a little, please?",
+      "meaning": "(차를) 뒤로 빼주실 수 있을까요?",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 512,
+      "text": "What's the matter? I always park here.",
+      "meaning": "뭐가 문제죠? 저 항상 여기에 주차해요.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 513,
+      "text": "This is a tow-away-zone. You can get a parking ticket.",
+      "meaning": "여기는 (불법주차) 견인지역이에요. 주차위반 딱지를 받을 수도 있어요.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 514,
+      "text": "Don't make a big deal out of nothing.",
+      "meaning": "별거 아닌 일로 호들갑 떨지 마세요.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 515,
+      "text": "As far as I know, there's a parking lot behind the building.",
+      "meaning": "제가 알기로는 건물 뒤에 주차장이 있어요.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 516,
+      "text": "That's news to me. Thanks for the tip.",
+      "meaning": "금시초문이네요. 알려줘서 고마워요.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 517,
+      "text": "You look sharp today. What's going on?",
+      "meaning": "오늘 멋져 보이네. 무슨 일이야?",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 518,
+      "text": "I treated myself to a new coat behind my wife's back.",
+      "meaning": "아내 몰래 큰 맘 먹고 새 코트 하나 샀지.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 519,
+      "text": "She'll blow her top if she finds out.",
+      "meaning": "그녀가 알면 불같이 화낼 거야.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 520,
+      "text": "Leave it to me. I'll take care of it.",
+      "meaning": "나한테 맡겨. 내가 알아서 할게.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 521,
+      "text": "I feel sorry for her. What kind of husband are you?",
+      "meaning": "난 네 아내가 안타깝다. 넌 어떤 남편인 거니?",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 522,
+      "text": "Keep your voice down. Don't tell a soul.",
+      "meaning": "목소리 좀 낮춰. 아무한테도 말하지 마.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 523,
+      "text": "I got a lecture for failing to meet the deadline.",
+      "meaning": "나 마감시간을 못 지켜서 야단 맞았어.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 524,
+      "text": "You know how your boss is about deadlines.",
+      "meaning": "사장님이 마감일에 대해 어떤지 알잖아.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 525,
+      "text": "I don't want to let him down any more.",
+      "meaning": "이젠 더 이상 그를 실망시키고 싶지 않아.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 526,
+      "text": "Let's talk about it over a drink tonight.",
+      "meaning": "저녁에 한잔 하면서 얘기하자.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 527,
+      "text": "I got paid today. I'll treat you to dinner.",
+      "meaning": "오늘 월급 받았어. 내가 너 저녁 사줄게.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 528,
+      "text": "I owe you one. It’s my turn to return the favor.",
+      "meaning": "나 너한테 신세 진 게 있어. 내가 보답할 차례야.",
+      "unit": 22
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 529,
+      "text": "We're running out of gas.",
+      "meaning": "기름이 떨어져 가고 있어.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 530,
+      "text": "I know a gas station on the way.",
+      "meaning": "가는 길에 주유소 알아.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 531,
+      "text": "While we're at it, I should get my car washed.",
+      "meaning": "하는 김에, 세차도 좀 해야겠다.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 532,
+      "text": "You have to make a left at the next light.",
+      "meaning": "다음 신호등에서 좌회전해야 해.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 533,
+      "text": "I need to fill up the tank. We have a long way to go.",
+      "meaning": "탱크에 (기름) 가득 채울 필요가 있겠다. 갈 길이 멀잖아.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 534,
+      "text": "Fill her up, please. Can I get a car wash?",
+      "meaning": "가득 넣어 주세요. 세차 가능할까요?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 535,
+      "text": "I've been out of touch with Jason for months.",
+      "meaning": "제이슨하고 몇 달째 연락이 끊겼어.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 536,
+      "text": "I've texted him a few times. He's in the doghouse.",
+      "meaning": "문자도 몇 번 보냈는데. 걔 완전 찍혔어.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 537,
+      "text": "Let's drop the subject and go out for lunch.",
+      "meaning": "그 얘긴 그만하고 점심이나 먹으러 가자.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 538,
+      "text": "Here comes the food. Let's dig in.",
+      "meaning": "음식 나왔다. 먹자.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 539,
+      "text": "The total comes to $24.",
+      "meaning": "총 24달러입니다.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 540,
+      "text": "Put it on my account, please.",
+      "meaning": "제 장부에 달아 주세요.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 541,
+      "text": "I have a reservation under the name of Jinsu Kim.",
+      "meaning": "김진수라는 이름으로 예약을 했는데요.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 542,
+      "text": "Yes, Sir. Could you fill out this form, please?",
+      "meaning": "네. 이 양식을 좀 작성해 주시겠습니까?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 543,
+      "text": "I'd like a room with an ocean view if possible.",
+      "meaning": "가능하면 바다가 보이는 방으로 주세요.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 544,
+      "text": "Let me check. Okay, we have one. Your room number is 902.",
+      "meaning": "확인해 보겠습니다. 네, 하나 있네요. 방 번호는 902호 입니다.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 545,
+      "text": "Great. Can you give me a wake-up call at 7:00?",
+      "meaning": "좋아요. 7시에 모닝콜 해주시겠어요?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 546,
+      "text": "Sure. I'll have a bellboy carry your luggage to your room.",
+      "meaning": "물론이죠. 벨보이가 짐을 객실로 옮겨드릴 겁니다.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 547,
+      "text": "Can I have an extra towel in my room, please?",
+      "meaning": "제 방에 여분의 수건 하나 더 주시겠어요?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 548,
+      "text": "What's the problem today?",
+      "meaning": "오늘은 어디가 문제인가요?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 549,
+      "text": "This is my first time here. I have a bad cough.",
+      "meaning": "여기 처음인데요. 기침이 심해요.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 550,
+      "text": "Leave your name and phone number, please.",
+      "meaning": "성함과 전화번호 남겨주세요.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 551,
+      "text": "OK. How many parties are ahead of me?",
+      "meaning": "네. 제 앞에 대기자가 몇 명인가요?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 552,
+      "text": "12. Do you want me to put you on the waiting list?",
+      "meaning": "12이요. 대기자 명단에 올려드릴까요?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 553,
+      "text": "Yes, please. How long is the wait?",
+      "meaning": "네, 부탁해요. 얼마나 기다려야 하죠?",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 554,
+      "text": "The way I see it, it should take 30 minutes.",
+      "meaning": "제가 보기엔, 30분 정도 걸릴 것 같아요.",
+      "unit": 23
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 555,
+      "text": "Can I take your order? What can I get for you?",
+      "meaning": "주문 도와드릴까요? 뭘 드릴까요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 556,
+      "text": "I'd like a cheese burger, french fries and a coke.",
+      "meaning": "전 치즈버거 한 개, 감자튀김, 콜라 하나 주세요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 557,
+      "text": "For here or to go?",
+      "meaning": "여기서 드세요, 가져가세요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 558,
+      "text": "To go, please. Take it easy on the onions.",
+      "meaning": "가져갑니다. 양파는 조금만 넣어 주세요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 559,
+      "text": "Will that be all? That'll be $7.50. Enjoy your meal.",
+      "meaning": "그게 전부이신가요? 7달러 50센트입니다. 맛있게 드세요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 560,
+      "text": "I'd like to pay by credit card. Here you go.",
+      "meaning": "카드로 계산할게요. 여기 있어요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 561,
+      "text": "Do you have a reservation?",
+      "meaning": "예약하셨나요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 562,
+      "text": "No. Do you have a table for five?",
+      "meaning": "아뇨, 5명 자리 있나요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 563,
+      "text": "Certainly. Would you like a table or a booth?",
+      "meaning": "물론이죠. 테이블을 원하세요, 칸막이 쪽을 원하세요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 564,
+      "text": "We'd like to sit in a booth. What do you say, honey?",
+      "meaning": "칸막이에 앉을게요. 당신은 어때요, 여보?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 565,
+      "text": "It's all the same to me. Suit yourself.",
+      "meaning": "전 아무래도 괜찮아요. 편할 대로 해요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 566,
+      "text": "Boys, please stay out of trouble and behave yourselves.",
+      "meaning": "얘들아, 말썽 피우지 말고 얌전히 있어라.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 567,
+      "text": "Good afternoon. How may I help you?",
+      "meaning": "(오후)안녕하세요. 뭘 도와드릴까요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 568,
+      "text": "Can I get a refund on this coat?",
+      "meaning": "이 코트 환불 받을 수 있을까요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 569,
+      "text": "I'm afraid it's against our policy to give refunds.",
+      "meaning": "유감스럽게도 환불은 규정에 어긋납니다.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 570,
+      "text": "This is torn. Can I exchange it for another one?",
+      "meaning": "이게 찢어졌어요. 다른 걸로 교환 받을 수 있을까요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 571,
+      "text": "All sales are final. We’re sorry for the inconvenience.",
+      "meaning": "환불/교환 불가입니다. 불편을 드려 죄송합니다.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 572,
+      "text": "I'm so fed up with your service.",
+      "meaning": "당신네 서비스에 완전 질렸어요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 573,
+      "text": "Who came up with this brilliant idea?",
+      "meaning": "누가 이렇게 훌륭한 아이디어를 생각해 냈죠?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 574,
+      "text": "We put our heads together to solve the problem.",
+      "meaning": "우리가 머리를 맞대고 문제를 해결했어요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 575,
+      "text": "Good job. Let's give ourselves a big hand.",
+      "meaning": "잘했어요. 모두에게 큰 박수를 쳐 줍시다.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 576,
+      "text": "Why don't you report it to the boss right away?",
+      "meaning": "사장님께 바로 보고 드리는 건 어때요?",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 577,
+      "text": "He's in a bad mood today. Don't ask for trouble.",
+      "meaning": "그가 오늘 기분이 안 좋아요. 괜한 짓 하지 마세요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 578,
+      "text": "Really? I was barking up the wrong tree.",
+      "meaning": "정말요? 제가 잘못 짚었네요.",
+      "unit": 24
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 579,
+      "text": "My father passed away last week.",
+      "meaning": "지난주에 아버지가 돌아가셨어요.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 580,
+      "text": "I'm so sorry for your loss. I know how you feel.",
+      "meaning": "삼가 조의를 표합니다. 어떤 심정인지 알아요.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 581,
+      "text": "Thank you for your sympathy.",
+      "meaning": "위로해 주셔서 감사해요.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 582,
+      "text": "He was a great man. He had a mind of his own.",
+      "meaning": "그는 훌륭한 분이셨죠. 그는 주관이 뚜렷하셨어요.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 583,
+      "text": "He had to learn the hard way and made it big.",
+      "meaning": "그는 역경을 통해 배워야 했고, 성공하셨어요.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 584,
+      "text": "I've looked up to him since I was young.",
+      "meaning": "전 어렸을 때부터 그 분을 존경했어요.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 585,
+      "text": "The economy is worse now more than ever.",
+      "meaning": "지금 경기가 그 어느 때보다 좋지 않아",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 586,
+      "text": "The job market is horrible to say the least.",
+      "meaning": "일자리 시장은 조금도 과장 없이 최악이야.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 587,
+      "text": "Big companies don't place many ads to hire people.",
+      "meaning": "대기업에서 채용 공고를 많이 내지 않아.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 588,
+      "text": "Some say we have to lower our standards.",
+      "meaning": "어떤 이들은 우리에게 눈높이를 낮추라고 해.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 589,
+      "text": "I think everyone has what it takes to succeed.",
+      "meaning": "난 누구나 성공에 필요한 자질이 있다고 생각해.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 590,
+      "text": "Let's face it. It's too cut-throat these days.",
+      "meaning": "현실을 직시하자. 요즘 경쟁이 너무 치열하다고.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 591,
+      "text": "Did you get good grades in school?",
+      "meaning": "학교 다닐 때 공부 잘했어?",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 592,
+      "text": "Looking back, I was on the dean's list during college.",
+      "meaning": "돌이켜 보니, 대학 다닐 때, 나 우등생 명단에 있었지.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 593,
+      "text": "You were an honor student? Don't make me laugh.",
+      "meaning": "네가 모범생이었다고? 웃기지 마.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 594,
+      "text": "OK, but good grades don't put food on the table.",
+      "meaning": "알았어, 하지만 좋은 성적이 밥 먹여 주는 건 아니잖아.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 595,
+      "text": "There's nothing like studying hard as a student.",
+      "meaning": "학생 때는 공부를 열심히 하는 게 최고지.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 596,
+      "text": "I think the point is that I missed the boat in life.",
+      "meaning": "핵심은 내가 인생의 기회를 놓쳤다는 거지.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 597,
+      "text": "Let's go ahead with this plan. We can manage.",
+      "meaning": "이 계획 추진하자. 그럭저럭 해낼 수 있어.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 598,
+      "text": "With your track record, I don't think we can pull it off.",
+      "meaning": "너의 전적을 봐서는, 내 생각에 우린 못할 것 같아.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 599,
+      "text": "Come on! Don't be such a chicken!",
+      "meaning": "왜 이래! 겁쟁이처럼 굴지 마.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 600,
+      "text": "All I'm saying is we need something to turn to.",
+      "meaning": "내 말은 우리 기댈 수 있는 뭔가가 필요해.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 601,
+      "text": "OK. If you insist, let's meet halfway.",
+      "meaning": "좋아. 정 그렇다면, 절반씩 양보하자.",
+      "unit": 25
+    },
+    {
+      "chapter": "Conversation",
+      "serial": 602,
+      "text": "Be serious. It's no laughing matter.",
+      "meaning": "좀 진지하라고. 웃을 일이 아니야.",
+      "unit": 25
+    }
+  ]
+}
