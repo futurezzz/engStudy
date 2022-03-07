@@ -40,8 +40,8 @@
 .main-unit-list {
   display: flex;
   align-items: center;
-  width: 500px;
-  height: 100px;
+  /* width: 500px; */
+  height: 80px;
   user-select: none;
   cursor: pointer;
   /* margin: 10px; */
@@ -51,9 +51,10 @@
 
 .list {
   list-style: none;
-  flex: 1 0 120px;
+  flex: 1 0 100px;
   height: 50px;
   margin: 3px;
+  font-size: 14px;
   text-align: center;
   line-height: 50px;
   border-radius: 5px;
@@ -146,7 +147,7 @@
 }
 
 .signIn {
-  width: 300px;
+  width: 200px;
   height: 40px;
   margin-top: 30px;
   text-align: center;
@@ -161,7 +162,7 @@
 .change-user {
   position: relative;
   top: -35px;
-  left: 220px;
+  left: 130px;
   width: 35px;
   height: 35px;
   background-color: rgb(45, 150, 192);
@@ -186,6 +187,12 @@
 
 @media screen and (min-width: 768px) {
   
+
+.list {
+  flex: 1 0 120px;
+  font-size: 17px;
+}
+
 .main-unit-list {
   width: 800px;
   overflow-x:auto;
@@ -193,6 +200,15 @@
   .sub-unit-list {
     grid-template-columns: repeat(5,1fr);
 }
+
+.signIn {
+  width: 300px;
+}
+
+.change-user {
+  left: 200px;
+}
+
 
 .calender-unit-list {
   gap: 5px;
