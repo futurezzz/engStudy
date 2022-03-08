@@ -6,6 +6,8 @@ const userBox = document.querySelector('.user');
 const signIn = document.querySelector('.signIn');
 const changeUser = document.querySelector('.change-user');
 const mainUnit = document.querySelector('.main-unit');
+let elem;
+let unitNo;
 let today = new Date();
 let thisMonth = `${today.getFullYear()}/${today.getMonth()+1}`;
 let user;
@@ -37,6 +39,7 @@ userBox.addEventListener('click', (e)=>{
   }
 });
 
+
   changeUser.addEventListener('click',()=>{
     if (user == 'SkyShim'){
       user = 'Lamon'
@@ -62,13 +65,11 @@ mainChapter.addEventListener('click', (e)=> {
   }
 })
 
-
-subUnitList.addEventListener('click',(e)=>{
-  let elem = e.target.classList;
-  let isAvailable = elem.contains("unit"); //빈공간이 아닌 버튼을 눌렀으면 true
+function transferData(){
+  let isAvailable = elem.classList.contains("unit"); //빈공간이 아닌 버튼을 눌렀으면 true
   if(isAvailable){
-    elem.add('unit-on');
-    const unitNo = e.target.dataset.unit;
+    elem.classList.add('unit-on');
+    unitNo = elem.dataset.unit;
     localStorage.setItem("user",user);
     localStorage.setItem("unit",unitNo);
     localStorage.setItem("chapter",chapter);
@@ -79,7 +80,7 @@ subUnitList.addEventListener('click',(e)=>{
     } else { window.location.href = "quiz.html";
     }
   }
-})
+}
 
 
 //main

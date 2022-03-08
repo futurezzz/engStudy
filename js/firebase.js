@@ -33,10 +33,13 @@ userBox.addEventListener('click', (e)=>{
 mainChapter.addEventListener('click',(e)=>{
   if(user){
     SelectData();
-    SelectTodayData();
   }
 })
 
+subUnitList.addEventListener('click',(e)=>{
+  elem = e.target;
+  SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
+})
 
 signIn.addEventListener('click',()=>{
   SelectCalendarData();
@@ -86,6 +89,7 @@ async function SelectCalendarData(){
           .catch((error)=>{
             alert("unsuccessful, error" + error);
           });
+          await transferData();
         }
     
 
