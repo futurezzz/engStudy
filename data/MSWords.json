@@ -1,0 +1,7705 @@
+{
+  "items":
+  [
+    {
+      "chapter": "MSWords",
+      "serial": 1,
+      "text": "deserve",
+      "meaning": "~할 가치가 있다.",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 2,
+      "text": "survive",
+      "meaning": "살아남다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 3,
+      "text": "create",
+      "meaning": "창조하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 4,
+      "text": "describe",
+      "meaning": "묘사하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 5,
+      "text": "blame",
+      "meaning": "비난하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 6,
+      "text": "compare",
+      "meaning": "비교하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 7,
+      "text": "examine",
+      "meaning": "시험하다. 진찰하다.",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 8,
+      "text": "select",
+      "meaning": "고르다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 9,
+      "text": "hesitate",
+      "meaning": "망설이다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 10,
+      "text": "declare",
+      "meaning": "선언하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 11,
+      "text": "pretend",
+      "meaning": "~인 체하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 12,
+      "text": "struggle",
+      "meaning": "분투하다. 싸우다.",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 13,
+      "text": "explore",
+      "meaning": "탐험하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 14,
+      "text": "slip",
+      "meaning": "미끄러지다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 15,
+      "text": "astonish",
+      "meaning": "놀라게 하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 16,
+      "text": "disappoint",
+      "meaning": "실망시키다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 17,
+      "text": "attract",
+      "meaning": "(관심을)끌다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 18,
+      "text": "celebrate",
+      "meaning": "축하하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 19,
+      "text": "explode",
+      "meaning": "폭발하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 20,
+      "text": "include",
+      "meaning": "포함하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 21,
+      "text": "exclude",
+      "meaning": "제외하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 22,
+      "text": "protect",
+      "meaning": "보호하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 23,
+      "text": "introduce",
+      "meaning": "소개하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 24,
+      "text": "produce",
+      "meaning": "생산하다",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 25,
+      "text": "chase",
+      "meaning": "쫓다. 추적",
+      "unit": 1
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 26,
+      "text": "invade",
+      "meaning": "침입하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 27,
+      "text": "scratch",
+      "meaning": "할퀴다. 긁다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 28,
+      "text": "crash",
+      "meaning": "충돌하다. 무너지다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 29,
+      "text": "stare",
+      "meaning": "응시하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 30,
+      "text": "scare",
+      "meaning": "위협하다. 놀라다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 31,
+      "text": "grab",
+      "meaning": "움켜잡다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 32,
+      "text": "gaze",
+      "meaning": "바라보다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 33,
+      "text": "guard",
+      "meaning": "지키다. 경비원",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 34,
+      "text": "discuss",
+      "meaning": "토론하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 35,
+      "text": "shrug",
+      "meaning": "어깨를 으쓱하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 36,
+      "text": "sniff",
+      "meaning": "냄새 맡다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 37,
+      "text": "scream",
+      "meaning": "날카롭게 소리치다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 38,
+      "text": "rid",
+      "meaning": "제거하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 39,
+      "text": "surround",
+      "meaning": "둘러싸다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 40,
+      "text": "affect",
+      "meaning": "영향을 주다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 41,
+      "text": "carve",
+      "meaning": "새기다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 42,
+      "text": "invent",
+      "meaning": "발명하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 43,
+      "text": "search",
+      "meaning": "찾다. 수색",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 44,
+      "text": "abuse",
+      "meaning": "남용하다. 학대하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 45,
+      "text": "owe",
+      "meaning": "신세 지다. 빚이 있다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 46,
+      "text": "bless",
+      "meaning": "축복하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 47,
+      "text": "graduate",
+      "meaning": "졸업하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 48,
+      "text": "replace",
+      "meaning": "제자리에 놓다. 대신하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 49,
+      "text": "collect",
+      "meaning": "모으다. 수집하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 50,
+      "text": "arrest",
+      "meaning": "체포하다",
+      "unit": 2
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 51,
+      "text": "prove",
+      "meaning": "증명하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 52,
+      "text": "yell",
+      "meaning": "외치다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 53,
+      "text": "leak",
+      "meaning": "새다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 54,
+      "text": "behave",
+      "meaning": "행동하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 55,
+      "text": "wrap",
+      "meaning": "싸다. 포장하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 56,
+      "text": "locate",
+      "meaning": "위치하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 57,
+      "text": "charge",
+      "meaning": "청구하다. 책임",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 58,
+      "text": "review",
+      "meaning": "복습하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 59,
+      "text": "refuse",
+      "meaning": "거절하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 60,
+      "text": "complain",
+      "meaning": "불평하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 61,
+      "text": "warn",
+      "meaning": "경고하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 62,
+      "text": "bend",
+      "meaning": "구부리다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 63,
+      "text": "suffer",
+      "meaning": "겪다. 괴로워하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 64,
+      "text": "whisper",
+      "meaning": "속삭이다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 65,
+      "text": "prepare",
+      "meaning": "준비하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 66,
+      "text": "roar",
+      "meaning": "으르렁거리다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 67,
+      "text": "float",
+      "meaning": "뜨다. 띄우다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 68,
+      "text": "drag",
+      "meaning": "질질 끌다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 69,
+      "text": "overhear",
+      "meaning": "엿듣다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 70,
+      "text": "slide",
+      "meaning": "미끄러지다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 71,
+      "text": "suck",
+      "meaning": "빨아들이다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 72,
+      "text": "bother",
+      "meaning": "괴롭히다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 73,
+      "text": "treat",
+      "meaning": "다루다. 대우하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 74,
+      "text": "destroy",
+      "meaning": "파괴하다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 75,
+      "text": "accept",
+      "meaning": "받아들이다",
+      "unit": 3
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 76,
+      "text": "depend",
+      "meaning": "의지하다. ~에 달려있다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 77,
+      "text": "nod",
+      "meaning": "끄덕이다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 78,
+      "text": "remove",
+      "meaning": "옮기다. 치우다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 79,
+      "text": "beat",
+      "meaning": "때리다. 이기다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 80,
+      "text": "clap",
+      "meaning": "(손뼉을) 치다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 81,
+      "text": "feed",
+      "meaning": "먹이를 주다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 82,
+      "text": "obtain",
+      "meaning": "얻다(=get, win)",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 83,
+      "text": "drown",
+      "meaning": "(물에) 빠져 죽다. 빠지다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 84,
+      "text": "remind",
+      "meaning": "생각나게 하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 85,
+      "text": "occur",
+      "meaning": "(일이)발생하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 86,
+      "text": "ache",
+      "meaning": "아프다. 아픔",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 87,
+      "text": "repeat",
+      "meaning": "되풀이하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 88,
+      "text": "sigh",
+      "meaning": "한숨 쉬다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 89,
+      "text": "pray",
+      "meaning": "빌다. 기도하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 90,
+      "text": "follow",
+      "meaning": "따르다. 따라가다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 91,
+      "text": "hate",
+      "meaning": "미워하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 92,
+      "text": "frighten",
+      "meaning": "깜짝 놀라게 하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 93,
+      "text": "shout",
+      "meaning": "외치다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 94,
+      "text": "mention",
+      "meaning": "말하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 95,
+      "text": "waste",
+      "meaning": "낭비하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 96,
+      "text": "borrow",
+      "meaning": "빌리다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 97,
+      "text": "complete",
+      "meaning": "완성하다. 완전한",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 98,
+      "text": "earn",
+      "meaning": "일하여 벌다. 얻다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 99,
+      "text": "exist",
+      "meaning": "존재하다",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 100,
+      "text": "boast",
+      "meaning": "뽐내다. 자랑하다. 자랑",
+      "unit": 4
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 101,
+      "text": "culture",
+      "meaning": "문화. 교양",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 102,
+      "text": "experience",
+      "meaning": "경험",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 103,
+      "text": "education",
+      "meaning": "교육",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 104,
+      "text": "symbol",
+      "meaning": "상징",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 105,
+      "text": "effect",
+      "meaning": "영향. 효과",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 106,
+      "text": "liberty",
+      "meaning": "자유",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 107,
+      "text": "affair",
+      "meaning": "사건. 일",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 108,
+      "text": "comfort",
+      "meaning": "안락. 위안",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 109,
+      "text": "tradition",
+      "meaning": "전통. 풍습",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 110,
+      "text": "source",
+      "meaning": "출처. 근원",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 111,
+      "text": "revolution",
+      "meaning": "혁명",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 112,
+      "text": "pollution",
+      "meaning": "오염",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 113,
+      "text": "system",
+      "meaning": "조직. 체계",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 114,
+      "text": "triumph",
+      "meaning": "승리",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 115,
+      "text": "respect",
+      "meaning": "존경. 존경하다",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 116,
+      "text": "communication",
+      "meaning": "의사소통. 전달. 교통",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 117,
+      "text": "foundation",
+      "meaning": "기초. 근거. 설립",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 118,
+      "text": "glory",
+      "meaning": "영광",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 119,
+      "text": "situation",
+      "meaning": "위치. 상황",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 120,
+      "text": "competition",
+      "meaning": "경쟁",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 121,
+      "text": "effort",
+      "meaning": "노력",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 122,
+      "text": "section",
+      "meaning": "부분. 구역",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 123,
+      "text": "solution",
+      "meaning": "해결. 용해",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 124,
+      "text": "honor",
+      "meaning": "명예. 경의. 존경하다",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 125,
+      "text": "unity",
+      "meaning": "통합. 일치",
+      "unit": 5
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 126,
+      "text": "population",
+      "meaning": "인구",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 127,
+      "text": "direction",
+      "meaning": "방향. 지시",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 128,
+      "text": "dialog",
+      "meaning": "대화",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 129,
+      "text": "republic",
+      "meaning": "공화국",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 130,
+      "text": "method",
+      "meaning": "방법",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 131,
+      "text": "increase",
+      "meaning": "증가. 증가하다",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 132,
+      "text": "decrease",
+      "meaning": "감소. 감소하다",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 133,
+      "text": "amount",
+      "meaning": "총액",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 134,
+      "text": "prairie",
+      "meaning": "대초원",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 135,
+      "text": "ancestor",
+      "meaning": "조상. 선조",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 136,
+      "text": "voyage",
+      "meaning": "항해. 여행. 항해하다",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 137,
+      "text": "sculpture",
+      "meaning": "조각(품)",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 138,
+      "text": "sculptor",
+      "meaning": "조각가",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 139,
+      "text": "instrument",
+      "meaning": "기구",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 140,
+      "text": "activity",
+      "meaning": "활동",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 141,
+      "text": "fund",
+      "meaning": "기금",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 142,
+      "text": "accident",
+      "meaning": "사고. 뜻밖의 사건",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 143,
+      "text": "adventure",
+      "meaning": "모험",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 144,
+      "text": "view",
+      "meaning": "경치. 의견",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 145,
+      "text": "superstition",
+      "meaning": "미신",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 146,
+      "text": "habit",
+      "meaning": "습관. 버릇",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 147,
+      "text": "wealth",
+      "meaning": "재산. 부",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 148,
+      "text": "treasure",
+      "meaning": "보물",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 149,
+      "text": "universe",
+      "meaning": "우주. 전세계",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 150,
+      "text": "adult",
+      "meaning": "어른",
+      "unit": 6
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 151,
+      "text": "feast",
+      "meaning": "축제. 향연. 잔치",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 152,
+      "text": "resource",
+      "meaning": "(~s)자원. 수단",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 153,
+      "text": "ruin",
+      "meaning": "파멸. (~s)폐허. 파멸시키다",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 154,
+      "text": "monument",
+      "meaning": "기념비. 기념물",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 155,
+      "text": "information",
+      "meaning": "정보. 지식",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 156,
+      "text": "appetite",
+      "meaning": "식욕",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 157,
+      "text": "unification",
+      "meaning": "통일",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 158,
+      "text": "mystery",
+      "meaning": "신비. 불가사의",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 159,
+      "text": "wage",
+      "meaning": "임금. (전투를) 벌이다",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 160,
+      "text": "thermometer",
+      "meaning": "온도계",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 161,
+      "text": "burden",
+      "meaning": "짐. 짐을 지우다",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 162,
+      "text": "series",
+      "meaning": "연속. 시리즈",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 163,
+      "text": "appointment",
+      "meaning": "임명. 약속",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 164,
+      "text": "clue",
+      "meaning": "실마리. 단서",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 165,
+      "text": "debt",
+      "meaning": "빚. 은혜",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 166,
+      "text": "hydrogen",
+      "meaning": "수소",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 167,
+      "text": "oxygen",
+      "meaning": "산소",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 168,
+      "text": "control",
+      "meaning": "통제. 지배",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 169,
+      "text": "uniform",
+      "meaning": "제복. 같은 모양의",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 170,
+      "text": "design",
+      "meaning": "계획. 설계. 디자인하다",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 171,
+      "text": "damage",
+      "meaning": "손해. 손상",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 172,
+      "text": "custom",
+      "meaning": "관습. 습관",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 173,
+      "text": "traffic",
+      "meaning": "교통",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 174,
+      "text": "oath",
+      "meaning": "맹세. 선서",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 175,
+      "text": "sophomore",
+      "meaning": "2학년생",
+      "unit": 7
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 176,
+      "text": "temperature",
+      "meaning": "온도",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 177,
+      "text": "limit",
+      "meaning": "제한. 한계. 제한하다",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 178,
+      "text": "statue",
+      "meaning": "조각상",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 179,
+      "text": "furniture",
+      "meaning": "가구",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 180,
+      "text": "parade",
+      "meaning": "행렬",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 181,
+      "text": "public",
+      "meaning": "공공의. 공중의. 공중(사회)",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 182,
+      "text": "pilgrim",
+      "meaning": "순례자",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 183,
+      "text": "greeting",
+      "meaning": "인사. 축하",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 184,
+      "text": "language",
+      "meaning": "언어",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 185,
+      "text": "opinion",
+      "meaning": "의견",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 186,
+      "text": "athlete",
+      "meaning": "운동선수",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 187,
+      "text": "supply",
+      "meaning": "공급. 공급하다",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 188,
+      "text": "surface",
+      "meaning": "표면. 표면의",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 189,
+      "text": "electricity",
+      "meaning": "전기",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 190,
+      "text": "spirit",
+      "meaning": "정신",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 191,
+      "text": "purpose",
+      "meaning": "목적",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 192,
+      "text": "passion",
+      "meaning": "열정",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 193,
+      "text": "project",
+      "meaning": "프로젝트. 계획하다",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 194,
+      "text": "government",
+      "meaning": "정부. 정치",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 195,
+      "text": "interest",
+      "meaning": "이익. 흥미",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 196,
+      "text": "funeral",
+      "meaning": "장례식",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 197,
+      "text": "senior",
+      "meaning": "선배. 연장자. 손위의",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 198,
+      "text": "junior",
+      "meaning": "후배. 손아래의",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 199,
+      "text": "democracy",
+      "meaning": "민주주의",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 200,
+      "text": "general",
+      "meaning": "장군",
+      "unit": 8
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 201,
+      "text": "admiral",
+      "meaning": "해군 대장. 제독",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 202,
+      "text": "edge",
+      "meaning": "모서리. 날. 가장자리",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 203,
+      "text": "biology",
+      "meaning": "생물학",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 204,
+      "text": "danger",
+      "meaning": "위험",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 205,
+      "text": "advice",
+      "meaning": "충고",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 206,
+      "text": "mammal",
+      "meaning": "포유동물",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 207,
+      "text": "grade",
+      "meaning": "등급. 학년",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 208,
+      "text": "pause",
+      "meaning": "중지. 멈추다",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 209,
+      "text": "pronunciation",
+      "meaning": "발음",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 210,
+      "text": "stress",
+      "meaning": "강조. 압박",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 211,
+      "text": "contest",
+      "meaning": "경기. 경쟁",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 212,
+      "text": "horizon",
+      "meaning": "수평선. 지평선",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 213,
+      "text": "principal",
+      "meaning": "교장. 주요한",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 214,
+      "text": "trouble",
+      "meaning": "근심. 곤란. 수고를 끼치다",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 215,
+      "text": "scar",
+      "meaning": "상처. 흔적",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 216,
+      "text": "balance",
+      "meaning": "균형. 균형을 유지하다",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 217,
+      "text": "proverb",
+      "meaning": "속담. 격언",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 218,
+      "text": "individual",
+      "meaning": "개인. 개인의",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 219,
+      "text": "character",
+      "meaning": "특성. 인격. 인물",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 220,
+      "text": "environment",
+      "meaning": "환경",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 221,
+      "text": "victory",
+      "meaning": "승리",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 222,
+      "text": "talent",
+      "meaning": "재능. 재주",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 223,
+      "text": "semester",
+      "meaning": "학기",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 224,
+      "text": "election",
+      "meaning": "선거",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 225,
+      "text": "inning",
+      "meaning": "(야구) 회",
+      "unit": 9
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 226,
+      "text": "hollow",
+      "meaning": "구덩이. 속이 빈",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 227,
+      "text": "virtue",
+      "meaning": "미덕. 장점",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 228,
+      "text": "cemetery",
+      "meaning": "묘지",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 229,
+      "text": "relay",
+      "meaning": "교대. 교대하다",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 230,
+      "text": "exchange",
+      "meaning": "교환. 교환하다",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 231,
+      "text": "merchant",
+      "meaning": "상인",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 232,
+      "text": "saying",
+      "meaning": "격언. 속담",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 233,
+      "text": "refrigerator",
+      "meaning": "냉장고",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 234,
+      "text": "crack",
+      "meaning": "갈라진 금. 금 가게 하다",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 235,
+      "text": "judge",
+      "meaning": "재판관. 재판하다",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 236,
+      "text": "slave",
+      "meaning": "노예",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 237,
+      "text": "settler",
+      "meaning": "정착민",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 238,
+      "text": "fare",
+      "meaning": "요금",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 239,
+      "text": "gesture",
+      "meaning": "몸짓. 손짓",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 240,
+      "text": "planet",
+      "meaning": "행성",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 241,
+      "text": "type",
+      "meaning": "유형. 활자. 타이프를 치다",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 242,
+      "text": "secretary",
+      "meaning": "비서",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 243,
+      "text": "devil",
+      "meaning": "악마",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 244,
+      "text": "scholar",
+      "meaning": "학자",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 245,
+      "text": "pardon",
+      "meaning": "용서. 용서하다",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 246,
+      "text": "kindergarten",
+      "meaning": "유치원",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 247,
+      "text": "detective",
+      "meaning": "탐정. 탐정의",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 248,
+      "text": "license",
+      "meaning": "면허(증)",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 249,
+      "text": "palace",
+      "meaning": "궁전",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 250,
+      "text": "spade",
+      "meaning": "삽",
+      "unit": 10
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 251,
+      "text": "square",
+      "meaning": "정사각형. 광장",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 252,
+      "text": "fountain pen",
+      "meaning": "만년필",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 253,
+      "text": "harvest",
+      "meaning": "수확. 추수. 수확하다",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 254,
+      "text": "tool",
+      "meaning": "도구",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 255,
+      "text": "sword",
+      "meaning": "칼. 검",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 256,
+      "text": "magazine",
+      "meaning": "잡지",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 257,
+      "text": "stadium",
+      "meaning": "경기장. 스타디움",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 258,
+      "text": "care",
+      "meaning": "돌봄. 조심. 상관하다. 돌보다",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 259,
+      "text": "beauty",
+      "meaning": "아름다움",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 260,
+      "text": "museum",
+      "meaning": "박물관",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 261,
+      "text": "congratulation",
+      "meaning": "축하",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 262,
+      "text": "memory",
+      "meaning": "기억(력)",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 263,
+      "text": "delight",
+      "meaning": "기쁨. 즐거움",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 264,
+      "text": "passenger",
+      "meaning": "승객",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 265,
+      "text": "skill",
+      "meaning": "기술. 솜씨",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 266,
+      "text": "journey",
+      "meaning": "여행(=travel)",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 267,
+      "text": "ceremony",
+      "meaning": "의식 (시상식.개막식 등)",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 268,
+      "text": "hobby",
+      "meaning": "취미",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 269,
+      "text": "president",
+      "meaning": "대통령. 사장. 회장",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 270,
+      "text": "address",
+      "meaning": "주소. 주소를 쓰다",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 271,
+      "text": "continent",
+      "meaning": "대륙",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 272,
+      "text": "mankind",
+      "meaning": "인류",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 273,
+      "text": "giant",
+      "meaning": "거대한",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 274,
+      "text": "site",
+      "meaning": "부지. 위치. 장소",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 275,
+      "text": "marble",
+      "meaning": "대리석. (아이들)구슬",
+      "unit": 11
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 276,
+      "text": "stem",
+      "meaning": "(식물)줄기",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 277,
+      "text": "torch",
+      "meaning": "횃불",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 278,
+      "text": "composer",
+      "meaning": "작곡가",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 279,
+      "text": "trick",
+      "meaning": "계략. 속임수. 장난",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 280,
+      "text": "flight",
+      "meaning": "비행",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 281,
+      "text": "castle",
+      "meaning": "성. 궁전",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 282,
+      "text": "envelope",
+      "meaning": "봉투",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 283,
+      "text": "pal",
+      "meaning": "친구(=friend)",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 284,
+      "text": "vacation",
+      "meaning": "휴가",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 285,
+      "text": "desert",
+      "meaning": "사막. 버리다",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 286,
+      "text": "event",
+      "meaning": "사건. 행사",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 287,
+      "text": "theater",
+      "meaning": "극장",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 288,
+      "text": "stage",
+      "meaning": "단계. 무대",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 289,
+      "text": "error",
+      "meaning": "잘못. 과오",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 290,
+      "text": "area",
+      "meaning": "지역. 면적",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 291,
+      "text": "base",
+      "meaning": "기초. 토대. 기초를 두다",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 292,
+      "text": "basement",
+      "meaning": "지하실",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 293,
+      "text": "evil",
+      "meaning": "악. 나쁜",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 294,
+      "text": "atom",
+      "meaning": "원자",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 295,
+      "text": "poet",
+      "meaning": "시인",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 296,
+      "text": "mind",
+      "meaning": "마음. 생각. 걱정하다. 싫어하다",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 297,
+      "text": "climate",
+      "meaning": "기후. 풍토",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 298,
+      "text": "suburb",
+      "meaning": "교외. 외곽",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 299,
+      "text": "throat",
+      "meaning": "목구멍",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 300,
+      "text": "voice",
+      "meaning": "목소리",
+      "unit": 12
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 301,
+      "text": "valley",
+      "meaning": "골짜리. 계곡",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 302,
+      "text": "Puritan",
+      "meaning": "청교도. 청교도의",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 303,
+      "text": "feather",
+      "meaning": "깃털",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 304,
+      "text": "amateur",
+      "meaning": "아마추어. 비전문가",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 305,
+      "text": "nation",
+      "meaning": "국가. 국민",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 306,
+      "text": "puzzle",
+      "meaning": "퍼즐. 당황하게 하다",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 307,
+      "text": "rear",
+      "meaning": "뒤쪽. 기르다",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 308,
+      "text": "battle",
+      "meaning": "전투. 싸움",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 309,
+      "text": "riddle",
+      "meaning": "수수께끼",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 310,
+      "text": "laundry",
+      "meaning": "세탁물. 세탁소",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 311,
+      "text": "shower",
+      "meaning": "샤워. 소나기",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 312,
+      "text": "navy",
+      "meaning": "해군 대장. 제독",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 313,
+      "text": "Mars",
+      "meaning": "화성",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 314,
+      "text": "gallery",
+      "meaning": "화랑. 미술관",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 315,
+      "text": "guest",
+      "meaning": "손님",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 316,
+      "text": "folk",
+      "meaning": "(~s)사람들. 가족",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 317,
+      "text": "problem",
+      "meaning": "문제",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 318,
+      "text": "jewel",
+      "meaning": "보석",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 319,
+      "text": "garage",
+      "meaning": "차고",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 320,
+      "text": "fault",
+      "meaning": "결점. 잘못",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 321,
+      "text": "lantern",
+      "meaning": "랜턴",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 322,
+      "text": "import",
+      "meaning": "수입. 수입하다",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 323,
+      "text": "export",
+      "meaning": "수출. 수출하다",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 324,
+      "text": "angle",
+      "meaning": "각도. 관점",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 325,
+      "text": "petal",
+      "meaning": "꽃잎",
+      "unit": 13
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 326,
+      "text": "stripe",
+      "meaning": "줄무늬",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 327,
+      "text": "pulse",
+      "meaning": "맥박",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 328,
+      "text": "powder",
+      "meaning": "가루",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 329,
+      "text": "flood",
+      "meaning": "홍수. 넘쳐흐르다",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 330,
+      "text": "bush",
+      "meaning": "수풀. 덤불",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 331,
+      "text": "branch",
+      "meaning": "가지. 지점",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 332,
+      "text": "hero",
+      "meaning": "영웅. (남자)주인공",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 333,
+      "text": "heaven",
+      "meaning": "천국. 하늘",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 334,
+      "text": "exit",
+      "meaning": "출구",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 335,
+      "text": "beast",
+      "meaning": "짐승",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 336,
+      "text": "century",
+      "meaning": "세기. 100년",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 337,
+      "text": "coeducation",
+      "meaning": "남녀공학",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 338,
+      "text": "twin",
+      "meaning": "쌍둥이 한 명. (~s)쌍둥이",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 339,
+      "text": "wound",
+      "meaning": "상처. 상처를 입히다",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 340,
+      "text": "metal",
+      "meaning": "금속",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 341,
+      "text": "insect",
+      "meaning": "곤충",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 342,
+      "text": "track",
+      "meaning": "지나간 자국. 선로",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 343,
+      "text": "excellent",
+      "meaning": "뛰어난. 우수한",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 344,
+      "text": "competent",
+      "meaning": "능숙한. 유능한. 권한",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 345,
+      "text": "religious",
+      "meaning": "종교적인",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 346,
+      "text": "worth",
+      "meaning": "가치 있는. 가치",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 347,
+      "text": "favorite",
+      "meaning": "아주 좋아하는. 마음에 드는",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 348,
+      "text": "upset",
+      "meaning": "기분이 상한. 화난",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 349,
+      "text": "entire",
+      "meaning": "전체의(=whole)",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 350,
+      "text": "primary",
+      "meaning": "주요한. 기본의. 초등교육의",
+      "unit": 14
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 351,
+      "text": "similar",
+      "meaning": "비슷한. 같은 모양의",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 352,
+      "text": "precious",
+      "meaning": "귀중한",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 353,
+      "text": "normal",
+      "meaning": "정상의. 보통의",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 354,
+      "text": "relative",
+      "meaning": "상대적인. 친척",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 355,
+      "text": "popular",
+      "meaning": "인기 있는. 유행의",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 356,
+      "text": "compulsory",
+      "meaning": "의무적인. 필수적인",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 357,
+      "text": "curious",
+      "meaning": "호기심이 강한",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 358,
+      "text": "independent",
+      "meaning": "독립의",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 359,
+      "text": "intimate",
+      "meaning": "친밀한",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 360,
+      "text": "delicious",
+      "meaning": "맛있는",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 361,
+      "text": "valuable",
+      "meaning": "귀중한",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 362,
+      "text": "grave",
+      "meaning": "중대한. 무덤",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 363,
+      "text": "elementary",
+      "meaning": "초등의(학교). 초보의",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 364,
+      "text": "crazy",
+      "meaning": "미친. 열광적인",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 365,
+      "text": "contrary",
+      "meaning": "반대의. 반대",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 366,
+      "text": "regular",
+      "meaning": "규칙적인",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 367,
+      "text": "social",
+      "meaning": "사회의. 사회적인",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 368,
+      "text": "straight",
+      "meaning": "똑바른",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 369,
+      "text": "noble",
+      "meaning": "고귀한. 고상한",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 370,
+      "text": "anxious",
+      "meaning": "걱정되는. 열망하는",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 371,
+      "text": "international",
+      "meaning": "국제적인",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 372,
+      "text": "greedy",
+      "meaning": "탐욕스러운",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 373,
+      "text": "stupid",
+      "meaning": "어리석은. 멍청한",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 374,
+      "text": "silly",
+      "meaning": "우스꽝스런. 유치한. 철없는",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 375,
+      "text": "lonely",
+      "meaning": "외로운. 쓸쓸한",
+      "unit": 15
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 376,
+      "text": "dirty",
+      "meaning": "더러운. 더럽히다",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 377,
+      "text": "various",
+      "meaning": "다양한. 여러가지의",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 378,
+      "text": "private",
+      "meaning": "개인의. 사적인",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 379,
+      "text": "vain",
+      "meaning": "헛된. 무익한. 허영심이 강한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 380,
+      "text": "sore",
+      "meaning": "아픈. 상처",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 381,
+      "text": "fierce",
+      "meaning": "사나운. 맹렬한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 382,
+      "text": "firm",
+      "meaning": "굳은. 견고한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 383,
+      "text": "solar",
+      "meaning": "태양의",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 384,
+      "text": "smart",
+      "meaning": "영리한. 멋진",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 385,
+      "text": "single",
+      "meaning": "한 하나의. 독신의",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 386,
+      "text": "diligent",
+      "meaning": "부지런한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 387,
+      "text": "serious",
+      "meaning": "진지한. 심각한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 388,
+      "text": "fresh",
+      "meaning": "새로운. 신선한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 389,
+      "text": "empty",
+      "meaning": "빈",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 390,
+      "text": "mild",
+      "meaning": "온화한. 상냥한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 391,
+      "text": "amazing",
+      "meaning": "놀라운",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 392,
+      "text": "charming",
+      "meaning": "매력적인(=attractive)",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 393,
+      "text": "boring",
+      "meaning": "지루한. 따분한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 394,
+      "text": "patient",
+      "meaning": "참을성 잇는. 환자",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 395,
+      "text": "huge",
+      "meaning": "거대한",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 396,
+      "text": "tiny",
+      "meaning": "아주 작은",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 397,
+      "text": "tough",
+      "meaning": "단단한. 어려운. 질린",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 398,
+      "text": "foreign",
+      "meaning": "외국의",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 399,
+      "text": "modern",
+      "meaning": "현대의",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 400,
+      "text": "expensive",
+      "meaning": "값비싼",
+      "unit": 16
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 401,
+      "text": "harmful",
+      "meaning": "해로운",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 402,
+      "text": "calm",
+      "meaning": "평온한. 침착한",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 403,
+      "text": "special",
+      "meaning": "특별한",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 404,
+      "text": "familiar",
+      "meaning": "친한. 잘 알고 있는",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 405,
+      "text": "nervous",
+      "meaning": "초초한. 겁을 잘 먹는",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 406,
+      "text": "brave",
+      "meaning": "용감한",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 407,
+      "text": "steady",
+      "meaning": "꾸준한. 한결같은",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 408,
+      "text": "except",
+      "meaning": "~을 제외하고. 제외하다",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 409,
+      "text": "hardly",
+      "meaning": "거의 ~ 아니다",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 410,
+      "text": "otherwise",
+      "meaning": "그렇지 않으면",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 411,
+      "text": "however",
+      "meaning": "그러나. 아무리~해도",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 412,
+      "text": "together",
+      "meaning": "함께",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 413,
+      "text": "ahead",
+      "meaning": "앞에. 미리. 앞선",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 414,
+      "text": "instead",
+      "meaning": "그 대신에",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 415,
+      "text": "quite",
+      "meaning": "매우. 아주",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 416,
+      "text": "almost",
+      "meaning": "거의",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 417,
+      "text": "forward",
+      "meaning": "앞으로. 앞쪽에. 앞으로 가는",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 418,
+      "text": "since",
+      "meaning": "~이래. ~부터",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 419,
+      "text": "once",
+      "meaning": "한 번. 한 때.~하게 되면",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 420,
+      "text": "whether",
+      "meaning": "~인지 어떤지",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 421,
+      "text": "unless",
+      "meaning": "~하지 않으면",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 422,
+      "text": "though",
+      "meaning": "비록 ~이지만",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 423,
+      "text": "while",
+      "meaning": "~하는 동안",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 424,
+      "text": "usually",
+      "meaning": "보통. 대게",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 425,
+      "text": "along",
+      "meaning": "~을 따라서",
+      "unit": 17
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 426,
+      "text": "without",
+      "meaning": "~없이",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 427,
+      "text": "behind",
+      "meaning": "~의 뒤에. 뒤에",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 428,
+      "text": "beyond",
+      "meaning": "~을 넘어서. ~의 너머에",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 429,
+      "text": "below",
+      "meaning": "~의 아래에",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 430,
+      "text": "toward",
+      "meaning": "~쪽으로",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 431,
+      "text": "explain",
+      "meaning": "설명하다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 432,
+      "text": "wear",
+      "meaning": "입다. 착용하다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 433,
+      "text": "amuse",
+      "meaning": "즐겁게 하다. 웃기다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 434,
+      "text": "suppose",
+      "meaning": "가정하다. (~일거라)생각하다.",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 435,
+      "text": "leap",
+      "meaning": "뛰다(=jump)",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 436,
+      "text": "bury",
+      "meaning": "(땅에)묻다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 437,
+      "text": "engage",
+      "meaning": "약속하다. 고용하다. 약혼하다.",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 438,
+      "text": "sow",
+      "meaning": "씨를 뿌리다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 439,
+      "text": "lift",
+      "meaning": "들어 올리다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 440,
+      "text": "bow",
+      "meaning": "머리를 숙이다. 절하다.",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 441,
+      "text": "rub",
+      "meaning": "비비다. 문지르다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 442,
+      "text": "bite",
+      "meaning": "물다. 물어뜯다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 443,
+      "text": "vote",
+      "meaning": "투표하다. 투표",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 444,
+      "text": "hop",
+      "meaning": "(깡충)뛰다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 445,
+      "text": "imagine",
+      "meaning": "상상하다.",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 446,
+      "text": "allow",
+      "meaning": "허락하다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 447,
+      "text": "offer",
+      "meaning": "제공하다. 권하다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 448,
+      "text": "wish",
+      "meaning": "소원",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 449,
+      "text": "obey",
+      "meaning": "복종하다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 450,
+      "text": "dig",
+      "meaning": "(땅을) 파다",
+      "unit": 18
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 451,
+      "text": "choose",
+      "meaning": "고르다. 선택하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 452,
+      "text": "receive",
+      "meaning": "받다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 453,
+      "text": "bet",
+      "meaning": "(돈을) 걸다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 454,
+      "text": "hurt",
+      "meaning": "상처를 입히다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 455,
+      "text": "burn",
+      "meaning": "타다. 태우다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 456,
+      "text": "sink",
+      "meaning": "가라앉아",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 457,
+      "text": "decide",
+      "meaning": "결정하다. 결심하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 458,
+      "text": "beg",
+      "meaning": "구걸하다. 청하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 459,
+      "text": "reply",
+      "meaning": "대답하다. 대답",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 460,
+      "text": "tear",
+      "meaning": "찢다. 찢어지다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 461,
+      "text": "flow",
+      "meaning": "흐르다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 462,
+      "text": "remember",
+      "meaning": "기억하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 463,
+      "text": "appear",
+      "meaning": "나타나다. ~인 것 같다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 464,
+      "text": "breathe",
+      "meaning": "숨쉬다. 호흡하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 465,
+      "text": "whistle",
+      "meaning": "휘파람을 불다. 휘파람",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 466,
+      "text": "continue",
+      "meaning": "계속하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 467,
+      "text": "check",
+      "meaning": "점검하다. 알아보다. 억제하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 468,
+      "text": "sail",
+      "meaning": "항해하다. 돛",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 469,
+      "text": "wake",
+      "meaning": "깨다. 깨우다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 470,
+      "text": "agree",
+      "meaning": "동의하다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 471,
+      "text": "hang",
+      "meaning": "걸다. 매달다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 472,
+      "text": "record",
+      "meaning": "기록하다. 기록",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 473,
+      "text": "drop",
+      "meaning": "떨어지다. 떨어뜨리다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 474,
+      "text": "climb",
+      "meaning": "오르다. 기어오르다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 475,
+      "text": "add",
+      "meaning": "더하다. 보태다",
+      "unit": 19
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 476,
+      "text": "shine",
+      "meaning": "빛나다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 477,
+      "text": "invite",
+      "meaning": "초대하다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 478,
+      "text": "join",
+      "meaning": "연결하다. 함께하다. 가입하다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 479,
+      "text": "hide",
+      "meaning": "숨기다. 숨다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 480,
+      "text": "bring",
+      "meaning": "가져오다. 데려오다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 481,
+      "text": "wink",
+      "meaning": "눈을 깜박이다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 482,
+      "text": "roll",
+      "meaning": "구르다. 굴리다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 483,
+      "text": "pull",
+      "meaning": "끌다. 당기다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 484,
+      "text": "push",
+      "meaning": "밀다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 485,
+      "text": "guess",
+      "meaning": "추측하다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 486,
+      "text": "belong",
+      "meaning": "~에 속하다. ~소속이다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 487,
+      "text": "happen",
+      "meaning": "(일.사건이)일어나다. 우연히 ~하다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 488,
+      "text": "pick",
+      "meaning": "고르다. 줍다. 집다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 489,
+      "text": "shake",
+      "meaning": "흔들다. 떨다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 490,
+      "text": "fill",
+      "meaning": "채우다. 가득 차다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 491,
+      "text": "fight",
+      "meaning": "싸우다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 492,
+      "text": "fear",
+      "meaning": "두려워하다. 두려움",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 493,
+      "text": "carry",
+      "meaning": "나르다. 운반하다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 494,
+      "text": "dive",
+      "meaning": "(물속으로) 뛰어들다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 495,
+      "text": "win",
+      "meaning": "이기다. 얻다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 496,
+      "text": "ride",
+      "meaning": "타다. 승차",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 497,
+      "text": "need",
+      "meaning": "필요하다. 필요",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 498,
+      "text": "build",
+      "meaning": "짓다. 건축하다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 499,
+      "text": "hurry",
+      "meaning": "서두르다. 재촉하다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 500,
+      "text": "return",
+      "meaning": "돌아가다(오다). 돌려주다",
+      "unit": 20
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 501,
+      "text": "believe",
+      "meaning": "믿다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 502,
+      "text": "surprise",
+      "meaning": "놀라게 하다. 놀람",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 503,
+      "text": "gather",
+      "meaning": "모으다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 504,
+      "text": "throw",
+      "meaning": "던지다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 505,
+      "text": "smell",
+      "meaning": "냄새 맡다. 냄새",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 506,
+      "text": "spend",
+      "meaning": "소비하다. 지내다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 507,
+      "text": "pitch",
+      "meaning": "(야구)던지다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 508,
+      "text": "pop",
+      "meaning": "펑 터지다. 탁 튀다. 대중적인",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 509,
+      "text": "excuse",
+      "meaning": "용서하다. 변명하다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 510,
+      "text": "hit",
+      "meaning": "치다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 511,
+      "text": "tie",
+      "meaning": "묶다. 매다. 넥타이",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 512,
+      "text": "stay",
+      "meaning": "머무르다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 513,
+      "text": "enjoy",
+      "meaning": "즐기다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 514,
+      "text": "close",
+      "meaning": "닫다. (눈을)감다. 가까운",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 515,
+      "text": "arrive",
+      "meaning": "도착하다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 516,
+      "text": "travel",
+      "meaning": "(긴)여행하다. 여행",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 517,
+      "text": "worry",
+      "meaning": "걱정하다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 518,
+      "text": "marry",
+      "meaning": "결혼하다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 519,
+      "text": "expect",
+      "meaning": "기대하다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 520,
+      "text": "understand",
+      "meaning": "이해하다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 521,
+      "text": "dye",
+      "meaning": "물들이다. 물감",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 522,
+      "text": "smoke",
+      "meaning": "담배 피우다. 연기",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 523,
+      "text": "lend",
+      "meaning": "빌려주다",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 524,
+      "text": "shut",
+      "meaning": "닫다(=close)",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 525,
+      "text": "sleep",
+      "meaning": "자다. 잠",
+      "unit": 21
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 526,
+      "text": "lay",
+      "meaning": "놓다. 눕히다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 527,
+      "text": "paint",
+      "meaning": "그리다. 페인트",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 528,
+      "text": "spell",
+      "meaning": "철자를 쓰다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 529,
+      "text": "sell",
+      "meaning": "팔다. 팔리다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 530,
+      "text": "invest",
+      "meaning": "투자하다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 531,
+      "text": "seek",
+      "meaning": "찾다. 구하다. 찾기. 수색",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 532,
+      "text": "broadcast",
+      "meaning": "방송하다. 방송",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 533,
+      "text": "cure",
+      "meaning": "치료하다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 534,
+      "text": "howl",
+      "meaning": "짖다. 울부짖다. 짖는소리",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 535,
+      "text": "halt",
+      "meaning": "멈추다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 536,
+      "text": "joy",
+      "meaning": "기쁨",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 537,
+      "text": "revival",
+      "meaning": "부활",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 538,
+      "text": "million",
+      "meaning": "백만. 다수",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 539,
+      "text": "crop",
+      "meaning": "농작물. 수확",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 540,
+      "text": "shade",
+      "meaning": "그늘",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 541,
+      "text": "canal",
+      "meaning": "운하",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 542,
+      "text": "wagon",
+      "meaning": "짐마차",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 543,
+      "text": "fact",
+      "meaning": "사실",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 544,
+      "text": "concert",
+      "meaning": "음악회. 연주회",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 545,
+      "text": "rule",
+      "meaning": "규칙. 습관. 지배하다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 546,
+      "text": "suitcase",
+      "meaning": "여행가방",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 547,
+      "text": "weight",
+      "meaning": "무게",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 548,
+      "text": "hurrah",
+      "meaning": "만세",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 549,
+      "text": "mail",
+      "meaning": "우편(물). 우송하다",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 550,
+      "text": "hay",
+      "meaning": "건초",
+      "unit": 22
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 551,
+      "text": "log",
+      "meaning": "통나무",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 552,
+      "text": "hut",
+      "meaning": "오두막집",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 553,
+      "text": "tax",
+      "meaning": "세금. 과세하다",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 554,
+      "text": "lesson",
+      "meaning": "수업. 교훈",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 555,
+      "text": "flame",
+      "meaning": "불꽃. 타오르다",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 556,
+      "text": "shape",
+      "meaning": "모양",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 557,
+      "text": "chest",
+      "meaning": "가슴",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 558,
+      "text": "chain",
+      "meaning": "사슬. 사슬로 매다",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 559,
+      "text": "coast",
+      "meaning": "해안",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 560,
+      "text": "circle",
+      "meaning": "원. 집단. 동그라미를 그리다",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 561,
+      "text": "heart",
+      "meaning": "심장. 마음",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 562,
+      "text": "fever",
+      "meaning": "열. 열병",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 563,
+      "text": "trust",
+      "meaning": "신뢰. 믿다. 신용하다.",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 564,
+      "text": "whisker",
+      "meaning": "수염. 구레나룻",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 565,
+      "text": "prison",
+      "meaning": "감옥",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 566,
+      "text": "blood",
+      "meaning": "피",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 567,
+      "text": "loaf",
+      "meaning": "빵 한 덩어리",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 568,
+      "text": "list",
+      "meaning": "목록",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 569,
+      "text": "fence",
+      "meaning": "울타리",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 570,
+      "text": "enemy",
+      "meaning": "적(군)",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 571,
+      "text": "thief",
+      "meaning": "도둑",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 572,
+      "text": "data",
+      "meaning": "자료. 데이터",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 573,
+      "text": "solider",
+      "meaning": "군인",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 574,
+      "text": "musician",
+      "meaning": "음악가",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 575,
+      "text": "capital",
+      "meaning": "수도. 자본. 주요한",
+      "unit": 23
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 576,
+      "text": "course",
+      "meaning": "진로. 과정",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 577,
+      "text": "diary",
+      "meaning": "일기",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 578,
+      "text": "squirrel",
+      "meaning": "다람쥐",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 579,
+      "text": "dawn",
+      "meaning": "새벽. 시작. 날이 밝다",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 580,
+      "text": "shadow",
+      "meaning": "그림자",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 581,
+      "text": "ditch",
+      "meaning": "도랑",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 582,
+      "text": "crew",
+      "meaning": "승무원",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 583,
+      "text": "stomach",
+      "meaning": "위",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 584,
+      "text": "neighbor",
+      "meaning": "이웃 사람",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 585,
+      "text": "servant",
+      "meaning": "하인",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 586,
+      "text": "hunger",
+      "meaning": "굶주림",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 587,
+      "text": "tomb",
+      "meaning": "무덤. 묘",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 588,
+      "text": "taste",
+      "meaning": "맛. 취미. 맛을 보다",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 589,
+      "text": "sign",
+      "meaning": "징후. 간판. 신호. 서명하다",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 590,
+      "text": "stair",
+      "meaning": "계단",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 591,
+      "text": "trip",
+      "meaning": "(가벼운)여행",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 592,
+      "text": "brain",
+      "meaning": "두뇌",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 593,
+      "text": "trumpet",
+      "meaning": "나팔. 트럼펫",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 594,
+      "text": "speech",
+      "meaning": "말. 연설",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 595,
+      "text": "thumb",
+      "meaning": "엄지손가락",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 596,
+      "text": "horn",
+      "meaning": "뿔. 경적",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 597,
+      "text": "chief",
+      "meaning": "우두머리. 주요한. 최고의",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 598,
+      "text": "trousers",
+      "meaning": "바지",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 599,
+      "text": "prince",
+      "meaning": "왕자",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 600,
+      "text": "force",
+      "meaning": "힘. 강요하다",
+      "unit": 24
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 601,
+      "text": "sight",
+      "meaning": "광경. 시력. 경치",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 602,
+      "text": "space",
+      "meaning": "공간. 우주",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 603,
+      "text": "wool",
+      "meaning": "양모",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 604,
+      "text": "expressway",
+      "meaning": "고속도로",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 605,
+      "text": "science",
+      "meaning": "과학",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 606,
+      "text": "examination",
+      "meaning": "시험. 조사",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 607,
+      "text": "jar",
+      "meaning": "항아리",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 608,
+      "text": "salt",
+      "meaning": "소금",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 609,
+      "text": "death",
+      "meaning": "죽음. 사망",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 610,
+      "text": "saw",
+      "meaning": "톱. 톱으로 켜다",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 611,
+      "text": "swing",
+      "meaning": "그네. 진동",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 612,
+      "text": "alarm",
+      "meaning": "놀람. 경보. 놀라게 하다",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 613,
+      "text": "grain",
+      "meaning": "곡식. 낟알",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 614,
+      "text": "eraser",
+      "meaning": "지우개",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 615,
+      "text": "alphabet",
+      "meaning": "알파벳. 문자",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 616,
+      "text": "shoulder",
+      "meaning": "어깨",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 617,
+      "text": "nephew",
+      "meaning": "조카",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 618,
+      "text": "niece",
+      "meaning": "조카딸",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 619,
+      "text": "library",
+      "meaning": "도서관. 도서실",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 620,
+      "text": "factory",
+      "meaning": "공장.",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 621,
+      "text": "giraffe",
+      "meaning": "기린",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 622,
+      "text": "hawk",
+      "meaning": "(동물)매",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 623,
+      "text": "pigeon",
+      "meaning": "비둘기",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 624,
+      "text": "bowl",
+      "meaning": "사발. 그릇",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 625,
+      "text": "scene",
+      "meaning": "장면. 현장",
+      "unit": 25
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 626,
+      "text": "life",
+      "meaning": "생명. 생활. 일생",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 627,
+      "text": "earth",
+      "meaning": "지구. 땅",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 628,
+      "text": "pill",
+      "meaning": "알약",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 629,
+      "text": "math",
+      "meaning": "수학",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 630,
+      "text": "ocean",
+      "meaning": "대양",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 631,
+      "text": "price",
+      "meaning": "값. 가격",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 632,
+      "text": "row",
+      "meaning": "줄. 열(=line). 배를 젓다",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 633,
+      "text": "schedule",
+      "meaning": "스케줄. 일정(표)",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 634,
+      "text": "machine",
+      "meaning": "기계",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 635,
+      "text": "route",
+      "meaning": "길. 노선",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 636,
+      "text": "ivy",
+      "meaning": "아이비. 담쟁이덩굴",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 637,
+      "text": "candle",
+      "meaning": "양초",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 638,
+      "text": "joke",
+      "meaning": "농담. 농담을 하다",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 639,
+      "text": "corn",
+      "meaning": "곡물",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 640,
+      "text": "pet",
+      "meaning": "애완동물. 사랑하는",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 641,
+      "text": "robber",
+      "meaning": "강도",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 642,
+      "text": "cheek",
+      "meaning": "볼. 뺨",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 643,
+      "text": "clerk",
+      "meaning": "사무원. 점원",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 644,
+      "text": "cookie",
+      "meaning": "쿠키",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 645,
+      "text": "army",
+      "meaning": "육군. 군대",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 646,
+      "text": "nurse",
+      "meaning": "간호사",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 647,
+      "text": "master",
+      "meaning": "주인. 정복하다",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 648,
+      "text": "lock",
+      "meaning": "자물쇠. 잠그다",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 649,
+      "text": "moment",
+      "meaning": "순간",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 650,
+      "text": "sheet",
+      "meaning": "(침대의)시트. (종이)한 장",
+      "unit": 26
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 651,
+      "text": "monk",
+      "meaning": "승려",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 652,
+      "text": "teenager",
+      "meaning": "십대 아이",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 653,
+      "text": "closet",
+      "meaning": "벽장",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 654,
+      "text": "handle",
+      "meaning": "손잡이. 다루다",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 655,
+      "text": "quid",
+      "meaning": "안내자. 안내서. 안내하다",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 656,
+      "text": "bar",
+      "meaning": "막대기. 빗장. 술집.",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 657,
+      "text": "ostrich",
+      "meaning": "타조",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 658,
+      "text": "knee",
+      "meaning": "무릎",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 659,
+      "text": "cricket",
+      "meaning": "크리켓(경기)",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 660,
+      "text": "deck",
+      "meaning": "갑판",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 661,
+      "text": "bit",
+      "meaning": "조금. 작은 조각",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 662,
+      "text": "silk",
+      "meaning": "비단",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 663,
+      "text": "jeans",
+      "meaning": "청바지",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 664,
+      "text": "cotton",
+      "meaning": "솜. 목화",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 665,
+      "text": "drum",
+      "meaning": "드럼. 북",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 666,
+      "text": "sand",
+      "meaning": "모래",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 667,
+      "text": "shock",
+      "meaning": "충격. 충격을 주다",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 668,
+      "text": "march",
+      "meaning": "행진(곡). 행진하다",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 669,
+      "text": "cage",
+      "meaning": "새장. 우리",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 670,
+      "text": "whole",
+      "meaning": "전부. 전부의",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 671,
+      "text": "change",
+      "meaning": "변화. 교환. 잔돈. 바꾸다",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 672,
+      "text": "department",
+      "meaning": "부서. (백화점의)매장",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 673,
+      "text": "office",
+      "meaning": "사무실. 회사",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 674,
+      "text": "ticket",
+      "meaning": "표. 입장권",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 675,
+      "text": "energy",
+      "meaning": "에너지. 힘",
+      "unit": 27
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 676,
+      "text": "idea",
+      "meaning": "생각. 아이디어",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 677,
+      "text": "hospital",
+      "meaning": "병원",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 678,
+      "text": "noise",
+      "meaning": "소음. 소리",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 679,
+      "text": "sample",
+      "meaning": "견본. 샘플",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 680,
+      "text": "example",
+      "meaning": "예. 보기",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 681,
+      "text": "plenty",
+      "meaning": "풍부. 많은",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 682,
+      "text": "luck",
+      "meaning": "행운",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 683,
+      "text": "comedy",
+      "meaning": "코미디",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 684,
+      "text": "health",
+      "meaning": "건강",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 685,
+      "text": "history",
+      "meaning": "역사",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 686,
+      "text": "forest",
+      "meaning": "숲",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 687,
+      "text": "stream",
+      "meaning": "흐름. 시내. 흐르다.",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 688,
+      "text": "future",
+      "meaning": "미래. 미래의",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 689,
+      "text": "state",
+      "meaning": "상태. 국가",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 690,
+      "text": "temple",
+      "meaning": "절. 사원",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 691,
+      "text": "dictionary",
+      "meaning": "사전",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 692,
+      "text": "grammar",
+      "meaning": "문법",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 693,
+      "text": "college",
+      "meaning": "단과대학. 전문학교",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 694,
+      "text": "husband",
+      "meaning": "남편",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 695,
+      "text": "daughter",
+      "meaning": "딸",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 696,
+      "text": "captain",
+      "meaning": "우두머리. 선장. 주장",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 697,
+      "text": "booth",
+      "meaning": "작은 방. 점포.",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 698,
+      "text": "iceberg",
+      "meaning": "빙산",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 699,
+      "text": "bubble",
+      "meaning": "거품",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 700,
+      "text": "bottom",
+      "meaning": "밑바닥",
+      "unit": 28
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 701,
+      "text": "prize",
+      "meaning": "상. 상품",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 702,
+      "text": "bean",
+      "meaning": "콩",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 703,
+      "text": "engineer",
+      "meaning": "기사. 기술자",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 704,
+      "text": "photographer",
+      "meaning": "사진사",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 705,
+      "text": "subway",
+      "meaning": "지하철",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 706,
+      "text": "fog",
+      "meaning": "안개",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 707,
+      "text": "answer",
+      "meaning": "대답. 대답하다",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 708,
+      "text": "dining room",
+      "meaning": "식당",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 709,
+      "text": "step",
+      "meaning": "한 걸음. 걷다",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 710,
+      "text": "heat",
+      "meaning": "열. 더위. 뜨겁게 하다",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 711,
+      "text": "bone",
+      "meaning": "뼈",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 712,
+      "text": "lamb",
+      "meaning": "새끼 양",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 713,
+      "text": "rate",
+      "meaning": "비율. 속도. 요금",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 714,
+      "text": "report",
+      "meaning": "보고서. 보고하다",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 715,
+      "text": "turtle",
+      "meaning": "거북",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 716,
+      "text": "bay",
+      "meaning": "(바다의) 만",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 717,
+      "text": "holiday",
+      "meaning": "휴일. 휴가",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 718,
+      "text": "center",
+      "meaning": "중심. 중심지",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 719,
+      "text": "cash",
+      "meaning": "현금. 현금으로 바꾸다",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 720,
+      "text": "wolf",
+      "meaning": "늑대",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 721,
+      "text": "operator",
+      "meaning": "(장비)기사. 교환수",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 722,
+      "text": "fur",
+      "meaning": "털. 모피",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 723,
+      "text": "shore",
+      "meaning": "물가. 해안",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 724,
+      "text": "owl",
+      "meaning": "올빼미",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 725,
+      "text": "hunter",
+      "meaning": "사냥꾼",
+      "unit": 29
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 726,
+      "text": "pumpkin",
+      "meaning": "호박",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 727,
+      "text": "handshake",
+      "meaning": "악수",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 728,
+      "text": "bike",
+      "meaning": "자전거",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 729,
+      "text": "beach",
+      "meaning": "해안",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 730,
+      "text": "God",
+      "meaning": "신",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 731,
+      "text": "cough",
+      "meaning": "기침. 기침을 하다",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 732,
+      "text": "shell",
+      "meaning": "껍질. 조개",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 733,
+      "text": "business",
+      "meaning": "사업. 일",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 734,
+      "text": "restaurant",
+      "meaning": "식당",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 735,
+      "text": "sheep",
+      "meaning": "양초",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 736,
+      "text": "officer",
+      "meaning": "공무원. 장교",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 737,
+      "text": "hometown",
+      "meaning": "고향",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 738,
+      "text": "coil",
+      "meaning": "감긴 것. 둘둘 감다",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 739,
+      "text": "ceiling",
+      "meaning": "천장",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 740,
+      "text": "turkey",
+      "meaning": "칠면조",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 741,
+      "text": "towel",
+      "meaning": "수건. 타월",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 742,
+      "text": "chopstick",
+      "meaning": "젓가락",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 743,
+      "text": "seat",
+      "meaning": "앉히다. 앉다",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 744,
+      "text": "board",
+      "meaning": "판자. 승선하다",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 745,
+      "text": "goal",
+      "meaning": "목표. 골",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 746,
+      "text": "drugstore",
+      "meaning": "약국. 편의점",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 747,
+      "text": "rat",
+      "meaning": "큰 쥐",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 748,
+      "text": "butterfly",
+      "meaning": "나비",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 749,
+      "text": "flute",
+      "meaning": "플루트",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 750,
+      "text": "couple",
+      "meaning": "한 쌍. 부부",
+      "unit": 30
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 751,
+      "text": "beer",
+      "meaning": "맥주",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 752,
+      "text": "background",
+      "meaning": "배경",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 753,
+      "text": "bottle",
+      "meaning": "병",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 754,
+      "text": "body",
+      "meaning": "몸. 신체",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 755,
+      "text": "group",
+      "meaning": "집단. 무리",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 756,
+      "text": "village",
+      "meaning": "마을",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 757,
+      "text": "beef",
+      "meaning": "쇠고기",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 758,
+      "text": "load",
+      "meaning": "짐. 부담. 짐을 싣다",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 759,
+      "text": "coin",
+      "meaning": "동전. 화폐",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 760,
+      "text": "bookstore",
+      "meaning": "서점",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 761,
+      "text": "label",
+      "meaning": "꼬리표. 라벨. 상표",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 762,
+      "text": "port",
+      "meaning": "항구",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 763,
+      "text": "sunrise",
+      "meaning": "해돋이. 일출",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 764,
+      "text": "sunshine",
+      "meaning": "햇빛",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 765,
+      "text": "wedding",
+      "meaning": "결혼식. 결혼",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 766,
+      "text": "crown",
+      "meaning": "왕관",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 767,
+      "text": "seed",
+      "meaning": "씨. 씨를 뿌리다",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 768,
+      "text": "coal",
+      "meaning": "석탄",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 769,
+      "text": "comb",
+      "meaning": "빗. 빗질하다",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 770,
+      "text": "dream",
+      "meaning": "꿈",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 771,
+      "text": "sugar",
+      "meaning": "설탕",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 772,
+      "text": "mile",
+      "meaning": "마일",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 773,
+      "text": "flashlight",
+      "meaning": "손전등. (카메라)플래시",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 774,
+      "text": "vegetable",
+      "meaning": "채소. 야채",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 775,
+      "text": "mouse",
+      "meaning": "생쥐",
+      "unit": 31
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 776,
+      "text": "wood",
+      "meaning": "나무. (~s)숲",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 777,
+      "text": "war",
+      "meaning": "전쟁",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 778,
+      "text": "belt",
+      "meaning": "허리띠. 띠",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 779,
+      "text": "tourist",
+      "meaning": "관광객. 여행자",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 780,
+      "text": "airport",
+      "meaning": "공항",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 781,
+      "text": "passport",
+      "meaning": "여권",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 782,
+      "text": "plate",
+      "meaning": "접시",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 783,
+      "text": "stone",
+      "meaning": "돌",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 784,
+      "text": "downtown",
+      "meaning": "도심지. 번화가",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 785,
+      "text": "cousin",
+      "meaning": "사촌",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 786,
+      "text": "tooth",
+      "meaning": "이. 치아",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 787,
+      "text": "potato",
+      "meaning": "감자",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 788,
+      "text": "blanket",
+      "meaning": "담요",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 789,
+      "text": "attention",
+      "meaning": "주의. 주목",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 790,
+      "text": "nail",
+      "meaning": "손톱. 발톱",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 791,
+      "text": "letter",
+      "meaning": "편지. 문자",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 792,
+      "text": "beggar",
+      "meaning": "거지",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 793,
+      "text": "bedside",
+      "meaning": "침대 곁",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 794,
+      "text": "deer",
+      "meaning": "사슴",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 795,
+      "text": "bill",
+      "meaning": "계산서. 지폐",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 796,
+      "text": "doll",
+      "meaning": "인형",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 797,
+      "text": "pepper",
+      "meaning": "후추",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 798,
+      "text": "frog",
+      "meaning": "개구리",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 799,
+      "text": "tower",
+      "meaning": "탑",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 800,
+      "text": "bridge",
+      "meaning": "(이어주는)다리. 가교",
+      "unit": 32
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 801,
+      "text": "cloth",
+      "meaning": "천. 직물",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 802,
+      "text": "post",
+      "meaning": "우편물. 우체통에 넣다",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 803,
+      "text": "snake",
+      "meaning": "뱀",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 804,
+      "text": "job",
+      "meaning": "직업. 일",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 805,
+      "text": "town",
+      "meaning": "읍. 도시",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 806,
+      "text": "fun",
+      "meaning": "재미. 즐거움. 재미있는",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 807,
+      "text": "bathroom",
+      "meaning": "욕실",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 808,
+      "text": "tail",
+      "meaning": "꼬리표. 라벨. 상표",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 809,
+      "text": "mayor",
+      "meaning": "(시. 군 등의) 시장",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 810,
+      "text": "piece",
+      "meaning": "조각",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 811,
+      "text": "fruit",
+      "meaning": "과일",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 812,
+      "text": "British",
+      "meaning": "영국의. 영국인",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 813,
+      "text": "French",
+      "meaning": "프랑스의. 프랑스인",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 814,
+      "text": "German",
+      "meaning": "독일의. 독일인",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 815,
+      "text": "sale",
+      "meaning": "판매. 염가 판매",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 816,
+      "text": "rope",
+      "meaning": "밧줄",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 817,
+      "text": "umbrella",
+      "meaning": "우산",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 818,
+      "text": "dollar",
+      "meaning": "달러",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 819,
+      "text": "mistake",
+      "meaning": "잘못. 착각",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 820,
+      "text": "birth",
+      "meaning": "출생",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 821,
+      "text": "pilot",
+      "meaning": "조종사. 안내인. 안내하다",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 822,
+      "text": "none",
+      "meaning": "아무것도~않다. 결코~않다",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 823,
+      "text": "front",
+      "meaning": "앞부분. 정면",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 824,
+      "text": "present",
+      "meaning": "현재. 선물. 출석한",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 825,
+      "text": "nickname",
+      "meaning": "별명",
+      "unit": 33
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 826,
+      "text": "telephone",
+      "meaning": "전화. 전화를 걸다",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 827,
+      "text": "pair",
+      "meaning": "한 쌍. 짝",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 828,
+      "text": "weather",
+      "meaning": "날씨",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 829,
+      "text": "word",
+      "meaning": "낱말",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 830,
+      "text": "hole",
+      "meaning": "구멍",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 831,
+      "text": "plane",
+      "meaning": "비행기",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 832,
+      "text": "living room",
+      "meaning": "거실",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 833,
+      "text": "gun",
+      "meaning": "총",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 834,
+      "text": "meat",
+      "meaning": "고기",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 835,
+      "text": "grass",
+      "meaning": "풀. 잔디",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 836,
+      "text": "watch",
+      "meaning": "보다. 시청하다. 손목시계",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 837,
+      "text": "nap",
+      "meaning": "낮잠. 졸다",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 838,
+      "text": "fantasy",
+      "meaning": "환상. 공상",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 839,
+      "text": "harmony",
+      "meaning": "조화. 화합",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 840,
+      "text": "soul",
+      "meaning": "영혼",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 841,
+      "text": "kite",
+      "meaning": "(날리는) 연",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 842,
+      "text": "ancient",
+      "meaning": "고대의",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 843,
+      "text": "nuclear",
+      "meaning": "원자력의. 핵의",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 844,
+      "text": "necessary",
+      "meaning": "필요한",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 845,
+      "text": "common",
+      "meaning": "공통의. 보통의",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 846,
+      "text": "inner",
+      "meaning": "안쪽의",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 847,
+      "text": "thirsty",
+      "meaning": "목마른",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 848,
+      "text": "thin",
+      "meaning": "얇은. 야윈",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 849,
+      "text": "gray",
+      "meaning": "회색의. 회색",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 850,
+      "text": "famous",
+      "meaning": "유명한",
+      "unit": 34
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 851,
+      "text": "industrial",
+      "meaning": "산업의. 공업의",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 852,
+      "text": "silent",
+      "meaning": "침묵의. 조용한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 853,
+      "text": "absent",
+      "meaning": "결석한. 없는",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 854,
+      "text": "flat",
+      "meaning": "평평한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 855,
+      "text": "main",
+      "meaning": "주요한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 856,
+      "text": "wild",
+      "meaning": "야생의. 난폭한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 857,
+      "text": "wet",
+      "meaning": "젖은",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 858,
+      "text": "blind",
+      "meaning": "눈 먼",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 859,
+      "text": "dumb",
+      "meaning": "벙어리의",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 860,
+      "text": "sharp",
+      "meaning": "날카로운",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 861,
+      "text": "terrible",
+      "meaning": "끔찍한. 무서운",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 862,
+      "text": "grand",
+      "meaning": "웅장한. 화려한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 863,
+      "text": "homesick",
+      "meaning": "향수병을 앓는",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 864,
+      "text": "bound",
+      "meaning": "(행선지)~행의. 얽매인",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 865,
+      "text": "fat",
+      "meaning": "살찐. 지방",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 866,
+      "text": "strange",
+      "meaning": "이상한. 낯선",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 867,
+      "text": "pleasant",
+      "meaning": "즐거운. 유쾌한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 868,
+      "text": "handsome",
+      "meaning": "잘생긴. 멋진",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 869,
+      "text": "dear",
+      "meaning": "친애하는 사랑하는. 비싸게",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 870,
+      "text": "sweet",
+      "meaning": "단. 달콤한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 871,
+      "text": "dull",
+      "meaning": "무딘. 우둔한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 872,
+      "text": "weak",
+      "meaning": "약한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 873,
+      "text": "honest",
+      "meaning": "정직한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 874,
+      "text": "elder",
+      "meaning": "손위의. 연상의",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 875,
+      "text": "such",
+      "meaning": "그러한",
+      "unit": 35
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 876,
+      "text": "able",
+      "meaning": "~할 수 있는",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 877,
+      "text": "loud",
+      "meaning": "소리가 큰. 시끄러운",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 878,
+      "text": "simple",
+      "meaning": "단순한. 간단한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 879,
+      "text": "clever",
+      "meaning": "영리한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 880,
+      "text": "proud",
+      "meaning": "자랑스러운. 오만한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 881,
+      "text": "foolish",
+      "meaning": "어리석은. 멍청한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 882,
+      "text": "possible",
+      "meaning": "가능한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 883,
+      "text": "enough",
+      "meaning": "충분한. 충분히",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 884,
+      "text": "wise",
+      "meaning": "현명한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 885,
+      "text": "wide",
+      "meaning": "넓은. 널리",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 886,
+      "text": "successful",
+      "meaning": "성공한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 887,
+      "text": "clear",
+      "meaning": "맑은. 분명한. 제거하다",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 888,
+      "text": "clean",
+      "meaning": "깨끗한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 889,
+      "text": "deep",
+      "meaning": "깊은. 깊게",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 890,
+      "text": "cheap",
+      "meaning": "값싼",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 891,
+      "text": "certain",
+      "meaning": "확실한. 어떤",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 892,
+      "text": "important",
+      "meaning": "중요한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 893,
+      "text": "stormy",
+      "meaning": "폭풍의",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 894,
+      "text": "true ",
+      "meaning": "진실의",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 895,
+      "text": "sad",
+      "meaning": "슬픈",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 896,
+      "text": "gay",
+      "meaning": "명랑한. 화려한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 897,
+      "text": "merry",
+      "meaning": "즐거운. 명랑한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 898,
+      "text": "colorful",
+      "meaning": "다채로운. 화려한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 899,
+      "text": "wonderful",
+      "meaning": "놀랄만한. 훌륭한",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 900,
+      "text": "peaceful",
+      "meaning": "평화로운",
+      "unit": 36
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 901,
+      "text": "angry",
+      "meaning": "화난",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 902,
+      "text": "dry",
+      "meaning": "마른. 건조한",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 903,
+      "text": "wrong",
+      "meaning": "틀린",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 904,
+      "text": "heavy",
+      "meaning": "무거운",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 905,
+      "text": "quiet",
+      "meaning": "조용한",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 906,
+      "text": "several",
+      "meaning": "여럿의",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 907,
+      "text": "alone",
+      "meaning": "홀로",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 908,
+      "text": "crowded",
+      "meaning": "붐비는. 혼잡한",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 909,
+      "text": "excited",
+      "meaning": "신이난. 흥분한",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 910,
+      "text": "alive",
+      "meaning": "살아 있는",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 911,
+      "text": "brown",
+      "meaning": "갈색의. 갈색",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 912,
+      "text": "different",
+      "meaning": "다른",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 913,
+      "text": "difficult",
+      "meaning": "어려운",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 914,
+      "text": "interesting",
+      "meaning": "흥미 있는",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 915,
+      "text": "unlike",
+      "meaning": "같지 않은. ~과는 다른",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 916,
+      "text": "least",
+      "meaning": "가장 적은. 최소한의",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 917,
+      "text": "afraid",
+      "meaning": "무서워하는. 두려운",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 918,
+      "text": "cool",
+      "meaning": "시원한. 냉정한",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 919,
+      "text": "kind",
+      "meaning": "친절한. 종류",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 920,
+      "text": "sick",
+      "meaning": "아픈. 싫증난",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 921,
+      "text": "useless",
+      "meaning": "쓸모 없는",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 922,
+      "text": "busy",
+      "meaning": "바쁜",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 923,
+      "text": "early",
+      "meaning": "일찍. 이른",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 924,
+      "text": "past",
+      "meaning": "과거의. 지나간",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 925,
+      "text": "dark",
+      "meaning": "어두운. 어둠",
+      "unit": 37
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 926,
+      "text": "cloudy",
+      "meaning": "구름이 많은. 흐린",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 927,
+      "text": "low",
+      "meaning": "낮은. 낮게",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 928,
+      "text": "fancy",
+      "meaning": "멋진. 근사한. 공상. 좋아함",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 929,
+      "text": "essential",
+      "meaning": "본질적인. 필수의",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 930,
+      "text": "native",
+      "meaning": "본토의. 태어난",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 931,
+      "text": "sincerely",
+      "meaning": "진심으로",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 932,
+      "text": "fortunately",
+      "meaning": "다행히. 운 좋게도",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 933,
+      "text": "finally",
+      "meaning": "마지막으로. 마침내",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 934,
+      "text": "immediately",
+      "meaning": "즉시. 곧",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 935,
+      "text": "especially",
+      "meaning": "특히. 특별히",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 936,
+      "text": "else",
+      "meaning": "그 밖에",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 937,
+      "text": "actually",
+      "meaning": "실제로. 정말로",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 938,
+      "text": "tightly",
+      "meaning": "단단히. 빽빽히",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 939,
+      "text": "recently",
+      "meaning": "최근에",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 940,
+      "text": "rapidly",
+      "meaning": "빨리. 신속히",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 941,
+      "text": "politely",
+      "meaning": "공손히",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 942,
+      "text": "rudely",
+      "meaning": "무례하게",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 943,
+      "text": "further",
+      "meaning": "더 멀리. 게다가",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 944,
+      "text": "frankly",
+      "meaning": "솔직히",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 945,
+      "text": "properly",
+      "meaning": "제대로. 적당히",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 946,
+      "text": "hastily",
+      "meaning": "급히. 서둘러서",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 947,
+      "text": "rather",
+      "meaning": "오히려. 약간",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 948,
+      "text": "altogether",
+      "meaning": "완전히. 전적으로. 모두합쳐",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 949,
+      "text": "suddenly",
+      "meaning": "갑자기",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 950,
+      "text": "mostly",
+      "meaning": "대개. 대부분",
+      "unit": 38
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 951,
+      "text": "correctly",
+      "meaning": "정확히",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 952,
+      "text": "nearly",
+      "meaning": "거의",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 953,
+      "text": "badly",
+      "meaning": "나쁘게. 몹시",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 954,
+      "text": "exactly",
+      "meaning": "정확히. 꼭",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 955,
+      "text": "apart",
+      "meaning": "떨어져서. 다로",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 956,
+      "text": "afterward",
+      "meaning": "후에. 나중에. 그 후에",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 957,
+      "text": "later",
+      "meaning": "나중에. ~뒤의. 더 늦은",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 958,
+      "text": "maybe",
+      "meaning": "어쩌면. 아마. 글쎄(50%정도)",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 959,
+      "text": "perhaps",
+      "meaning": "아마 그럴 겁니다",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 960,
+      "text": "probably",
+      "meaning": "아마 거의(80~90%)",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 961,
+      "text": "either",
+      "meaning": "(둘 중) 어느 하나. ~도 않다",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 962,
+      "text": "neither",
+      "meaning": "~도 …도 아니다",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 963,
+      "text": "besides",
+      "meaning": "게다가. ~외에는",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 964,
+      "text": "anyway",
+      "meaning": "어쨌든. 아무튼",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 965,
+      "text": "sometime",
+      "meaning": "언젠가",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 966,
+      "text": "twice",
+      "meaning": "두 번",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 967,
+      "text": "indeed",
+      "meaning": "참으로",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 968,
+      "text": "seldom",
+      "meaning": "좀처럼 ~않다",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 969,
+      "text": "upside down",
+      "meaning": "(위아래가) 거꾸로",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 970,
+      "text": "rarely",
+      "meaning": "드물게. 좀처럼 ~하지 않는",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 971,
+      "text": "air",
+      "meaning": "공기. 비행기. 방송. 방송하다",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 972,
+      "text": "gift",
+      "meaning": "선물. 타고난 재능",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 973,
+      "text": "company",
+      "meaning": "친구. 사귐. 회사",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 974,
+      "text": "bear",
+      "meaning": "낳다. 참다. 곰",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 975,
+      "text": "season",
+      "meaning": "계절. 간을 맞추다",
+      "unit": 39
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 976,
+      "text": "promise",
+      "meaning": "약속. 가망. 유망",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 977,
+      "text": "order",
+      "meaning": "명령하다. 주문하다. 순서",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 978,
+      "text": "match",
+      "meaning": "성냥. 시합. 어울리다. 당해내다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 979,
+      "text": "attend",
+      "meaning": "참석하다. 주의하다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 980,
+      "text": "station",
+      "meaning": "(기차)역. ~서(소방서.주유소 등)",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 981,
+      "text": "nature",
+      "meaning": "자연. 천성. 성질",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 982,
+      "text": "party",
+      "meaning": "파티. 일행. 정당",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 983,
+      "text": "art",
+      "meaning": "미술. 예술. 기술",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 984,
+      "text": "sentence",
+      "meaning": "문장. 판결. 판결하다. 선고하다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 985,
+      "text": "turn",
+      "meaning": "돌다. 변화하다. 차례",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 986,
+      "text": "scale",
+      "meaning": "규모. 저울",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 987,
+      "text": "tongue",
+      "meaning": "혀. 언어. 말씨",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 988,
+      "text": "command",
+      "meaning": "명령(하다). 지시하다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 989,
+      "text": "right",
+      "meaning": "오른쪽. 권리. 정의. 바로",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 990,
+      "text": "reason",
+      "meaning": "이유. 근거. 사고력",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 991,
+      "text": "pass",
+      "meaning": "지나가다. 합격하다. 합격",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 992,
+      "text": "plant",
+      "meaning": "식물. 공장. (식물을)심다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 993,
+      "text": "notice",
+      "meaning": "통지. 예고. 알아차리다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 994,
+      "text": "part",
+      "meaning": "부분. 역할. 헤어지다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 995,
+      "text": "deal",
+      "meaning": "다루다. 거래하다. 거래",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 996,
+      "text": "press",
+      "meaning": "누르다. 출판물. 언론계",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 997,
+      "text": "reach",
+      "meaning": "도착하다. (손을뻗어)집다. 범위",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 998,
+      "text": "case",
+      "meaning": "상자. 경우. 사건",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 999,
+      "text": "end",
+      "meaning": "끝. 목적. 끝내다",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1000,
+      "text": "degree",
+      "meaning": "정도. 학위. (온도.각도)도",
+      "unit": 40
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1001,
+      "text": "everything",
+      "meaning": "모든 것",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1002,
+      "text": "somebody",
+      "meaning": "어떤 사람. 누군가. 대단한사람",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1003,
+      "text": "nobody",
+      "meaning": "아무도 아니다. 보잘것 없는사람",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1004,
+      "text": "hand",
+      "meaning": "손. 건네주다.",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1005,
+      "text": "might",
+      "meaning": "may의 과거형. 힘",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1006,
+      "text": "lot",
+      "meaning": "많음. 장소",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1007,
+      "text": "chance",
+      "meaning": "기회. 가능성. 우연히 ~하다",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1008,
+      "text": "fast",
+      "meaning": "빠른. 단식(하다)",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1009,
+      "text": "ground",
+      "meaning": "땅. 운동장. 근거",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1010,
+      "text": "want",
+      "meaning": "원하다. 부족. 결핍",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1011,
+      "text": "will",
+      "meaning": "~일 것이다. 의지. 유언장",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1012,
+      "text": "ball",
+      "meaning": "공. 무도회",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1013,
+      "text": "duty",
+      "meaning": "의무. 세금",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1014,
+      "text": "cause",
+      "meaning": "원인. 일으키다. 야기하다",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1015,
+      "text": "blow",
+      "meaning": "바람이 불다. 타격",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1016,
+      "text": "dish",
+      "meaning": "접시. 요리. 음식",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1017,
+      "text": "term",
+      "meaning": "기간. 용어. 조건",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1018,
+      "text": "draw",
+      "meaning": "끌어당기다. (그림을)그리다.",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1019,
+      "text": "study",
+      "meaning": "공부. 공부하다",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1020,
+      "text": "drive",
+      "meaning": "운전하다. 내몰다. 쫓다",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1021,
+      "text": "break",
+      "meaning": "부수다. 어기다. 휴식시간",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1022,
+      "text": "quarter",
+      "meaning": "4분의 1. 숙소",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1023,
+      "text": "race",
+      "meaning": "경주. 인종. 민족",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1024,
+      "text": "save",
+      "meaning": "구하다. 저축하다",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1025,
+      "text": "field",
+      "meaning": "들. 경기장. 분야",
+      "unit": 41
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1026,
+      "text": "exercise",
+      "meaning": "운동(하다). 연습(하다)",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1027,
+      "text": "note",
+      "meaning": "적어두다. 쪽지. 지폐. 주목하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1028,
+      "text": "mine",
+      "meaning": "나의 것. 광산",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1029,
+      "text": "side",
+      "meaning": "쪽. 옆구리. 자기 편",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1030,
+      "text": "toll",
+      "meaning": "통행료. 사상자 수",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1031,
+      "text": "safe",
+      "meaning": "안전한. 금고",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1032,
+      "text": "store",
+      "meaning": "가게. 상점. 저장하다.",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1033,
+      "text": "stand",
+      "meaning": "서다. 참다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1034,
+      "text": "meet",
+      "meaning": "만나다. 만족시키다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1035,
+      "text": "observe",
+      "meaning": "관찰하다. (법.규칙을)지키다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1036,
+      "text": "head",
+      "meaning": "앞장서다. 나아가다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1037,
+      "text": "fine",
+      "meaning": "훌륭한. 날씨가 맑은. 벌금(을 물리다)",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1038,
+      "text": "practice",
+      "meaning": "연습. 실행. 연습하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1039,
+      "text": "regard",
+      "meaning": "간주하다. (~s)안부",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1040,
+      "text": "raise",
+      "meaning": "올리다. 기르다. 모금하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1041,
+      "text": "help",
+      "meaning": "돕다. 피하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1042,
+      "text": "object",
+      "meaning": "물건. 목적. 반대하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1043,
+      "text": "count",
+      "meaning": "세다. 계산하다. 중요하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1044,
+      "text": "matter",
+      "meaning": "일. 문제. 중요하다. 관계있다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1045,
+      "text": "cost",
+      "meaning": "비용. 비용이 들다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1046,
+      "text": "tell",
+      "meaning": "말하다. 영향을 주다. 구별하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1047,
+      "text": "miss",
+      "meaning": "놓치다. 그리워하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1048,
+      "text": "read",
+      "meaning": "읽다. ~라고 쓰여 있다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1049,
+      "text": "run",
+      "meaning": "달리다. 경영하다. 출마하다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1050,
+      "text": "spring",
+      "meaning": "봄. (물)샘. 탄성. 튀어오르다",
+      "unit": 42
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1051,
+      "text": "mean",
+      "meaning": "의미하다. 중간의",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1052,
+      "text": "strike",
+      "meaning": "치다. 생각나다. 파업하다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1053,
+      "text": "move",
+      "meaning": "움직이다. 이사하다. 감동시키다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1054,
+      "text": "become",
+      "meaning": "~되다. 어울리다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1055,
+      "text": "land",
+      "meaning": "육지. 나라. 상륙하다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1056,
+      "text": "cover",
+      "meaning": "표지. 덮개. 덮다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1057,
+      "text": "fall",
+      "meaning": "떨어지다. 가을. (~s)폭포",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1058,
+      "text": "gain",
+      "meaning": "얻다. 쌓다. 이익",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1059,
+      "text": "sound",
+      "meaning": "소리. ~하게 들리다. 건전한",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1060,
+      "text": "sort",
+      "meaning": "종류. 분류하다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1061,
+      "text": "lose",
+      "meaning": "잃다. 지다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1062,
+      "text": "steal",
+      "meaning": "훔치다. 몰래~하다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1063,
+      "text": "say",
+      "meaning": "말하다 ~라고 쓰여있다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1064,
+      "text": "own",
+      "meaning": "소유하다. 자기 자신의",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1065,
+      "text": "stick",
+      "meaning": "지팡이. 찌르다. 달라붙다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1066,
+      "text": "shoot",
+      "meaning": "쏘다. 사격하다. 사진을 찍다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1067,
+      "text": "lead",
+      "meaning": "안대하다. 이어지다. 납",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1068,
+      "text": "date",
+      "meaning": "날짜. 데이트. 비롯되다(~from)",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1069,
+      "text": "touch",
+      "meaning": "닿다. 감동시키다. ~한 느낌",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1070,
+      "text": "fail",
+      "meaning": "실패하다. 쇠약해지다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1071,
+      "text": "hold",
+      "meaning": "(손에)잡다. 개최하다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1072,
+      "text": "make",
+      "meaning": "만들다. ~이 되다",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1073,
+      "text": "remain",
+      "meaning": "(여전히)~로 남다. (~s)유적",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1074,
+      "text": "rest",
+      "meaning": "쉬다. 휴식. (the~)나머지",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1075,
+      "text": "good",
+      "meaning": "좋은. 상당한. 이익. (~s)상품",
+      "unit": 43
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1076,
+      "text": "minute",
+      "meaning": "분. 사소한. 세심한",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1077,
+      "text": "bright",
+      "meaning": "밝은 영리한",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1078,
+      "text": "pretty",
+      "meaning": "예쁜. 꽤. 상당히",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1079,
+      "text": "short",
+      "meaning": "짧은. 키가 작은. 부족한",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1080,
+      "text": "net",
+      "meaning": "그물. 순수한",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1081,
+      "text": "fit",
+      "meaning": "적당한. 알맞은. 건강이 좋은",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1082,
+      "text": "novel",
+      "meaning": "소설. 신기한. 기발한",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1083,
+      "text": "due",
+      "meaning": "~로 인해(~to).마감일.(돈)마땅히 주어져아하는것",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1084,
+      "text": "lean",
+      "meaning": "야윈. 기대다",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1085,
+      "text": "fair",
+      "meaning": "공평한. 꽤 많은. 전시회",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1086,
+      "text": "poor",
+      "meaning": "가난한. 불쌍한. 서투른",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1087,
+      "text": "free",
+      "meaning": "자유로운. 한가한. 무료의",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1088,
+      "text": "even",
+      "meaning": "~조차도. 훨씬. 짝수의",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1089,
+      "text": "long",
+      "meaning": "길이가 긴. 갈망하다. 동경하다",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1090,
+      "text": "last",
+      "meaning": "맨 마지막의. 최근의. 계속하다",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1091,
+      "text": "well",
+      "meaning": "잘. 건강한. 우물",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1092,
+      "text": "subject",
+      "meaning": "주제. 학과. 재배를 받는",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1093,
+      "text": "but",
+      "meaning": "그러나. ~을 제외하고. 다만",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1094,
+      "text": "over",
+      "meaning": "~위에. ~이상. 끝나는",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1095,
+      "text": "after",
+      "meaning": "~뒤에. ~을 본떠서. ~을 추구하여",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1096,
+      "text": "equal",
+      "meaning": "똑같은. 평등한. ~와 같다",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1097,
+      "text": "school",
+      "meaning": "학교. 수업",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1098,
+      "text": "issue",
+      "meaning": "발행. 논쟁",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1099,
+      "text": "figure",
+      "meaning": "숫자. 모습. 인물",
+      "unit": 44
+    },
+    {
+      "chapter": "MSWords",
+      "serial": 1100,
+      "text": "spot",
+      "meaning": "얼룩. 장소. 즉석의",
+      "unit": 44
+    }
+  ]
+}
