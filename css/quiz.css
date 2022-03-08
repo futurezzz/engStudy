@@ -167,7 +167,8 @@
 
 .clearBox {
   z-index: 2;
-  margin-top: -600px;
+  position: absolute;
+  top: 140px;
   display: none;
 }
 .playBtn {

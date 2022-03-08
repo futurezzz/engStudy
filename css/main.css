@@ -36,6 +36,7 @@
 .main-unit {
   display: none;
   margin-top: -20px;
+  margin-bottom: 20px;
 }
 
 .main-unit-list {
@@ -96,15 +97,15 @@
 }
 
 .unit-on {
-  background-color: orangered;
+  background-color: rgb(19, 54, 68);
 }
-
 
 .calender-unit-list {
   display: grid;
   grid-template-columns: repeat(7,1fr);
   gap: 1px;
   list-style: none;
+  margin-top: -20px;
   margin-bottom: 50px;
   font-size: 12px;
   text-align: center;
@@ -159,6 +160,7 @@
   color: #fefefe;
   background-color: rgb(19, 54, 68);
   user-select: none;
+  cursor: pointer;
   display: none;
 }
 
