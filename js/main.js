@@ -1,5 +1,6 @@
 const mainChapter = document.querySelector('.main-unit-list');
 const subUnitList = document.querySelector('.sub-unit-list');
+const calendarToday = document.querySelector('.calendar-today');
 const calendarUnitList = document.querySelector('.calender-unit-list');
 const userBox = document.querySelector('.user');
 const signIn = document.querySelector('.signIn');
@@ -110,6 +111,7 @@ function getDayOfFirst(){
 
 function displayCalendar(){
   //이전에 표시된 단원선택표가 있으면 우선 초기화(지우기)
+  calendarToday.textContent =  `${today.getFullYear()}-${today.getMonth()+1}-${today.getDate()} ${week[today.getDay()]}`;
   subUnitList.innerHTML = ''; 
   // 요일 표시
   calendarUnitList.innerHTML = ''; //unit메뉴들을 초기화
@@ -178,6 +180,7 @@ function displayItems(items){
 }
 
 function displayUnits(){
+  calendarToday.textContent = '';
   calendarUnitList.innerHTML = '';
   subUnitList.innerHTML = ''; //unit메뉴들을 초기화
   for(let i=0; i<unitLength; i++ ){

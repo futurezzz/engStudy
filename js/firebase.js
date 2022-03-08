@@ -33,11 +33,16 @@ userBox.addEventListener('click', (e)=>{
 mainChapter.addEventListener('click',(e)=>{
   if(user){
     SelectData();
+    SelectTodayData();
   }
 })
 
-changeUser.addEventListener('click', ()=>{
 
+signIn.addEventListener('click',()=>{
+  SelectCalendarData();
+})
+
+changeUser.addEventListener('click', ()=>{
   SelectCalendarData();
 })
 
@@ -64,7 +69,25 @@ async function SelectCalendarData(){
       await displayCalendar();
     }
 
-
+    async function SelectTodayData(){
+      const dbref = ref(db);
+      await get(child(dbref, `${user}/` + 'calendar'+ `/${thisMonth}`)).then((snapshot)=>{
+        if(snapshot.exists()){
+          dateScoreArray = snapshot.val().DateScore;
+          
+        }
+            //firebase데이터에 아무것도 없을 경우
+            //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
+            else {
+              //새로운 배열을 만들고 0을 채운다. 배열의 자릿수는 해당월의 날짜만큼이다.(lastDayOfMonth)
+              dateScoreArray = new Array(lastDayOfMonth).fill(0); 
+            }
+          })
+          .catch((error)=>{
+            alert("unsuccessful, error" + error);
+          });
+        }
+    
 
 
 // ----------- SELECT DATA FUNCTION ---------------------------------//    
