@@ -146,7 +146,10 @@ wordsList.addEventListener('click',(e)=>{
         audioClear.play();
         let m = Math.floor(Math.random()*4+1);
         console.log(m);
-        //character.style.backgroundImage = `url('../image/character0${m}.png')`;
+        //character.style.backgroundImage = `url('../img/character0${m}.png')`;
+        //위의 코드. backgroundImgae url 가 깃허브에서 작동을 안하므로
+        //classList.add 로 수정하여 바꿈
+        character.classList.add(`charater0${m}`);
         clearBox.style.display = 'block';
         scoreProgressDisplay();
         // console.log(scoreValue);
