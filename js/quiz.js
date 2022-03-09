@@ -158,7 +158,7 @@ function loadLocalStorage(){
 
 function userImgDisplay(){
 
-  userImg.style.backgroundImage = "url('../img/userskyshim.png')"
+  userImg.style.backgroundImage = "url('https://futurezzz.github.io/engStudy/img/userskyshim.png')"
 }
 
 function scoreProgressDisplay(){
