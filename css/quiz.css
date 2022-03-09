@@ -195,13 +195,24 @@
 #character {
   width: 100%; 
   height: 100%;
-  background: url('../image/character01.png');
+  background: url('../img/character01.png');
   background-position: 0px 88px;
   background-size: 448px 384px;
   animation: play 0.5s steps(7) infinite;
   /* animation: characterPlay 1s ease-in-out; */
 }
 
+.thumbSkyShim {
+  background-image: url('../img/userSkyShim.png');
+}
+
+.thumbLamon {
+  background-image: url('../img/userLamon.png');
+}
+
+.thumbMirae {
+  background-image: url('../img/userMirae.png');
+}
 @keyframes play {
   100% {
     background-position: -448px 88px;
