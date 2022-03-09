@@ -53,7 +53,9 @@ window.speechSynthesis.onvoiceschanged = setVoiceList;
 function loadLocalStorage(){
   if(localStorage.getItem('unit')){
     user = localStorage.getItem('user');
-    userImgDisplay();
+    //userImgDisplay();
+    
+  userImg.style.backgroundImage = "url('https://futurezzz.github.io/engStudy/img/userskyshim.png')"
     unit = localStorage.getItem('unit');
     chapter = localStorage.getItem('chapter');
     scoreArray = JSON.parse(localStorage.getItem('scoreArray'));
