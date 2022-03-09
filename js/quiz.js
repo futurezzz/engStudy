@@ -158,7 +158,7 @@ function loadLocalStorage(){
 
 function userImgDisplay(){
   if (user == 'SkyShim'){
-    userImg.style.backgroundImage = "url('../image/user_skyshim.png')"
+    userImg.style.backgroundImage = "url('https://futurezzz.github.io/engStudy/image/user_skyshim.png')"
   }
   else if (user == 'Lamon'){
     userImg.style.backgroundImage = "url('../image/user_lamon.png')"
