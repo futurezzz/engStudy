@@ -4,6 +4,7 @@ const calendarToday = document.querySelector('.calendar-today');
 const calendarUnitList = document.querySelector('.calender-unit-list');
 const userBox = document.querySelector('.user');
 const signIn = document.querySelector('.signIn');
+const signInImg = document.querySelector('.signIn-img');
 const changeUser = document.querySelector('.change-user');
 const mainUnit = document.querySelector('.main-unit');
 let elem;
@@ -32,6 +33,8 @@ userBox.addEventListener('click', (e)=>{
   if(user){
     userBox.style.display = 'none';
     signIn.style.display = 'block';
+    signInImg.classList.add(`thumb${user}`);
+    signInImg.style.display = 'block';
     changeUser.style.display = 'block';
     mainUnit.style.display = 'block';
     signIn.textContent = user;
@@ -41,6 +44,7 @@ userBox.addEventListener('click', (e)=>{
 
 
   changeUser.addEventListener('click',()=>{
+    signInImg.classList.remove(`thumb${user}`);
     if (user == 'SkyShim'){
       user = 'Lamon'
     }
@@ -51,6 +55,7 @@ userBox.addEventListener('click', (e)=>{
       user = 'SkyShim'
     }
     signIn.textContent = user;
+    signInImg.classList.add(`thumb${user}`);
 })
 
 // import {SelectData} from './firebase.js';
@@ -121,7 +126,7 @@ function displayCalendar(){
     let realDay = (dayOfFirst + j)>6 ? (dayOfFirst + j)-7 : (dayOfFirst + j);
     li.innerHTML = `${week[realDay]}`;
     li.classList.add('calender-day-title');
-    if (realDay == 0){
+    if (realDay == 0){ //일요일이면 제목을 빨간색으로 표시
       li.style.backgroundColor = 'rgb(220,70,70)';
     }
     calendarUnitList.append(li);
@@ -131,12 +136,16 @@ function displayCalendar(){
     let dateScoreItem = dateScoreArray[i];
     li.innerHTML = `Day ${i+1} <br/> ${dateScoreItem}`;
     li.classList.add('calender-unit');
-    if (dateScoreItem >= 15000 ){
-      li.style.backgroundColor = "rgba(20, 54, 68,"+dateScoreItem/20000 +")"
+    if (dateScoreItem >= 40000 ){
+      li.style.backgroundColor = "rgb(10, 70, 10)"
+      li.style.color = "rgb(250,250,250)";
+    }
+    else if (dateScoreItem >= 15000 ){
+      li.style.backgroundColor = "rgba(30, 54, 88,"+dateScoreItem/20000 +")"
       li.style.color = "rgb(250,250,250)";
     }
     else if (dateScoreItem > 0){
-      li.style.backgroundColor = "rgba(20, 54, 68,"+dateScoreItem/25000 +")"
+      li.style.backgroundColor = "rgba(30, 54, 88,"+dateScoreItem/25000 +")"
       li.classList.add('unit-box-border');
     }
     // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
@@ -188,7 +197,7 @@ function displayUnits(){
     const li = document.createElement('li');
     let scoreItem = scoreArray[i];
     let scoreColor = scoreItem/20000*250;
-    li.innerHTML = `Unit ${i+1} <br/> ${scoreItem}`;
+    li.innerHTML = `${chapter} ${i+1} <br/> ${scoreItem}`;
     li.classList.add('unit');
     if (scoreItem >= 7000 ){
       li.style.backgroundColor = "rgba(220,10,10,"+scoreItem/15000 +")"

@@ -80,8 +80,9 @@
 }
 
 .unit {
-  width: 100px;
+  width: 120px;
   height: 60px;
+  font-size: 13px;
   padding-top: 5px;
   text-align: center;
   line-height: 25px;
@@ -154,6 +155,7 @@
   width: 200px;
   height: 40px;
   margin-top: 30px;
+  margin-bottom: 40px;
   text-align: center;
   line-height: 40px;
   border-radius: 20px;
@@ -164,10 +166,37 @@
   display: none;
 }
 
+.float-box {
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+  top: 28px;
+  width: 330px;
+}
+
+.signIn-img {
+  background-size: 50px;
+  width: 50px;
+  height: 50px;
+  background-image: url('../img/userSkyShim.png');
+  display: none;
+}
+
+.thumbSkyShim {
+  background-image: url('../img/userSkyShim.png');
+}
+
+.thumbLamon {
+  background-image: url('../img/userLamon.png');
+}
+
+.thumbMirae {
+  background-image: url('../img/userMirae.png');
+}
+
 .change-user {
-  position: relative;
-  top: -35px;
-  left: 130px;
+  margin-top: 5px;
+  margin-right: 10px;
   width: 35px;
   height: 35px;
   background-color: rgb(45, 150, 192);
@@ -179,10 +208,10 @@
 .change-user:hover:after {
   position: absolute;
   z-index: 1000;
-  bottom: -100%;
-  left: 0;
+  bottom: -17px;
+  right: -20px;
+  padding: 5px;
   text-align: center;
-  width: 50px;
   border-radius: 5px;
   background-color: rgba(0,0,0,.7);
   color: #fefefe;
@@ -190,48 +219,51 @@
   content: 'change the user';
 }
 
-@media screen and (min-width: 768px) {
-  
+  @media screen and (min-width: 768px) {
 
-.list {
-  flex: 1 0 120px;
-  font-size: 17px;
-}
+  .list {
+    flex: 1 0 120px;
+    font-size: 17px;
+  }
 
-.main-unit-list {
-  width: 800px;
-  overflow-x:auto;
-}
-  .sub-unit-list {
-    grid-template-columns: repeat(5,1fr);
-}
+  .main-unit-list {
+    width: 800px;
+    overflow-x:auto;
+  }
+    .sub-unit-list {
+      grid-template-columns: repeat(5,1fr);
+  }
 
-.signIn {
-  width: 300px;
-}
+  .signIn {
+    width: 300px;
+  }
 
-.change-user {
-  left: 200px;
-}
+  .float-box {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 28px;
+    width: 450px;
+  }
 
-.unit{
-  height: 100px;
-  line-height: 40px;
-}
+  .unit{
+    height: 100px;
+    line-height: 40px;
+  }
 
-.calender-unit-list {
-  gap: 5px;
-  font-size: 13px;
-}
-.calender-unit {
-  width: 80px;
-  height: 55px;
-  line-height: 25px;
-}
+  .calender-unit-list {
+    gap: 5px;
+    font-size: 13px;
+  }
+  .calender-unit {
+    width: 80px;
+    height: 55px;
+    line-height: 25px;
+  }
 
-.calender-day-title {
-  width: 80px;
-  height: 30px;
-  line-height: 25px;
-}
+  .calender-day-title {
+    width: 80px;
+    height: 30px;
+    line-height: 25px;
+  }
 }

@@ -16,6 +16,7 @@
 
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
+  let m;
 
   import { getDatabase, ref, get, set, child, update, remove } from "https://www.gstatic.com/firebasejs/9.6.7/firebase-database.js";
 
@@ -142,9 +143,11 @@ wordsList.addEventListener('click',(e)=>{
     },500)
     // 10문제 다 맞히면 클리어. platBtn 활성화
     if(matchedNo === 10 ){
+      character.classList.remove(`charater0${m}`);
       setTimeout(()=>{
         audioClear.play();
-        let m = Math.floor(Math.random()*4+1);
+        
+        m = Math.floor(Math.random()*4+1);
         console.log(m);
         //character.style.backgroundImage = `url('../img/character0${m}.png')`;
         //위의 코드. backgroundImgae url 가 깃허브에서 작동을 안하므로
