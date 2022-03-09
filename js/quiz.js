@@ -53,7 +53,7 @@ window.speechSynthesis.onvoiceschanged = setVoiceList;
 function loadLocalStorage(){
   if(localStorage.getItem('unit')){
     user = localStorage.getItem('user');
-    userImg.style.backgroundImage = `url('./user${user}.png')`;
+    userImg.classList.add(`thumb${user}`);
     unit = localStorage.getItem('unit');
     chapter = localStorage.getItem('chapter');
     scoreArray = JSON.parse(localStorage.getItem('scoreArray'));
@@ -123,7 +123,7 @@ function loadLocalStorage(){
 // //         audioClear.play();
 // //         let m = Math.floor(Math.random()*4+1);
 // //         console.log(m);
-//         character.style.backgroundImage = `url('../image/character0${m}.png')`;
+//         character.style.backgroundImage = `url('../img/character0${m}.png')`;
 //         clearBox.style.display = 'block';
 //         scoreProgressDisplay();
 //         // console.log(scoreValue);
@@ -156,6 +156,18 @@ function loadLocalStorage(){
 // });
 
 
+function userImgDisplay(){
+  // if (user == 'SkyShim'){
+  //   userImg.style.backgroundImage = "url('../img/userskyshim.png')"
+  // }
+  // else if (user == 'Lamon'){
+  //   userImg.style.backgroundImage = "url('../img/userlamon.png')"
+  // }
+  // else {
+  //   userImg.style.backgroundImage = "url('../img/usermirae.png')"
+  // }
+  userImg.style.backgroundImage = `url('../img/user${user}.png')`;
+}
 
 function scoreProgressDisplay(){
   let scoreProgressValue = scoreValue / 100;
