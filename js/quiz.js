@@ -158,13 +158,13 @@ function loadLocalStorage(){
 
 function userImgDisplay(){
   if (user == 'SkyShim'){
-    userImg.style.backgroundImage = "url('../img/user_skyshim.png')"
+    userImg.style.backgroundImage = "url('../img/userskyshim.png')"
   }
   else if (user == 'Lamon'){
-    userImg.style.backgroundImage = "url('../img/user_lamon.png')"
+    userImg.style.backgroundImage = "url('../img/userlamon.png')"
   }
   else {
-    userImg.style.backgroundImage = "url('../img/user_mirae.png')"
+    userImg.style.backgroundImage = "url('../img/usermirae.png')"
   }
 }
 
