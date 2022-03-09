@@ -53,16 +53,7 @@ window.speechSynthesis.onvoiceschanged = setVoiceList;
 function loadLocalStorage(){
   if(localStorage.getItem('unit')){
     user = localStorage.getItem('user');
-    //userImgDisplay();
-      if (user == 'SkyShim'){
-    userImg.style.backgroundImage = "url('../img/userskyshim.png')"
-  }
-  else if (user == 'Lamon'){
-    userImg.style.backgroundImage = "url('../img/userlamon.png')"
-  }
-  else {
-    userImg.style.backgroundImage = "url('../img/usermirae.png')"
-  }
+    userImg.style.backgroundImage = `url('../img/user${user}.png')`;
     unit = localStorage.getItem('unit');
     chapter = localStorage.getItem('chapter');
     scoreArray = JSON.parse(localStorage.getItem('scoreArray'));
@@ -166,8 +157,16 @@ function loadLocalStorage(){
 
 
 function userImgDisplay(){
-
-  userImg.style.backgroundImage = "url('https://futurezzz.github.io/engStudy/img/userskyshim.png')"
+  // if (user == 'SkyShim'){
+  //   userImg.style.backgroundImage = "url('../img/userskyshim.png')"
+  // }
+  // else if (user == 'Lamon'){
+  //   userImg.style.backgroundImage = "url('../img/userlamon.png')"
+  // }
+  // else {
+  //   userImg.style.backgroundImage = "url('../img/usermirae.png')"
+  // }
+  userImg.style.backgroundImage = `url('../img/user${user}.png')`;
 }
 
 function scoreProgressDisplay(){
