@@ -195,11 +195,32 @@
 #character {
   width: 100%; 
   height: 100%;
-  background: url('../img/character01.png');
+  /* background: url('../img/character01.png'); */
   background-position: 0px 88px;
   background-size: 448px 384px;
   animation: play 0.5s steps(7) infinite;
   /* animation: characterPlay 1s ease-in-out; */
+}
+
+
+.charater01 {
+  background: url('../img/character01.png');
+}
+
+.charater02 {
+  background: url('../img/character02.png');
+}
+
+.charater03 {
+  background: url('../img/character03.png');
+}
+
+.charater04 {
+  background: url('../img/character04.png');
+}
+
+.charater05 {
+  background: url('../img/character05.png');
 }
 
 .thumbSkyShim {
@@ -213,6 +234,7 @@
 .thumbMirae {
   background-image: url('../img/userMirae.png');
 }
+
 @keyframes play {
   100% {
     background-position: -448px 88px;
