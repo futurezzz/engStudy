@@ -158,13 +158,13 @@ function loadLocalStorage(){
 
 function userImgDisplay(){
   if (user == 'SkyShim'){
-    userImg.style.backgroundImage = "url('https://futurezzz.github.io/engStudy/image/user_skyshim.png')"
+    userImg.style.backgroundImage = "url('../img/user_skyshim.png')"
   }
   else if (user == 'Lamon'){
-    userImg.style.backgroundImage = "url('../image/user_lamon.png')"
+    userImg.style.backgroundImage = "url('../img/user_lamon.png')"
   }
   else {
-    userImg.style.backgroundImage = "url('../image/user_mirae.png')"
+    userImg.style.backgroundImage = "url('../img/user_mirae.png')"
   }
 }
 
