@@ -157,15 +157,8 @@ function loadLocalStorage(){
 
 
 function userImgDisplay(){
-  if (user == 'SkyShim'){
-    userImg.style.backgroundImage = "url('../img/userskyshim.png')"
-  }
-  else if (user == 'Lamon'){
-    userImg.style.backgroundImage = "url('../img/userlamon.png')"
-  }
-  else {
-    userImg.style.backgroundImage = "url('../img/usermirae.png')"
-  }
+
+  userImg.style.backgroundImage = "url('../img/userskyshim.png')"
 }
 
 function scoreProgressDisplay(){
