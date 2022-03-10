@@ -171,6 +171,7 @@ wordsList.addEventListener('click',(e)=>{
   } else if(checkedE && checkedK && serialE !== serialK){
     audioNo.play();
     scoreValue -= 50;
+    scoreTodayValue -= 50;
     combo = 0;
     score.textContent = scoreValue;
     setTimeout(()=>{
