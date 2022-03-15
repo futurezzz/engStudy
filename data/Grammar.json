@@ -68,7 +68,7 @@
       "chapter": "Grammar",
       "serial": 10,
       "text": "He doesn't go to church on Saturday",
-      "meaning": "토요일엔 교회 안 가고 ",
+      "meaning": "그는 토요일엔 교회에 가지 않는다 ",
       "unit": 1
     },
     {
@@ -124,7 +124,7 @@
       "chapter": "Grammar",
       "serial": 18,
       "text": "Do they go to work on Sunday",
-      "meaning": "그들은 일요일에 일하러 갑니까",
+      "meaning": "그들은 일요일에 일하러 갑니까?",
       "unit": 1
     },
     {
@@ -144,8 +144,8 @@
     {
       "chapter": "Grammar",
       "serial": 21,
-      "text": "Will they go abroad next week? come",
-      "meaning": "그들은 다음 주에 해외로 가나요",
+      "text": "Will they go abroad next week",
+      "meaning": "그들은 다음 주에 해외로 가나요?",
       "unit": 1
     },
     {
