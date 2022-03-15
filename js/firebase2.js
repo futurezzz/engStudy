@@ -147,7 +147,7 @@ wordsList.addEventListener('click',(e)=>{
       setTimeout(()=>{
         audioClear.play();
         
-        m = Math.floor(Math.random()*4+1);
+        m = Math.floor(Math.random()*10);
         console.log(m);
         //character.style.backgroundImage = `url('../img/character0${m}.png')`;
         //위의 코드. backgroundImgae url 가 깃허브에서 작동을 안하므로

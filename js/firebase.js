@@ -38,6 +38,7 @@ mainChapter.addEventListener('click',(e)=>{
 
 subUnitList.addEventListener('click',(e)=>{
   elem = e.target;
+  SelectData();
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })
 
@@ -94,7 +95,8 @@ async function SelectCalendarData(){
     
 
 
-// ----------- SELECT DATA FUNCTION ---------------------------------//    
+// ----------- SELECT DATA FUNCTION ---------------------------------//   
+//선택한 단원에 해당하는 각 unit점수들 불러오기 
 async function SelectData(){
   const dbref = ref(db);
   await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
