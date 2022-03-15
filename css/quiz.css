@@ -203,6 +203,10 @@
 }
 
 
+.charater00 {
+  background: url('../img/character00.png');
+}
+
 .charater01 {
   background: url('../img/character01.png');
 }
@@ -223,6 +227,22 @@
   background: url('../img/character05.png');
 }
 
+.charater06 {
+  background: url('../img/character06.png');
+}
+
+.charater07 {
+  background: url('../img/character07.png');
+}
+
+.charater08 {
+  background: url('../img/character08.png');
+}
+
+.charater09 {
+  background: url('../img/character09.png');
+}
+
 .thumbSkyShim {
   background-image: url('../img/userSkyShim.png');
 }
@@ -233,6 +253,7 @@
 
 .thumbMirae {
   background-image: url('../img/userMirae.png');
+  color: rgb(18, 73, 15);
 }
 
 @keyframes play {
