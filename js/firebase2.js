@@ -174,6 +174,7 @@ wordsList.addEventListener('click',(e)=>{
     scoreTodayValue -= 50;
     combo = 0;
     score.textContent = scoreValue;
+    scoreToday.textContent = scoreTodayValue;
     setTimeout(()=>{
       checkedE.replace('textOn','text')
       checkedK.replace('meaningOn','meaning')
