@@ -233,7 +233,7 @@ function displayUnits(){
   // 두번째 unit표시 (speak관련)
   
   //scoreSpeakArray 가 아직 없는 상태라면 새로 만들어라
-  scoreSpeakArray = scoreSpeakArray ?? new Array(unitLenght).fill(0); 
+  scoreSpeakArray = scoreSpeakArray ?? new Array(unitLength).fill(0); 
   console.log(scoreSpeakArray)
   for(let i=0; i<unitLength; i++ ){
     const li = document.createElement('li');
