@@ -31,7 +31,7 @@ userBox.addEventListener('click', (e)=>{
 });
 
 mainChapter.addEventListener('click',(e)=>{
-  if(user){
+  if(user && chapter){
     SelectData();
   }
 })
