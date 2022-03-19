@@ -81,7 +81,6 @@ async function SelectData(){
           scoreArray = new Array(unitLength).fill(0); 
           scoreSpeakArray = new Array(unitLength).fill(0); 
         }
-        console.log(scoreArray);
       })
       .catch((error)=>{
         alert("unsuccessful, error" + error);
@@ -101,7 +100,7 @@ async function SelectTodayData(){
           //새로운 배열을 만들고 0을 채운다. 배열의 자릿수는 해당월의 날짜만큼이다.(lastDayOfMonth)
           dateScoreArray = new Array(lastDayOfMonth).fill(0); 
         }
-        console.log(dateScoreArray)
+        // console.log(dateScoreArray)
       })
       .catch((error)=>{
         alert("unsuccessful, error" + error);

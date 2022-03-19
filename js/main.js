@@ -81,6 +81,7 @@ function transferData(){
     unitNo = elem.dataset.unit;
     localStorage.setItem("user",user);
     localStorage.setItem("unit",unitNo);
+    localStorage.setItem("unitLength",unitLength);
     localStorage.setItem("chapter",chapter);
     localStorage.setItem("scoreArray",JSON.stringify(scoreArray));
     localStorage.setItem("scoreSpeakArray",JSON.stringify(scoreSpeakArray));
@@ -234,7 +235,6 @@ function displayUnits(){
   
   //scoreSpeakArray 가 아직 없는 상태라면 새로 만들어라
   scoreSpeakArray = scoreSpeakArray ?? new Array(unitLength).fill(0); 
-  console.log(scoreSpeakArray)
   for(let i=0; i<unitLength; i++ ){
     const li = document.createElement('li');
     // scoreSpeakArray의 값이 있으면 그 값을 사용. 없으면 0을 넣는다

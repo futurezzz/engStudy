@@ -58,11 +58,12 @@ function loadLocalStorage(){
     userImg.classList.add(`thumb${user}`);
     unit = localStorage.getItem('unit');
     chapter = localStorage.getItem('chapter');
+    unitLength = parseInt(localStorage.getItem('unitLength'));
     scoreArray = JSON.parse(localStorage.getItem('scoreArray'));
     dateScoreArray = JSON.parse(localStorage.getItem('dateScoreArray'));
     scoreTodayValue = dateScoreArray[new Date().getDate()-1];
     scoreToday.textContent = scoreTodayValue;
-    console.log(user,unit,chapter);
+    console.log(user,unit,chapter, unitLength);
     title.textContent = chapter;
     unitText.textContent = `unit ${unit}`;
     scoreValue = scoreArray[unit-1];
