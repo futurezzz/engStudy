@@ -21,6 +21,7 @@ const randomNum = []; //문제 10개 랜덤추출
 const randomDisplay = [];  // 추출한 문제와 뜻 총 20개 객체를 랜덤으로 화면에 표시
 let displayText = [];
 let scoreArray = [];
+let scoreSpeakArray = [];
 let matchedNo;
 let scoreValue;
 let scoreTodayValue;
@@ -34,6 +35,7 @@ let serialK; //이미 선택된 한글뜻
 var voices = [];
 
 //main
+
 loadLocalStorage();
 loadItems()
 .then(items => {
@@ -171,6 +173,7 @@ function userImgDisplay(){
 
 function scoreProgressDisplay(){
   let scoreProgressValue = scoreValue / 100;
+  console.log(scoreValue)
   if (scoreProgressValue >= 190) {
     scoreProgressValue = 200;
     scoreProgress.style.borderRadius = '10px'

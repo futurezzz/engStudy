@@ -7,7 +7,7 @@ let toggle = true;
 // true면 음절을 연속적으로 인식하나 false면 한 음절만 기록함
 recognition.interimResults = true;
 // 값이 없으면 HTML의 <html lang="en">을 참고합니다. ko-KR, en-US
-recognition.lang = "ko-KR";
+recognition.lang = "en-US";
 // true means continuous, and false means not continuous (single result each time.)
 // true면 음성 인식이 안 끝나고 계속 됩니다.
 recognition.continuous = true;
@@ -43,7 +43,6 @@ recognition.addEventListener("result", e => {
 
   document.querySelector(".para").innerHTML = speechToText + interimTranscript
 })
-
 
 
 mic.addEventListener("click", () => {

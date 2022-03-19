@@ -27,6 +27,9 @@
 let value;
 
 
+  SelectData();
+  SelectTodayData();
+
 
 // 10문제 맞힌 후 play 버튼 활성화.
 // 이 play버튼을 누르면 다시 게임 시작
@@ -42,34 +45,77 @@ function resetData(){
 }
 
 // ----------- SELECT DATA FUNCTION ---------------------------------//    
+// async function SelectData(){
+//   const dbref = ref(db);
+
+//   await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
+//     if(snapshot.exists()){
+//       scoreArray = snapshot.val().Score;
+//       }
+        
+//         else {
+//           alert("No data found")  
+//         }
+//       })
+//       .catch((error)=>{
+//         alert("unsuccessful, error" + error);
+//       });
+//       await displayUnits();
+//     }
+
+
+
+// ----------- SELECT DATA FUNCTION ---------------------------------// 
+    //선택한 단원에 해당하는 각 unit점수들 불러오기 
 async function SelectData(){
   const dbref = ref(db);
-
   await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
     if(snapshot.exists()){
       scoreArray = snapshot.val().Score;
-      }
-        
+      scoreSpeakArray = snapshot.val().ScoreSpeak;
+    }
+        //firebase데이터에 아무것도 없을 경우
+        //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
         else {
-          alert("No data found")  
+          //새로운 배열을 만들고 각 자리에 0을 채운다.
+          scoreArray = new Array(unitLength).fill(0); 
+          scoreSpeakArray = new Array(unitLength).fill(0); 
         }
+        console.log(scoreArray);
       })
       .catch((error)=>{
         alert("unsuccessful, error" + error);
       });
-      await displayUnits();
     }
 
+async function SelectTodayData(){
+  const dbref = ref(db);
+  await get(child(dbref, `${user}/` + 'calendar'+ `/${thisMonth}`)).then((snapshot)=>{
+    if(snapshot.exists()){
+      dateScoreArray = snapshot.val().DateScore;
+      
+    }
+        //firebase데이터에 아무것도 없을 경우
+        //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
+        else {
+          //새로운 배열을 만들고 0을 채운다. 배열의 자릿수는 해당월의 날짜만큼이다.(lastDayOfMonth)
+          dateScoreArray = new Array(lastDayOfMonth).fill(0); 
+        }
+        console.log(dateScoreArray)
+      })
+      .catch((error)=>{
+        alert("unsuccessful, error" + error);
+      });
+    }
 
-// export {InsertData}; 
-// export {SelectData}; 
-
+    
     // ----------- INSERT DATA FUNTION ---------------------------------//    
 function InsertData(){
   scoreArray[unit-1] = scoreValue;
   dateScoreArray[new Date().getDate()-1] = scoreTodayValue;
   set(ref(db, `${user}/` + chapter), {
-        Score : scoreArray
+        Score : scoreArray,
+        ScoreSpeak : scoreSpeakArray
       })
       .then(() => {
         // alert("data stored successfully");
@@ -97,16 +143,17 @@ wordsList.addEventListener('click',(e)=>{
   // 이전에 선택된 요소를 기억했다가 다음 같은 요소(영어 또는 뜻)선택시 이전요소의 색깔 원상복귀
   let isAvailable = elem.contains("words-list");
   if(!isAvailable){
-    //선택된 것이 영단어이고
+    
+    //선택된 것이 영단어이고. 즉 빈공간을 클릭하지 않았고
     if(elem.contains('text')){
-    // 이미 선택된 영단어가 있으면 선택을 해제하고 현재 선택요소만 진하게
+      // 이미 선택된 영단어가 있으면 선택을 해제하고 현재 선택요소만 진하게
       if(checkedE){
-        checkedE.replace('textOn','text')
-      }
-      elem.replace('text','textOn')
-      speech(e.target.textContent);
-      serialE = e.target.dataset.serial;
-      checkedE = elem;
+            checkedE.replace('textOn','text')
+          }
+            elem.replace('text','textOn')
+            speech(e.target.textContent);
+            serialE = e.target.dataset.serial;
+            checkedE = elem;
       //선택된 것이 한글뜻이고
     }else if(elem.contains('meaning')){
       // 이미 선택된 한글뜻이 있으면 선택을 해제하고 현재 선택요소만 진하게

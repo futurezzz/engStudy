@@ -1,5 +1,6 @@
 const mainChapter = document.querySelector('.main-unit-list');
 const subUnitList = document.querySelector('.sub-unit-list');
+const subSpeakList = document.querySelector('.sub-speak-list');
 const calendarToday = document.querySelector('.calendar-today');
 const calendarUnitList = document.querySelector('.calender-unit-list');
 const userBox = document.querySelector('.user');
@@ -7,6 +8,7 @@ const signIn = document.querySelector('.signIn');
 const signInImg = document.querySelector('.signIn-img');
 const changeUser = document.querySelector('.change-user');
 const mainUnit = document.querySelector('.main-unit');
+let url;
 let elem;
 let unitNo;
 let today = new Date();
@@ -22,6 +24,7 @@ let units = [];
 let itemArray = [];
 let dateScoreArray = [];
 let scoreArray = [];
+let scoreSpeakArray = [];
 let unitLength = 0; //전체 unit의 개수
 const score = document.querySelector('.score');
 
@@ -62,6 +65,7 @@ userBox.addEventListener('click', (e)=>{
 
 mainChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
+  unitLength =  parseInt(e.target.dataset.unitNo);
   if ( chapter ) {
     init();
     console.log(chapter);
@@ -79,10 +83,13 @@ function transferData(){
     localStorage.setItem("unit",unitNo);
     localStorage.setItem("chapter",chapter);
     localStorage.setItem("scoreArray",JSON.stringify(scoreArray));
+    localStorage.setItem("scoreSpeakArray",JSON.stringify(scoreSpeakArray));
     localStorage.setItem("dateScoreArray",JSON.stringify(dateScoreArray));
     if (typeof (window.open) == "function")
-    { window.open("quiz.html"); 
-    } else { window.location.href = "quiz.html";
+    { window.open(url); 
+    } else { window.location.href = url;
+    // { window.open("quiz.html"); 
+    // } else { window.location.href = "quiz.html";
     }
   }
 }
@@ -119,6 +126,7 @@ function displayCalendar(){
   //이전에 표시된 단원선택표가 있으면 우선 초기화(지우기)
   calendarToday.textContent =  `${today.getFullYear()}-${today.getMonth()+1}-${today.getDate()} ${week[today.getDay()]}`;
   subUnitList.innerHTML = ''; 
+  subSpeakList.innerHTML = ''; 
   // 요일 표시
   calendarUnitList.innerHTML = ''; //unit메뉴들을 초기화
   for(let j=0; j<7; j++){
@@ -136,16 +144,24 @@ function displayCalendar(){
     let dateScoreItem = dateScoreArray[i];
     li.innerHTML = `Day ${i+1} <br/> ${dateScoreItem}`;
     li.classList.add('calender-unit');
-    if (dateScoreItem >= 40000 ){
-      li.style.backgroundColor = "rgb(10, 70, 10)"
+    if (dateScoreItem >= 70000 ){
+      li.style.backgroundColor = "rgb(185, 50, 50)"
+      li.style.color = "rgb(250,250,250)";
+    }
+    else if (dateScoreItem >= 50000 ){
+      li.style.backgroundColor = "rgb(65, 30, 100)"
+      li.style.color = "rgb(250,250,250)";
+    }
+    else if (dateScoreItem >= 40000 ){
+      li.style.backgroundColor = "rgb(30, 54, 88)"
       li.style.color = "rgb(250,250,250)";
     }
     else if (dateScoreItem >= 15000 ){
-      li.style.backgroundColor = "rgba(30, 54, 88,"+dateScoreItem/20000 +")"
+      li.style.backgroundColor = "rgba(50, 100, 30,"+dateScoreItem/20000 +")"
       li.style.color = "rgb(250,250,250)";
     }
     else if (dateScoreItem > 0){
-      li.style.backgroundColor = "rgba(30, 54, 88,"+dateScoreItem/25000 +")"
+      li.style.backgroundColor = "rgba(50, 100, 30,"+dateScoreItem/25000 +")"
       li.classList.add('unit-box-border');
     }
     // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
@@ -185,18 +201,20 @@ function groupBy(list) {
 
 function displayItems(items){
   units = items.map(item=>item);
-  const grouped = groupBy(units);
-  // console.log(grouped);
+  // groupBy(units);
+  // console.log(unitLength);
 }
 
 function displayUnits(){
   calendarToday.textContent = '';
   calendarUnitList.innerHTML = '';
   subUnitList.innerHTML = ''; //unit메뉴들을 초기화
+  subSpeakList.innerHTML = ''; //unit메뉴들을 초기화
+  // 첫번째 unit들 표시(짝 맞추기)
   for(let i=0; i<unitLength; i++ ){
     const li = document.createElement('li');
+    const li2 = document.createElement('li');
     let scoreItem = scoreArray[i];
-    let scoreColor = scoreItem/20000*250;
     li.innerHTML = `${chapter} ${i+1} <br/> ${scoreItem}`;
     li.classList.add('unit');
     if (scoreItem >= 7000 ){
@@ -210,5 +228,29 @@ function displayUnits(){
     // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
     li.dataset.unit = i+1; //나중에 li선택시 어떤 unit을 클릭했는지 데이터 전송을 위해 필요
     subUnitList.append(li);
+  }
+
+  // 두번째 unit표시 (speak관련)
+  
+  //scoreSpeakArray 가 아직 없는 상태라면 새로 만들어라
+  scoreSpeakArray = scoreSpeakArray ?? new Array(unitLenght).fill(0); 
+  console.log(scoreSpeakArray)
+  for(let i=0; i<unitLength; i++ ){
+    const li = document.createElement('li');
+    // scoreSpeakArray의 값이 있으면 그 값을 사용. 없으면 0을 넣는다
+    let scoreSpeakItem = scoreSpeakArray[i];
+    li.innerHTML = `${chapter} ${i+1} <br/> ${scoreSpeakItem}`;
+    li.classList.add('unit');
+    if (scoreSpeakItem >= 7000 ){
+      li.style.backgroundColor = "rgba(0,80,120,"+scoreSpeakItem/15000 +")"
+      li.style.color = "rgb(250,250,250)";
+    }
+    else if (scoreSpeakItem > 0){
+      li.style.backgroundColor = "rgba(0,80,120,"+scoreSpeakItem/15000 +")"
+      li.classList.add('unit-speak-border');
+    }
+    // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
+    li.dataset.unit = i+1; //나중에 li선택시 어떤 unit을 클릭했는지 데이터 전송을 위해 필요
+    subSpeakList.append(li);
   }
 }

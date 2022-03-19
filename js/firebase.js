@@ -38,6 +38,15 @@ mainChapter.addEventListener('click',(e)=>{
 
 subUnitList.addEventListener('click',(e)=>{
   elem = e.target;
+  url = "quiz.html";
+  console.log(elem)
+  SelectData();
+  SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
+})
+subSpeakList.addEventListener('click',(e)=>{
+  elem = e.target;
+  url = "quizSpeak.html";
+  console.log(elem)
   SelectData();
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })
@@ -102,12 +111,14 @@ async function SelectData(){
   await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
     if(snapshot.exists()){
       scoreArray = snapshot.val().Score;
+      scoreSpeakArray = snapshot.val().ScoreSpeak;
     }
-        //firebase데이터에 아무것도 없을 경우
-        //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
-        else {
+    //firebase데이터에 아무것도 없을 경우
+    //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
+    else {
           //새로운 배열을 만들고 각 자리에 0을 채운다.
           scoreArray = new Array(unitLength).fill(0); 
+          scoreSpeakArray = new Array(unitLength).fill(0); 
         }
       })
       .catch((error)=>{
