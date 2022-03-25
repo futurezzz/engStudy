@@ -136,6 +136,9 @@ function displayItems(items){
 function displayWords(){
   score.textContent = scoreValue;
   bottom.style.display = 'none';
+  reset.style.display = 'none';
+  back.style.display = 'none';
+  check.style.display = 'none';
   // matchedNo = 0;
   // combo = 0;
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
