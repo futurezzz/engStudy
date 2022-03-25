@@ -6,6 +6,7 @@ const speakList = document.querySelector('.speak-list');
 const words = document.querySelector('.words');
 const kor = document.querySelector('.kor');
 const answer = document.querySelector('.answer');
+const bottom = document.querySelector('.bottom');
 const back = document.querySelector('.back');
 const check = document.querySelector('.check');
 let answerTry;
@@ -134,6 +135,7 @@ function displayItems(items){
 
 function displayWords(){
   score.textContent = scoreValue;
+  bottom.style.display = 'none';
   // matchedNo = 0;
   // combo = 0;
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
@@ -224,6 +226,7 @@ function resetSpeech(){
   speechToText = '';
   interimTranscript = '';
 }
+
 function randomSpeakArray(){
   engRandomArray.length = 0; //random배열 초기화
   array.length = 0;

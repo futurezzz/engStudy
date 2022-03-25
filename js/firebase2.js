@@ -140,45 +140,6 @@ speakList.addEventListener('click',(e)=>{
        //정답이면
       if (answer.textContent === word[randomNum[matchedNo]].text){
         checkAnswerYes();
-    //     audioYes.play();
-    //     scoreValue = scoreValue + 300 + combo*10;
-    //     scoreTodayValue = scoreTodayValue + 300 + combo*10;
-    //     score.textContent = scoreValue;
-    //     scoreToday.textContent = scoreTodayValue;
-    //     // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
-    //     if(combo>0){
-    //       comboBox.innerHTML = `${combo} combo!`;
-    //       comboBox.classList.add('combo-boxOn');
-    //   } 
-    //   combo++;
-    //   matchedNo++;
-    //   console.log(matchedNo);
-    //   setTimeout(()=>{
-    //     comboBox.classList.remove('combo-boxOn');
-    //   },500)
-      
-    // // 10문제 다 맞히면 클리어. platBtn 활성화
-    //   if(matchedNo === 10 ){
-    //     character.classList.remove(`charater0${m}`);
-    //     setTimeout(()=>{
-    //       audioClear.play();
-          
-    //       m = Math.floor(Math.random()*10);
-    //       console.log(m);
-    //       character.classList.add(`charater0${m}`);
-    //       clearBox.style.display = 'block';
-    //       scoreProgressDisplay();
-    //       if (scoreValue > 100){
-    //         playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
-    //         playBtn.innerText = 'YOU DID IT!';
-    //       }
-    //       words.style.opacity = '0';
-    //       InsertData();
-    //     },300)
-    //   }
-    //   else {
-    //     displaySpeakWords();
-    //   }
     }
 
       // 오답이면
