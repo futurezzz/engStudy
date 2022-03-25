@@ -61,7 +61,7 @@
       "chapter": "NativeA",
       "serial": 9,
       "text": "Good for you",
-      "meaning": "잘 됐네.(너에게 좋은 일)",
+      "meaning": "너에게 잘 됐네.",
       "unit": 1
     },
     {
@@ -75,7 +75,7 @@
       "chapter": "NativeA",
       "serial": 11,
       "text": "Go for it",
-      "meaning": "해 보는 거야! 자, 해봐!",
+      "meaning": "해 보는 거야! 해봐!",
       "unit": 1
     },
     {
@@ -117,28 +117,28 @@
       "chapter": "NativeA",
       "serial": 17,
       "text": "Kudos to you",
-      "meaning": "(물개박수와 함께) 당신에게 칭찬을",
+      "meaning": "당신에게 칭찬을 (물개박수와 함께) ",
       "unit": 1
     },
     {
       "chapter": "NativeA",
       "serial": 18,
       "text": "I've got to admit it",
-      "meaning": "(자존심 상하지만)인정할 건 해야지",
+      "meaning": "인정할 건 해야지 (자존심 상하지만)",
       "unit": 1
     },
     {
       "chapter": "NativeA",
       "serial": 19,
       "text": "I'll give you that",
-      "meaning": "(너 진짜 멋져 등..) 그건 진짜 인정!",
+      "meaning": "그건 진짜 인정! (너 진짜 멋져 등..) ",
       "unit": 1
     },
     {
       "chapter": "NativeA",
       "serial": 20,
       "text": "I gotta hand it to you",
-      "meaning": "(너한테 항복)네 실력은 알아줘야겠다.",
+      "meaning": "네 실력은 알아줘야겠다.",
       "unit": 1
     },
     {
@@ -159,7 +159,7 @@
       "chapter": "NativeA",
       "serial": 23,
       "text": "There you go",
-      "meaning": "잘하네! (또는 물건을 건네며 여기있어요)",
+      "meaning": "잘하네! (여기있어요)",
       "unit": 1
     },
     {
@@ -271,14 +271,14 @@
       "chapter": "NativeA",
       "serial": 39,
       "text": "Scout's honor",
-      "meaning": "(스카우트의 명예를 걸고)거짓말 아니야",
+      "meaning": "거짓말 아니야 (스카우트의 명예를 걸고)",
       "unit": 2
     },
     {
       "chapter": "NativeA",
       "serial": 40,
       "text": "Cross my heart",
-      "meaning": "(내 심장에 십자가를 그릴만큼) 맹세해",
+      "meaning": "맹세해 (내 심장에 십자가를 그릴만큼)",
       "unit": 2
     },
     {
@@ -705,7 +705,7 @@
       "chapter": "NativeA",
       "serial": 101,
       "text": "Don't tell me",
-      "meaning": "(~라고) 말하지 마. 설마 ~인건 아니지?",
+      "meaning": "말하지 마. 설마 ~인건 아니지?",
       "unit": 5
     },
     {
