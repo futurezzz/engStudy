@@ -38,32 +38,15 @@ playBtn.addEventListener('click',(e)=>{
 })
 
 function resetData(){
+  matchedNo = 0;
+  combo = 0;
   clearBox.style.display = 'none';
   console.log(thisMonth);
   randomArray(); //난수를 발생시켜 단어와 뜻을 섞음
-  displayWords();
+  
+  quizType === "matching" ? displayWords() : displaySpeakWords()
+  // displayWords();
 }
-
-// ----------- SELECT DATA FUNCTION ---------------------------------//    
-// async function SelectData(){
-//   const dbref = ref(db);
-
-//   await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
-//     if(snapshot.exists()){
-//       scoreArray = snapshot.val().Score;
-//       }
-        
-//         else {
-//           alert("No data found")  
-//         }
-//       })
-//       .catch((error)=>{
-//         alert("unsuccessful, error" + error);
-//       });
-//       await displayUnits();
-//     }
-
-
 
 // ----------- SELECT DATA FUNCTION ---------------------------------// 
     //선택한 단원에 해당하는 각 unit점수들 불러오기 
@@ -110,7 +93,9 @@ async function SelectTodayData(){
     
     // ----------- INSERT DATA FUNTION ---------------------------------//    
 function InsertData(){
-  scoreArray[unit-1] = scoreValue;
+  
+  quizType === "matching" ? scoreArray[unit-1] = scoreValue : scoreSpeakArray[unit-1] = scoreValue;
+  // scoreArray[unit-1] = scoreValue;
   dateScoreArray[new Date().getDate()-1] = scoreTodayValue;
   set(ref(db, `${user}/` + chapter), {
         Score : scoreArray,
@@ -133,9 +118,164 @@ function InsertData(){
       });
     }
 
+//speakQuiz에서 사용되는 코딩
+speakList.addEventListener('click',(e)=>{
+  let elem = e.target
+  if(elem.classList.contains("eng")) {
+    let text = elem.textContent;
+    
+    speech(elem.textContent);
+    answer.textContent = answer.textContent ? `${answer.textContent} ${text}` : `${text}`;
+    elem.style.opacity = "0";
+    arrayLengthLeft -= 1;
+    // undo배열에 내가 몇번째 영어 단어를 선택했는지 기록.
+    // undo 누를 때마다 하나씩 복원
+    undo.push(engRandomArray.indexOf(text));
+    // console.log(undo) 
+    // console.log(arrayLengthLeft);
+    // console.log(engRandomArray.indexOf(text))
+
+    //나열된 영어 단어를 문장으로 다 만들면 맞았나 틀렸나 확인
+    if (arrayLengthLeft === 0){ 
+       //정답이면
+      if (answer.textContent === word[randomNum[matchedNo]].text){
+        checkAnswerYes();
+    //     audioYes.play();
+    //     scoreValue = scoreValue + 300 + combo*10;
+    //     scoreTodayValue = scoreTodayValue + 300 + combo*10;
+    //     score.textContent = scoreValue;
+    //     scoreToday.textContent = scoreTodayValue;
+    //     // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
+    //     if(combo>0){
+    //       comboBox.innerHTML = `${combo} combo!`;
+    //       comboBox.classList.add('combo-boxOn');
+    //   } 
+    //   combo++;
+    //   matchedNo++;
+    //   console.log(matchedNo);
+    //   setTimeout(()=>{
+    //     comboBox.classList.remove('combo-boxOn');
+    //   },500)
+      
+    // // 10문제 다 맞히면 클리어. platBtn 활성화
+    //   if(matchedNo === 10 ){
+    //     character.classList.remove(`charater0${m}`);
+    //     setTimeout(()=>{
+    //       audioClear.play();
+          
+    //       m = Math.floor(Math.random()*10);
+    //       console.log(m);
+    //       character.classList.add(`charater0${m}`);
+    //       clearBox.style.display = 'block';
+    //       scoreProgressDisplay();
+    //       if (scoreValue > 100){
+    //         playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
+    //         playBtn.innerText = 'YOU DID IT!';
+    //       }
+    //       words.style.opacity = '0';
+    //       InsertData();
+    //     },300)
+    //   }
+    //   else {
+    //     displaySpeakWords();
+    //   }
+    }
+
+      // 오답이면
+      else {
+        checkAnswerNo();
+        // audioNo.play();
+        // scoreValue -= 50;
+        // scoreTodayValue -= 50;
+        // combo = 0;
+        // score.textContent = scoreValue;
+        // scoreToday.textContent = scoreTodayValue;
+        // displaySpeakWords();
+      }
+    }
+  }
+})
 
 
-    // quiz.js 에서 가져옴--------------------------------------------------------
+// 마이크로 말하고 check버튼을 누르면 정답인지 확인
+check.addEventListener('click',()=>{
+  let answerTrans = word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('wanna','want to').replace(removeSpecialCha,"");
+//말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
+  if (answer.textContent.toLocaleLowerCase().replace(/^\s*/, "") === answerTrans){
+    console.log('yes!!');
+    checkAnswerYes();
+  }
+  else{
+    checkAnswerNo();
+  }
+  console.log(answer.textContent.toLocaleLowerCase());
+  console.log(answerTrans)
+})
+
+function checkAnswerYes(){
+       //정답이면
+        audioYes.play();
+        scoreValue = scoreValue + 300 + combo*10;
+        scoreTodayValue = scoreTodayValue + 300 + combo*10;
+        score.textContent = scoreValue;
+        scoreToday.textContent = scoreTodayValue;
+        // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
+        if(combo>0){
+          comboBox.innerHTML = `${combo} combo!`;
+          comboBox.classList.add('combo-boxOn');
+      } 
+      combo++;
+      matchedNo++;
+      console.log(matchedNo);
+      answer.style.color = '#98d0d0';
+      setTimeout(()=>{
+        comboBox.classList.remove('combo-boxOn');
+        resetSpeech();
+        answer.style.color = '#000';
+      },1000)
+      
+    // 10문제 다 맞히면 클리어. platBtn 활성화
+      if(matchedNo === 10 ){
+        character.classList.remove(`charater0${m}`);
+        setTimeout(()=>{
+          audioClear.play();
+          
+          m = Math.floor(Math.random()*10);
+          console.log(m);
+          character.classList.add(`charater0${m}`);
+          clearBox.style.display = 'block';
+          scoreProgressDisplay();
+          if (scoreValue > 100){
+            playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
+            playBtn.innerText = 'YOU DID IT!';
+          }
+          words.style.opacity = '0';
+          InsertData();
+        },300)
+      }
+      else {
+        displaySpeakWords();
+      }
+    }
+
+
+function checkAnswerNo(){
+  audioNo.play();
+  scoreValue -= 50;
+  scoreTodayValue -= 50;
+  combo = 0;
+  score.textContent = scoreValue;
+  scoreToday.textContent = scoreTodayValue;
+  answer.style.color = '#98d0d0';
+  setTimeout(()=>{
+    resetSpeech();
+    answer.style.color = '#000';
+  },1000)
+  displaySpeakWords();
+}
+
+
+// quiz.js 에서 가져옴--------------------------------------------------------
 wordsList.addEventListener('click',(e)=>{
   // console.log(e.target.textContent);
   let elem = e.target.classList;
@@ -187,6 +327,7 @@ wordsList.addEventListener('click',(e)=>{
     setTimeout(()=>{
       comboBox.classList.remove('combo-boxOn');
     },500)
+
     // 10문제 다 맞히면 클리어. platBtn 활성화
     if(matchedNo === 10 ){
       character.classList.remove(`charater0${m}`);

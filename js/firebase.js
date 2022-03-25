@@ -39,14 +39,17 @@ mainChapter.addEventListener('click',(e)=>{
 subUnitList.addEventListener('click',(e)=>{
   elem = e.target;
   url = "quiz.html";
-  console.log(elem)
+  quizType = "matching";
+  console.log(elem, quizType)
   SelectData();
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })
+
 subSpeakList.addEventListener('click',(e)=>{
   elem = e.target;
   url = "quizSpeak.html";
-  console.log(elem)
+  quizType = "speaking";
+  console.log(elem, quizType)
   SelectData();
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })

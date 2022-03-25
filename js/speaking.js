@@ -1,6 +1,48 @@
 window.SpeechRecognition =
   window.SpeechRecognition || window.webkitSpeechRecognition;
 
+
+//   const myRe = /d(b+)d/g;
+//   const myArray = myRe.exec('cdbbdbsbz');
+// console.log(myArray);;
+// console.log(myArray.length)
+
+// const test = "What's wrong?"
+// const myRe = /\b\S\w*\b/g;
+// console.table(test.match(myRe));
+
+// Using Regex boundaries to fix buggy string.
+buggyMultiline = `tey, ihe light-greon apple
+tangs on ihe greon traa`;
+//특수문자제거
+var regExp = /[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\'\"]/gi
+//공백 모두 없애기
+var reg2 = /\s/g; 
+
+textA = " How's it going?"
+// textA = textA.match(/\S\w*/gim);
+textB = textA.toLowerCase().replace(regExp, "");
+textC = textA.replace(/^\s*/, "");
+console.log(textB);
+console.log(textC);
+
+// 1) Use ^ to fix the matching at the begining of the string, and right after newline.
+// buggyMultiline = buggyMultiline.replace(/^t/gim,'h');
+// console.log(1, buggyMultiline); // fix 'tey', 'tangs' => 'hey', 'hangs'. Avoid 'traa'.
+
+// // 2) Use $ to fix matching at the end of the text.
+// buggyMultiline = buggyMultiline.replace(/aa$/gim,'ee.');
+// console.log(2, buggyMultiline); // fix  'traa' => 'tree'.
+
+// // 3) Use \b to match characters right on border between a word and a space.
+// buggyMultiline = buggyMultiline.replace(/\bi/gim,'t');
+// console.log(3, buggyMultiline); // fix  'ihe' but does not touch 'light'.
+
+// // 4) Use \B to match characters inside borders of an entity.
+// fixedMultiline = buggyMultiline.replace(/\Bo/gim,'e');
+// console.log(4, fixedMultiline); // fix  'greon' but does not touch 'on'.
+
+
 // 인스턴스 생성
 const recognition = new SpeechRecognition();
 let toggle = true;
@@ -65,3 +107,4 @@ mic.addEventListener("click", () => {
 
 // 음성 인식 시작
 // recognition.start();
+

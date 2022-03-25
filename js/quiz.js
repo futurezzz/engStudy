@@ -2,6 +2,14 @@ const title = document.querySelector('.title');
 const userImg = document.querySelector('.user-img');
 const unitText = document.querySelector('.unit');
 const wordsList = document.querySelector('.words-list');
+const speakList = document.querySelector('.speak-list');
+const words = document.querySelector('.words');
+const kor = document.querySelector('.kor');
+const answer = document.querySelector('.answer');
+const back = document.querySelector('.back');
+const check = document.querySelector('.check');
+let answerTry;
+const reset = document.querySelector('.reset');
 const score = document.querySelector('.score');
 const scoreProgress = document.querySelector('.scoreProgress');
 const scoreToday = document.querySelector('.score-today');
@@ -12,17 +20,24 @@ const character = document.querySelector('#character');
 const audioYes = new Audio('audio/yes.mp3');
 const audioNo = new Audio('audio/no.mp3');
 const audioClear = new Audio('audio/clear.mp3');
+let removeSpecialCha = /[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\(\"]/gi  //특수문자 제거 정규표현식
 let today = new Date();
 let thisMonth = `${today.getFullYear()}/${today.getMonth()+1}`;
+let arrayLength;
+let arrayLengthLeft;
 let chapter; //전역정보로 어떤 단원의 단어를 풀지 선택
+let quizType; //짝맞추기 문제를 풀지. speak문제를 풀지 선택
 const array = [];
+const undo = [];
 let itemArray = []; //해당 unit에 속하는 모든 문제들 담기
+let engArray = []; //해당 unit에 속하는 모든 문제들 담기
+let engRandomArray = []; //해당 unit에 속하는 모든 문제들 담기
 const randomNum = []; //문제 10개 랜덤추출
 const randomDisplay = [];  // 추출한 문제와 뜻 총 20개 객체를 랜덤으로 화면에 표시
 let displayText = [];
 let scoreArray = [];
 let scoreSpeakArray = [];
-let matchedNo;
+let matchedNo; //문제 맞힐 때마다 1씩 증가. 10문제 다 맞히면 화면reset
 let scoreValue;
 let scoreTodayValue;
 let combo = 0;
@@ -35,14 +50,19 @@ let serialK; //이미 선택된 한글뜻
 var voices = [];
 
 //main
+matchedNo = 0;
+combo = 0;
+
 
 loadLocalStorage();
 loadItems()
 .then(items => {
-  randomArray(); //난수를 문제 10개 랜덤추출
-  displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음
-  displayItems(items);
-  displayWords();
+  randomArray(); //DATA JASON파일 중 해당 유닛 문제 10개 랜덤추출
+  displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
+  displayItems(items); //DATA에서 랜덤으로 가져온 단어들을 word라는 변수에 할당
+  //quizType이 matcing이면 짝맞추기 문제. speaking 이면 speaking 문제 내기
+  quizType === "matching" ? displayWords() : displaySpeakWords()
+  
 })
 .catch(console.log);
 
@@ -52,12 +72,14 @@ if (window.speechSynthesis.onvoiceschanged !== undefined) {
 window.speechSynthesis.onvoiceschanged = setVoiceList;
 }
 
+
 function loadLocalStorage(){
   if(localStorage.getItem('unit')){
     user = localStorage.getItem('user');
     userImg.classList.add(`thumb${user}`);
     unit = localStorage.getItem('unit');
     chapter = localStorage.getItem('chapter');
+    quizType = localStorage.getItem('quizType');
     unitLength = parseInt(localStorage.getItem('unitLength'));
     scoreArray = JSON.parse(localStorage.getItem('scoreArray'));
     dateScoreArray = JSON.parse(localStorage.getItem('dateScoreArray'));
@@ -71,104 +93,7 @@ function loadLocalStorage(){
   }
 }
 
-// firebase2에 옮겨놓았음 -------------------------------------------------------
-// wordsList.addEventListener('click',(e)=>{
-//   // console.log(e.target.textContent);
-//   let elem = e.target.classList;
-//   // 이전에 선택된 요소를 기억했다가 다음 같은 요소(영어 또는 뜻)선택시 이전요소의 색깔 원상복귀
-//   let isAvailable = elem.contains("words-list");
-//   if(!isAvailable){
-//     //선택된 것이 영단어이고
-//     if(elem.contains('text')){
-//     // 이미 선택된 영단어가 있으면 선택을 해제하고 현재 선택요소만 진하게
-//       if(checkedE){
-//         checkedE.replace('textOn','text')
-//       }
-//       elem.replace('text','textOn')
-// //       speech(e.target.textContent);
-// //       serialE = e.target.dataset.serial;
-// //       checkedE = elem;
-// //       //선택된 것이 한글뜻이고
-// //     }else if(elem.contains('meaning')){
-// //       // 이미 선택된 한글뜻이 있으면 선택을 해제하고 현재 선택요소만 진하게
-// //       if(checkedK){
-// //         checkedK.replace('meaningOn','meaning')
-// //       }
-// //       elem.replace('meaning','meaningOn')
-// //       serialK = e.target.dataset.serial;
-// //       checkedK = elem;
-// //     }
-// //     // 선택된 영단어와 한글뜻이 일치하면
-// //     if(serialE === serialK){
-// //     audioYes.play();
-// //     scoreValue = scoreValue + 100 + combo*10;
-// //     score.textContent = scoreValue;
-// //     // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
-// //     if(combo>0){
-// //       comboBox.innerHTML = `${combo} combo!`;
-// //       comboBox.classList.add('combo-boxOn');
-// //     }
-// //     combo++;
-// //     matchedNo++;
-// //     // console.log(matchedNo);
-// //     setTimeout(()=>{
-// //       checkedE.add('hide');
-// //       checkedK.add('hide');
-// //       checkedE = '';
-// //       checkedK = '';
-// //     },100)
-// //     setTimeout(()=>{
-// //       comboBox.classList.remove('combo-boxOn');
-// //     },500)
-// //     // 10문제 다 맞히면 클리어. platBtn 활성화
-// //     if(matchedNo === 10 ){
-// //       setTimeout(()=>{
-// //         audioClear.play();
-// //         let m = Math.floor(Math.random()*4+1);
-// //         console.log(m);
-//         character.style.backgroundImage = `url('../img/character0${m}.png')`;
-//         clearBox.style.display = 'block';
-//         scoreProgressDisplay();
-//         // console.log(scoreValue);
-//         if (scoreValue > 100){
-//           playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
-//           playBtn.innerText = 'YOU DID IT!';
-//         }
-//         checkedE = '';
-//         checkedK = '';
-//         serialE = '';
-//         serialK = '';
-//       },300)
-//     }
-//     // 선택된 영단어와 한글뜻이 각각 있고 서로 다르면
-//   } else if(checkedE && checkedK && serialE !== serialK){
-//     audioNo.play();
-//     scoreValue -= 50;
-//     combo = 0;
-//     score.textContent = scoreValue;
-//     setTimeout(()=>{
-//       checkedE.replace('textOn','text')
-//       checkedK.replace('meaningOn','meaning')
-//       checkedE = '';
-//       checkedK = '';
-//       serialE = '';
-//       serialK = '';
-//     },120)
-//   }
-// }
-// });
-
-
 function userImgDisplay(){
-  // if (user == 'SkyShim'){
-  //   userImg.style.backgroundImage = "url('../img/userskyshim.png')"
-  // }
-  // else if (user == 'Lamon'){
-  //   userImg.style.backgroundImage = "url('../img/userlamon.png')"
-  // }
-  // else {
-  //   userImg.style.backgroundImage = "url('../img/usermirae.png')"
-  // }
   userImg.style.backgroundImage = `url('../img/user${user}.png')`;
 }
 
@@ -181,16 +106,7 @@ function scoreProgressDisplay(){
   }
   scoreProgress.style.width = `${scoreProgressValue}px`
 }
-// import {InsertData} from ('./firebase.js');
-// 10문제 맞힌 후 play 버튼 활성화.
-// 이 play버튼을 누르면 다시 게임 시작
-// firebase.js 에서 대신 실행함
-// playBtn.addEventListener('click',()=>{
-//   clearBox.style.display = 'none';
-//   randomArray(); //난수를 발생시켜 단어와 뜻을 섞음
-//   displayWords();
 
-// })
 
 
 // function loadItems(){
@@ -213,14 +129,13 @@ async function loadItems(){
 
 
 function displayItems(items){
-  // title.textContent = ('ENG100A');
   word = items.map(item=>item);
 }
 
 function displayWords(){
   score.textContent = scoreValue;
-  matchedNo = 0;
-  combo = 0;
+  // matchedNo = 0;
+  // combo = 0;
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
   for(let i=0 ; i<10; i++){
     let index = randomNum[i];
@@ -256,6 +171,76 @@ function displayWords(){
   }
 }
 
+function displaySpeakWords(){
+  score.textContent = scoreValue;
+  kor.textContent = '';
+  answer.textContent = '';
+  speakList.textContent = '';
+  words.style.opacity = '1';
+
+  const li1 = document.createElement('li')
+  li1.textContent = word[randomNum[matchedNo]].meaning; //json data에 담겨있는 단어글자를 li에 표시
+  li1.classList.add('kor');
+  kor.append(li1);
+
+  engArray = word[randomNum[matchedNo]].text.split(' ');
+  arrayLength = engArray.length;
+  arrayLengthLeft = engArray.length; //단어를 선택할 때마다 하나씩 차감할 예정
+  randomSpeakArray();
+  for ( let i=0; i<arrayLength; i++){
+    const li2 = document.createElement('li')
+    li2.textContent = engRandomArray[i];
+    li2.classList.add('eng')
+    speakList.append(li2);
+  }
+}
+// ------------------------- BACK --------------------------------------//
+back.addEventListener('click',()=>{
+  //undo할 글자가 하나 이상 있으면
+  if(undo.length >= 1){
+    let lis = document.querySelectorAll('.eng');
+    let undoNo = undo.pop();
+    let undoLength = lis[undoNo].textContent.length;
+    let textLength = answer.textContent.length;
+    lis[undoNo].style.opacity = '1';
+    answer.textContent = answer.textContent.substring(0,textLength-undoLength-1);
+    arrayLengthLeft += 1;
+    console.log(undoLength)
+    console.log(answer.textContent.length)
+  }
+})
+
+
+// ------------------------- RESET --------------------------------------//
+reset.addEventListener('click',()=>{
+  let lis = document.querySelectorAll('.eng');
+  resetSpeech();
+  lis.forEach(li => li.style.opacity = '1')
+  arrayLengthLeft = arrayLength;
+})
+
+function resetSpeech(){
+  answer.textContent = '';
+  speechToText = '';
+  interimTranscript = '';
+}
+function randomSpeakArray(){
+  engRandomArray.length = 0; //random배열 초기화
+  array.length = 0;
+  for (let i = 0; i<arrayLength; i++){
+    array.push(i);
+  }
+  for (let j=0; j<arrayLength; j++){
+    let n = Math.floor(Math.random()*engArray.length);
+    // 인덱스 번호에 있는 값을 빼서 num 에 넣기
+    num = engArray.splice(n,1);
+    // console.log(num)
+    // 빼내온 num을 randomNum에 차례로 배열로 집어넣기
+    // 여기서 빼온 num도 배열이기 때문에 []을 써서 값만 꺼내옴
+    engRandomArray.push(num[0]);
+  }
+
+}
 function randomArray(){
   randomNum.length = 0; //random배열 초기화
   array.length = 0;
@@ -284,7 +269,7 @@ function displayShuffle(){
 
   //자리순서 20개 지정
   for ( let i = 0; i < 20; i++){
-    //0~9 사이 인덱스번호고르기
+    //0~19 사이 인덱스번호고르기
     let n = Math.floor(Math.random()*array.length);
     // 인덱스 번호에 있는 값을 빼서 num 에 넣기
     num = array.splice(n,1);
@@ -298,7 +283,7 @@ function displayShuffle(){
 
 
 
-// 음성합성
+// ------------------------- 음성합성 --------------------------------------//
 function setVoiceList() {
   voices = window.speechSynthesis.getVoices();
   }
@@ -331,3 +316,60 @@ function setVoiceList() {
   utterThis.rate = 1; //속도
   window.speechSynthesis.speak(utterThis);
   };
+
+
+
+
+//-------------MIC와 음성인식에 관한 코드-------------------------
+window.SpeechRecognition =
+  window.SpeechRecognition || window.webkitSpeechRecognition;
+
+// 인스턴스 생성
+const recognition = new SpeechRecognition();
+let toggle = true;
+// true면 음절을 연속적으로 인식하나 false면 한 음절만 기록함
+recognition.interimResults = true;
+// 값이 없으면 HTML의 <html lang="en">을 참고합니다. ko-KR, en-US
+recognition.lang = "en-US";
+// true means continuous, and false means not continuous (single result each time.)
+// true면 음성 인식이 안 끝나고 계속 됩니다.
+recognition.continuous = true;
+// 숫자가 작을수록 발음대로 적고, 크면 문장의 적합도에 따라 알맞은 단어로 대체합니다.
+// maxAlternatives가 크면 이상한 단어도 문장에 적합하게 알아서 수정합니다.
+recognition.maxAlternatives = 10000;
+
+let mic = document.querySelector(".mic")
+let speechToText = "";
+recognition.addEventListener("result", e => {
+  let interimTranscript = '';
+  for (let i = e.resultIndex, len = e.results.length; i < len; i++) {
+    let transcript = e.results[i][0].transcript;
+    if (e.results[i].isFinal) {
+      speechToText += transcript;
+    } else {
+      interimTranscript += transcript;
+    }
+    console.log(interimTranscript);
+  }
+
+  recognition.addEventListener('soundend', () => {
+    mic.style.backgroundColor = null;
+  });
+  // document.querySelector(".para").innerHTML = speechToText + interimTranscript
+  answer.innerHTML = speechToText + interimTranscript
+})
+
+
+mic.addEventListener("click", () => {
+  if (toggle) {
+    recognition.start();
+    toggle = false;
+  }
+  else {
+    recognition.stop();
+    // mic.style.backgroundColor = null;
+    toggle = true;
+  }
+
+  mic.style.backgroundColor = "#BDE5E5"
+})

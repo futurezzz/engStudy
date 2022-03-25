@@ -8,6 +8,7 @@ const signIn = document.querySelector('.signIn');
 const signInImg = document.querySelector('.signIn-img');
 const changeUser = document.querySelector('.change-user');
 const mainUnit = document.querySelector('.main-unit');
+let quizType;
 let url;
 let elem;
 let unitNo;
@@ -83,6 +84,7 @@ function transferData(){
     localStorage.setItem("unit",unitNo);
     localStorage.setItem("unitLength",unitLength);
     localStorage.setItem("chapter",chapter);
+    localStorage.setItem("quizType",quizType);
     localStorage.setItem("scoreArray",JSON.stringify(scoreArray));
     localStorage.setItem("scoreSpeakArray",JSON.stringify(scoreSpeakArray));
     localStorage.setItem("dateScoreArray",JSON.stringify(dateScoreArray));

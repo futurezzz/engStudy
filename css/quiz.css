@@ -9,6 +9,7 @@
   /* color */
   --word-on-color: hsla(180, 82%, 31%, 0.877);
   --word-off-color: hsl(185, 66%, 22%);
+  --answer-color: hsla(180, 82%, 31%, 0.424);
   --meaning-on-color: hsl(58, 100%, 93%);
   --meaning-on-border-color: hsl(43, 52%, 79%);
   --score-color: hsl(186, 39%, 26%);
@@ -126,6 +127,14 @@
   list-style: none;
 }
 
+.words {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  max-width: 700px;
+}
+
 .word {
   display: flex;
   justify-content: center;
@@ -134,12 +143,144 @@
   height: 45px;
   padding: 0 7px;
   text-align: center;
-  line-height: 15px;
+  line-height: 14px;
   border-radius: 5px;
   font-size: 13px;
   color: var(--black-color);
   user-select: none;
 }
+
+.kor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  height: 55px;
+  border-radius: 10px;
+  font-size: 15px;
+  list-style: none;
+  user-select: none;
+  text-align: center;
+  background-color: var(--word-off-color);
+  color: #e9e9e9;
+}
+
+.answer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 95%;
+  height: 55px;
+  margin-top: 10px;
+  padding: 15px 5px;
+  line-height: 15px;
+  border-radius: 10px;
+  font-size: 17px;
+  list-style: none;
+  user-select: none;
+  text-align: center;
+  background-color: var(--answer-color);
+}
+
+.bottom {
+  display: flex;
+  /* justify-content: center; */
+  padding: 25px;
+}
+.back{
+  position: relative;
+  /* left: -35px; */
+  color: #aaa;
+  box-sizing: border-box;
+  width: 25px;
+  height: 25px;
+  border-width: 4px 0 0 4px;
+  border-style: solid;
+  margin: 10px;
+  margin-left: 30px;
+  transform: rotate(-45deg);
+  cursor: pointer;
+}
+
+.back::before{
+  content: '';
+  left: -8px;
+  top: 10px;
+  position: absolute;
+  height: 4px;
+  border-top: 4px solid #aaa;
+  transform: rotate(45deg);
+  width: 40px;
+}
+
+.reset {
+  width: 150px;
+  height: 45px;
+  background-color: rgb(228, 228, 228);
+  text-align: center;
+  line-height: 45px;
+  margin-left: 25px;
+  border-radius: 10px;
+  user-select: none;
+  cursor: pointer;
+  /* box-shadow: 1px 1px 3px rgba(0,0,0,.3); */
+}
+
+.mic {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: 0px 0px 3px #b1b1b1;
+  background-color: var(--white);
+  line-height: 65px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+.mic-icon {
+  height: 30px;
+}
+
+.check >img {
+  width: 50px;
+  margin-left: 10px;
+  font-size: 43px;
+  cursor: pointer;
+  /* svg색상은 filter명령을 통해서 바꾼다.
+  1. 원하는 색의 hex값 알아내기 https://www.color-hex.com/
+  2. filter값 계산하기 https://codepen.io/sosuke/pen/Pjoqqp
+  3. 아래와 같이 붙여넣기 */
+  /* filter: invert(28%) sepia(39%) saturate(505%) hue-rotate(137deg) brightness(96%) contrast(96%); */
+  filter: invert(60%) sepia(44%) saturate(377%) hue-rotate(137deg) brightness(95%) contrast(86%);
+}
+
+
+.speak-list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.eng {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45px;
+  padding: 0 10px;
+  margin: 5px;
+  border-radius: 10px;
+  font-size: 15px;
+  list-style: none;
+  user-select: none;
+  cursor: pointer;
+  text-align: center;
+  border: 2px solid var(--word-off-color);
+}
+
 
 .text {
   background-color: var(--word-off-color);
