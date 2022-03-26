@@ -9,6 +9,8 @@ const answer = document.querySelector('.answer');
 const bottom = document.querySelector('.bottom');
 const back = document.querySelector('.back');
 const check = document.querySelector('.check');
+const test = document.querySelector('.test');
+const test2 = document.querySelector('.test2');
 let answerTry;
 const reset = document.querySelector('.reset');
 const score = document.querySelector('.score');
