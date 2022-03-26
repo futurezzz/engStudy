@@ -334,12 +334,12 @@ window.SpeechRecognition =
 const recognition = new SpeechRecognition();
 let toggle = true;
 // true면 음절을 연속적으로 인식하나 false면 한 음절만 기록함
-recognition.interimResults = false;
+recognition.interimResults = true;
 // 값이 없으면 HTML의 <html lang="en">을 참고합니다. ko-KR, en-US
 recognition.lang = "en-US";
 // true means continuous, and false means not continuous (single result each time.)
 // true면 음성 인식이 안 끝나고 계속 됩니다.
-recognition.continuous = true;
+recognition.continuous = false;
 // 숫자가 작을수록 발음대로 적고, 크면 문장의 적합도에 따라 알맞은 단어로 대체합니다.
 // maxAlternatives가 크면 이상한 단어도 문장에 적합하게 알아서 수정합니다.
 recognition.maxAlternatives = 100;
