@@ -149,7 +149,13 @@
   color: var(--black-color);
   user-select: none;
 }
-
+.test, .test2 {
+  width: 200px;
+  height: 30px;
+  margin: 2px;
+  text-align: center;
+  background-color: #aaa;
+}
 .kor {
   display: flex;
   justify-content: center;
