@@ -160,9 +160,9 @@ speakList.addEventListener('click',(e)=>{
 
 // 마이크로 말하고 check버튼을 누르면 정답인지 확인
 check.addEventListener('click',()=>{
-  let answerTrans = word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('wanna','want to').replace("'re"," are").replace(removeSpecialCha,"");
+  let answerTrans = word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
 //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
-  if (answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace(removeSpecialCha,"") === answerTrans){
+  if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
     console.log('yes!!');
     checkAnswerYes();
   }
