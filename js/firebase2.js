@@ -153,23 +153,15 @@ speakList.addEventListener('click',(e)=>{
 
 // 마이크로 말하고 check버튼을 누르면 정답인지 확인
 check.addEventListener('click',()=>{
-  if (!speechToText){
-    console.log('noExsist')
-    setTimeout(()=>{
-      checkSpeakAnswer();
-    },500)
-  } else {
-    checkSpeakAnswer();
-  }
+  checkSpeakAnswer();
 })
 
 function checkSpeakAnswer(){
-  // answer.textContent = speechToText;
   let answerTrans = word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
   test.textContent = answerTrans;
-  test2.textContent = speechToText.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
+  test2.textContent = answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
       //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
-      if (answerTrans === speechToText.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
+      if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
         checkAnswerYes();
       }
       else{

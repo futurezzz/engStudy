@@ -348,18 +348,19 @@ recognition.continuous = true;
 recognition.maxAlternatives = 100;
 
 let mic = document.querySelector(".mic")
-let speechToText = "";
+let speechToText = ""; //필요없어짐
 recognition.addEventListener("result", e => {
   let interimTranscript = '';
   for (let i = e.resultIndex, len = e.results.length; i < len; i++) {
-    let transcript = e.results[i][0].transcript;
-    if (e.results[i].isFinal) {
-      speechToText += transcript;
-    } else {
-      interimTranscript += transcript;
-    }
-    // console.log(interimTranscript);
-    interimTranscript = transcript;
+    interimTranscript = e.results[i][0].transcript;
+    // let transcript = e.results[i][0].transcript;
+    // if (e.results[i].isFinal) {
+    //   speechToText += transcript;
+    // } else {
+    //   interimTranscript += transcript;
+    // }
+    // // console.log(interimTranscript);
+    // interimTranscript = transcript;
   }
 
   recognition.addEventListener('soundend', () => {
