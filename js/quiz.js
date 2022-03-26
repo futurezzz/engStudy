@@ -357,13 +357,14 @@ recognition.addEventListener("result", e => {
       interimTranscript += transcript;
     }
     // console.log(interimTranscript);
+    interimTranscript = transcript;
   }
 
   recognition.addEventListener('soundend', () => {
     mic.style.backgroundColor = null;
   });
-  // document.querySelector(".para").innerHTML = speechToText + interimTranscript
-  answer.innerHTML = speechToText + interimTranscript
+  // answer.innerHTML = speechToText + interimTranscript;
+  answer.innerHTML = interimTranscript;
 })
 
 
