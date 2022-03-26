@@ -158,17 +158,15 @@ check.addEventListener('click',()=>{
 
 function checkSpeakAnswer(){
   let answerTrans = word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
-  test.textContent = answerTrans;
-  test2.textContent = answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
-      //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
-      if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
-        checkAnswerYes();
-      }
-      else{
-        console.log(answerTrans);
-        console.log(speechToText.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,""))
-        checkAnswerNo();
-      }
+  //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
+  if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
+    checkAnswerYes();
+  }
+  else{
+    // console.log(answerTrans);
+    // console.log(answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,""))
+    checkAnswerNo();
+  }
 }
 
 

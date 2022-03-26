@@ -9,8 +9,6 @@ const answer = document.querySelector('.answer');
 const bottom = document.querySelector('.bottom');
 const back = document.querySelector('.back');
 const check = document.querySelector('.check');
-const test = document.querySelector('.test');
-const test2 = document.querySelector('.test2');
 let answerTry;
 const reset = document.querySelector('.reset');
 const score = document.querySelector('.score');
@@ -348,11 +346,11 @@ recognition.continuous = true;
 recognition.maxAlternatives = 100;
 
 let mic = document.querySelector(".mic")
-let speechToText = ""; //필요없어짐
+let speechToText = ""; 
 recognition.addEventListener("result", e => {
-  let interimTranscript = '';
+  // let interimTranscript = '';
   for (let i = e.resultIndex, len = e.results.length; i < len; i++) {
-    interimTranscript = e.results[i][0].transcript;
+    speechToText = e.results[i][0].transcript;
     // let transcript = e.results[i][0].transcript;
     // if (e.results[i].isFinal) {
     //   speechToText += transcript;
@@ -366,8 +364,7 @@ recognition.addEventListener("result", e => {
   recognition.addEventListener('soundend', () => {
     mic.style.backgroundColor = null;
   });
-  // answer.innerHTML = speechToText + interimTranscript;
-  answer.innerHTML = interimTranscript;
+  answer.innerHTML = speechToText;
 })
 
 
@@ -375,12 +372,12 @@ mic.addEventListener("click", () => {
   if (toggle) {
     recognition.start();
     toggle = false;
+    mic.style.backgroundColor = "#BDE5E5"
   }
   else {
     recognition.stop();
-    // mic.style.backgroundColor = null;
     toggle = true;
+    mic.style.backgroundColor = null;
   }
 
-  mic.style.backgroundColor = "#BDE5E5"
 })

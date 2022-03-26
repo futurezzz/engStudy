@@ -147,7 +147,11 @@ function displayCalendar(){
     let dateScoreItem = dateScoreArray[i];
     li.innerHTML = `Day ${i+1} <br/> ${dateScoreItem}`;
     li.classList.add('calender-unit');
-    if (dateScoreItem >= 70000 ){
+    if (dateScoreItem >= 100000 ){
+      li.style.background = "linear-gradient(#fd1d1d, #15326e)"
+      li.style.color = "rgb(250,250,250)";
+    }
+    else if (dateScoreItem >= 70000 ){
       li.style.backgroundColor = "rgb(185, 50, 50)"
       li.style.color = "rgb(250,250,250)";
     }
