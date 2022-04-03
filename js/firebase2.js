@@ -43,9 +43,10 @@ function resetData(){
   clearBox.style.display = 'none';
   console.log(thisMonth);
   randomArray(); //난수를 발생시켜 단어와 뜻을 섞음
-  
+  displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
+  // displayItems(items);
+  // quiZtype이 matching이면 짝맞추기. 그게 아니면 말하기 버전으로 이동
   quizType === "matching" ? displayWords() : displaySpeakWords()
-  // displayWords();
 }
 
 // ----------- SELECT DATA FUNCTION ---------------------------------// 
