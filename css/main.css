@@ -42,8 +42,9 @@
 .main-unit-list {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
-  height: 80px;
+  height: 100px;
   user-select: none;
   cursor: pointer;
   overflow-x: scroll;
@@ -227,14 +228,15 @@
   @media screen and (min-width: 768px) {
 
   .list {
-    flex: 1 0 120px;
-    height: 50px;
-    line-height: 50px;
+    flex: 0 0 130px;
+    height: 45px;
+    line-height: 45px;
     font-size: 17px;
   }
 
   .main-unit-list {
     width: 900px;
+    justify-content: center;
     overflow-x:auto;
   }
     .sub-unit-list, .sub-speak-list {
