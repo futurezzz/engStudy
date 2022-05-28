@@ -13,6 +13,7 @@ let answerTry;
 const reset = document.querySelector('.reset');
 const score = document.querySelector('.score');
 const scoreProgress = document.querySelector('.scoreProgress');
+let scoreProgressValue;
 const scoreToday = document.querySelector('.score-today');
 const comboBox = document.querySelector('.combo-box');
 const clearBox = document.querySelector('.clearBox');
@@ -99,7 +100,7 @@ function userImgDisplay(){
 }
 
 function scoreProgressDisplay(){
-  let scoreProgressValue = scoreValue / 100;
+  scoreProgressValue = scoreValue / 200;
   console.log(scoreValue)
   if (scoreProgressValue >= 190) {
     scoreProgressValue = 200;
@@ -144,8 +145,8 @@ function displayWords(){
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
   for(let i=0 ; i<10; i++){
     let index = randomNum[i];
-    displayText[randomDisplay[2*i]] = word[index].text;
-    displayText[randomDisplay[2*i+1]] = word[index].meaning;
+    displayText[randomDisplay[2*i]] = (scoreProgressValue >= 50 && word[index].sentence) ? word[index].sentence : word[index].text;
+    displayText[randomDisplay[2*i+1]] = (scoreProgressValue >= 50 && word[index].sentence) ? word[index].sentenceMeaning :word[index].meaning;
   }
 
   for(let j=0; j<20; j++){
