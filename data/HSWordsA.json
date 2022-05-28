@@ -2,4903 +2,5603 @@
   "items":
   [
     {
-      "chapter": "HSWordsA",
       "serial": 1,
       "text": "appreciate",
       "meaning": "감사하다. 감상하다",
+      "sentence": "I appreciate your kindness",
+      "sentenceMeaning": "친절에 감사드립니다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 2,
       "text": "describe",
       "meaning": "묘사하다",
+      "sentence": "It's hard to describe how I feel.",
+      "sentenceMeaning": "내 기분을 말로 표현하기가 어렵다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 3,
       "text": "declare",
       "meaning": "선언하다",
+      "sentence": "declare independence",
+      "sentenceMeaning": "독립을 선언하다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 4,
       "text": "approve",
       "meaning": "찬성하다. 승인하다",
+      "sentence": "Do you approve?",
+      "sentenceMeaning": "찬성하십니까?",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 5,
       "text": "recommend",
       "meaning": "추천하다",
+      "sentence": "I recommend you this book.",
+      "sentenceMeaning": "나는 너에게 이 책을 추천한다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 6,
       "text": "reconcile",
       "meaning": "화해시키다. 조정하다.",
+      "sentence": "We tried to reconcile her with her old friend.",
+      "sentenceMeaning": "우리는 그녀와 그녀의 옛 친구를 화해시키려고 노력했다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 7,
       "text": "contribute",
       "meaning": "기부하다. 공헌하다.",
+      "sentence": "contribute money to a party",
+      "sentenceMeaning": "파티에 돈을 기부하다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 8,
       "text": "distribute",
       "meaning": "분배하다",
+      "sentence": "Distribute wealth evenly.",
+      "sentenceMeaning": "부를 균등하게 분배하다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 9,
       "text": "blame",
       "meaning": "비난하다",
+      "sentence": "He blamed her in front of many people.",
+      "sentenceMeaning": "그는 많은 사람들 앞에서 그녀를 비난했다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 10,
       "text": "extinguish",
       "meaning": "(불을) 끄다",
+      "sentence": "Extinguish that fire!",
+      "sentenceMeaning": "불을 끄세요!",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 11,
       "text": "survive",
       "meaning": "살아남다. ~보다 오래살다",
+      "sentence": "Only one person survived the crash.",
+      "sentenceMeaning": "오직 한 사람만이 그 충돌에서 살아남았다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 12,
       "text": "compare",
       "meaning": "비교하다. 비유하다",
+      "sentence": "Life is compared to a voyage.",
+      "sentenceMeaning": "인생은 항해에 비유된다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 13,
       "text": "contrast",
       "meaning": "대조하다",
+      "sentence": "This color contrasts well with green.",
+      "sentenceMeaning": "이 색깔은 녹색과 좋은 대조를 이룬다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 14,
       "text": "invade",
       "meaning": "침략하다. 몰려들어가다",
+      "sentence": "Iraq invaded Kuwait in 1990.",
+      "sentenceMeaning": "이라크는 1990년에 쿠웨이트를 침공했다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 15,
       "text": "accomplish",
       "meaning": "성취하다. 달성하다",
+      "sentence": "accomplish a goal.",
+      "sentenceMeaning": "목적을 달성하다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 16,
       "text": "violate",
       "meaning": "위반하다",
+      "sentence": "violate the speed limit.",
+      "sentenceMeaning": "제한 속도를 어기다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 17,
       "text": "calculate",
       "meaning": "계산하다",
+      "sentence": "calculate the sum",
+      "sentenceMeaning": "합계를 내다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 18,
       "text": "plow",
       "meaning": "(밭을) 갈다",
+      "sentence": "plow the field.",
+      "sentenceMeaning": "밭을 갈다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 19,
       "text": "grasp",
       "meaning": "움켜잡다. 이해하다",
+      "sentence": "He grasped my hand.",
+      "sentenceMeaning": "그는 내 손을 잡았다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 20,
       "text": "stumble",
       "meaning": "비틀거리다",
+      "sentence": "stumble and fall.",
+      "sentenceMeaning": "비틀거리며 넘어지다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 21,
       "text": "require",
       "meaning": "필요로하다",
+      "sentence": "require parental consent.",
+      "sentenceMeaning": "부모의 동의를 구하다",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 22,
       "text": "cancel",
       "meaning": "취소하다",
+      "sentence": "I've been busy, so I had to cancel the reservation.",
+      "sentenceMeaning": "나는 계속 바빠서 예약을 취소해야 했다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 23,
       "text": "deceive",
       "meaning": "속이다",
+      "sentence": "Appearance can be deceiving.",
+      "sentenceMeaning": "외모는 사람을 속일 수 있다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 24,
       "text": "combine",
       "meaning": "결합하다",
+      "sentence": "They combined all the pieces into a whole.",
+      "sentenceMeaning": "그들은 모든 조각들을 하나로 합쳤다.",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 25,
       "text": "relate",
       "meaning": "관련시키다. 말하다",
+      "sentence": "How do they relate to each other ",
+      "sentenceMeaning": "그들은 어떻게 서로 관련되어 있습니까 ",
       "unit": 1
     },
     {
-      "chapter": "HSWordsA",
       "serial": 26,
       "text": "arrest",
       "meaning": "체포하다. 저지하다.",
+      "sentence": "arrest a person for murder.",
+      "sentenceMeaning": "사람을 살인죄로 체포하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 27,
       "text": "embody",
       "meaning": "구체화하다.",
+      "sentence": "embody democratic ideas in the speech.",
+      "sentenceMeaning": "민주주의 사상을 연설에서 구체적으로 나타내다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 28,
       "text": "select",
       "meaning": "고르다. 선발한",
+      "sentence": "select the best out of many films.",
+      "sentenceMeaning": "많은 영화 중에서 최우수 영화를 선정하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 29,
       "text": "persist",
       "meaning": "고집하다",
+      "sentence": "persist in my opinion.",
+      "sentenceMeaning": "내 의견을 고집하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 30,
       "text": "tremble",
       "meaning": "떨다",
+      "sentence": "trembling with fear.",
+      "sentenceMeaning": "공포에 떨다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 31,
       "text": "isolate",
       "meaning": "격리시키다. 고립시키다.",
+      "sentence": "isolate criminals from society.",
+      "sentenceMeaning": "범죄자를 사회에서 격리하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 32,
       "text": "desert",
       "meaning": "버리다. 도망하다. 사막",
+      "sentence": "desert his wife and children.",
+      "sentenceMeaning": "그의 처자식을 버리다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 33,
       "text": "establish",
       "meaning": "설립하다. 확립하다.",
+      "sentence": "establish a bank.",
+      "sentenceMeaning": "은행을 설립하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 34,
       "text": "demand",
       "meaning": "요구하다",
+      "sentence": "He demanded that I should help him.",
+      "sentenceMeaning": "그는 내게 도와달라고 요구했다.",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 35,
       "text": "supply",
       "meaning": "공급하다",
+      "sentence": "supply electric power",
+      "sentenceMeaning": "전력을 공급하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 36,
       "text": "vary",
       "meaning": "다양하다. 변화하다.",
+      "sentence": "vary in size",
+      "sentenceMeaning": "크기가 다양하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 37,
       "text": "investigate",
       "meaning": "조사하다. 연구하다.",
+      "sentence": "investigate this case thoroughly",
+      "sentenceMeaning": "이 사건을 철저히 조사하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 38,
       "text": "vanish",
       "meaning": "사라지다.",
+      "sentence": "vanish into smoke",
+      "sentenceMeaning": "흔적도 없이 사라지다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 39,
       "text": "lament",
       "meaning": "한탄하다. 슬퍼하다.",
+      "sentence": "lament the loss of my child",
+      "sentenceMeaning": "자식을 잃고 슬퍼하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 40,
       "text": "stretch",
       "meaning": "잡아늘이다. 퍼지다.",
+      "sentence": "stretch a rubber band far enough",
+      "sentenceMeaning": "고무줄을 충분히 늘이다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 41,
       "text": "starve",
       "meaning": "굶어 죽다. 굶주리다.",
+      "sentence": "starve to death",
+      "sentenceMeaning": "굶어 죽다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 42,
       "text": "generate",
       "meaning": "만들어내다. 발생시키다.",
+      "sentence": "generate electricity",
+      "sentenceMeaning": "전기를 발생시키다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 43,
       "text": "reform",
       "meaning": "개혁하다. 개정하다.",
+      "sentence": "reform the law",
+      "sentenceMeaning": "법을 개정하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 44,
       "text": "possess",
       "meaning": "소유하다.",
+      "sentence": "possess some land",
+      "sentenceMeaning": "토지를 소유하다.",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 45,
       "text": "devote",
       "meaning": "바치다.",
+      "sentence": "Beethoven devoted his life to music.",
+      "sentenceMeaning": "베토벤은 그의 인생을 음악에 바쳤다.",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 46,
       "text": "tend",
       "meaning": "~의 경향이 있다. ~하기 쉽다.",
+      "sentence": "He tends to exaggerate.",
+      "sentenceMeaning": "그는 과장하는 경향이 있다.",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 47,
       "text": "pursue",
       "meaning": "추구하다. (일.연구를)수행하다.",
+      "sentence": "pursue the happiness rather than money",
+      "sentenceMeaning": "돈보다 행복을 추구하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 48,
       "text": "attach",
       "meaning": "붙이다. 소속시키다.",
+      "sentence": "attach a price tag on each article",
+      "sentenceMeaning": "각 상품에 가격표를 붙이다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 49,
       "text": "dispose",
       "meaning": "처리하다. 마음이 내키게 하다",
+      "sentence": "dispose of the garbage",
+      "sentenceMeaning": "쓰레기를 처리하다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 50,
       "text": "quit",
       "meaning": "그만두다. 떠나다.",
+      "sentence": "quit smoking",
+      "sentenceMeaning": "담배를 끊다",
       "unit": 2
     },
     {
-      "chapter": "HSWordsA",
       "serial": 51,
       "text": "achieve",
       "meaning": "성취하다. 달성하다",
+      "sentence": "achieve my aim",
+      "sentenceMeaning": "목적을 달성하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 52,
       "text": "reveal",
       "meaning": "나타내다. 누설하다",
+      "sentence": "reveal a secret",
+      "sentenceMeaning": "비밀을 폭로하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 53,
       "text": "persuade",
       "meaning": "설득하다",
+      "sentence": "I can't persuade him into believing me.",
+      "sentenceMeaning": "나는 그가 나를 믿도록 설득할 수 없다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 54,
       "text": "gaze",
       "meaning": "응시하다",
+      "sentence": "I'm gazing out the window",
+      "sentenceMeaning": "나는 창밖을 응시하고 있다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 55,
       "text": "restore",
       "meaning": "회복시키다",
+      "sentence": "restore law and order",
+      "sentenceMeaning": "법과 질서를 회복하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 56,
       "text": "heal",
       "meaning": "상처를 낫게하다. 고치다",
+      "sentence": "The wound healed slowly",
+      "sentenceMeaning": "상처가 서서히 아물었다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 57,
       "text": "acquire",
       "meaning": "얻다",
+      "sentence": "We acquire knowledge from books.",
+      "sentenceMeaning": "우리는 책에서 지식을 얻는다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 58,
       "text": "recycle",
       "meaning": "재생하다. 재활용하다",
+      "sentence": "It was printed on recycled paper.",
+      "sentenceMeaning": "그것은 재활용된 종이에 인쇄되었다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 59,
       "text": "maintain",
       "meaning": "유지하다. 주장하다",
+      "sentence": "maintain good relations with his friends.",
+      "sentenceMeaning": "그의 친구들과 좋은 관계를 유지하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 60,
       "text": "stride",
       "meaning": "성큼성큼 걷다",
+      "sentence": "stride away",
+      "sentenceMeaning": "성큼성큼 걷다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 61,
       "text": "mourn",
       "meaning": "슬퍼하다",
+      "sentence": "mourn over his death",
+      "sentenceMeaning": "그의 죽음을 슬퍼하다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 62,
       "text": "suspect",
       "meaning": "의심하다. ~이라고 생각하다",
+      "sentence": "suspect his behavior",
+      "sentenceMeaning": "그의 행동을 의심하다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 63,
       "text": "entertain",
       "meaning": "즐겁게 하다. 대접하다",
+      "sentence": "She entertained the children with stories and songs.",
+      "sentenceMeaning": "그녀는 이야기와 노래로 아이들을 즐겁게 했다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 64,
       "text": "utilize",
       "meaning": "이용하다",
+      "sentence": "utilize leftovers in cooking",
+      "sentenceMeaning": "남은 음식을 요리에 활용하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 65,
       "text": "complain",
       "meaning": "불평하다. (고통을) 호소하다",
+      "sentence": "complain of little supply",
+      "sentenceMeaning": "공급이 부족하다고 불평하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 66,
       "text": "convert",
       "meaning": "바꾸다",
+      "sentence": "convert dollars into won",
+      "sentenceMeaning": "달러를 원화로 바꾸다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 67,
       "text": "despise",
       "meaning": "경멸하다",
+      "sentence": "I despise him for his dishonesty.",
+      "sentenceMeaning": "나는 그의 부정직함을 경멸한다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 68,
       "text": "commence",
       "meaning": "시작하다",
+      "sentence": "commence a meal",
+      "sentenceMeaning": "식사를 시작하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 69,
       "text": "consume",
       "meaning": "소비하다",
+      "sentence": "How many calories do you consume a day?",
+      "sentenceMeaning": "하루에 얼마나 많은 칼로리를 소비하나요?",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 70,
       "text": "assimilate",
       "meaning": "동화하다. 동화시키다",
+      "sentence": "The new arrivals assimilated quickly.",
+      "sentenceMeaning": "새로 온 사람들은 빠르게 동화되었다.",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 71,
       "text": "impose",
       "meaning": "부과하다. 강요하다",
+      "sentence": "impose a tax on an article",
+      "sentenceMeaning": "물품에 세금을 부과하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 72,
       "text": "encounter",
       "meaning": "만나다. 만남",
+      "sentence": "encounter dangers",
+      "sentenceMeaning": "위험에 직면하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 73,
       "text": "release",
       "meaning": "풀어놓다. 해방하다. 석방",
+      "sentence": "release the horses into the field.",
+      "sentenceMeaning": "말을 들판에 풀어놓다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 74,
       "text": "specialize",
       "meaning": "전공하다. 전문화하다.",
+      "sentence": "specialize in Korean history.",
+      "sentenceMeaning": "한국사를 전공하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 75,
       "text": "respond",
       "meaning": "응답하다",
+      "sentence": "respond to the cheers.",
+      "sentenceMeaning": "환호에 응답하다",
       "unit": 3
     },
     {
-      "chapter": "HSWordsA",
       "serial": 76,
       "text": "soar",
       "meaning": "치솟다. 날아 올라가다.",
+      "sentence": "The prices are soaring.",
+      "sentenceMeaning": "물가가 폭등하고 있다",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 77,
       "text": "comprehend",
       "meaning": "이해하다. 포함하다.",
+      "sentence": "I could not comprehend why you would disagree.",
+      "sentenceMeaning": "나는 네가 왜 반대하는지 이해할 수 없었다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 78,
       "text": "detect",
       "meaning": "발견하다. 간파하다.",
+      "sentence": "It is important to detect cancer in its early stages.",
+      "sentenceMeaning": "암을 조기에 발견하는 것은 중요하다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 79,
       "text": "qualify",
       "meaning": "자격을 주다. 제한하다.",
+      "sentence": "He qualified as a vet last year",
+      "sentenceMeaning": "그는 작년에 수의사 자격을 얻었다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 80,
       "text": "decorate",
       "meaning": "장식하다.",
+      "sentence": "Decorate the cake.",
+      "sentenceMeaning": "케이크를 장식하세요.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 81,
       "text": "accelerate",
       "meaning": "속도를 더하다. 촉진하다",
+      "sentence": "The bus began to accelerate.",
+      "sentenceMeaning": "버스가 속도를 내기 시작했다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 82,
       "text": "betray",
       "meaning": "배반하다. 누설하다.",
+      "sentence": "betray his country",
+      "sentenceMeaning": "조국을 배반하다",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 83,
       "text": "dominate",
       "meaning": "지배하다",
+      "sentence": "The sun dominates the solar system.",
+      "sentenceMeaning": "태양은 태양계를 지배한다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 84,
       "text": "preserve",
       "meaning": "유지하다. 보존하다.",
+      "sentence": "preserve the environment from pollution.",
+      "sentenceMeaning": "환경을 오염으로부터 보호하다",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 85,
       "text": "entreat",
       "meaning": "간청하다",
+      "sentence": "I entreat you to let me go.",
+      "sentenceMeaning": "간청합니다. 제발 날 보내줘요.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 86,
       "text": "lack",
       "meaning": "~이 없다. 부족하다. 부족.결핍",
+      "sentence": "Lack of sleep had made him irritable",
+      "sentenceMeaning": "수면 부족이 그를 짜증나게 해왔다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 87,
       "text": "interrupt",
       "meaning": "방해하다. 중단하다.",
+      "sentence": "Forgive me for interrupting.",
+      "sentenceMeaning": "방해해서 죄송합니다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 88,
       "text": "surpass",
       "meaning": "~보다 뛰어나다. 우월하다.",
+      "sentence": "He surpassed his father in skill.",
+      "sentenceMeaning": "그의 솜씨는 아버지를 능가했다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 89,
       "text": "render",
       "meaning": "~이 되게 하다. 주다.",
+      "sentence": "New technology renders a computer obsolete in a year.",
+      "sentenceMeaning": "신기술은 1년 안에 컴퓨터를 쓸모없게 만든다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 90,
       "text": "export",
       "meaning": "수출하다. 수출(품)",
+      "sentence": "export the new cars to Europe",
+      "sentenceMeaning": "신차를 유럽에 수출하다",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 91,
       "text": "fulfill",
       "meaning": "이행하다. 실행하다.",
+      "sentence": "He has failed to fulfill his duties as a father",
+      "sentenceMeaning": "그는 아버지로서의 의무를 다하지 못했다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 92,
       "text": "inspect",
       "meaning": "검사하다. 시찰하다.",
+      "sentence": "inspect the baggage",
+      "sentenceMeaning": "짐을 검사하다",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 93,
       "text": "indulge",
       "meaning": "(마음껏)빠지게하다. 탐닉하다",
+      "sentence": "I’m going to indulge in a shopping",
+      "sentenceMeaning": "나는 쇼핑에 빠져들 것이다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 94,
       "text": "prevail",
       "meaning": "유행하다. 우세하다.",
+      "sentence": "Bad cold prevails throughout the country.",
+      "sentenceMeaning": "지독한 추위가 전국에 만연해 있다",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 95,
       "text": "adjust",
       "meaning": "적응시키다. 조정하다.",
+      "sentence": "Her eyes slowly adjusted to the dark.",
+      "sentenceMeaning": "그녀의 눈은 서서히 어둠에 적응했다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 96,
       "text": "estimate",
       "meaning": "어림잡다. 평가하다.",
+      "sentence": "We estimated his wealth at $500 million.",
+      "sentenceMeaning": "우리는 그의 재산을 5억 달러로 추정했다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 97,
       "text": "compensate",
       "meaning": "배상하다. 갚다",
+      "sentence": "Victims of the crash will be compensated for their injuries.",
+      "sentenceMeaning": "그 충돌 사고의 희생자들은 그들의 부상에 대해 보상받을 것이다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 98,
       "text": "restrain",
       "meaning": "억제하다. 제한하다.",
+      "sentence": "restrain my temper",
+      "sentenceMeaning": "화를 억제하다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 99,
       "text": "insist",
       "meaning": "주장하다. 고집하다.",
+      "sentence": "I insist on his innocence.",
+      "sentenceMeaning": "나는 그의 결백을 주장한다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 100,
       "text": "acknowledge",
       "meaning": "인정하다.",
+      "sentence": "He acknowledged that he was wrong.",
+      "sentenceMeaning": "그는 자신이 틀렸다는 것을 인정했다.",
       "unit": 4
     },
     {
-      "chapter": "HSWordsA",
       "serial": 101,
       "text": "distinguish",
       "meaning": "구별하다.",
+      "sentence": "distinguish between right and wrong.",
+      "sentenceMeaning": "시비를 가리다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 102,
       "text": "involve",
       "meaning": "포함하다.",
+      "sentence": "The accident involved two cars and a truck.",
+      "sentenceMeaning": "그 사고에는 두 대의 차와 한 대의 트럭이 있었다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 103,
       "text": "intrude",
       "meaning": "끼어들다. 개입하다.",
+      "sentence": "Sorry to intrude, but I need to talk to someone.",
+      "sentenceMeaning": "끼어들어 죄송하지만, 누군가와 얘기 좀 해야해서요.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 104,
       "text": "prefer",
       "meaning": "오히려 ~을 더 좋아하다",
+      "sentence": "He preferred to stay at home rather than go out.",
+      "sentenceMeaning": "그는 외출하는 것보다 집에 있는 것을 더 좋아했다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 105,
       "text": "torment",
       "meaning": "괴롭히다. 고통",
+      "sentence": "I was tormented with violent headaches.",
+      "sentenceMeaning": "나는 심한 두통에 시달렸다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 106,
       "text": "exhaust",
       "meaning": "다 써 버리다. 지치게 하다.",
+      "sentence": "feel quite exhausted",
+      "sentenceMeaning": "녹초가 되다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 107,
       "text": "endure",
       "meaning": "견디다",
+      "sentence": "endure much pain",
+      "sentenceMeaning": "심한 고통을 견디다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 108,
       "text": "hesitate",
       "meaning": "주저하다",
+      "sentence": "Do not hesitate to tell me.",
+      "sentenceMeaning": "주저하지 말고 말해 주세요.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 109,
       "text": "substitute",
       "meaning": "대리하다. 대용하다",
+      "sentence": "You can substitute oil for butter",
+      "sentenceMeaning": "버터를 기름으로 대체할 수 있다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 110,
       "text": "prohibit",
       "meaning": "금지하다",
+      "sentence": "Smoking is prohibited inside the school.",
+      "sentenceMeaning": "학교 내에서는 흡연이 금지되어 있다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 111,
       "text": "forbid",
       "meaning": "금하다",
+      "sentence": "The law forbids the sale of cigarettes.",
+      "sentenceMeaning": "법은 담배 판매를 금지하고 있다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 112,
       "text": "display",
       "meaning": "보이다. 진열하다. 진열",
+      "sentence": "display goods",
+      "sentenceMeaning": "상품을 진열하다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 113,
       "text": "concentrate",
       "meaning": "집중하다",
+      "sentence": "I can't concentrate on my work with all that noise.",
+      "sentenceMeaning": "시끄러워서 일에 집중할 수가 없어요.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 114,
       "text": "yearn",
       "meaning": "그리워하다",
+      "sentence": "Sometimes I just yearn to be alone.",
+      "sentenceMeaning": "가끔 나는 혼자 있기를 갈망한다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 115,
       "text": "perish",
       "meaning": "멸망하다. 죽다",
+      "sentence": "Three hundred people perished in the earthquake.",
+      "sentenceMeaning": "300명의 사람들이 지진으로 죽었다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 116,
       "text": "forsake",
       "meaning": "버리다. 도망하다. 사막",
+      "sentence": "God will never forsake us.",
+      "sentenceMeaning": "신은 우리를 절대 버리지 않을 것이다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 117,
       "text": "endeavor",
       "meaning": "노력하다",
+      "sentence": "In spite of our best endeavors",
+      "sentenceMeaning": "우리의 최선의 노력에도 불구하고",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 118,
       "text": "soothe",
       "meaning": "진정시키다. 위로하다.",
+      "sentence": "soothe a crying baby",
+      "sentenceMeaning": "우는 아기를 달래다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 119,
       "text": "congratulate",
       "meaning": "축하하다.",
+      "sentence": "I congratulate you on your marriage.",
+      "sentenceMeaning": "당신의 결혼을 축하합니다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 120,
       "text": "confuse",
       "meaning": "혼란시키다.",
+      "sentence": "I always confuse her with her sister.",
+      "sentenceMeaning": "나는 항상 그녀와 그녀의 여동생을 혼동한다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 121,
       "text": "improve",
       "meaning": "개선하다. 진보하다.",
+      "sentence": "improve the quality of products",
+      "sentenceMeaning": "제품의 품질을 향상시키다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 122,
       "text": "diffuse",
       "meaning": "퍼지게 하다. 보급하다",
+      "sentence": "the widely diffused elements",
+      "sentenceMeaning": "널리 퍼진 요소",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 123,
       "text": "alter",
       "meaning": "바꾸다",
+      "sentence": "We had to alter some of our plans.",
+      "sentenceMeaning": "우리는 우리의 계획 중 일부를 바꿔야 했다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 124,
       "text": "speculate",
       "meaning": "사색하다. 추측하다. 투기하다",
+      "sentence": "speculate about the meaning of life.",
+      "sentenceMeaning": "인생의 의미를 곰곰이 생각하다",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 125,
       "text": "recover",
       "meaning": "회복하다",
+      "sentence": "recover her health",
+      "sentenceMeaning": "그녀의 건강을 회복하다.",
       "unit": 5
     },
     {
-      "chapter": "HSWordsA",
       "serial": 126,
       "text": "urge",
       "meaning": "재촉하다. 격려하다.",
+      "sentence": "I can never resist the urge to laugh.",
+      "sentenceMeaning": "나는 웃고 싶은 충동을 결코 참을 수 없다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 127,
       "text": "consult",
       "meaning": "상의하다. 상담하다.",
+      "sentence": "If the symptoms get worse, consult your doctor.",
+      "sentenceMeaning": "증상이 악화되면 의사와 상의하세요.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 128,
       "text": "warn",
       "meaning": "경고하다",
+      "sentence": "I tried to warn him, but he wouldn’t listen.",
+      "sentenceMeaning": "나는 그에게 경고하려고 했지만, 그는 듣지 않았다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 129,
       "text": "transport",
       "meaning": "수송하다. 수송",
+      "sentence": "transport goods",
+      "sentenceMeaning": "화물을 운송하다",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 130,
       "text": "ignore",
       "meaning": "무시하다.",
+      "sentence": "You ignored the stop sign.",
+      "sentenceMeaning": "정지 신호를 무시했습니다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 131,
       "text": "conceal",
       "meaning": "감추다.",
+      "sentence": "conceal the truth",
+      "sentenceMeaning": "진실을 숨기다",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 132,
       "text": "appear",
       "meaning": "나타나다. ~로 보이다.",
+      "sentence": "He suddenly appeared in the doorway.",
+      "sentenceMeaning": "그가 갑자기 문간에 나타났다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 133,
       "text": "flatter",
       "meaning": "아첨하다.",
+      "sentence": "She was flattered by his attention.",
+      "sentenceMeaning": "그녀는 그의 관심에 우쭐해졌다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 134,
       "text": "absorb",
       "meaning": "흡수하다. 열중하다.",
+      "sentence": "Black absorbs light.",
+      "sentenceMeaning": "검은색은 빛을 흡수한다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 135,
       "text": "yield",
       "meaning": "생산하다. 양보하다. 굴복하다.",
+      "sentence": "Land yields crops.",
+      "sentenceMeaning": "토지는 농작물을 생산한다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 136,
       "text": "meditate",
       "meaning": "명상하다. 숙고하다.",
+      "sentence": "He meditated on his decision.",
+      "sentenceMeaning": "그는 자신의 결정을 곰곰이 생각했다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 137,
       "text": "perform",
       "meaning": "실행하다. 연기하다.",
+      "sentence": "The band performed at halftime.",
+      "sentenceMeaning": "밴드는 중간 휴식시간에 연주했다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 138,
       "text": "embarrass",
       "meaning": "난처하게하다. 방해하다.",
+      "sentence": "feel embarrassed",
+      "sentenceMeaning": "당황하다",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 139,
       "text": "reproach",
       "meaning": "비난하다. 잔소리",
+      "sentence": "They reproached him for breaking his word.",
+      "sentenceMeaning": "그들은 그가 약속을 어겼다고 비난했다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 140,
       "text": "bewilder",
       "meaning": "당황하게 하다.",
+      "sentence": "He was bewildered by their questions.",
+      "sentenceMeaning": "그는 그들의 질문에 당황했다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 141,
       "text": "overcome",
       "meaning": "이겨내다. 압도하다.",
+      "sentence": "overcome temptations.",
+      "sentenceMeaning": "유혹을 이겨내다",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 142,
       "text": "assert",
       "meaning": "주장하다. 단언하다.",
+      "sentence": "He asserts that she stole money from him.",
+      "sentenceMeaning": "그는 그녀가 그에게서 돈을 훔쳤다고 단언한다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 143,
       "text": "recognize",
       "meaning": "알아보다. 인식하다.",
+      "sentence": "The substance is generally recognized as safe.",
+      "sentenceMeaning": "그 물질은 일반적으로 안전한 것으로 인정된다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 144,
       "text": "admit",
       "meaning": "들어오게하다. 인정하다. 허가하다.",
+      "sentence": "He admitted his guilt.",
+      "sentenceMeaning": "그는 자신의 죄를 인정했다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 145,
       "text": "persecute",
       "meaning": "박해하다.",
+      "sentence": "They were persecuted for their religious beliefs.",
+      "sentenceMeaning": "그들은 종교적 신념 때문에 박해를 받았다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 146,
       "text": "launch",
       "meaning": "진수하다. 발사하다.",
+      "sentence": "launch a rocket",
+      "sentenceMeaning": "로켓을 발사하다",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 147,
       "text": "pretend",
       "meaning": "~인 체하다. 가장하다.",
+      "sentence": "pretend not to know",
+      "sentenceMeaning": "모른 체하다",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 148,
       "text": "circulate",
       "meaning": "돌다. 유통하다.",
+      "sentence": "Blood circulates through the body.",
+      "sentenceMeaning": "혈액은 체내를 순환한다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 149,
       "text": "contemplate",
       "meaning": "깊이 생각하다. 응시하다.",
+      "sentence": "contemplate resigning",
+      "sentenceMeaning": "사직을 깊이 고려하다",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 150,
       "text": "cope",
       "meaning": "맞서다. 대처하다.",
+      "sentence": "No one can cope with him.",
+      "sentenceMeaning": "아무도 그와 맞설 수 없다.",
       "unit": 6
     },
     {
-      "chapter": "HSWordsA",
       "serial": 151,
       "text": "adapt",
       "meaning": "적응시키다. (작품을)개작하다.",
+      "sentence": "We had to adapt our plans to fit Jack's timetable.",
+      "sentenceMeaning": "우리는 잭의 시간표에 맞게 우리의 계획을 조정해야 했다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 152,
       "text": "alarm",
       "meaning": "놀라게하다. 놀람.경보장치",
+      "sentence": "Don't be alarmed.",
+      "sentenceMeaning": "놀라지 마라.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 153,
       "text": "adopt",
-      "meaning": "채택하다. 입양하다",
+      "meaning": "채택하다. 입양하다.",
+      "sentence": "They've adopted a baby girl.",
+      "sentenceMeaning": "그들은 여자 아기를 입양했다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 154,
       "text": "submit",
       "meaning": "제출하다. 항복하다. 진술하다",
+      "sentence": "Submit your resume.",
+      "sentenceMeaning": "이력서를 제출하세요.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 155,
       "text": "convince",
       "meaning": "확신시키다.",
+      "sentence": "He convinced the jury of his innocence.",
+      "sentenceMeaning": "그는 배심원들에게 자신의 무죄를 확신시켰다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 156,
       "text": "repent",
       "meaning": "후회하다.",
+      "sentence": "You will repent for it later.",
+      "sentenceMeaning": "당신은 나중에 후회할 겁니다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 157,
       "text": "predict",
       "meaning": "예언하다. 예보하다.",
+      "sentence": "No one can predict.",
+      "sentenceMeaning": "아무도 예측할 수 없다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 158,
       "text": "avoid",
       "meaning": "피하다.",
+      "sentence": "I try to avoid supermarkets on Saturdays.",
+      "sentenceMeaning": "나는 토요일에는 슈퍼마켓을 피하려고 노력한다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 159,
       "text": "boast",
       "meaning": "자랑하다. 자랑",
+      "sentence": "They boasted that they had never lost a single game.",
+      "sentenceMeaning": "그들은 한 번도 진 적이 없다고 자랑했다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 160,
       "text": "participate",
       "meaning": "참가하다.",
+      "sentence": "She participated in the discussion.",
+      "sentenceMeaning": "그녀는 토론에 참가했다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 161,
       "text": "envy",
       "meaning": "부러워하다. 시기하다. 부러움",
+      "sentence": "They envy us our new house.",
+      "sentenceMeaning": "그들은 우리의 새 집을 부러워한다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 162,
       "text": "abolish",
       "meaning": "폐지하다.",
+      "sentence": "abolish a law.",
+      "sentenceMeaning": "법률을 폐지하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 163,
       "text": "attribute",
       "meaning": "(~의)결과로 보다.~탓이라 하다. 속성. 자질",
+      "sentence": "She attributed her failure to her mother.",
+      "sentenceMeaning": "그녀는 자신의 실패를 어머니 탓으로 돌렸다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 164,
       "text": "survey",
       "meaning": "조사하다. 둘러보다. 개관.조사",
+      "sentence": "A survey was done recently.",
+      "sentenceMeaning": "최근 한 설문 조사가 실시되었다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 165,
       "text": "invest",
       "meaning": "투자하다. 부여하다.",
+      "sentence": "invest his money in stocks.",
+      "sentenceMeaning": "그의 돈을 주식에 투자하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 166,
       "text": "seek",
       "meaning": "찾다. 추구하다.",
+      "sentence": "seek a job",
+      "sentenceMeaning": "일자리를 구하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 167,
       "text": "communicate",
       "meaning": "전달하다. 통신하다.",
+      "sentence": "communicate opinions to government officials.",
+      "sentenceMeaning": "공무원에게 의견을 전달하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 168,
       "text": "perplex",
       "meaning": "당황하게 하다.",
+      "sentence": "It perplexed me that they refused the offer.",
+      "sentenceMeaning": "그들이 그 제의를 거절한 것이 나를 당황하게 했다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 169,
       "text": "broadcast",
       "meaning": "방송하다.",
+      "sentence": "They broadcast the news at 9 o'clock.",
+      "sentenceMeaning": "그들은 9시에 뉴스를 방송한다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 170,
       "text": "reject",
       "meaning": "거절하다. 퇴짜놓다.",
+      "sentence": "reject a demand.",
+      "sentenceMeaning": "요구를 거절하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 171,
       "text": "overlook",
-      "meaning": "내려다보다. 너그러이 봐주다.",
+      "meaning": "내려다보다. 간과하다. 너그러이 봐주다.",
+      "sentence": "Our balcony overlooks the river.",
+      "sentenceMeaning": "우리의 발코니에서 강이 내려다보인다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 172,
       "text": "reinforce",
       "meaning": "보강하다. 강화하다.",
+      "sentence": "reinforce the weak walls.",
+      "sentenceMeaning": "약한 벽을 보강하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 173,
       "text": "accuse",
       "meaning": "고발하다. 비난하다.",
+      "sentence": "accuse him as a murderer.",
+      "sentenceMeaning": "그를 살인자로 고발하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 174,
       "text": "restrict",
       "meaning": "제한하다.",
+      "sentence": "restrict freedom of speech.",
+      "sentenceMeaning": "언론의 자유를 제한하다",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 175,
       "text": "attain",
       "meaning": "달성하다.",
+      "sentence": "I attained five ‘A’ grades on the exam.",
+      "sentenceMeaning": "나는 그 시험에서 5개의 'A' 등급을 받았다.",
       "unit": 7
     },
     {
-      "chapter": "HSWordsA",
       "serial": 176,
       "text": "cherish",
       "meaning": "소중히 하다. 마음에 품다.",
+      "sentence": "I cherish the memories of the time we spent together.",
+      "sentenceMeaning": "나는 우리가 함께 했던 시간들의 추억을 소중히 여긴다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 177,
       "text": "suspend",
       "meaning": "중지하다. 매달다.",
+      "sentence": "The ferry service has been suspended for the day.",
+      "sentenceMeaning": "페리 운항은 하루 동안 중단되었습니다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 178,
       "text": "inherit",
-      "meaning": "상속하다. 유전하다.",
+      "meaning": "상속받다. 물려받다.",
+      "sentence": "Who will inherit the house when he dies?",
+      "sentenceMeaning": "그가 죽으면 누가 그 집을 물려받을 것인가?",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 179,
       "text": "assure",
-      "meaning": "보증하다. 확실하게 하다.",
+      "meaning": "장담하다. 확언하다.",
+      "sentence": "I can assure you of his innocent",
+      "sentenceMeaning": "나는 그가 무죄라는 것을 보증할 수 있다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 180,
       "text": "undertake",
       "meaning": "떠맡다. 착수하다.",
+      "sentence": "He undertook a responsible post.",
+      "sentenceMeaning": "그는 책임 있는 직책을 맡았다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 181,
       "text": "include",
       "meaning": "포함하다.",
+      "sentence": "Is breakfast included?",
+      "sentenceMeaning": "아침식사가 포함되어 있습니까?",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 182,
       "text": "exclude",
       "meaning": "제외하다. 배척하다.",
+      "sentence": "Shutters exclude light.",
+      "sentenceMeaning": "셔터는 빛을 차단한다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 183,
       "text": "resist",
       "meaning": "저항하다.",
+      "sentence": "Who can resist God's will?",
+      "sentenceMeaning": "누가 신의 뜻을 거역할 수 있겠는가?",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 184,
       "text": "prosper",
       "meaning": "번영하다. ",
+      "sentence": "The tourism industry prospers.",
+      "sentenceMeaning": "관광 산업이 번영한다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 185,
       "text": "justify",
       "meaning": "정당화하다. 변명하다.",
+      "sentence": "Are you sure that these measures are justified?",
+      "sentenceMeaning": "당신은 이 조치들이 정당하다고 확신합니까?",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 186,
       "text": "annoy",
       "meaning": "괴롭히다. 성가시게 하다.",
+      "sentence": "Nothing annoys him.",
+      "sentenceMeaning": "그를 짜증나게 하는 것은 아무것도 없다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 187,
       "text": "esteem",
       "meaning": "존중하다. 간주하다.",
+      "sentence": "I esteem your advice highly.",
+      "sentenceMeaning": "나는 너의 충고를 매우 존중한다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 188,
       "text": "cure",
       "meaning": "치료하다. 고치다.",
+      "sentence": "to cure cancer",
+      "sentenceMeaning": "암을 치료하기 위해",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 189,
       "text": "resign",
       "meaning": "사직하다. 단념하다.",
+      "sentence": "He resigned six months ago.",
+      "sentenceMeaning": "그는 반년 전에 사임했어요.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 190,
       "text": "exist",
       "meaning": "존재하다.",
+      "sentence": "We exist in time and space.",
+      "sentenceMeaning": "우리는 시간과 공간에 존재한다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 191,
       "text": "hinder",
       "meaning": "방해하다.",
+      "sentence": "Don't hinder her work.",
+      "sentenceMeaning": "그녀의 일을 방해하지 마라.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 192,
       "text": "persevere",
       "meaning": "참다. 견디다.",
+      "sentence": "I did not persevere with learning to play the violin.",
+      "sentenceMeaning": "나는 바이올린을 배우는 것을 끈기있게 하지 않았다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 193,
       "text": "strain",
       "meaning": "잡아당기다. 긴장시키다.",
+      "sentence": "strain a rope",
+      "sentenceMeaning": "밧줄을 팽팽하게 당기다",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 194,
       "text": "emerge",
       "meaning": "나타나다.",
+      "sentence": "The sun emerged from behind the clouds.",
+      "sentenceMeaning": "태양이 구름 뒤에서 나타났다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 195,
       "text": "instruct",
       "meaning": "가르치다. 지시하다.",
+      "sentence": "instruct students in English.",
+      "sentenceMeaning": "학생들에게 영어를 가르치다",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 196,
       "text": "forecast",
       "meaning": "예보하다. 예측하다.",
+      "sentence": "Snow has been forecast for tonight.",
+      "sentenceMeaning": "오늘 밤에 눈이 온다는 예보가 있었다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 197,
       "text": "tradition",
       "meaning": "전통. 풍습",
+      "sentence": "stick to a tradition",
+      "sentenceMeaning": "전통을 고수하다",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 198,
       "text": "religion",
       "meaning": "종교",
+      "sentence": "She has strong opinions about religion.",
+      "sentenceMeaning": "그녀는 종교에 대해 강한 의견을 가지고 있다.",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 199,
       "text": "conscience",
       "meaning": "양심",
+      "sentence": "a guilty conscience",
+      "sentenceMeaning": "양심의 가책",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 200,
       "text": "intellect",
       "meaning": "지성",
+      "sentence": "a man of intellect",
+      "sentenceMeaning": "지적인 사람",
       "unit": 8
     },
     {
-      "chapter": "HSWordsA",
       "serial": 201,
       "text": "culture",
       "meaning": "교양. 문화",
+      "sentence": "Korean culture",
+      "sentenceMeaning": "한국 문화.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 202,
       "text": "civilization",
       "meaning": "문명",
+      "sentence": "the technology of modern civilization",
+      "sentenceMeaning": "현대 문명의 기술",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 203,
       "text": "prejudice",
       "meaning": "편견. 선입관",
+      "sentence": "racial prejudice",
+      "sentenceMeaning": "인종적 편견",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 204,
       "text": "instinct",
       "meaning": "본능",
+      "sentence": "a creative instinct",
+      "sentenceMeaning": "창조적 본능",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 205,
       "text": "privilege",
       "meaning": "특권",
+      "sentence": "Healthcare should be a right, not a privilege.",
+      "sentenceMeaning": "의료는 특권이 아닌 권리여야 한다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 206,
       "text": "impulse",
       "meaning": "충동",
+      "sentence": "impulse buying",
+      "sentenceMeaning": "충동구매",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 207,
       "text": "virtue",
       "meaning": "미덕, 장점",
+      "sentence": "Patience is a virtue.",
+      "sentenceMeaning": "인내는 미덕이다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 208,
       "text": "vice",
       "meaning": "악덕, 결점",
+      "sentence": "the vice of greed",
+      "sentenceMeaning": "탐욕의 악덕",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 209,
       "text": "revolution",
       "meaning": "혁명, 회전, (천체의)운행",
+      "sentence": "the industrial revolution",
+      "sentenceMeaning": "산업 혁명",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 210,
       "text": "stimulus",
       "meaning": "자극",
+      "sentence": "stimulus and response",
+      "sentenceMeaning": "자극과 반응",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 211,
       "text": "ambition",
       "meaning": "야망, 야심",
+      "sentence": "ambition to be a global leader",
+      "sentenceMeaning": "글로벌 리더가 되겠다는 야망",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 212,
       "text": "vanity",
       "meaning": "허영심, 자만심, 헛됨, 무의미",
+      "sentence": "She is full of vanity.",
+      "sentenceMeaning": "그녀는 허영심이 강하다",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 213,
       "text": "nap",
       "meaning": "낮잠, 졸기",
+      "sentence": "He took a nap after lunch.",
+      "sentenceMeaning": "그는 점심 식사 후에 낮잠을 잤다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 214,
       "text": "fatigue",
       "meaning": "피로",
+      "sentence": "mental fatigue",
+      "sentenceMeaning": "정신적 피로",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 215,
       "text": "passion",
       "meaning": "정열",
+      "sentence": "a passion for fame",
+      "sentenceMeaning": "명성에 대한 열정",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 216,
       "text": "famine",
       "meaning": "기근",
+      "sentence": "Famine struck Africa in 2002.",
+      "sentenceMeaning": "기근은 2002년에 아프리카를 강타했다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 217,
       "text": "patriotism",
       "meaning": "애국심",
+      "sentence": "Patriotism acted as a mediating force.",
+      "sentenceMeaning": "애국심이 중재역할을 했다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 218,
       "text": "individual",
       "meaning": "개인, 개인의",
+      "sentence": "the rights of an individual",
+      "sentenceMeaning": "개인의 권리",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 219,
       "text": "emotion",
       "meaning": "정서, 감정",
+      "sentence": "Anger is a natural human emotion.",
+      "sentenceMeaning": "분노는 인간의 자연스러운 감정이다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 220,
       "text": "evolution",
       "meaning": "진화, 발전",
+      "sentence": "human evolution",
+      "sentenceMeaning": "인류의 진화",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 221,
       "text": "hypocrisy",
       "meaning": "위선",
+      "sentence": "Critics are accusing him of hypocrisy and deceit.",
+      "sentenceMeaning": "비평가들은 그를 위선과 기만으로 비난하고 있다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 222,
       "text": "character",
       "meaning": "특징, 인격, 문자",
+      "sentence": "It's not in his character to be jealous.",
+      "sentenceMeaning": "질투하는 것은 그의 성격에 맞지 않는다.",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 223,
       "text": "method",
       "meaning": "방법",
+      "sentence": "a new method of teaching",
+      "sentenceMeaning": "새로운 교수법",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 224,
       "text": "psychology",
       "meaning": "심리(학)",
+      "sentence": "mass psychology",
+      "sentenceMeaning": "대중 심리학",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 225,
       "text": "literature",
       "meaning": "문학",
+      "sentence": "English literature",
+      "sentenceMeaning": "영문학",
       "unit": 9
     },
     {
-      "chapter": "HSWordsA",
       "serial": 226,
       "text": "responsibility",
       "meaning": "책임",
+      "sentence": "She takes her responsibilities as a nurse",
+      "sentenceMeaning": "그녀는 간호사로서의 책임을 진다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 227,
       "text": "system",
       "meaning": "조직",
+      "sentence": "a system of government",
+      "sentenceMeaning": "정부 제도",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 228,
       "text": "challenge",
       "meaning": "도전, 도전하다.",
+      "sentence": "I accepted his challenge.",
+      "sentenceMeaning": "나는 그의 도전을 받아들였다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 229,
       "text": "numeral",
       "meaning": "숫자, 수를 나타내는",
+      "sentence": "arabic numerals",
+      "sentenceMeaning": "아라비아 숫자",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 230,
       "text": "disgrace",
       "meaning": "불명예, 치욕",
+      "sentence": "a disgrace to the family",
+      "sentenceMeaning": "집안의 수치",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 231,
       "text": "luxury",
       "meaning": "사치품",
+      "sentence": "a luxury liner",
+      "sentenceMeaning": "호화 여객선",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 232,
       "text": "conquest",
       "meaning": "정복",
+      "sentence": "a desire of conquest",
+      "sentenceMeaning": "정복에 대한 열망",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 233,
       "text": "insight",
       "meaning": "통찰력",
+      "sentence": "the insight into human nature",
+      "sentenceMeaning": "인간성에 대한 통찰력",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 234,
       "text": "panic",
       "meaning": "공황, 당황",
+      "sentence": "They were in a panic over the news.",
+      "sentenceMeaning": "그들은 그 소식에 공황 상태에 빠졌다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 235,
       "text": "universe",
       "meaning": "우주, 전세계",
+      "sentence": "expansion of the universe",
+      "sentenceMeaning": "우주의 팽창",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 236,
       "text": "criticism",
       "meaning": "비평, 비판",
+      "sentence": "harsh criticism",
+      "sentenceMeaning": "혹평",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 237,
       "text": "influence",
       "meaning": "영향(력), 영향을 미치다.",
+      "sentence": "Clouds influence climate.",
+      "sentenceMeaning": "구름은 기후에 영향을 미친다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 238,
       "text": "convenience",
       "meaning": "편리",
+      "sentence": "I like the convenience of living close to work.",
+      "sentenceMeaning": "나는 직장과 가까운 곳에 사는 편리함을 좋아한다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 239,
       "text": "hardship",
       "meaning": "고난",
+      "sentence": "bear hardships",
+      "sentenceMeaning": "고난을 견디다",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 240,
       "text": "calamity",
       "meaning": "재난, 불행",
+      "sentence": "the calamity of war",
+      "sentenceMeaning": "전쟁의 재앙",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 241,
       "text": "chef",
       "meaning": "요리사",
+      "sentence": "one of France's premier chefs",
+      "sentenceMeaning": "프랑스 최고의 요리사 중 한 명",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 242,
       "text": "compromise",
       "meaning": "타협, 타협하다",
+      "sentence": "accepts no compromise",
+      "sentenceMeaning": "타협을 받아들이지 않다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 243,
       "text": "comfort",
       "meaning": "위로, 안락, 위로하다",
+      "sentence": "words of comfort",
+      "sentenceMeaning": "위로의 말",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 244,
       "text": "sacrifice",
       "meaning": "희생, 희생하다.",
+      "sentence": "She sacrificed everything for her children. ",
+      "sentenceMeaning": "그녀는 자녀를 위해 모든 것을 희생했다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 245,
       "text": "sympathy",
       "meaning": "동정, 공감",
+      "sentence": "We feel sympathy for poor people.",
+      "sentenceMeaning": "우리는 가난한 사람들에게 동정심을 느낀다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 246,
       "text": "environment",
       "meaning": "환경",
+      "sentence": "environmental pollution",
+      "sentenceMeaning": "환경오염",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 247,
       "text": "superstition",
       "meaning": "미신",
+      "sentence": "That's just a superstition.",
+      "sentenceMeaning": "그것은 단지 미신일 뿐이에요.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 248,
       "text": "disgust",
       "meaning": "혐오, 불쾌하게 하다.",
+      "sentence": "Much to his disgust, was fined for illegal parking.",
+      "sentenceMeaning": "그는 매우 역겹게도 불법 주차로 벌금을 물었다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 249,
       "text": "monopoly",
       "meaning": "독점",
+      "sentence": "The company has a monopoly on the market.",
+      "sentenceMeaning": "그 회사는 시장을 독점하고 있다.",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 250,
       "text": "species",
       "meaning": "인류, 종, 종류",
+      "sentence": "species of butterflies",
+      "sentenceMeaning": "나비의 종",
       "unit": 10
     },
     {
-      "chapter": "HSWordsA",
       "serial": 251,
       "text": "moisture",
       "meaning": "수분",
+      "sentence": "remove moisture",
+      "sentenceMeaning": "습기를 제거하다",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 252,
       "text": "candidate",
       "meaning": "지원자, 후보다",
+      "sentence": "a candidate for governor",
+      "sentenceMeaning": "주지사 후보",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 253,
       "text": "destiny",
       "meaning": "운명",
+      "sentence": "It was his destiny that he would never return.",
+      "sentenceMeaning": "그가 다시는 돌아오지 않을 운명이었다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 254,
       "text": "property",
       "meaning": "재산, 소유권, 특성",
+      "sentence": "property claims",
+      "sentenceMeaning": "재산 청구권",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 255,
       "text": "increase",
       "meaning": "증가, 증가하다",
+      "sentence": "Crime is on the increase.",
+      "sentenceMeaning": "범죄가 증가하고 있다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 256,
       "text": "decrease",
       "meaning": "감소, 감소하다",
+      "sentence": "a gradual decrease in population",
+      "sentenceMeaning": "인구의 점진적인 감소",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 257,
       "text": "courtesy",
       "meaning": "예의",
+      "sentence": "Courtesy costs nothing.",
+      "sentenceMeaning": "예의는 돈이 들지 않는다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 258,
       "text": "theory",
       "meaning": "이론",
+      "sentence": "theory and practice",
+      "sentenceMeaning": "이론과 실제",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 259,
       "text": "medium",
       "meaning": "중간, 매개(물), 수단, 중간의",
+      "sentence": "a girl of medium height",
+      "sentenceMeaning": "중간 키의 소녀",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 260,
       "text": "principle",
       "meaning": "원리, 주의",
+      "sentence": "the basic principles of equality",
+      "sentenceMeaning": "평등의 기본 원칙",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 261,
       "text": "shortcoming",
       "meaning": "결점",
+      "sentence": "We have to overcome our shortcomings.",
+      "sentenceMeaning": "우리는 우리의 단점을 극복해야 합니다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 262,
       "text": "crisis",
       "meaning": "위기",
+      "sentence": "political crisis",
+      "sentenceMeaning": "정치적 위기",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 263,
       "text": "policy",
       "meaning": "정책, 방침",
+      "sentence": "an open-door policy",
+      "sentenceMeaning": "개방 정책",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 264,
       "text": "affection",
       "meaning": "애정",
+      "sentence": "She felt no affection for the child.",
+      "sentenceMeaning": "그녀는 그 아이에게 아무런 애정도 느끼지 못했다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 265,
       "text": "lottery",
       "meaning": "복권뽑기, 추첨",
+      "sentence": "She won first prize in the lottery.",
+      "sentenceMeaning": "그녀는 복권 1등에 당첨되었다",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 266,
       "text": "humidity",
       "meaning": "습기, 습도",
+      "sentence": "There is very high humidity here in summer.",
+      "sentenceMeaning": "이곳은 여름에 습도가 매우 높다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 267,
       "text": "hostility",
       "meaning": "적의, 적개심",
+      "sentence": "They showed open hostility towards their new neighbors.",
+      "sentenceMeaning": "그들은 새 이웃에 대해 노골적인 적대감을 드러냈다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 268,
       "text": "frustration",
       "meaning": "좌절(감)",
+      "sentence": "He finally quit in frustration.",
+      "sentenceMeaning": "그는 결국 좌절하여 그만두었다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 269,
       "text": "victory",
       "meaning": "승리",
+      "sentence": "overwhelming victory",
+      "sentenceMeaning": "압도적인 승리",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 270,
       "text": "triumph",
       "meaning": "업적, 대성공, 승리감, 환희",
+      "sentence": "the triumph of good over evil",
+      "sentenceMeaning": "악에 대한 선의 승리",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 271,
       "text": "hatred",
       "meaning": "증오",
+      "sentence": "a violent hatred of hypocrisy",
+      "sentenceMeaning": "위선에 대한 격렬한 증오",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 272,
       "text": "purpose",
       "meaning": "목적",
+      "sentence": "What's the purpose of your visit?",
+      "sentenceMeaning": "귀하의 방문 목적은 무엇입니까?",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 273,
       "text": "fantasy",
       "meaning": "공상, 환상",
+      "sentence": "She retreated into a fantasy world.",
+      "sentenceMeaning": "그녀는 환상의 세계로 물러났다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 274,
       "text": "struggle",
       "meaning": "투쟁. 분투. 투쟁하다. 몸부림치다. 힘겹게 나아가다.",
+      "sentence": "Fish struggle for survival.",
+      "sentenceMeaning": "물고기는 생존을 위해 발버둥친다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 275,
       "text": "access",
       "meaning": "접근",
+      "sentence": "They denied anyone access to military secrets.",
+      "sentenceMeaning": "그들은 누구도 군사기밀에 접근하는 것을 거부했다.",
       "unit": 11
     },
     {
-      "chapter": "HSWordsA",
       "serial": 276,
       "text": "contempt",
       "meaning": "경멸",
+      "sentence": "contempt for war",
+      "sentenceMeaning": "전쟁에 대한 경멸",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 277,
       "text": "convention",
       "meaning": "회의, 관습",
+      "sentence": "a convention hall",
+      "sentenceMeaning": "대회장",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 278,
       "text": "harmony",
       "meaning": "조화",
+      "sentence": "the harmony of colors",
+      "sentenceMeaning": "색채의 조화",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 279,
       "text": "scorn",
       "meaning": "경멸, 경멸하다. (멸시하여)거절하다.",
+      "sentence": "express scorn",
+      "sentenceMeaning": "경멸하다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 280,
       "text": "comment",
       "meaning": "주석(을 달다), 논평(하다)",
+      "sentence": "He made negative comments to the press.",
+      "sentenceMeaning": "그는 언론에 부정적인 논평을 했다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 281,
       "text": "dignity",
       "meaning": "위엄",
+      "sentence": "behave with dignity",
+      "sentenceMeaning": "위엄 있게 행동하다",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 282,
       "text": "mercy",
       "meaning": "자비",
+      "sentence": "The prisoners pleaded for mercy.",
+      "sentenceMeaning": "죄수들은 자비를 간청했다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 283,
       "text": "coward",
       "meaning": "겁쟁이",
+      "sentence": "They called me a coward.",
+      "sentenceMeaning": "그들은 나를 겁쟁이라고 불렀다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 284,
       "text": "logic",
       "meaning": "논리(학)",
+      "sentence": "apply logic",
+      "sentenceMeaning": "논리를 펴다",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 285,
       "text": "eloquence",
       "meaning": "웅변",
+      "sentence": "The audience was deeply moved by his eloquence.",
+      "sentenceMeaning": "청중은 그의 웅변에 깊이 감동했다",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 286,
       "text": "pastime",
       "meaning": "오락, 기분전환",
+      "sentence": "Hockey is Canada’s national pastime.",
+      "sentenceMeaning": "하키는 캐나다의 국민적인 오락이다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 287,
       "text": "talent",
       "meaning": "재능",
+      "sentence": "He's very talented.",
+      "sentenceMeaning": "그는 아주 재능 있어요.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 288,
       "text": "misery",
       "meaning": "비참",
+      "sentence": "live in misery",
+      "sentenceMeaning": "비참한 생활을 하다",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 289,
       "text": "modesty",
-      "meaning": "겸손",
+      "meaning": "겸손, 단정함",
+      "sentence": "Modesty is expected in the dorms",
+      "sentenceMeaning": "기숙사에선 겸손(단정함)이 요구됩니다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 290,
       "text": "circumstances",
       "meaning": "환경, 형편, 정황",
+      "sentence": "Grants are awarded according to your financial circumstances.",
+      "sentenceMeaning": "보조금은 당신의 재정 형편에 따라 지급된다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 291,
       "text": "quality",
       "meaning": "질, 성질, 특질",
+      "sentence": "good quality",
+      "sentenceMeaning": "질 좋은 품질",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 292,
       "text": "quantity",
       "meaning": "양, 분량, 다량",
+      "sentence": "prefer quality to quantity",
+      "sentenceMeaning": "양보다 질을 택하다",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 293,
       "text": "commerce",
       "meaning": "상업",
+      "sentence": "domestic commerce",
+      "sentenceMeaning": "국내 상역",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 294,
       "text": "conception",
       "meaning": "개념",
+      "sentence": "the conception of the universe",
+      "sentenceMeaning": "우주의 개념",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 295,
       "text": "identity",
       "meaning": "신원, 정체",
+      "sentence": "reveal his identity",
+      "sentenceMeaning": "그의 신분을 밝히다.",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 296,
       "text": "legend",
       "meaning": "전설",
+      "sentence": "This match will go into tennis legend",
+      "sentenceMeaning": "이 경기는 테니스의 전설이 될 것입니다",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 297,
       "text": "trick",
       "meaning": "계략, 장난, 속이다.",
+      "sentence": "a mean trick",
+      "sentenceMeaning": "비열한 수법",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 298,
       "text": "wealth",
       "meaning": "부, 재산",
+      "sentence": "the division of wealth",
+      "sentenceMeaning": "부의 분배",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 299,
       "text": "charity",
       "meaning": "자선(단체), 너그로움",
+      "sentence": "a charity performance",
+      "sentenceMeaning": "자선 공연",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 300,
       "text": "fate",
       "meaning": "(안좋은)운명, 숙명",
+      "sentence": "a trick of fate",
+      "sentenceMeaning": "운명의 장난",
       "unit": 12
     },
     {
-      "chapter": "HSWordsA",
       "serial": 301,
       "text": "evidence",
       "meaning": "증거",
+      "sentence": "material evidence",
+      "sentenceMeaning": "물적 증거",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 302,
       "text": "tension",
       "meaning": "긴장",
+      "sentence": "the tension of the muscles",
+      "sentenceMeaning": "근육의 긴장",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 303,
       "text": "chivalry",
       "meaning": "기사도",
+      "sentence": "the age of chivalry",
+      "sentenceMeaning": "기사도 시대",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 304,
       "text": "impression",
       "meaning": "인상, 감명",
+      "sentence": "First impressions are lasting.",
+      "sentenceMeaning": "첫인상은 오래갑니다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 305,
       "text": "odor",
       "meaning": "냄새, 향기",
+      "sentence": "Many gases have no color or odor.",
+      "sentenceMeaning": "많은 가스들은 색깔이나 냄새가 없다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 306,
       "text": "bribe",
       "meaning": "뇌물, 뇌물을 주다",
+      "sentence": "He quit his job because of the bribe.",
+      "sentenceMeaning": "그는 뇌물 때문에 일을 그만두었다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 307,
       "text": "fame",
       "meaning": "명성",
+      "sentence": "acquire great fame",
+      "sentenceMeaning": "큰 명성을 얻다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 308,
       "text": "soul",
       "meaning": "영혼, 사람, 진수",
+      "sentence": "May his soul rest in peace.",
+      "sentenceMeaning": "그의 영혼이 평혼 속에 잠들길.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 309,
       "text": "gratitude",
       "meaning": "감사",
+      "sentence": "out of gratitude",
+      "sentenceMeaning": "감사의 표시로",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 310,
       "text": "sin",
       "meaning": "죄",
+      "sentence": "confess a sin",
+      "sentenceMeaning": "죄를 고백하다",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 311,
       "text": "crime",
       "meaning": "범죄",
+      "sentence": "commit a crime",
+      "sentenceMeaning": "죄를 짓다",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 312,
       "text": "strategy",
       "meaning": "전략, 전술",
+      "sentence": "a survival strategy",
+      "sentenceMeaning": "생존 전략",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 313,
       "text": "heritage",
       "meaning": "유산",
+      "sentence": "a cultural heritage",
+      "sentenceMeaning": "문화 유산",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 314,
       "text": "strife",
       "meaning": "갈등, 불화, 다툼, 문제",
+      "sentence": "civil strife",
+      "sentenceMeaning": "시민 투쟁",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 315,
       "text": "pollution",
       "meaning": "오염",
+      "sentence": "water pollution",
+      "sentenceMeaning": "수질 오염",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 316,
       "text": "e-mail",
       "meaning": "전자우편, 이메일",
+      "sentence": "Patrick emailed me yesterday.",
+      "sentenceMeaning": "패트릭이 어제 나에게 이메일을 보냈다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 317,
       "text": "industry",
       "meaning": "산업, 공업, 근면",
+      "sentence": "the tourist industry",
+      "sentenceMeaning": "관광 산업",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 318,
       "text": "defect",
       "meaning": "결점, 단점",
+      "sentence": "There are so many defects in our education system.",
+      "sentenceMeaning": "우리 교육 시스템에는 많은 결함이 있다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 319,
       "text": "sincerity",
       "meaning": "성실",
+      "sentence": "The priest was a man of deep sincerity.",
+      "sentenceMeaning": "그 신부는 성실한 사람이었다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 320,
       "text": "hemisphere",
       "meaning": "(지구, 천체의) 반구",
+      "sentence": "the Eastern Hemisphere",
+      "sentenceMeaning": "동반구",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 321,
       "text": "adolescence",
       "meaning": "청소년기",
+      "sentence": "Adolescence is a time of change",
+      "sentenceMeaning": "청소년기는 변화의 시기이다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 322,
       "text": "phenomenon",
       "meaning": "현상",
+      "sentence": "This is a natural phenomenon.",
+      "sentenceMeaning": "이것은 자연현상이다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 323,
       "text": "account",
       "meaning": "계좌, 설명, 해석, 간주하다. 여기다",
+      "sentence": "She gave a thrilling account of her life in the jungle.",
+      "sentenceMeaning": "그녀는 정글에서의 삶에 대한 스릴 넘치는 설명을 했습니다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 324,
       "text": "emphasis",
       "meaning": "강조",
+      "sentence": "Schools here put great emphasis on grammar.",
+      "sentenceMeaning": "이곳 학교들은 문법을 매우 강조한다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 325,
       "text": "proportion",
       "meaning": "비례, 비율",
+      "sentence": "His feet seem very small in proportion to his body.",
+      "sentenceMeaning": "그의 발은 신체 비율에 비해 매우 작아 보인다.",
       "unit": 13
     },
     {
-      "chapter": "HSWordsA",
       "serial": 326,
       "text": "faculty",
       "meaning": "능력, 기능, 학부, 교수단",
+      "sentence": "She still has all her faculties.",
+      "sentenceMeaning": "그녀는 아직 모든 능력을 갖추고 있다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 327,
       "text": "worship",
       "meaning": "숭배, 숭배하다.",
+      "sentence": "ancestral worship",
+      "sentenceMeaning": "조상 숭배",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 328,
       "text": "doctrine",
-      "meaning": "학설, 주의",
+      "meaning": "교리, 원칙, 신조",
+      "sentence": "an economic doctrine",
+      "sentenceMeaning": "경제 정책(신조)",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 329,
       "text": "pity",
       "meaning": "연민, 유감",
+      "sentence": "I have a pity on her.",
+      "sentenceMeaning": "나는 그녀가 불쌍하다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 330,
       "text": "commodity",
       "meaning": "상품, 일용품",
+      "sentence": "commodity price",
+      "sentenceMeaning": "상품 가격",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 331,
       "text": "distress",
       "meaning": "고통, 괴롭히다.",
+      "sentence": "Terry always helps out a lady in distress.",
+      "sentenceMeaning": "테리는 항상 고통에 처한 여자를 돕는다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 332,
       "text": "advertisement",
       "meaning": "광고",
+      "sentence": "a television advertisement for a new car",
+      "sentenceMeaning": "새 차의 텔레비전 광고",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 333,
       "text": "discourse",
       "meaning": "이야기(하다), 담화(하다)",
+      "sentence": "a discourse on the nature of life",
+      "sentenceMeaning": "생명의 본질에 관한 담론",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 334,
       "text": "function",
       "meaning": "기능, 역할, 작용하다.",
+      "sentence": "the function of the heart",
+      "sentenceMeaning": "심장의 기능",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 335,
       "text": "fallacy",
       "meaning": "오류",
+      "sentence": "It is a common fallacy that only men are good at math.",
+      "sentenceMeaning": "남자들만 수학을 잘한다는 것은 흔한 오류이다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 336,
       "text": "violence",
       "meaning": "폭력, 맹렬",
+      "sentence": "domestic violence",
+      "sentenceMeaning": "가정 폭력",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 337,
       "text": "appetite",
       "meaning": "식욕, 욕구",
+      "sentence": "loss of appetite",
+      "sentenceMeaning": "식욕 감퇴",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 338,
       "text": "revival",
       "meaning": "부활, 재생, 부흥",
+      "sentence": "the revival of nationalism",
+      "sentenceMeaning": "민족주의의 부활",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 339,
       "text": "foundation",
-      "meaning": "기초",
+      "meaning": "기초, 토대, 재단",
+      "sentence": "Respect provide a solid foundation for marriage. ",
+      "sentenceMeaning": "존중은 결혼생활을 위한 견고한 기반을 제공합니다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 340,
       "text": "behavior",
       "meaning": "행동, 태도",
+      "sentence": "I'm ashamed of your behavior.",
+      "sentenceMeaning": "저는 당신의 행동이 부끄러워요.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 341,
       "text": "discipline",
       "meaning": "훈련, 규율, 훈련하다.",
+      "sentence": "military discipline",
+      "sentenceMeaning": "군율",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 342,
       "text": "poverty",
       "meaning": "빈곤",
+      "sentence": "live in poverty",
+      "sentenceMeaning": "가난하게 살다",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 343,
       "text": "threat",
       "meaning": "협박, 위협",
+      "sentence": "He made a threat to kill her.",
+      "sentenceMeaning": "그는 그녀를 죽이겠다고 협박했다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 344,
       "text": "reputation",
       "meaning": "평판, 명성",
+      "sentence": "His reputation was severely damaged.",
+      "sentenceMeaning": "그의 명성은 심하게 손상되었다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 345,
       "text": "plague",
-      "meaning": "전염병",
+      "meaning": "전염병, 괴롭히다",
+      "sentence": "Millions died of the plague.",
+      "sentenceMeaning": "수백만 명이 페스트로 죽었다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 346,
       "text": "capacity",
       "meaning": "능력, 수용력",
+      "sentence": "The stadium has a seating capacity of 50,000.",
+      "sentenceMeaning": "경기장의 수용 인원은 50,000명이다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 347,
       "text": "attitude",
       "meaning": "태도",
+      "sentence": "He has a bad attitude to work.",
+      "sentenceMeaning": "그는 일하는 태도가 나쁘다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 348,
       "text": "merit",
       "meaning": "장점, 공적, 실력",
+      "sentence": "merits and demerits",
+      "sentenceMeaning": "장점과 단점",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 349,
       "text": "astronomy",
       "meaning": "천문학",
+      "sentence": "Navigation is an application of astronomy.",
+      "sentenceMeaning": "항해술은 천문학의 응용이다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 350,
       "text": "despair",
       "meaning": "절망",
+      "sentence": "They're in despair over the money they've lost.",
+      "sentenceMeaning": "그들은 잃어버린 돈에 절망하고 있다.",
       "unit": 14
     },
     {
-      "chapter": "HSWordsA",
       "serial": 351,
       "text": "patience",
       "meaning": "인내",
+      "sentence": "I lost my patience and shouted at her.",
+      "sentenceMeaning": "나는 참을성을 잃고 그녀에게 소리쳤다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 352,
       "text": "career",
-      "meaning": "경력, 생애",
+      "meaning": "경력, 직업",
+      "sentence": "He's hoping for a career in the police force.",
+      "sentenceMeaning": "그는 경찰대에서 직업을 갖기를 바라고 있다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 353,
       "text": "confidence",
       "meaning": "신용, 자신",
+      "sentence": "Have confidence",
+      "sentenceMeaning": "자신감을 가져",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 354,
       "text": "enthusiasm",
-      "meaning": "열광",
+      "meaning": "열광, 열정",
+      "sentence": "He lost his enthusiasm for the sport.",
+      "sentenceMeaning": "그는 그 스포츠에 대한 열정을 잃었다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 355,
       "text": "peril",
       "meaning": "위험",
+      "sentence": "My life was in peril.",
+      "sentenceMeaning": "내 삶은 위태로웠다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 356,
       "text": "livelihood",
       "meaning": "생계, 살림",
+      "sentence": "That farm is his livelihood.",
+      "sentenceMeaning": "그 농장은 그의 생계수단이다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 357,
       "text": "opportunity",
       "meaning": "기회",
+      "sentence": "Everyone has an opportunity to comment.",
+      "sentenceMeaning": "모든 사람은 논평할 기회가 있다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 358,
       "text": "ridicule",
       "meaning": "비웃음, 조롱, 비웃다. 조롱하다",
+      "sentence": "He was ridiculed for his ideas.",
+      "sentenceMeaning": "그는 자신의 생각 때문에 조롱을 받았다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 359,
       "text": "liberty",
       "meaning": "자유",
+      "sentence": "He fought for his liberty.",
+      "sentenceMeaning": "그는 자유를 위해 싸웠다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 360,
       "text": "spirit",
       "meaning": "정신, 원기",
+      "sentence": "the spirit of the age",
+      "sentenceMeaning": "시대정신",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 361,
       "text": "traffic",
       "meaning": "교통(의)",
+      "sentence": "We got stuck in traffic for several hours.",
+      "sentenceMeaning": "우리는 몇 시간 동안 교통 체증에 갇혔다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 362,
       "text": "remedy",
       "meaning": "치료, 구제책",
+      "sentence": "The best remedy for grief is hard work.",
+      "sentenceMeaning": "슬픔에 가장 좋은 치료법은 열심히 일하는 것이다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 363,
       "text": "symptom",
       "meaning": "징후",
+      "sentence": "Muscle aches and fever are symptoms of the flu.",
+      "sentenceMeaning": "근육통과 열은 독감의 증상이다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 364,
       "text": "tyranny",
       "meaning": "폭정, 독재, 독재국가",
+      "sentence": "This was a war against tyranny.",
+      "sentenceMeaning": "이것은 폭정에 대항하는 전쟁이었다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 365,
       "text": "prospect",
-      "meaning": "기대, 전망",
+      "meaning": "기대, 전망, 가망",
+      "sentence": "Is there any prospect of the weather improving ",
+      "sentenceMeaning": "날씨가 좋아질 가망이 있습니까 ",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 366,
       "text": "credit",
       "meaning": "신용, 명예",
+      "sentence": "She got no credit for solving the problem.",
+      "sentenceMeaning": "그녀는 문제를 해결한 명예를 인정받지 못했습니다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 367,
       "text": "profit",
       "meaning": "이익, 이익을 보다",
+      "sentence": "profit and loss",
+      "sentenceMeaning": "수익과 손실",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 368,
       "text": "oblivion",
       "meaning": "망각, 잊혀짐",
+      "sentence": "disappear into oblivion",
+      "sentenceMeaning": "망각 속으로 사라지다",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 369,
       "text": "constitution",
       "meaning": "헌법, 구성",
+      "sentence": "your right to vote under the constitution",
+      "sentenceMeaning": "헌법에 의거한 당신의 투표권",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 370,
       "text": "extent",
       "meaning": "범위, 정도",
+      "sentence": "to some extent",
+      "sentenceMeaning": "어느 정도까지는",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 371,
       "text": "efficiency",
       "meaning": "능률, 효력",
+      "sentence": "energy efficiency",
+      "sentenceMeaning": "에너지 효율",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 372,
       "text": "genius",
       "meaning": "천재",
+      "sentence": "Einstein was a mathematical genius.",
+      "sentenceMeaning": "아인슈타인은 수학 천재였다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 373,
       "text": "nightmare",
       "meaning": "악몽",
+      "sentence": "a terrifying nightmare",
+      "sentenceMeaning": "무서운 악몽",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 374,
       "text": "benefit",
       "meaning": "이익, 은혜, 이익이되다",
+      "sentence": "The discovery of oil brought many benefits to the town.",
+      "sentenceMeaning": "석유의 발견은 그 마을에 많은 이익을 가져다 주었다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 375,
       "text": "reign",
       "meaning": "통치하다. 지배하다. 통치. 지배",
+      "sentence": "Queen Victoria reigned over Britain from 1837 to 1901.",
+      "sentenceMeaning": "빅토리아 여왕은 1837년부터 1901년까지 영국을 통치했습니다.",
       "unit": 15
     },
     {
-      "chapter": "HSWordsA",
       "serial": 376,
       "text": "ruin",
       "meaning": "파멸, 파멸시키다. 망치다",
+      "sentence": "I put too much salt in the sauce and ruined it.",
+      "sentenceMeaning": "소스에 소금을 너무 많이 넣어서 망쳤어요.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 377,
       "text": "factor",
       "meaning": "요인, 요소",
+      "sentence": "a factor of happiness",
+      "sentenceMeaning": "행복의 요소",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 378,
       "text": "vocation",
       "meaning": "천직, 소명, 소명의식",
+      "sentence": "I feel I've found my true vocation.",
+      "sentenceMeaning": "진정한 천직을 찾은 것 같아요.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 379,
       "text": "contract",
       "meaning": "계약",
+      "sentence": "Please sign the contract.",
+      "sentenceMeaning": "계약서에 서명하세요.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 380,
       "text": "welfare",
       "meaning": "복지",
+      "sentence": "public welfare",
+      "sentenceMeaning": "공공 복지",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 381,
       "text": "community",
       "meaning": "사회, 공동체",
+      "sentence": "What makes a community ",
+      "sentenceMeaning": "공동체를 이루는 것은 무엇일까 ",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 382,
       "text": "faith",
       "meaning": "신앙, 신뢰, 성실",
+      "sentence": "She has no faith in modern medicine.",
+      "sentenceMeaning": "그녀는 현대 의학에 대한 믿음이 없다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 383,
       "text": "propaganda",
       "meaning": "(허위.과장된)선전",
+      "sentence": "political propaganda",
+      "sentenceMeaning": "정치(과장) 선전",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 384,
       "text": "thrift",
       "meaning": "절약, 검약",
+      "sentence": "Thrift is a great revenue.",
+      "sentenceMeaning": "절약이 최대의 수입이다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 385,
       "text": "melancholy",
       "meaning": "우울, 우울한",
+      "sentence": "He looks melancholy.",
+      "sentenceMeaning": "그가 침울한 것 같아요.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 386,
       "text": "temper",
       "meaning": "기질, 기분, 노여움",
+      "sentence": "He's got a really bad temper.",
+      "sentenceMeaning": "그는 성질이 정말 안 좋아요.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 387,
       "text": "finance",
       "meaning": "재정, 자금",
+      "sentence": "public finance",
+      "sentenceMeaning": "공공 재정",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 388,
       "text": "significance",
       "meaning": "중요성, 중대성",
+      "sentence": "The values in parentheses are the significances.",
+      "sentenceMeaning": "괄호 안의 값은 유의사항입니다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 389,
       "text": "rage",
       "meaning": "격노, 분노, 격노하다. 날뛰다",
+      "sentence": "He raged at us.",
+      "sentenceMeaning": "그는 우리에게 화를 냈다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 390,
       "text": "infancy",
       "meaning": "유년시대, 초기",
+      "sentence": "Her youngest child died in infancy.",
+      "sentenceMeaning": "그녀의 막내 아이는 유아기에 죽었다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 391,
       "text": "adoration",
       "meaning": "숭배, 동경",
+      "sentence": "her complete adoration of her brother",
+      "sentenceMeaning": "그녀의 오빠에 대한 완전한 숭배",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 392,
       "text": "insult",
       "meaning": "모욕, 모욕하다",
+      "sentence": "Don't insult me.",
+      "sentenceMeaning": "나를 모욕하지 마세요.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 393,
       "text": "epidemic",
       "meaning": "유행병, 전염병",
+      "sentence": "There's an epidemic of flu.",
+      "sentenceMeaning": "유행성 감기가 퍼져 있어.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 394,
       "text": "analogy",
       "meaning": "유사점, 유추",
+      "sentence": "The teacher drew an analogy between the human heart and a pump.",
+      "sentenceMeaning": "선생님은 인간의 심장과 펌프 사이에 유사성을 설명했다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 395,
       "text": "ethics",
       "meaning": "윤리학",
+      "sentence": "They’re completely lacking in ethics.",
+      "sentenceMeaning": "그들은 윤리가 완전히 결여되어 있다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 396,
       "text": "analysis",
       "meaning": "분석, 분해",
+      "sentence": "an analysis table",
+      "sentenceMeaning": "분석표",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 397,
       "text": "labor",
       "meaning": "노동, 노력, 일하다",
+      "sentence": "Labor costs went up.",
+      "sentenceMeaning": "노동비가 올랐어요.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 398,
       "text": "glory",
       "meaning": "영광",
+      "sentence": "He dedicated his poetry to the glory of God.",
+      "sentenceMeaning": "그는 그의 시를 신의 영광에 바쳤다.",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 399,
       "text": "substance",
       "meaning": "실질, 실체",
+      "sentence": "a chemical substance",
+      "sentenceMeaning": "화학 물질",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 400,
       "text": "slang",
       "meaning": "속어",
+      "sentence": "teenage slang",
+      "sentenceMeaning": "십대들의 속어",
       "unit": 16
     },
     {
-      "chapter": "HSWordsA",
       "serial": 401,
       "text": "chaos",
       "meaning": "혼돈, 무질서",
+      "sentence": "Snow has caused chaos on the roads.",
+      "sentenceMeaning": "눈이 도로에 혼란을 일으켰다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 402,
       "text": "vigor",
-      "meaning": "활력, 원기",
+      "meaning": "활력, 혈기",
+      "sentence": "youthful vigor and enthusiasm.",
+      "sentenceMeaning": "젊은 혈기와 열정",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 403,
       "text": "heaven",
       "meaning": "하늘, 천국",
+      "sentence": "Heaven defends the right.",
+      "sentenceMeaning": "하늘은 정의의 편이다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 404,
       "text": "hell",
       "meaning": "지옥",
+      "sentence": "heaven and hell",
+      "sentenceMeaning": "천국과 지옥",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 405,
       "text": "shame",
       "meaning": "수치, 치욕",
+      "sentence": "They felt ashamed of taking bribes.",
+      "sentenceMeaning": "그들은 뇌물 받는 것을 수치스러워 했다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 406,
       "text": "dialect",
       "meaning": "방언, 사투리",
+      "sentence": "a poem written in dialect",
+      "sentenceMeaning": "사투리로 쓴 시",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 407,
       "text": "barrier",
       "meaning": "장애물, 장벽",
+      "sentence": "The horse rushed forward to the barrier.",
+      "sentenceMeaning": "그 말은 장애물 앞으로 돌진했다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 408,
       "text": "barometer",
       "meaning": "기압계, 지표",
+      "sentence": "The barometer is falling.",
+      "sentenceMeaning": "기압계가 떨어지고 있다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 409,
       "text": "indignation",
       "meaning": "분개, 분노",
+      "sentence": "The rise in train fares has aroused public indignation. ",
+      "sentenceMeaning": "기차 요금 인상은 대중의 분노를 불러일으켰다. ",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 410,
       "text": "technology",
       "meaning": "과학기술, 공예학",
+      "sentence": "industrial technology",
+      "sentenceMeaning": "산업 기술",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 411,
       "text": "basis",
       "meaning": "기초",
+      "sentence": "Decisions were made on the basis of incorrect information.",
+      "sentenceMeaning": "잘못된 정보에 기초하여 결정이 내려졌다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 412,
       "text": "biography",
       "meaning": "(인물의)전기, 일대기",
+      "sentence": "He wrote a biography of Winston Churchill.",
+      "sentenceMeaning": "그는 윈스턴 처칠의 전기를 썼다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 413,
       "text": "gravity",
       "meaning": "중력, 인력, 중대성",
+      "sentence": "the law of gravity",
+      "sentenceMeaning": "중력의 법칙",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 414,
       "text": "treaty",
       "meaning": "조약",
+      "sentence": "peace treaty",
+      "sentenceMeaning": "평화 조약",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 415,
       "text": "advantage",
       "meaning": "유리, 이점",
+      "sentence": "In basketball, tall players have an advantage.",
+      "sentenceMeaning": "농구에서는 키가 큰 선수들이 유리하다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 416,
       "text": "vacuum",
       "meaning": "진공(의)",
+      "sentence": "a vacuum cleaner",
+      "sentenceMeaning": "진공 청소기",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 417,
       "text": "economy",
       "meaning": "경제, 절약",
+      "sentence": "the global economy",
+      "sentenceMeaning": "세계 경제",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 418,
       "text": "grave",
       "meaning": "무덤, 중대한, 근엄한",
+      "sentence": "a grave digger",
+      "sentenceMeaning": "무덤 파는 사람",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 419,
       "text": "epoch",
       "meaning": "신기원, 신시대",
+      "sentence": "Thanks to modern technology a new epoch has begun.",
+      "sentenceMeaning": "현대 기술 덕분에 새로운 시대가 열렸다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 420,
       "text": "courage",
       "meaning": "용기",
+      "sentence": "It takes courage to sing in public.",
+      "sentenceMeaning": "사람들 앞에서 노래하는 것은 용기가 필요하다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 421,
       "text": "sphere",
       "meaning": "(공모양)구, 범위",
+      "sentence": "A sphere is round.",
+      "sentenceMeaning": "구는 둥글다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 422,
       "text": "biology",
       "meaning": "생물학",
+      "sentence": "marine biology",
+      "sentenceMeaning": "해양 생물학",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 423,
       "text": "recreation",
       "meaning": "기분전환, 오락, 레크리에이션",
+      "sentence": "His recreations include golf, football and shooting.",
+      "sentenceMeaning": "그의 취미생활에는 골프, 축구, 사격 등이 있다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 424,
       "text": "gravitation",
       "meaning": "중력, 인력",
+      "sentence": "Particles are attracted to each other by gravitation.",
+      "sentenceMeaning": "입자는 중력에 의해 서로 끌어당긴다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 425,
       "text": "fury",
       "meaning": "(격렬한)분노, 격노한 상태",
+      "sentence": "He was in a fury.",
+      "sentenceMeaning": "그는 격노했다.",
       "unit": 17
     },
     {
-      "chapter": "HSWordsA",
       "serial": 426,
       "text": "behalf",
       "meaning": "위함, 이익",
+      "sentence": "on behalf of his country",
+      "sentenceMeaning": "조국을 대신하여",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 427,
       "text": "generalization",
       "meaning": "일반화, 보편화",
+      "sentence": "Generalization can be dangerous.",
+      "sentenceMeaning": "일반화는 위험할 수 있습니다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 428,
       "text": "damage",
       "meaning": "손해, 손상, 손해를 입히다",
+      "sentence": "Many buildings were badly damaged during the war.",
+      "sentenceMeaning": "전쟁 중에 많은 건물들이 심하게 파손되었다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 429,
       "text": "horizon",
       "meaning": "지평선, 수평선",
+      "sentence": "above the horizon",
+      "sentenceMeaning": "지평선 위에",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 430,
       "text": "folly",
       "meaning": "어리석음, 어리석은 짓",
+      "sentence": "She said that the idea was folly.",
+      "sentenceMeaning": "그녀는 그 생각이 어리석다고 말했다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 431,
       "text": "heredity",
       "meaning": "유전, 유전적 특징",
+      "sentence": "the effects of heredity and environment",
+      "sentenceMeaning": "유전과 환경의 영향",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 432,
       "text": "accurate",
       "meaning": "정확한",
+      "sentence": "accurate data",
+      "sentenceMeaning": "정확한 자료",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 433,
       "text": "rational",
       "meaning": "합리적인, 이성적인",
+      "sentence": "a rational decision",
+      "sentenceMeaning": "합리적인 결정",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 434,
       "text": "secure",
       "meaning": "안전한, 획득하다. 보증하다.",
+      "sentence": "That ladder doesn't look very secure to me.",
+      "sentenceMeaning": "저 사다리는 내가 보기에 그다지 안전해 보이지 않는다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 435,
       "text": "upset",
       "meaning": "기분이 상한. 화난",
+      "sentence": "Don't get upset about the dress.",
+      "sentenceMeaning": "그 드레스 때문에 화내지 마세요.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 436,
       "text": "practical",
       "meaning": "실제의, 실용적인",
+      "sentence": "practical value",
+      "sentenceMeaning": "실용적 가치",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 437,
       "text": "literate",
       "meaning": "글을 읽고 쓸 줄 아는(사람)",
+      "sentence": "All students should be numerate and literate.",
+      "sentenceMeaning": "모든 학생들은 산술 능력과 읽고 쓰는 능력을 갖춰야 한다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 438,
       "text": "conservative",
       "meaning": "보수적인",
+      "sentence": "He is kind of conservative.",
+      "sentenceMeaning": "그는 보수적인 편이다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 439,
       "text": "radical",
       "meaning": "근본적인, 급진적인",
+      "sentence": "These people have very radical views.",
+      "sentenceMeaning": "이 사람들은 매우 급진적인 견해를 가지고 있다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 440,
       "text": "pure",
       "meaning": "순수한",
+      "sentence": "pure orange juice",
+      "sentenceMeaning": "순수 오렌지 주스",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 441,
       "text": "sane",
       "meaning": "제정신의, 온전한",
+      "sentence": "The only thing which keeps me sane is jogging!",
+      "sentenceMeaning": "제정신을 유지하는 유일한 방법은 조깅입니다!",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 442,
       "text": "genuine",
       "meaning": "진짜의, 순수한",
+      "sentence": "a genuine Michelangelo drawing",
+      "sentenceMeaning": "진짜 미켈란젤로의 그림",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 443,
       "text": "vague",
       "meaning": "막연한, 모호한",
+      "sentence": "vague fear",
+      "sentenceMeaning": "막연한 두려움",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 444,
       "text": "entire",
       "meaning": "완전한, 전체의",
+      "sentence": "They ate an entire cake.",
+      "sentenceMeaning": "그들은 케이크를 통째로 먹었다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 445,
       "text": "absurd",
       "meaning": "터무니없는, 불합리한",
+      "sentence": "Don't be so absurd!",
+      "sentenceMeaning": "그렇게 황당하게 굴지 마!",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 446,
       "text": "lonely",
       "meaning": "고독한, 쓸쓸한",
+      "sentence": "He lives alone and often feels lonely.",
+      "sentenceMeaning": "그는 혼자 살고 종종 외로움을 느낀다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 447,
       "text": "savage",
       "meaning": "야만스러운, 잔인한",
+      "sentence": "Humans are savage in nature.",
+      "sentenceMeaning": "인간은 본래 야만적이다.",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 448,
       "text": "nuclear",
       "meaning": "핵의",
+      "sentence": "nuclear weapons",
+      "sentenceMeaning": "핵무기",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 449,
       "text": "obscure",
       "meaning": "무명의, 애매한",
+      "sentence": "obscure writers",
+      "sentenceMeaning": "무명 작가",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 450,
       "text": "intricate",
       "meaning": "뒤얽힌, 복잡한",
+      "sentence": "an intricate plot",
+      "sentenceMeaning": "복잡한 줄거리",
       "unit": 18
     },
     {
-      "chapter": "HSWordsA",
       "serial": 451,
       "text": "mortal",
       "meaning": "죽을 운명의",
+      "sentence": "For all men are mortal.",
+      "sentenceMeaning": "사람은 누구나 다 죽습니다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 452,
       "text": "vivid",
       "meaning": "생생한, 발랄한",
+      "sentence": "He gave a very vivid account of his time in prison.",
+      "sentenceMeaning": "그는 감옥에서 보낸 자신의 이야기를 생생하게 들려주었다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 453,
       "text": "arrogant",
       "meaning": "오만한",
+      "sentence": "an arrogant attitude",
+      "sentenceMeaning": "거만한 태도",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 454,
       "text": "exotic",
       "meaning": "외국의, 이국풍의",
+      "sentence": "exotic food",
+      "sentenceMeaning": "이국적인 음식",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 455,
       "text": "extreme",
       "meaning": "극단의",
+      "sentence": "extreme pain",
+      "sentenceMeaning": "극심한 고통",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 456,
       "text": "imperative",
-      "meaning": "명령적인, 긴급한",
+      "meaning": "명령적인, 긴급한, 필수적인",
+      "sentence": "The president said it was imperative.",
+      "sentenceMeaning": "대통령은 그것이 필수적이라고 말했다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 457,
       "text": "mature",
       "meaning": "성숙한",
+      "sentence": "He's mature for his age.",
+      "sentenceMeaning": "그는 나이에 비해 성숙하다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 458,
       "text": "tight",
       "meaning": "단단한, 팽팽한",
+      "sentence": "a tight knot",
+      "sentenceMeaning": "빡빡한 매듭",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 459,
       "text": "adequate",
       "meaning": "적당한, 충분한",
+      "sentence": "an adequate amount",
+      "sentenceMeaning": "적당한 양",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 460,
       "text": "monotonous",
       "meaning": "단조로운",
+      "sentence": "a monotonous voice",
+      "sentenceMeaning": "단조로운 목소리",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 461,
       "text": "mutual",
       "meaning": "서로의, 상호간의",
+      "sentence": "They seem to live in mutual harmony.",
+      "sentenceMeaning": "그들은 서로 화합하며 사는 것 같다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 462,
       "text": "splendid",
       "meaning": "화려한, 훌륭한",
+      "sentence": "You look splendid in that outfit.",
+      "sentenceMeaning": "당신은 그 옷을 입으니 정말 멋져 보여요.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 463,
       "text": "timid",
       "meaning": "겁 많은",
+      "sentence": "Kieran is a timid child.",
+      "sentenceMeaning": "키란은 소심한 아이이다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 464,
       "text": "durable",
       "meaning": "오래 견디는, 튼튼한",
+      "sentence": "durable materials",
+      "sentenceMeaning": "내구성이 있는 재료",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 465,
       "text": "conspicuous",
       "meaning": "유난희 눈에 띄는, 현저한",
+      "sentence": "In China, her blonde hair was conspicuous.",
+      "sentenceMeaning": "중국에서는 그녀의 금발 머리가 눈에 띄었다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 466,
       "text": "brisk",
       "meaning": "활발한",
+      "sentence": "a brisk walk",
+      "sentenceMeaning": "활기찬 걸음걸이",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 467,
       "text": "primitive",
       "meaning": "원시의",
+      "sentence": "Primitive races colonized these islands 2,000 years ago.",
+      "sentenceMeaning": "원시 종족은 2,000년 전에 이 섬들을 식민지로 삼았다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 468,
       "text": "superficial",
-      "meaning": "피상적인, 천박한",
+      "meaning": "피상적인, 얄팍한",
+      "sentence": "I only have a superficial knowledge of French.",
+      "sentenceMeaning": "나는 프랑스어에 대해 얄팍한 지식밖에 없다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 469,
       "text": "brilliant",
       "meaning": "빛나는, 훌륭한",
+      "sentence": "Her mother was a brilliant scientist.",
+      "sentenceMeaning": "그녀의 어머니는 뛰어난 과학자였다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 470,
       "text": "conscious",
       "meaning": "의식적인, 알고 있는",
+      "sentence": "He's still conscious but he's very badly injured.",
+      "sentenceMeaning": "그는 아직 의식이 있지만 매우 심하게 다쳤다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 471,
       "text": "abstract",
       "meaning": "추상적인",
+      "sentence": "Truth and beauty are abstract concepts.",
+      "sentenceMeaning": "진실과 아름다움은 추상적인 개념이다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 472,
       "text": "concrete",
-      "meaning": "구체적인",
+      "meaning": "구체적인, 콘크리트",
+      "sentence": "Her plan is very concrete.",
+      "sentenceMeaning": "그녀의 계획은 매우 구체적이다.",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 473,
       "text": "profound",
       "meaning": "깊이간 있는, 심오한",
+      "sentence": "profound questions about life and death",
+      "sentenceMeaning": "삶과 죽음에 관한 심오한 질문들",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 474,
       "text": "supreme",
       "meaning": "최고의",
+      "sentence": "the Supreme Commander",
+      "sentenceMeaning": "최고 사령관",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 475,
       "text": "trivial",
       "meaning": "시시한, 하찮은",
+      "sentence": "a trivial loss",
+      "sentenceMeaning": "사소한 손실",
       "unit": 19
     },
     {
-      "chapter": "HSWordsA",
       "serial": 476,
       "text": "apparent",
       "meaning": "명백한, 외관상의",
+      "sentence": "Her unhappiness was apparent to everyone.",
+      "sentenceMeaning": "그녀의 불행은 모두에게 명백했다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 477,
       "text": "thorough",
       "meaning": "철저한",
+      "sentence": "They did a thorough search of the area",
+      "sentenceMeaning": "그들은 그 지역을 샅샅이 뒤졌다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 478,
       "text": "athletic",
       "meaning": "운동경기의",
+      "sentence": "an athletic competition",
+      "sentenceMeaning": "운동 경기",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 479,
       "text": "absolute",
       "meaning": "절대적인",
+      "sentence": "There was no absolute proof of fraud.",
+      "sentenceMeaning": "사기에 대한 절대적인 증거는 없었다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 480,
       "text": "ultimate",
       "meaning": "최후의, 궁극적인",
+      "sentence": "Your ultimate goal is to play the game",
+      "sentenceMeaning": "당신의 최종 목표는 경기를 뛰는 것이다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 481,
       "text": "initial",
       "meaning": "처음의",
+      "sentence": "an initial letter",
+      "sentenceMeaning": "첫 글자",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 482,
       "text": "solemn",
       "meaning": "엄숙한",
+      "sentence": "solemn music",
+      "sentenceMeaning": "엄숙한 음악",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 483,
       "text": "notorious",
       "meaning": "소문난, 악명이 높은",
+      "sentence": "the most notorious criminals",
+      "sentenceMeaning": "가장 악명 높은 범죄자들",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 484,
       "text": "sublime",
       "meaning": "숭고한",
+      "sentence": "sublime beauty",
+      "sentenceMeaning": "숭고한 아름다움",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 485,
       "text": "constructive",
       "meaning": "건설적인",
+      "sentence": "constructive criticism",
+      "sentenceMeaning": "건설적인 비평",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 486,
       "text": "destructive",
       "meaning": "파괴적인",
+      "sentence": "the destructive power of nuclear weapons",
+      "sentenceMeaning": "핵무기의 파괴력",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 487,
       "text": "temporary",
       "meaning": "임시의, 한때의",
+      "sentence": "temporary staff",
+      "sentenceMeaning": "임시 직원",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 488,
       "text": "contemporary",
       "meaning": "현대의, 동시대의",
+      "sentence": "contemporary music",
+      "sentenceMeaning": "현대 음악",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 489,
       "text": "bald",
       "meaning": "대머리의",
+      "sentence": "At 20 he was already going bald.",
+      "sentenceMeaning": "그는 스무 살 때 이미 대머리가 되어가고 있었다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 490,
       "text": "indispensable",
       "meaning": "없어서는 안 되는, 필수의",
+      "sentence": "None of our players is indispensable.",
+      "sentenceMeaning": "우리 선수들 중 그 누구도 없어서는 안 된다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 491,
       "text": "juvenile",
-      "meaning": "청소년",
+      "meaning": "청소년의",
+      "sentence": "juvenile crime",
+      "sentenceMeaning": "청소년 범죄",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 492,
       "text": "normal",
       "meaning": "정상의, 보통의",
+      "sentence": "a normal working day",
+      "sentenceMeaning": "정상 근무일",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 493,
       "text": "internal",
       "meaning": "내부의",
+      "sentence": "He sustained injuries to his internal organs.",
+      "sentenceMeaning": "그는 내장을 다쳤다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 494,
       "text": "external",
       "meaning": "외부의",
+      "sentence": "the external walls of the house",
+      "sentenceMeaning": "집의 외벽",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 495,
       "text": "rare",
       "meaning": "드문, 진귀한",
+      "sentence": "a rare event",
+      "sentenceMeaning": "드문 사건",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 496,
       "text": "main",
       "meaning": "주요한",
+      "sentence": "a main street",
+      "sentenceMeaning": "번화가",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 497,
       "text": "complex",
       "meaning": "복잡한",
+      "sentence": "a complex mechanism",
+      "sentenceMeaning": "복잡한 기구",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 498,
       "text": "bold",
       "meaning": "대담한",
+      "sentence": "She was a bold and fearless climber.",
+      "sentenceMeaning": "그녀는 대담하고 두려움을 모르는 등반가였다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 499,
       "text": "crude",
-      "meaning": "조잡한, 원유",
+      "meaning": "조잡합. 원유",
+      "sentence": "a crude device",
+      "sentenceMeaning": "조잡한 장치",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 500,
       "text": "polite",
       "meaning": "예의 바른, 공손한",
+      "sentence": "He is polite to others.",
+      "sentenceMeaning": "그는 다른 사람들에게 공손하다.",
       "unit": 20
     },
     {
-      "chapter": "HSWordsA",
       "serial": 501,
       "text": "current",
       "meaning": "통용되는, 현재의, 흐름",
+      "sentence": "The word is no longer in current use.",
+      "sentenceMeaning": "그 단어는 더 이상 사용되지 않는다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 502,
       "text": "severe",
       "meaning": "엄한, 격렬한",
+      "sentence": "a severe toothache",
+      "sentenceMeaning": "극심한 치통",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 503,
       "text": "remote",
       "meaning": "먼, 먼 곳의",
+      "sentence": "a remote village",
+      "sentenceMeaning": "멀리 떨어진 마을",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 504,
       "text": "deliberate",
       "meaning": "신중한, 계획적인, 고의적인, 숙고하다. 신중히 생각하다.",
+      "sentence": "a deliberate attack",
+      "sentenceMeaning": "의도적인 공격",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 505,
       "text": "separate",
       "meaning": "분리된",
+      "sentence": "I try to keep meat separate from other food",
+      "sentenceMeaning": "나는 고기를 다른 음식과 분리하려고 노력한다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 506,
       "text": "physical",
       "meaning": "물리적인, 육체의",
+      "sentence": "the physical world",
+      "sentenceMeaning": "물질계",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 507,
       "text": "eternal",
       "meaning": "영원한.",
+      "sentence": "eternal life in heaven",
+      "sentenceMeaning": "천국에서의 영원한 삶",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 508,
       "text": "unique",
       "meaning": "유일한. 독특한",
+      "sentence": "Each person’s DNA is unique.",
+      "sentenceMeaning": "각 사람의 DNA는 고유합니다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 509,
       "text": "transparent",
       "meaning": "투명한",
+      "sentence": "the transparent water",
+      "sentenceMeaning": "투명한 물",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 510,
       "text": "military",
       "meaning": "군대의, 육군의",
+      "sentence": "military march",
+      "sentenceMeaning": "군사 행진",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 511,
       "text": "swift",
       "meaning": "신속한",
+      "sentence": "Thank you for your swift reply.",
+      "sentenceMeaning": "빠른 답변 감사합니다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 512,
       "text": "surplus",
       "meaning": "과잉의, 나머지의",
+      "sentence": "The world is now producing large food surpluses.",
+      "sentenceMeaning": "세계는 지금 엄청난 양의 식량 잉여를 생산하고 있다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 513,
       "text": "obstinate",
       "meaning": "고집 센, 완강한, 난감한",
+      "sentence": "her obstinate refusal to compromise",
+      "sentenceMeaning": "그녀의 완강한 타협 거부",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 514,
       "text": "stubborn",
       "meaning": "완고한, 고집 센",
+      "sentence": "He’s too stubborn to see a doctor.",
+      "sentenceMeaning": "그는 너무 고집이 세서 의사를 만날 수 없다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 515,
       "text": "dense",
       "meaning": "짙은, 빽빽한",
+      "sentence": "a dense forest",
+      "sentenceMeaning": "빽빽한 숲",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 516,
       "text": "familiar",
       "meaning": "친한",
+      "sentence": "The street was familiar to me.",
+      "sentenceMeaning": "그 거리는 나에게 친숙했다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 517,
       "text": "shrewd",
       "meaning": "영리한, 빈틈없는",
+      "sentence": "She is a shrewd politician",
+      "sentenceMeaning": "그녀는 영리한 정치가이다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 518,
       "text": "remarkable",
       "meaning": "현저한, 두드러진",
+      "sentence": "She has remarkable powers of observation.",
+      "sentenceMeaning": "그녀는 놀라운 관찰력을 가지고 있다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 519,
       "text": "punctual",
       "meaning": "시간을 잘 지키는",
+      "sentence": "Please try to be punctual",
+      "sentenceMeaning": "시간을 엄수해 주세요.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 520,
       "text": "terrible",
       "meaning": "무시무시한",
+      "sentence": "The weather was terrible.",
+      "sentenceMeaning": "날씨가 끔찍했다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 521,
       "text": "rude",
       "meaning": "무례한",
+      "sentence": "He's a very rude man.",
+      "sentenceMeaning": "그는 매우 무례한 사람이다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 522,
       "text": "earnest",
       "meaning": "열심인, 진지한",
+      "sentence": "I didn't realize he was in earnest.",
+      "sentenceMeaning": "나는 그가 진지한 줄 몰랐다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 523,
       "text": "typical",
       "meaning": "전형적인, ~을 대표하는",
+      "sentence": "He looked like the typical tourist with his camera.",
+      "sentenceMeaning": "그는 카메라를 든 전형적인 관광객처럼 보였다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 524,
       "text": "sole",
       "meaning": "유일한",
+      "sentence": "The sole survivor of the accident was found in the water.",
+      "sentenceMeaning": "그 사고의 유일한 생존자가 물 속에서 발견되었다.",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 525,
       "text": "fundamental",
       "meaning": "근본적인. 핵심적인, 기본적인",
+      "sentence": "the fundamental differences between men and women.",
+      "sentenceMeaning": "남성과 여성 사이의 근본적인 차이",
       "unit": 21
     },
     {
-      "chapter": "HSWordsA",
       "serial": 526,
       "text": "intense",
       "meaning": "강렬한",
+      "sentence": "an intense color",
+      "sentenceMeaning": "강렬한 색",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 527,
       "text": "essential",
       "meaning": "본질적인. 필수의",
+      "sentence": "Water is essential for living things.",
+      "sentenceMeaning": "물은 생물에게 필수적이다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 528,
       "text": "distinct",
       "meaning": "명백한, 명확한",
+      "sentence": "There's a distinct smell of cigarettes in here.",
+      "sentenceMeaning": "이 안에서 확연한 담배 냄새가 난다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 529,
       "text": "particular",
       "meaning": "특별한, 특수한",
+      "sentence": "Are you looking for anything in particular?",
+      "sentenceMeaning": "뭐 특별히 찾으시는 거 있으세요?",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 530,
       "text": "subtle",
-      "meaning": "미묘한",
+      "meaning": "은은한, 미묘한, 섬세한",
+      "sentence": "The film's direction is subtle and stylish.",
+      "sentenceMeaning": "그 영화의 연출은 섬세하고 스타일리시하다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 531,
       "text": "ordinary",
       "meaning": "보통의",
+      "sentence": "ordinary people",
+      "sentenceMeaning": "보통 사람들",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 532,
       "text": "vulgar",
-      "meaning": "저속한, 천박한",
+      "meaning": "저속학. 천박한",
+      "sentence": "He has a vulgar tongue.",
+      "sentenceMeaning": "그는 말이 천하다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 533,
       "text": "preferable",
       "meaning": "더 마음에 드는, 더 바람직한",
+      "sentence": "Anything would be preferable to war.",
+      "sentenceMeaning": "어떤 것이든 전쟁보다는 나을 것이다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 534,
       "text": "strict",
       "meaning": "엄격한, 엄밀한",
+      "sentence": "My parents were very strict with me.",
+      "sentenceMeaning": "나의 부모님은 나에게 매우 엄격하셨다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 535,
       "text": "meager",
       "meaning": "야윈, 빈약한",
+      "sentence": "a meager salary",
+      "sentenceMeaning": "빈약한 월급",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 536,
       "text": "naked",
       "meaning": "나체의, 벌거벗은",
+      "sentence": "a naked man",
+      "sentenceMeaning": "벌거벗은 남자",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 537,
       "text": "feminine",
       "meaning": "여성의",
+      "sentence": "Her clothes are always very feminine.",
+      "sentenceMeaning": "그녀의 옷은 항상 여성스럽다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 538,
       "text": "deficient",
       "meaning": "부족한",
+      "sentence": "His theory is deficient in several respects.",
+      "sentenceMeaning": "그의 이론은 여러 면에서 부족하다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 539,
       "text": "tender",
       "meaning": "부드러운, 상냥한",
+      "sentence": "a tender smile",
+      "sentenceMeaning": "부드러운 미소",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 540,
       "text": "incurable",
       "meaning": "고칠 수 없는 불치의",
+      "sentence": "an incurable habit",
+      "sentenceMeaning": "고칠 수 없는 습관",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 541,
       "text": "infinite",
       "meaning": "무한한, 무한의",
+      "sentence": "The universe is theoretically infinite.",
+      "sentenceMeaning": "우주는 이론적으로 무한하다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 542,
       "text": "irresistible",
       "meaning": "저항할 수 없는 ",
+      "sentence": "an irresistible offer",
+      "sentenceMeaning": "거부할 수 없는 제의",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 543,
       "text": "barren",
       "meaning": "불모의, 메마른",
+      "sentence": "The landscape was barren, with not a tree in sight.",
+      "sentenceMeaning": "그 풍경은 나무 한 그루 보이지 않을 정도로 척박했다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 544,
       "text": "annual",
       "meaning": "해마다의",
+      "sentence": "an annual event",
+      "sentenceMeaning": "연례 행사",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 545,
       "text": "precise",
       "meaning": "정밀한, 정확한",
+      "sentence": "precise measurements",
+      "sentenceMeaning": "정확한 측정",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 546,
       "text": "native",
       "meaning": "타고난, 태어난",
+      "sentence": "native ability",
+      "sentenceMeaning": "타고난 능력",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 547,
       "text": "constant",
       "meaning": "불변의, 끊임없는",
+      "sentence": "The constant noise drove me crazy .",
+      "sentenceMeaning": "끊임없는 소음이 나를 미치게 했다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 548,
       "text": "concise",
       "meaning": "간결한",
+      "sentence": "Make your answers clear and concise.",
+      "sentenceMeaning": "당신의 대답을 명확하고 간결하게 하세요.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 549,
       "text": "moral",
       "meaning": "도덕적인, 정신적인, 교훈, 도덕",
+      "sentence": "It's her moral obligation to tell the police what she knows.",
+      "sentenceMeaning": "그녀가 알고 있는 것을 경찰에게 말하는 것은 도덕적 의무이다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 550,
       "text": "delicate",
-      "meaning": "연약한, 섬세한, 우아한",
+      "meaning": "연약한, 우아한, 섬세한",
+      "sentence": "Peaches have delicate skins which are easily bruised.",
+      "sentenceMeaning": "복숭아는 쉽게 멍드는 섬세한 껍질을 가지고 있다.",
       "unit": 22
     },
     {
-      "chapter": "HSWordsA",
       "serial": 551,
       "text": "ambiguous",
       "meaning": "애매한",
+      "sentence": "His reply was somewhat ambiguous.",
+      "sentenceMeaning": "그의 대답은 다소 모호했다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 552,
       "text": "neutral",
       "meaning": "중립의",
+      "sentence": "It's important that I remain neutral.",
+      "sentenceMeaning": "내가 중립을 지키는 것이 중요하다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 553,
       "text": "sacred",
       "meaning": "신성한",
+      "sentence": "sacred temples",
+      "sentenceMeaning": "신성한 사원",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 554,
       "text": "resolute",
       "meaning": "결심이 굳은, 단호한",
+      "sentence": "She's resolute in her refusal to apologize.",
+      "sentenceMeaning": "그녀는 단호하게 사과를 거부한다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 555,
       "text": "unanimous",
       "meaning": "만장일치의",
+      "sentence": "The jury reached a unanimous verdict.",
+      "sentenceMeaning": "배심원들은 만장일치의 평결을 내렸다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 556,
       "text": "decent",
       "meaning": "점잖은, 품위있는",
+      "sentence": "I thought he was a decent person.",
+      "sentenceMeaning": "나는 그가 괜찮은 사람이라고 생각했다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 557,
       "text": "legal",
       "meaning": "법률의, 합법적인",
+      "sentence": "legal advice",
+      "sentenceMeaning": "법률상의 조언",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 558,
       "text": "ancient",
       "meaning": "고대의",
+      "sentence": "ancient times",
+      "sentenceMeaning": "고대 시대",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 559,
       "text": "precious",
       "meaning": "귀중한",
+      "sentence": "a precious gift",
+      "sentenceMeaning": "귀중한 선물",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 560,
       "text": "jealous",
       "meaning": "질투심이 많은",
+      "sentence": "He is always jealous of his brother's good looks.",
+      "sentenceMeaning": "그는 항상 형의 잘생긴 외모를 시기한다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 561,
       "text": "vain",
       "meaning": "헛된",
+      "sentence": "All his efforts were in vain.",
+      "sentenceMeaning": "그의 노력은 모두 헛된 것이였다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 562,
       "text": "solitary",
-      "meaning": "고독한, 외로운",
+      "meaning": "홀로의, 혼자 잘 노는",
+      "sentence": "He was a solitary child.",
+      "sentenceMeaning": "그는 혼자 잘 노는 아이였다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 563,
       "text": "thirsty",
       "meaning": "목이 마른, 갈망하는",
+      "sentence": "He is thirsty for power.",
+      "sentenceMeaning": "그는 권력에 목말라 있다",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 564,
       "text": "generous",
       "meaning": "관대한, 아낌없는",
+      "sentence": "a generous pay increase",
+      "sentenceMeaning": "후한 임금 인상",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 565,
       "text": "general",
       "meaning": "일반적인, 전체적인",
+      "sentence": "In general, men are taller than women.",
+      "sentenceMeaning": "일반적으로 남자가 여자보다 키가 크다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 566,
       "text": "nervous",
       "meaning": "신경질적인, 신경의, 초조한",
+      "sentence": "I was too nervous to speak.",
+      "sentenceMeaning": "나는 너무 긴장해서 말을 할 수가 없었다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 567,
       "text": "brave",
       "meaning": "용감한",
+      "sentence": "a brave soldier",
+      "sentenceMeaning": "용감한 군인",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 568,
       "text": "stern",
       "meaning": "엄한, 엄격한",
+      "sentence": "a stern warning",
+      "sentenceMeaning": "엄중한 경고",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 569,
       "text": "queer",
       "meaning": "별난, 기묘한",
+      "sentence": "We were criminalized just for being queer.",
+      "sentenceMeaning": "우리는 단지 이상하다는 이유로 형사처벌을 받았다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 570,
       "text": "immemorial",
       "meaning": "태고의, 먼 옛날의",
+      "sentence": "Her family had farmed that land since time immemorial.",
+      "sentenceMeaning": "그녀의 가족은 태곳적부터 그 땅을 경작해 왔다",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 571,
       "text": "bless",
       "meaning": "축복하다",
+      "sentence": "May God bless you.",
+      "sentenceMeaning": "신의 가호가 있기를.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 572,
       "text": "rejoice",
       "meaning": "기뻐하다",
+      "sentence": "Everyone rejoiced at the news of his safe return.",
+      "sentenceMeaning": "그의 무사 귀환 소식에 모두가 기뻐했다",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 573,
       "text": "cast",
-      "meaning": "던지다. (연극.영화) 출연자들",
+      "meaning": "드리우다. (연극.영화) 출연자들",
+      "sentence": "The tree cast a shadow over his face.",
+      "sentenceMeaning": "나무가 그의 얼굴에 그림자를 드리웠다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 574,
       "text": "celebrate",
-      "meaning": "축하하다",
+      "meaning": "축하하다. 찬양하다",
+      "sentence": "Crowds celebrated the dictator's deposition.",
+      "sentenceMeaning": "군중들은 독재자의 퇴위를 축하했다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 575,
       "text": "surrender",
       "meaning": "넘겨주다. 항복하다. 양도, 항복",
+      "sentence": "They would rather die than surrender.",
+      "sentenceMeaning": "그들은 항복하느니 차라리 죽는 편이 낫다.",
       "unit": 23
     },
     {
-      "chapter": "HSWordsA",
       "serial": 576,
       "text": "postpone",
-      "meaning": "연기하다",
+      "meaning": "미루다. 연기하다",
+      "sentence": "postpone a meeting",
+      "sentenceMeaning": "회의를 연기하다",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 577,
       "text": "cooperate",
       "meaning": "협력하다",
+      "sentence": "Several countries are cooperating in the relief effort.",
+      "sentenceMeaning": "몇몇 나라들이 구호 활동에 협력하고 있다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 578,
       "text": "refer",
-      "meaning": "언급하다. 참조하다",
+      "meaning": "참조하다. 알아보도록 하다.",
+      "sentence": "My doctor referred me to a hospital specialist.",
+      "sentenceMeaning": "의사는 나에게 병원 전문의를 소개해 주었다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 579,
       "text": "permit",
       "meaning": "허락하다",
+      "sentence": "The regulations do not permit much flexibility.",
+      "sentenceMeaning": "그 규정들은 많은 융통성을 허용하지 않는다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 580,
       "text": "exaggerate",
       "meaning": "과장하다",
+      "sentence": "Don't exaggerate. It wasn't that expensive.",
+      "sentenceMeaning": "과장하지 마세요. 그렇게 비싸지 않았어요.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 581,
       "text": "worry",
       "meaning": "걱정하다. 괴롭히다.",
+      "sentence": "Don't worry, she'll be all right.",
+      "sentenceMeaning": "걱정하지 마세요, 그녀는 괜찮을 거예요.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 582,
       "text": "equip",
       "meaning": "갖추다. 장비하다",
+      "sentence": "It's going to cost $4 million to equip the hospital.",
+      "sentenceMeaning": "병원 설비를 갖추는데 4백만 달러가 들 것이다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 583,
       "text": "ornament",
       "meaning": "장식하다.",
+      "sentence": "garden ornaments such as statues and fountains",
+      "sentenceMeaning": "동상이나 분수 같은 정원 장식품",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 584,
       "text": "furnish",
-      "meaning": "(가구를)비치하다.공급하다.",
+      "meaning": "(가구를)비치하다, 공급하다.",
+      "sentence": "They've furnished the room very simply.",
+      "sentenceMeaning": "그들은 그 방에 간단하게 가구 비치를 했다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 585,
       "text": "advance",
       "meaning": "전진하다. 진보하다",
+      "sentence": "The fire advanced steadily through the forest.",
+      "sentenceMeaning": "불길이 숲을 가로질러 끊임없이 전진했다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 586,
       "text": "irritate",
       "meaning": "화나게 하다. 짜증나게 하다",
+      "sentence": "Her behavior really irritates me.",
+      "sentenceMeaning": "그녀의 행동은 정말 나를 짜증나게 한다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 587,
       "text": "flourish",
       "meaning": "번창하다",
+      "sentence": "My tomatoes are flourishing this summer.",
+      "sentenceMeaning": "올 여름에는 토마토가 잘 자란다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 588,
       "text": "deprive",
       "meaning": "빼앗다",
+      "sentence": "He has been deprived of his freedom.",
+      "sentenceMeaning": "그는 자유를 박탈당했다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 589,
       "text": "derive",
-      "meaning": "~을 얻다, 유래하다",
+      "meaning": "~을 얻다, 모으다",
+      "sentence": "The institute derives all its money from foreign investments.",
+      "sentenceMeaning": "그 연구소는 모든 자금을 외국 투자에서 조달한다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 590,
       "text": "exchange",
       "meaning": "교환하다",
+      "sentence": "an exchange of information",
+      "sentenceMeaning": "정보의 교환",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 591,
       "text": "promote",
       "meaning": "촉진하다, 승진시키다",
+      "sentence": "The band are touring to promote their new album.",
+      "sentenceMeaning": "그 밴드는 새 앨범을 홍보하기 위해 순회공연을 하고 있다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 592,
       "text": "nourish",
       "meaning": "기르다. (영양분을) 주다",
+      "sentence": "She looks happy and well nourished.",
+      "sentenceMeaning": "그녀는 행복해보이고 영양도 풍부해 보인다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 593,
       "text": "inquire",
       "meaning": "묻다, 안부를 묻다, 조사하다",
+      "sentence": "inquire about a train schedule",
+      "sentenceMeaning": "기차 시간표를 묻다",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 594,
       "text": "prolong",
       "meaning": "연장하다",
+      "sentence": "we decided to prolong our stay by another week.",
+      "sentenceMeaning": "우리는 체류기간을 일주일 더 연장하기로 결정했다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 595,
       "text": "ascertain",
       "meaning": "확인하다",
+      "sentence": "The police was unable to ascertain the cause of the explosion.",
+      "sentenceMeaning": "경찰은 폭발의 원인을 확인할 수 없었다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 596,
       "text": "diminish",
       "meaning": "줄어들다, 감소하다",
+      "sentence": "Our house diminish greatly in value over the last six months.",
+      "sentenceMeaning": "우리 집은 지난 6개월 동안 가치가 크게 떨어졌다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 597,
       "text": "swear",
-      "meaning": "맹세하다.",
+      "meaning": "맹세하다. 욕하다.",
+      "sentence": "Please don't swear in front of the children.",
+      "sentenceMeaning": "아이들 앞에서 욕하지 마세요.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 598,
       "text": "marvel",
       "meaning": "놀라다. 경탄",
+      "sentence": "We paused to marvel at the view.",
+      "sentenceMeaning": "우리는 그 경치에 경탄하기 위해 잠시 멈추었다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 599,
       "text": "pray",
       "meaning": "빌다. 기도하다",
+      "sentence": "She knelt and prayed silently.",
+      "sentenceMeaning": "그녀는 무릎을 꿇고 조용히 기도했다.",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 600,
       "text": "reflect",
       "meaning": "반사하다, 반영하다",
+      "sentence": "He saw himself reflected in the water.",
+      "sentenceMeaning": "그는 물에 비친 자신의 모습을 보았다",
       "unit": 24
     },
     {
-      "chapter": "HSWordsA",
       "serial": 601,
       "text": "ascend",
       "meaning": "올라가다",
+      "sentence": "They slowly ascended the steep path.",
+      "sentenceMeaning": "그들은 가파른 길을 천천히 올라갔다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 602,
       "text": "descend",
       "meaning": "내려오다",
+      "sentence": "Jane descended the stairs.",
+      "sentenceMeaning": "제인은 계단을 내려갔다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 603,
       "text": "embark",
-      "meaning": "배를 타다, 시작하다",
+      "meaning": "탑승하다, 시작하다",
+      "sentence": "The flight crew embarked and the plane took off.",
+      "sentenceMeaning": "승무원들이 탑승하고 비행기는 이륙했다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 604,
       "text": "mention",
       "meaning": "말하다. 언급하다",
+      "sentence": "I'll mention your ideas to Jane.",
+      "sentenceMeaning": "당신의 아이디어를 제인에게 말씀드리겠습니다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 605,
       "text": "quote",
       "meaning": "인용하다",
+      "sentence": "He always quotes from the Bible.",
+      "sentenceMeaning": "그는 항상 성경을 인용한다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 606,
       "text": "occupy",
       "meaning": "차지하다. 종사하다",
+      "sentence": "Troops quickly occupied the city.",
+      "sentenceMeaning": "군대가 빠르게 그 도시를 점령했다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 607,
       "text": "surround",
       "meaning": "둘러싸다",
+      "sentence": "Tall trees surround the lake.",
+      "sentenceMeaning": "높은 나무들이 호수를 둘러싸고 있다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 608,
       "text": "avail",
       "meaning": "쓸모있다. 소용되다",
+      "sentence": "We tried to persuade her, but to no avail",
+      "sentenceMeaning": "우리는 그녀를 설득하려고 했지만 소용이 없었다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 609,
       "text": "preach",
       "meaning": "설교하다",
+      "sentence": "Father Martin preached to the crowd.",
+      "sentenceMeaning": "마틴 신부는 군중에게 설교했다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 610,
       "text": "retire",
       "meaning": "은퇴하다. 물러나다",
+      "sentence": "He is due to retire as chief executive next year.",
+      "sentenceMeaning": "그는 내년에 최고 경영자 자리에서 은퇴할 예정이다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 611,
       "text": "argue",
       "meaning": "논하다. 설득하다",
+      "sentence": "They argued about their children.",
+      "sentenceMeaning": "그들은 자식들에 대해 말다툼을 했다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 612,
       "text": "graduate",
       "meaning": "졸업하다",
+      "sentence": "She graduated from Yale University.",
+      "sentenceMeaning": "그녀는 예일 대학을 졸업했다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 613,
       "text": "affect",
       "meaning": "영향을 주다. 감동시키다. ~인 체하다",
+      "sentence": "It's a disease that affects mainly older people.",
+      "sentenceMeaning": "그것은 주로 노인들에게 영향을 미치는 질병이다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 614,
       "text": "unify",
       "meaning": "통일하다",
+      "sentence": "The president sought to unify the country.",
+      "sentenceMeaning": "대통령은 나라의 통일을 추구했다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 615,
       "text": "operate",
       "meaning": "움직이다. 운영하다. 수술하다.",
+      "sentence": "How do you operate the remote control unit ",
+      "sentenceMeaning": "리모컨은 어떻게 작동합니까 ",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 616,
       "text": "condemn",
       "meaning": "비난하다. (형을)선고하다.",
+      "sentence": "The terrorist was condemned for their barbarism.",
+      "sentenceMeaning": "그 테러리스트는 야만적인 행동으로 비난을 받았다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 617,
       "text": "praise",
       "meaning": "칭찬하다. 칭찬",
+      "sentence": "They deserve praise for all their hard work.",
+      "sentenceMeaning": "그들은 열심히 일한 것에 대해 칭찬을 받을 만하다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 618,
       "text": "forgive",
       "meaning": "용서하다",
+      "sentence": "Please forgive me!",
+      "sentenceMeaning": "용서해 주세요!",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 619,
       "text": "deserve",
       "meaning": "~할 가치가 있다.",
+      "sentence": "After all that hard work, you deserve a holiday.",
+      "sentenceMeaning": "그렇게 힘든 일을 했으니, 당신은 휴가를 보낼 자격이 있어요.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 620,
       "text": "correspond",
       "meaning": "일치하다. 편지를 주고받다.",
+      "sentence": "The American FBI corresponds to the British MI5.",
+      "sentenceMeaning": "미국 FBI는 영국의 MI5에 해당한다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 621,
       "text": "explore",
       "meaning": "탐험하다",
+      "sentence": "to explore space",
+      "sentenceMeaning": "우주를 탐험하다",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 622,
       "text": "recollect",
-      "meaning": "회상하다",
+      "meaning": "(애써)기억해내다.",
+      "sentence": "Can you recollect his name?",
+      "sentenceMeaning": "당신은 그의 이름을 기억해 낼 수 있나요?",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 623,
       "text": "fascinate",
       "meaning": "매혹하다",
+      "sentence": "Science has always fascinated me.",
+      "sentenceMeaning": "과학은 항상 나를 매료시켜 왔다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 624,
       "text": "stir",
       "meaning": "휘젓다. 움직이다.",
+      "sentence": "Stir the sauce gently.",
+      "sentenceMeaning": "소스를 부드럽게 저으세요.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 625,
       "text": "exploit",
       "meaning": "착취하다. (부당하게)이용하다. 위업",
+      "sentence": "We exploit our resources as fully as possible.",
+      "sentenceMeaning": "우리는 가능한 한 우리의 자원을 충분히 이용한다.",
       "unit": 25
     },
     {
-      "chapter": "HSWordsA",
       "serial": 626,
       "text": "contradict",
       "meaning": "반박하다. 모순되다",
+      "sentence": "Her husband contradicted everything she said.",
+      "sentenceMeaning": "그녀의 남편은 그녀가 말한 모든 것을 반박했다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 627,
       "text": "develop",
       "meaning": "발달하다. 개발하다",
+      "sentence": "We have to develop a new policy to deal with the problem.",
+      "sentenceMeaning": "우리는 그 문제를 다루기 위해 새로운 정책을 개발해야 한다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 628,
       "text": "approach",
       "meaning": "접근하다",
+      "sentence": "I'm not sure how to approach the problem.",
+      "sentenceMeaning": "그 문제에 어떻게 접근해야 할지 모르겠어요.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 629,
       "text": "classify",
       "meaning": "분류하다",
+      "sentence": "The books in the library are classified by subject.",
+      "sentenceMeaning": "도서관에 있는 책들은 주제별로 분류되어 있다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 630,
       "text": "represent",
       "meaning": "나타내다. 묘사하다. 대표하다.",
+      "sentence": "The red lines on the map represent railroads.",
+      "sentenceMeaning": "지도의 빨간색 선은 철도 도로를 나타냅니다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 631,
       "text": "reduce",
       "meaning": "줄이다.",
+      "sentence": "The plane reduced speed.",
+      "sentenceMeaning": "비행기가 속도를 줄였다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 632,
       "text": "wither",
       "meaning": "시들다. 말라죽다.",
+      "sentence": "Grass had withered in the fields.",
+      "sentenceMeaning": "들판의 풀이 시들어 있었다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 633,
       "text": "astonish",
       "meaning": "놀라게 하다",
+      "sentence": "I was astonished by how much she'd grown.",
+      "sentenceMeaning": "나는 그녀가 얼마나 많이 자랐는지 깜짝 놀랐다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 634,
       "text": "commit",
       "meaning": "맡기다. 범하다",
+      "sentence": "She tried to commit suicide",
+      "sentenceMeaning": "그녀는 자살을 시도했다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 635,
       "text": "claim",
       "meaning": "요구하다. 주장하다. 요구. 주장",
+      "sentence": "All parties have claimed success in yesterday's elections.",
+      "sentenceMeaning": "모든 정당이 어제 선거에서 성공을 거두었다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 636,
       "text": "seclude",
       "meaning": "고립시키다. 은둔하다",
+      "sentence": "Typically, the bride would seclude herself in another room.",
+      "sentenceMeaning": "일반적으로 신부는 다른 방에 은둔한다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 637,
       "text": "appoint",
       "meaning": "임명하다. 지정하다",
+      "sentence": "We've appointed three new teachers this year.",
+      "sentenceMeaning": "우리는 올해 세 명의 새 교사를 임명했다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 638,
       "text": "animate",
       "meaning": "활기를 주다. 고무하다.",
+      "sentence": "He knows exactly what to say to animate a crowd.",
+      "sentenceMeaning": "그는 군중을 움직이기 위해 무슨 말을 해야 할지 정확히 알고 있다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 639,
       "text": "apply",
       "meaning": "적용하다. 지원하다. 신청하다.",
+      "sentence": "I applied for a new job",
+      "sentenceMeaning": "나는 새로운 직장에 지원했다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 640,
       "text": "disappoint",
       "meaning": "실망시키다.",
+      "sentence": "We don't want to disappoint the fans.",
+      "sentenceMeaning": "우리는 팬들을 실망시키고 싶지 않다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 641,
       "text": "trespass",
       "meaning": "무단침입하다.",
+      "sentence": "I didn’t realize I was trespassing on their land.",
+      "sentenceMeaning": "내가 그들의 땅에 무단침입하고 있다는 것을 깨닫지 못했다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 642,
       "text": "decide",
       "meaning": "결정하다. 결심하다.",
+      "sentence": "They have to decide by next Friday.",
+      "sentenceMeaning": "그들은 다음 주 금요일까지 결정해야 한다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 643,
       "text": "afford",
       "meaning": "~할 여유가 있다. 주다",
+      "sentence": "He can't afford a new car on his salary.",
+      "sentenceMeaning": "그는 월급으로는 새 차를 살 여유가 없다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 644,
       "text": "compete",
       "meaning": "경쟁하다",
+      "sentence": "Are you competing in the 100 meters?",
+      "sentenceMeaning": "당신은 100미터 경기에 참가하고 있습니까?",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 645,
       "text": "perceive",
-      "meaning": "이해하다. 간파하다",
+      "meaning": "인지하다. ~로 여기다.",
+      "sentence": "She perceives me as some sort of tyrant.",
+      "sentenceMeaning": "그녀는 나를 일종의 폭군이라고 생각한다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 646,
       "text": "enchant",
       "meaning": "매혹시키다.",
+      "sentence": "The audience was clearly enchanted by her performance.",
+      "sentenceMeaning": "관객들은 그녀의 연기에 분명히 매료되었다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 647,
       "text": "consider",
       "meaning": "숙고하다. ~라고 생각하다.",
+      "sentence": "We're considering selling the house.",
+      "sentenceMeaning": "우리는 그 집을 팔 것을 고려하고 있다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 648,
       "text": "transform",
       "meaning": "변형하다",
+      "sentence": "Computers have transformed the way work is done.",
+      "sentenceMeaning": "컴퓨터는 작업 방식을 변화시켰다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 649,
       "text": "amaze",
       "meaning": "몹시 놀라게 하다",
+      "sentence": "I was amazed by how well he looked.",
+      "sentenceMeaning": "나는 그의 건강함에 놀랐다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 650,
       "text": "expose",
       "meaning": "드러내다. 폭로하다.",
+      "sentence": "People were exposed to radiation.",
+      "sentenceMeaning": "사람들은 방사능에 노출되었다.",
       "unit": 26
     },
     {
-      "chapter": "HSWordsA",
       "serial": 651,
       "text": "emancipate",
       "meaning": "해방하다",
+      "sentence": "Slaves were not emancipated until 1863 in the US.",
+      "sentenceMeaning": "노예는 미국에서 1863년까지 해방되지 않았다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 652,
       "text": "penetrate",
       "meaning": "꿰뚫다. 간파하다",
+      "sentence": "Amazingly, the bullet did not penetrate his brain.",
+      "sentenceMeaning": "놀랍게도, 그 총알은 그의 뇌를 관통하지 않았다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 653,
       "text": "extend",
       "meaning": "넓히다. 뻗치다",
+      "sentence": "We have plans to extend our house.",
+      "sentenceMeaning": "우리는 집을 증축할 계획이 있다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 654,
       "text": "reside",
       "meaning": "살다. 존재하다",
+      "sentence": "The family now resides in southern France.",
+      "sentenceMeaning": "이 가족은 현재 프랑스 남부에 거주하고 있다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 655,
       "text": "confine",
       "meaning": "제한하다",
+      "sentence": "Let's confine our discussion to the matter in question.",
+      "sentenceMeaning": "우리 토론을 문제의 문제로 국한합시다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 656,
       "text": "exhibit",
       "meaning": "보이다. 전시하다. 전시(물)",
+      "sentence": "He will exhibit his printings.",
+      "sentenceMeaning": "그는 그의 작품을 전시할 것이다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 657,
       "text": "extract",
       "meaning": "뽑다. 추출하다. 추출물. 발췌",
+      "sentence": "They used to extract iron ore from this site.",
+      "sentenceMeaning": "그들은 이 지역에서 철광석을 추출하곤 했다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 658,
       "text": "imply",
       "meaning": "의미하다. 암시하다.",
+      "sentence": "Are you implying that I'm fat ",
+      "sentenceMeaning": "내가 뚱뚱하다는 뜻인가요 ",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 659,
       "text": "determine",
       "meaning": "결정하다. 결심하다.",
+      "sentence": "Eye color is genetically determined.",
+      "sentenceMeaning": "눈 색깔은 유전적으로 결정된다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 660,
       "text": "indicate",
       "meaning": "지시하다. 나타내다",
+      "sentence": "The gauge indicates a temperature below freezing.",
+      "sentenceMeaning": "게이지가 영하를 나타낸다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 661,
       "text": "confront",
       "meaning": "직면하다",
+      "sentence": "When I was confronted with the TV camera, I got very nervous.",
+      "sentenceMeaning": "TV카메라와 마주쳤을 때, 나는 매우 긴장했다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 662,
       "text": "pierce",
       "meaning": "관통하다. 꿰뚫다.",
+      "sentence": "The needle pierces the fabric four times a second.",
+      "sentenceMeaning": "바늘은 1초에 4번 천을 뚫는다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 663,
       "text": "dread",
       "meaning": "두려워하다. 공포",
+      "sentence": "He's dreading the exam.",
+      "sentenceMeaning": "그는 시험을 두려워하고 있다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 664,
       "text": "foster",
-      "meaning": "(입양하여)기르다. (성장을)촉진하다.",
+      "meaning": "조성하다.(입양하여)기르다.",
+      "sentence": "Would you consider fostering a child ",
+      "sentenceMeaning": "위탁양육을 고려해 보시겠습니까 ",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 665,
       "text": "cease",
-      "meaning": "끝내다. 중지하다.",
+      "meaning": "끝내다. 중단하다.",
+      "sentence": "Welfare payments cease as soon as an individual starts a job.",
+      "sentenceMeaning": "복리후생비는 개인이 일을 시작하자마자 중단된다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 666,
       "text": "convey",
       "meaning": "나르다. 전하다",
+      "sentence": "Pipes convey hot water.",
+      "sentenceMeaning": "파이프는 뜨거운 물을 운반한다. ",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 667,
       "text": "rescue",
       "meaning": "구하다. 구조",
+      "sentence": "The lifeboat rescued the sailors from the sinking boat.",
+      "sentenceMeaning": "구명 보트가 침몰하는 보트에서 선원들을 구조했다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 668,
       "text": "dismiss",
       "meaning": "해고하다. 해산하다. 내쫓다",
+      "sentence": "He has been dismissed from his job.",
+      "sentenceMeaning": "그는 직장에서 해고되었다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 669,
       "text": "disturb",
       "meaning": "방해하다",
+      "sentence": "Don't disturb me again.",
+      "sentenceMeaning": "다시는 나를 방해하지 마세요.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 670,
       "text": "incline",
       "meaning": "기울이다",
+      "sentence": "The ground inclined steeply towards the ridge.",
+      "sentenceMeaning": "지면이 산등성이 쪽으로 가파르게 기울어져 있었다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 671,
       "text": "illustrate",
       "meaning": "삽화를넣다. 보여주다. 실증하다.",
+      "sentence": "To illustrate my point, let me tell you a little story.",
+      "sentenceMeaning": "제 요점을 설명하기 위해, 작은 이야기를 하나 해드리겠습니다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 672,
       "text": "excel",
       "meaning": "(남보다)낫다. 우수하다.",
+      "sentence": "Alice always excelled in languages at school.",
+      "sentenceMeaning": "앨리스는 학교에서 항상 언어에 뛰어났다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 673,
       "text": "mold",
       "meaning": "틀에 넣어 만들다. 틀. 성질. 곰팡이",
+      "sentence": "The figure was molded in clay",
+      "sentenceMeaning": "그 형상은 점토로 만들어졌다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 674,
       "text": "taint",
       "meaning": "더럽히다. 오염",
+      "sentence": "the air tainted by smoke",
+      "sentenceMeaning": "연기로 오염된 공기",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 675,
       "text": "discharge",
       "meaning": "짐을 내리다. 면제하다. 해방하다",
+      "sentence": "I was discharged from the hospital.",
+      "sentenceMeaning": "나는 퇴원했다.",
       "unit": 27
     },
     {
-      "chapter": "HSWordsA",
       "serial": 676,
       "text": "exceed",
       "meaning": "넘다. 능가하다",
+      "sentence": "The final cost should not exceed $5,000.",
+      "sentenceMeaning": "최종 비용은 5,000달러를 초과해서는 안 된다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 677,
       "text": "usher",
       "meaning": "안내하다. 안내원",
+      "sentence": "She ushered us into her office.",
+      "sentenceMeaning": "그녀는 우리를 자기 사무실로 안내했다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 678,
       "text": "owe",
       "meaning": "은혜를 입다. 빚이 있다.",
+      "sentence": "We still owe $1,000 on our car.",
+      "sentenceMeaning": "우리는 여전히 우리 차에 천 달러를 빚지고 있다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 679,
       "text": "heed",
-      "meaning": "주의하다. 주의",
+      "meaning": "주의를 기울이다.",
+      "sentence": "You should have heeded his advice.",
+      "sentenceMeaning": "너는 그의 충고를 들었어야 했다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 680,
       "text": "resemble",
       "meaning": "~을 닮다",
+      "sentence": "You resemble your mother very closely.",
+      "sentenceMeaning": "당신은 어머니를 아주 많이 닮았어요.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 681,
       "text": "compose",
       "meaning": "구성하다. (마음을) 가라앉히다.",
+      "sentence": "Prokofiev started composing at the age of five.",
+      "sentenceMeaning": "프로코피예프는 다섯 살 때 작곡을 시작했다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 682,
       "text": "refrain",
-      "meaning": "~을 그만두다. 삼가다.",
+      "meaning": "~을 자제하다. 삼가다.",
+      "sentence": "Please refrain from smoking.",
+      "sentenceMeaning": "담배는 삼가해 주세요",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 683,
       "text": "relax",
       "meaning": "늦추다. 쉬다",
+      "sentence": "A good massage will relax your tired muscles.",
+      "sentenceMeaning": "좋은 마사지는 당신의 지친 근육을 풀어줄 것이다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 684,
       "text": "subscribe",
       "meaning": "기부하다. 구독하다.",
+      "sentence": "She subscribes to several women's magazines.",
+      "sentenceMeaning": "그녀는 여러 여성 잡지를 구독한다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 685,
       "text": "interfere",
       "meaning": "간섭하다. 방해하다.",
+      "sentence": "I'd never interfere with a husband and wife.",
+      "sentenceMeaning": "나는 결코 부부에게 간섭하지 않을 것이다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 686,
       "text": "share",
       "meaning": "분배하다. 분담하다. 몫. 분담",
+      "sentence": "I share a house with four other people.",
+      "sentenceMeaning": "나는 네 명의 다른 사람들과 함께 집을 쓴다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 687,
       "text": "injure",
       "meaning": "해치다. 상처를 입히다.",
+      "sentence": "She fell and injured her shoulder.",
+      "sentenceMeaning": "그녀는 넘어져서 어깨를 다쳤다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 688,
       "text": "depend",
       "meaning": "~에 의지하다.",
+      "sentence": "It depends on the weather.",
+      "sentenceMeaning": "이 모든 것은 시험이 어떻게 구성되느냐에 달려 있다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 689,
       "text": "disperse",
       "meaning": "퍼뜨리다. 흩어지다",
+      "sentence": "The fog began to disperse.",
+      "sentenceMeaning": "안개가 흩어지기 시작했다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 690,
       "text": "remove",
       "meaning": "이사하다. 제거하다",
+      "sentence": "This detergent will remove even old stains.",
+      "sentenceMeaning": "이 세제는 오래된 얼룩도 제거할 수 있다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 691,
       "text": "realize",
       "meaning": "깨닫다. 실현하다.",
+      "sentence": "I didn’t realize you were so unhappy.",
+      "sentenceMeaning": "당신이 그렇게 불행한지 몰랐어요.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 692,
       "text": "cultivate",
       "meaning": "경작하다. 기르다. 재배하다.",
+      "sentence": "The people cultivate mainly rice and beans. ",
+      "sentenceMeaning": "사람들은 주로 쌀과 콩을 재배한다. ",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 693,
       "text": "sum",
       "meaning": "합계하다. 요약하다. 합계",
+      "sentence": "The sum of 7 and 12 is 19.",
+      "sentenceMeaning": "7과 12의 합은 19이다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 694,
       "text": "throng",
       "meaning": "떼 지어 모이다. 군중",
+      "sentence": "A huge throng had gathered around the speaker.",
+      "sentenceMeaning": "많은 군중이 연사 주위에 모여 있었다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 695,
       "text": "scatter",
       "meaning": "뿌리다. 흩어지게 하다.",
+      "sentence": "At the first gunshot, the crowd scattered.",
+      "sentenceMeaning": "첫 총성이 울리자 군중은 흩어졌다",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 696,
       "text": "modify",
       "meaning": "변경하다. 수식하다.",
+      "sentence": "The system encourages offenders to modify their behavior.",
+      "sentenceMeaning": "그 시스템은 범죄자들이 그들의 행동을 수정하도록 장려한다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 697,
       "text": "offend",
       "meaning": "화나게 하다. 범하다.",
+      "sentence": "Did I offend you?",
+      "sentenceMeaning": "나 때문에 기분 상했어요?",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 698,
       "text": "associate",
       "meaning": "교제하다. 연상하다.",
+      "sentence": "I don’t like you associating with those people.",
+      "sentenceMeaning": "나는 당신이 그런 사람들과 어울리는 것을 좋아하지 않아요.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 699,
       "text": "locate",
       "meaning": "위치하다. 위치를 알아내다",
+      "sentence": "The school is located near the river.",
+      "sentenceMeaning": "그 학교는 강 근처에 있다.",
       "unit": 28
     },
     {
-      "chapter": "HSWordsA",
       "serial": 700,
       "text": "depict",
       "meaning": "그리다. 묘사하다",
+      "sentence": "He depicts his father as a tyrant.",
+      "sentenceMeaning": "그는 아버지를 폭군으로 묘사한다.",
       "unit": 28
     }
   ]

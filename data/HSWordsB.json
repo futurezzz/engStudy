@@ -1,0 +1,4205 @@
+{
+  "items":
+  [
+    {
+      "serial": 1,
+      "text": "venture",
+      "meaning": "감히~하다. 위험을 무릅쓰고 하다",
+      "unit": 1
+    },
+    {
+      "serial": 2,
+      "text": "collect",
+      "meaning": "모으다. 수집하다",
+      "unit": 1
+    },
+    {
+      "serial": 3,
+      "text": "grumble",
+      "meaning": "불평하다",
+      "unit": 1
+    },
+    {
+      "serial": 4,
+      "text": "spoil",
+      "meaning": "망치다. 손상하다",
+      "unit": 1
+    },
+    {
+      "serial": 5,
+      "text": "mock",
+      "meaning": "비웃다. 조롱. 모의의",
+      "unit": 1
+    },
+    {
+      "serial": 6,
+      "text": "recall",
+      "meaning": "상기하다. 소환하다. 회상. 소환",
+      "unit": 1
+    },
+    {
+      "serial": 7,
+      "text": "reproduce",
+      "meaning": "재생하다. 번식하다.",
+      "unit": 1
+    },
+    {
+      "serial": 8,
+      "text": "assemble",
+      "meaning": "모이다.",
+      "unit": 1
+    },
+    {
+      "serial": 9,
+      "text": "retreat",
+      "meaning": "물러가다. 후퇴. 피난처",
+      "unit": 1
+    },
+    {
+      "serial": 10,
+      "text": "punish",
+      "meaning": "처벌하다",
+      "unit": 1
+    },
+    {
+      "serial": 11,
+      "text": "settle",
+      "meaning": "장착하다. 해결하다",
+      "unit": 1
+    },
+    {
+      "serial": 12,
+      "text": "conceive",
+      "meaning": "마음에 품다. 상상하다.",
+      "unit": 1
+    },
+    {
+      "serial": 13,
+      "text": "disclose",
+      "meaning": "드러내다. 폭로하다.",
+      "unit": 1
+    },
+    {
+      "serial": 14,
+      "text": "repair",
+      "meaning": "수리하다. 보상하다. 수리",
+      "unit": 1
+    },
+    {
+      "serial": 15,
+      "text": "repeat",
+      "meaning": "되풀이하다",
+      "unit": 1
+    },
+    {
+      "serial": 16,
+      "text": "degrade",
+      "meaning": "지위를 낮추다. 품위를 떨어뜨리다",
+      "unit": 1
+    },
+    {
+      "serial": 17,
+      "text": "amuse",
+      "meaning": "재미나게 하다",
+      "unit": 1
+    },
+    {
+      "serial": 18,
+      "text": "obtain",
+      "meaning": "얻다",
+      "unit": 1
+    },
+    {
+      "serial": 19,
+      "text": "inform",
+      "meaning": "알리다",
+      "unit": 1
+    },
+    {
+      "serial": 20,
+      "text": "curse",
+      "meaning": "저주하다. 저주",
+      "unit": 1
+    },
+    {
+      "serial": 21,
+      "text": "provide",
+      "meaning": "~을 주다. 준비하다",
+      "unit": 1
+    },
+    {
+      "serial": 22,
+      "text": "refresh",
+      "meaning": "상쾌하게 하다. 새롭게 하다",
+      "unit": 1
+    },
+    {
+      "serial": 23,
+      "text": "manage",
+      "meaning": "관리하다. 이럭저럭 ~하다",
+      "unit": 1
+    },
+    {
+      "serial": 24,
+      "text": "confess",
+      "meaning": "자백하다. 자인하다",
+      "unit": 1
+    },
+    {
+      "serial": 25,
+      "text": "demonstrate",
+      "meaning": "증명하다. 시위하다",
+      "unit": 1
+    },
+    {
+      "serial": 26,
+      "text": "profess",
+      "meaning": "공언하다. ~이라고 자칭하다",
+      "unit": 2
+    },
+    {
+      "serial": 27,
+      "text": "fade",
+      "meaning": "(색이)바래다. 시들다",
+      "unit": 2
+    },
+    {
+      "serial": 28,
+      "text": "manufacture",
+      "meaning": "제조하다. 제조, 제품",
+      "unit": 2
+    },
+    {
+      "serial": 29,
+      "text": "appeal",
+      "meaning": "호소하다. 간청하다. 호소",
+      "unit": 2
+    },
+    {
+      "serial": 30,
+      "text": "publish",
+      "meaning": "출판하다. 발표하다",
+      "unit": 2
+    },
+    {
+      "serial": 31,
+      "text": "interpret",
+      "meaning": "통역하다. 해석하다.",
+      "unit": 2
+    },
+    {
+      "serial": 32,
+      "text": "entitle",
+      "meaning": "권리를(자격을) 주다.",
+      "unit": 2
+    },
+    {
+      "serial": 33,
+      "text": "disregard",
+      "meaning": "무시하다. 경시하다. 무시",
+      "unit": 2
+    },
+    {
+      "serial": 34,
+      "text": "ascribe",
+      "meaning": "(원인을) ~으로 돌리다. ~탓으로 돌리다(to)",
+      "unit": 2
+    },
+    {
+      "serial": 35,
+      "text": "protect",
+      "meaning": "보호하다",
+      "unit": 2
+    },
+    {
+      "serial": 36,
+      "text": "accommodate",
+      "meaning": "수용하다",
+      "unit": 2
+    },
+    {
+      "serial": 37,
+      "text": "overtake",
+      "meaning": "~을 뒤따라 잡다. 덮치다",
+      "unit": 2
+    },
+    {
+      "serial": 38,
+      "text": "assist",
+      "meaning": "돕다",
+      "unit": 2
+    },
+    {
+      "serial": 39,
+      "text": "support",
+      "meaning": "지지하다. 부양하다. 지지. 부양",
+      "unit": 2
+    },
+    {
+      "serial": 40,
+      "text": "advocate",
+      "meaning": "변호하다. 주장하다.",
+      "unit": 2
+    },
+    {
+      "serial": 41,
+      "text": "attempt",
+      "meaning": "시도하다. 시도",
+      "unit": 2
+    },
+    {
+      "serial": 42,
+      "text": "partake",
+      "meaning": "~에 관여하다. 참가하다.",
+      "unit": 2
+    },
+    {
+      "serial": 43,
+      "text": "greet",
+      "meaning": "인사하다. ",
+      "unit": 2
+    },
+    {
+      "serial": 44,
+      "text": "suggest",
+      "meaning": "암시하다. 제안하다.",
+      "unit": 2
+    },
+    {
+      "serial": 45,
+      "text": "waste",
+      "meaning": "낭비하다. 황폐한",
+      "unit": 2
+    },
+    {
+      "serial": 46,
+      "text": "reap",
+      "meaning": "베다. 수확하다.",
+      "unit": 2
+    },
+    {
+      "serial": 47,
+      "text": "dissolve",
+      "meaning": "~을 녹이다. 해산하다.",
+      "unit": 2
+    },
+    {
+      "serial": 48,
+      "text": "oblige",
+      "meaning": "의무적으로 ~하게 하다. 은혜를 베풀다",
+      "unit": 2
+    },
+    {
+      "serial": 49,
+      "text": "decline",
+      "meaning": "거절하다. 쇠퇴하다. 기울다. 경사. 쇠퇴",
+      "unit": 2
+    },
+    {
+      "serial": 50,
+      "text": "accustom",
+      "meaning": "익히다. 습관을 붙이다.",
+      "unit": 2
+    },
+    {
+      "serial": 51,
+      "text": "defeat",
+      "meaning": "패배시키다. ~에 이기다. 패배",
+      "unit": 3
+    },
+    {
+      "serial": 52,
+      "text": "tempt",
+      "meaning": "유혹하다",
+      "unit": 3
+    },
+    {
+      "serial": 53,
+      "text": "exempt",
+      "meaning": "면제하다. 면제된",
+      "unit": 3
+    },
+    {
+      "serial": 54,
+      "text": "induce",
+      "meaning": "권유하다. 설득하여 ~시키다.",
+      "unit": 3
+    },
+    {
+      "serial": 55,
+      "text": "oppress",
+      "meaning": "압박하다",
+      "unit": 3
+    },
+    {
+      "serial": 56,
+      "text": "acquaint",
+      "meaning": "알리다.",
+      "unit": 3
+    },
+    {
+      "serial": 57,
+      "text": "impoverish",
+      "meaning": "가난하게 하다. 쇠약하게 되다",
+      "unit": 3
+    },
+    {
+      "serial": 58,
+      "text": "resent",
+      "meaning": "분개하다",
+      "unit": 3
+    },
+    {
+      "serial": 59,
+      "text": "abuse",
+      "meaning": "남용하다. 학대하다",
+      "unit": 3
+    },
+    {
+      "serial": 60,
+      "text": "bother",
+      "meaning": "괴롭히다. 걱정하다",
+      "unit": 3
+    },
+    {
+      "serial": 61,
+      "text": "shrink",
+      "meaning": "줄다. 오그라들다",
+      "unit": 3
+    },
+    {
+      "serial": 62,
+      "text": "compel",
+      "meaning": "억지로 ~시키다.",
+      "unit": 3
+    },
+    {
+      "serial": 63,
+      "text": "deliver",
+      "meaning": "배달하다. 연설하다. 아이를 낳다",
+      "unit": 3
+    },
+    {
+      "serial": 64,
+      "text": "register",
+      "meaning": "등록하다. 가리키다",
+      "unit": 3
+    },
+    {
+      "serial": 65,
+      "text": "coincide",
+      "meaning": "일치하다. 부합하다",
+      "unit": 3
+    },
+    {
+      "serial": 66,
+      "text": "complicate",
+      "meaning": "복잡하게 하다",
+      "unit": 3
+    },
+    {
+      "serial": 67,
+      "text": "astound",
+      "meaning": "깜짝 놀라게 하다",
+      "unit": 3
+    },
+    {
+      "serial": 68,
+      "text": "discern",
+      "meaning": "분간하다. 식별하다",
+      "unit": 3
+    },
+    {
+      "serial": 69,
+      "text": "dispute",
+      "meaning": "논쟁하다. 논쟁",
+      "unit": 3
+    },
+    {
+      "serial": 70,
+      "text": "remark",
+      "meaning": "말하다. 주목하다. 말. 주목",
+      "unit": 3
+    },
+    {
+      "serial": 71,
+      "text": "supplement",
+      "meaning": "보충하다. 보충",
+      "unit": 3
+    },
+    {
+      "serial": 72,
+      "text": "debate",
+      "meaning": "논쟁. 논쟁하다",
+      "unit": 3
+    },
+    {
+      "serial": 73,
+      "text": "humiliate",
+      "meaning": "창피를 주다. 모욕하다",
+      "unit": 3
+    },
+    {
+      "serial": 74,
+      "text": "contend",
+      "meaning": "다투다. 논쟁하다",
+      "unit": 3
+    },
+    {
+      "serial": 75,
+      "text": "explode",
+      "meaning": "폭발하다",
+      "unit": 3
+    },
+    {
+      "serial": 76,
+      "text": "narrate",
+      "meaning": "이야기하다. 서술하다",
+      "unit": 4
+    },
+    {
+      "serial": 77,
+      "text": "administer",
+      "meaning": "관리하다. 시행하다. 경영하다",
+      "unit": 4
+    },
+    {
+      "serial": 78,
+      "text": "haunt",
+      "meaning": "귀신이 나타나다. 뇌리에서 떠나지 않다.",
+      "unit": 4
+    },
+    {
+      "serial": 79,
+      "text": "dispense",
+      "meaning": "나눠주다. ~없이 지내다",
+      "unit": 4
+    },
+    {
+      "serial": 80,
+      "text": "differ",
+      "meaning": "다르다",
+      "unit": 4
+    },
+    {
+      "serial": 81,
+      "text": "eliminate",
+      "meaning": "제거하다",
+      "unit": 4
+    },
+    {
+      "serial": 82,
+      "text": "dwell",
+      "meaning": "살다. 거주하다",
+      "unit": 4
+    },
+    {
+      "serial": 83,
+      "text": "assume",
+      "meaning": "~인 체하다. 생각하다. 가정하다. 떠맡다",
+      "unit": 4
+    },
+    {
+      "serial": 84,
+      "text": "apprehend",
+      "meaning": "염려하다. 체포하다. 이해하다",
+      "unit": 4
+    },
+    {
+      "serial": 85,
+      "text": "capture",
+      "meaning": "사로잡다. 포획",
+      "unit": 4
+    },
+    {
+      "serial": 86,
+      "text": "rear",
+      "meaning": "기르다. 세우다. ",
+      "unit": 4
+    },
+    {
+      "serial": 87,
+      "text": "stare",
+      "meaning": "뚫어지게 보다",
+      "unit": 4
+    },
+    {
+      "serial": 88,
+      "text": "confer",
+      "meaning": "수여하다. 의논하다. 참조하다",
+      "unit": 4
+    },
+    {
+      "serial": 89,
+      "text": "discard",
+      "meaning": "버리다",
+      "unit": 4
+    },
+    {
+      "serial": 90,
+      "text": "negotiate",
+      "meaning": "교섭하다",
+      "unit": 4
+    },
+    {
+      "serial": 91,
+      "text": "anticipate",
+      "meaning": "예상하다",
+      "unit": 4
+    },
+    {
+      "serial": 92,
+      "text": "contrive",
+      "meaning": "연구해내다. 고안하다. 꾸미다",
+      "unit": 4
+    },
+    {
+      "serial": 93,
+      "text": "consent",
+      "meaning": "동의하다. 승낙하다. 동의. 승낙",
+      "unit": 4
+    },
+    {
+      "serial": 94,
+      "text": "defy",
+      "meaning": "도전하다. 무시하다",
+      "unit": 4
+    },
+    {
+      "serial": 95,
+      "text": "beware",
+      "meaning": "조심하다 (~of)",
+      "unit": 4
+    },
+    {
+      "serial": 96,
+      "text": "summon",
+      "meaning": "소환하다. (용기를) 내다",
+      "unit": 4
+    },
+    {
+      "serial": 97,
+      "text": "thrive",
+      "meaning": "번영하다. 무성하다",
+      "unit": 4
+    },
+    {
+      "serial": 98,
+      "text": "subdue",
+      "meaning": "진입하다. 완화하다",
+      "unit": 4
+    },
+    {
+      "serial": 99,
+      "text": "bloom",
+      "meaning": "꽃이피다. 꽃",
+      "unit": 4
+    },
+    {
+      "serial": 100,
+      "text": "discriminate",
+      "meaning": "차별하다. 구별하다",
+      "unit": 4
+    },
+    {
+      "serial": 101,
+      "text": "sustain",
+      "meaning": "떠받치다. 부양하다. 견디다",
+      "unit": 5
+    },
+    {
+      "serial": 102,
+      "text": "enforce",
+      "meaning": "실시하다. 강제하다. 단속하다",
+      "unit": 5
+    },
+    {
+      "serial": 103,
+      "text": "transact",
+      "meaning": "처리하다. 거래하다",
+      "unit": 5
+    },
+    {
+      "serial": 104,
+      "text": "cling",
+      "meaning": "꼭 붙잡다. 매달리다. 달라붙다",
+      "unit": 5
+    },
+    {
+      "serial": 105,
+      "text": "entrust",
+      "meaning": "위임하다",
+      "unit": 5
+    },
+    {
+      "serial": 106,
+      "text": "adhere",
+      "meaning": "들러붙다. 부착되다",
+      "unit": 5
+    },
+    {
+      "serial": 107,
+      "text": "transmit",
+      "meaning": "보내다. 전달하다",
+      "unit": 5
+    },
+    {
+      "serial": 108,
+      "text": "infect",
+      "meaning": "전염시키다",
+      "unit": 5
+    },
+    {
+      "serial": 109,
+      "text": "wrap",
+      "meaning": "싸다. 포장하다.",
+      "unit": 5
+    },
+    {
+      "serial": 110,
+      "text": "inflict",
+      "meaning": "(형벌, 고통, 손해를)주다",
+      "unit": 5
+    },
+    {
+      "serial": 111,
+      "text": "undergo",
+      "meaning": "(수술, 시험을)받다. 당하다. 겪다",
+      "unit": 5
+    },
+    {
+      "serial": 112,
+      "text": "withstand",
+      "meaning": "저항하다",
+      "unit": 5
+    },
+    {
+      "serial": 113,
+      "text": "withhold",
+      "meaning": "보류하다. 억제하다",
+      "unit": 5
+    },
+    {
+      "serial": 114,
+      "text": "adorn",
+      "meaning": "장식하다. 치장하다",
+      "unit": 5
+    },
+    {
+      "serial": 115,
+      "text": "accumulate",
+      "meaning": "쌓아 올리다. 축적하다",
+      "unit": 5
+    },
+    {
+      "serial": 116,
+      "text": "behold",
+      "meaning": "(바라)보다",
+      "unit": 5
+    },
+    {
+      "serial": 117,
+      "text": "provoke",
+      "meaning": "화나게하다. 도발하다",
+      "unit": 5
+    },
+    {
+      "serial": 118,
+      "text": "intoxicate",
+      "meaning": "취하게하다",
+      "unit": 5
+    },
+    {
+      "serial": 119,
+      "text": "rebuke",
+      "meaning": "비난하다. 비난",
+      "unit": 5
+    },
+    {
+      "serial": 120,
+      "text": "confirm",
+      "meaning": "확인하다",
+      "unit": 5
+    },
+    {
+      "serial": 121,
+      "text": "conform",
+      "meaning": "일치하다. 일치시키다",
+      "unit": 5
+    },
+    {
+      "serial": 122,
+      "text": "aspire",
+      "meaning": "열망하다",
+      "unit": 5
+    },
+    {
+      "serial": 123,
+      "text": "detach",
+      "meaning": "떼어놓다. 파견하다",
+      "unit": 5
+    },
+    {
+      "serial": 124,
+      "text": "rebel",
+      "meaning": "반역하다. 반항하다. 반역자",
+      "unit": 5
+    },
+    {
+      "serial": 125,
+      "text": "trim",
+      "meaning": "정돈하다. 손질하다",
+      "unit": 5
+    },
+    {
+      "serial": 126,
+      "text": "repel",
+      "meaning": "쫓아버리다. 불쾌감을 주다",
+      "unit": 6
+    },
+    {
+      "serial": 127,
+      "text": "lurk",
+      "meaning": "숨어있다",
+      "unit": 6
+    },
+    {
+      "serial": 128,
+      "text": "annihilate",
+      "meaning": "전멸시키다",
+      "unit": 6
+    },
+    {
+      "serial": 129,
+      "text": "allude",
+      "meaning": "언급하다. 암시하다",
+      "unit": 6
+    },
+    {
+      "serial": 130,
+      "text": "sting",
+      "meaning": "찌르다. (동물의)침, 고통",
+      "unit": 6
+    },
+    {
+      "serial": 131,
+      "text": "allure",
+      "meaning": "유혹하다",
+      "unit": 6
+    },
+    {
+      "serial": 132,
+      "text": "replace",
+      "meaning": "~을 대신하다. 제자리에두다",
+      "unit": 6
+    },
+    {
+      "serial": 133,
+      "text": "console",
+      "meaning": "위로하다",
+      "unit": 6
+    },
+    {
+      "serial": 134,
+      "text": "surmount",
+      "meaning": "극복하다",
+      "unit": 6
+    },
+    {
+      "serial": 135,
+      "text": "treat",
+      "meaning": "다루다. 대접하다. 대접",
+      "unit": 6
+    },
+    {
+      "serial": 136,
+      "text": "swell",
+      "meaning": "부풀다. 부풀기",
+      "unit": 6
+    },
+    {
+      "serial": 137,
+      "text": "sneer",
+      "meaning": "비웃다. 냉소하다",
+      "unit": 6
+    },
+    {
+      "serial": 138,
+      "text": "befall",
+      "meaning": "일어나다. (일이)닥치다",
+      "unit": 6
+    },
+    {
+      "serial": 139,
+      "text": "subside",
+      "meaning": "(비.바람이) 가라앉다. 진정되다",
+      "unit": 6
+    },
+    {
+      "serial": 140,
+      "text": "seize",
+      "meaning": "붙잡다",
+      "unit": 6
+    },
+    {
+      "serial": 141,
+      "text": "abandon",
+      "meaning": "버리다. 버리고 떠나다",
+      "unit": 6
+    },
+    {
+      "serial": 142,
+      "text": "deal",
+      "meaning": "분배하다. 거래하다",
+      "unit": 6
+    },
+    {
+      "serial": 143,
+      "text": "steer",
+      "meaning": "조종하다. 나아가다",
+      "unit": 6
+    },
+    {
+      "serial": 144,
+      "text": "depress",
+      "meaning": "낙담시키다. 우울하게하다",
+      "unit": 6
+    },
+    {
+      "serial": 145,
+      "text": "inhabit",
+      "meaning": "~에 살다. 거주하다",
+      "unit": 6
+    },
+    {
+      "serial": 146,
+      "text": "grant",
+      "meaning": "허락하다. 주다. 인정하다",
+      "unit": 6
+    },
+    {
+      "serial": 147,
+      "text": "attract",
+      "meaning": "마음을 끌다. 끌어들이다",
+      "unit": 6
+    },
+    {
+      "serial": 148,
+      "text": "introduce",
+      "meaning": "소개하다. 도입하다",
+      "unit": 6
+    },
+    {
+      "serial": 149,
+      "text": "portray",
+      "meaning": "그리다. 나타내다. 묘사하다",
+      "unit": 6
+    },
+    {
+      "serial": 150,
+      "text": "guarantee",
+      "meaning": "보증하다",
+      "unit": 6
+    },
+    {
+      "serial": 151,
+      "text": "regulate",
+      "meaning": "규정하다. 조절하다",
+      "unit": 7
+    },
+    {
+      "serial": 152,
+      "text": "presume",
+      "meaning": "상상하다. 생각하다",
+      "unit": 7
+    },
+    {
+      "serial": 153,
+      "text": "resume",
+      "meaning": "다시 시작하다",
+      "unit": 7
+    },
+    {
+      "serial": 154,
+      "text": "neglect",
+      "meaning": "게을리하다. 무시하다. 방치하다",
+      "unit": 7
+    },
+    {
+      "serial": 155,
+      "text": "delay",
+      "meaning": "연기하다. 지체하다. 연기. 지체",
+      "unit": 7
+    },
+    {
+      "serial": 156,
+      "text": "assent",
+      "meaning": "동의하다. 동의",
+      "unit": 7
+    },
+    {
+      "serial": 157,
+      "text": "dissent",
+      "meaning": "의견을 달리하다. 불찬성",
+      "unit": 7
+    },
+    {
+      "serial": 158,
+      "text": "plead",
+      "meaning": "변호하다. 탄원하다. 애원하다.",
+      "unit": 7
+    },
+    {
+      "serial": 159,
+      "text": "reserve",
+      "meaning": "비축하다. 예약하다.",
+      "unit": 7
+    },
+    {
+      "serial": 160,
+      "text": "dictate",
+      "meaning": "받아쓰게 하다. 지시하다.",
+      "unit": 7
+    },
+    {
+      "serial": 161,
+      "text": "award",
+      "meaning": "(심사하여)주다. 수여하다. 상. 판정",
+      "unit": 7
+    },
+    {
+      "serial": 162,
+      "text": "multiply",
+      "meaning": "증가하다. (수를)곱하다",
+      "unit": 7
+    },
+    {
+      "serial": 163,
+      "text": "spare",
+      "meaning": "절약하다. 아끼다. 예비의",
+      "unit": 7
+    },
+    {
+      "serial": 164,
+      "text": "grudge",
+      "meaning": "아까워하다. ~하기를 싫어하다.",
+      "unit": 7
+    },
+    {
+      "serial": 165,
+      "text": "execute",
+      "meaning": "실행하다. 사형시키다. 처형하다",
+      "unit": 7
+    },
+    {
+      "serial": 166,
+      "text": "imprison",
+      "meaning": "~을 감옥에 넣다. 투옥하다.",
+      "unit": 7
+    },
+    {
+      "serial": 167,
+      "text": "proceed",
+      "meaning": "나아가다. 진행하다. 계속하다.",
+      "unit": 7
+    },
+    {
+      "serial": 168,
+      "text": "recede",
+      "meaning": "물러나다. 약해지다. 희미해지다",
+      "unit": 7
+    },
+    {
+      "serial": 169,
+      "text": "ponder",
+      "meaning": "~을 깊이 생각하다",
+      "unit": 7
+    },
+    {
+      "serial": 170,
+      "text": "scratch",
+      "meaning": "할퀴다. 긁다",
+      "unit": 7
+    },
+    {
+      "serial": 171,
+      "text": "embrace",
+      "meaning": "~을 껴안다. 포옹하다",
+      "unit": 7
+    },
+    {
+      "serial": 172,
+      "text": "reckon",
+      "meaning": "계산하다. ~라고 생각하다",
+      "unit": 7
+    },
+    {
+      "serial": 173,
+      "text": "throb",
+      "meaning": "(심장이)뛰다. 두근거리다. 맥박",
+      "unit": 7
+    },
+    {
+      "serial": 174,
+      "text": "suppress",
+      "meaning": "억압하다. (사실을) 감추다",
+      "unit": 7
+    },
+    {
+      "serial": 175,
+      "text": "preoccupy",
+      "meaning": "마음을 빼앗다. 먼저 차지하다",
+      "unit": 7
+    },
+    {
+      "serial": 176,
+      "text": "salute",
+      "meaning": "인사하다. 경례하다. 인사. 경례",
+      "unit": 8
+    },
+    {
+      "serial": 177,
+      "text": "revise",
+      "meaning": "개정하다",
+      "unit": 8
+    },
+    {
+      "serial": 178,
+      "text": "lessen",
+      "meaning": "적어지다. 적게하다",
+      "unit": 8
+    },
+    {
+      "serial": 179,
+      "text": "muse",
+      "meaning": "명상하다. 곰곰히 생각하다",
+      "unit": 8
+    },
+    {
+      "serial": 180,
+      "text": "bid",
+      "meaning": "명령하다. 말하다",
+      "unit": 8
+    },
+    {
+      "serial": 181,
+      "text": "concede",
+      "meaning": "양보하다. 인정하다",
+      "unit": 8
+    },
+    {
+      "serial": 182,
+      "text": "lade",
+      "meaning": "(짐을) 싣다",
+      "unit": 8
+    },
+    {
+      "serial": 183,
+      "text": "deplore",
+      "meaning": "한탄하다",
+      "unit": 8
+    },
+    {
+      "serial": 184,
+      "text": "precede",
+      "meaning": "~에 앞서다. 능가하다",
+      "unit": 8
+    },
+    {
+      "serial": 185,
+      "text": "banish",
+      "meaning": "추방하다. 사라지게 만들다",
+      "unit": 8
+    },
+    {
+      "serial": 186,
+      "text": "stifle",
+      "meaning": "숨막히게 하다. 억누르다",
+      "unit": 8
+    },
+    {
+      "serial": 187,
+      "text": "abound",
+      "meaning": "풍부하다",
+      "unit": 8
+    },
+    {
+      "serial": 188,
+      "text": "deposit",
+      "meaning": "맡기다. 예금",
+      "unit": 8
+    },
+    {
+      "serial": 189,
+      "text": "withdraw",
+      "meaning": "물러나다. 탈퇴하다",
+      "unit": 8
+    },
+    {
+      "serial": 190,
+      "text": "retain",
+      "meaning": "보유하다. 간직하다",
+      "unit": 8
+    },
+    {
+      "serial": 191,
+      "text": "sob",
+      "meaning": "흐느껴 울다",
+      "unit": 8
+    },
+    {
+      "serial": 192,
+      "text": "reprove",
+      "meaning": "비난하다. 꾸짖다",
+      "unit": 8
+    },
+    {
+      "serial": 193,
+      "text": "ally",
+      "meaning": "동맹하다. 동맹자",
+      "unit": 8
+    },
+    {
+      "serial": 194,
+      "text": "renounce",
+      "meaning": "포기하다. 버리다",
+      "unit": 8
+    },
+    {
+      "serial": 195,
+      "text": "allot",
+      "meaning": "(돈. 업무)할당하다",
+      "unit": 8
+    },
+    {
+      "serial": 196,
+      "text": "assign",
+      "meaning": "(일.책임)맡기다. 선임하다",
+      "unit": 8
+    },
+    {
+      "serial": 197,
+      "text": "vow",
+      "meaning": "맹세하다. 맹세",
+      "unit": 8
+    },
+    {
+      "serial": 198,
+      "text": "vouch",
+      "meaning": "보증하다",
+      "unit": 8
+    },
+    {
+      "serial": 199,
+      "text": "carve",
+      "meaning": "조각하다",
+      "unit": 8
+    },
+    {
+      "serial": 200,
+      "text": "verify",
+      "meaning": "증명하다. 확인하다",
+      "unit": 8
+    },
+    {
+      "serial": 201,
+      "text": "avenge",
+      "meaning": "복수하다",
+      "unit": 9
+    },
+    {
+      "serial": 202,
+      "text": "beckon",
+      "meaning": "(손짓 따위로)부르다. 신호하다.",
+      "unit": 9
+    },
+    {
+      "serial": 203,
+      "text": "collapse",
+      "meaning": "붕괴하다. 붕괴",
+      "unit": 9
+    },
+    {
+      "serial": 204,
+      "text": "mar",
+      "meaning": "상하게 하다",
+      "unit": 9
+    },
+    {
+      "serial": 205,
+      "text": "kneel",
+      "meaning": "무릎꿇다. 굴복하다",
+      "unit": 9
+    },
+    {
+      "serial": 206,
+      "text": "pant",
+      "meaning": "헐떡이다. 갈망하다(~for)",
+      "unit": 9
+    },
+    {
+      "serial": 207,
+      "text": "warrant",
+      "meaning": "보증하다. 보증",
+      "unit": 9
+    },
+    {
+      "serial": 208,
+      "text": "kindle",
+      "meaning": "불을 붙이다",
+      "unit": 9
+    },
+    {
+      "serial": 209,
+      "text": "uphold",
+      "meaning": "받들다. 유지시키다",
+      "unit": 9
+    },
+    {
+      "serial": 210,
+      "text": "prescribe",
+      "meaning": "규정하다. 처방하다",
+      "unit": 9
+    },
+    {
+      "serial": 211,
+      "text": "accompany",
+      "meaning": "동반하다. (음악)반주하다",
+      "unit": 9
+    },
+    {
+      "serial": 212,
+      "text": "abide",
+      "meaning": "살다. 머무르다",
+      "unit": 9
+    },
+    {
+      "serial": 213,
+      "text": "divide",
+      "meaning": "나누다. 분할하다",
+      "unit": 9
+    },
+    {
+      "serial": 214,
+      "text": "paralyze",
+      "meaning": "마비시키다",
+      "unit": 9
+    },
+    {
+      "serial": 215,
+      "text": "contain",
+      "meaning": "포함하다",
+      "unit": 9
+    },
+    {
+      "serial": 216,
+      "text": "endow",
+      "meaning": "기부하다. 주다",
+      "unit": 9
+    },
+    {
+      "serial": 217,
+      "text": "guard",
+      "meaning": "지키다. 조심하다. 경계. 수위",
+      "unit": 9
+    },
+    {
+      "serial": 218,
+      "text": "ordain",
+      "meaning": "명령하다. 운명지우다",
+      "unit": 9
+    },
+    {
+      "serial": 219,
+      "text": "crash",
+      "meaning": "와르르 무너지다. 충돌하다",
+      "unit": 9
+    },
+    {
+      "serial": 220,
+      "text": "burst",
+      "meaning": "폭발하다. 파열하다",
+      "unit": 9
+    },
+    {
+      "serial": 221,
+      "text": "lure",
+      "meaning": "유혹하다. 유혹. 미끼",
+      "unit": 9
+    },
+    {
+      "serial": 222,
+      "text": "implore",
+      "meaning": "애원하다. 탄원하다",
+      "unit": 9
+    },
+    {
+      "serial": 223,
+      "text": "stroll",
+      "meaning": "한가롭게 거닐다. 산책",
+      "unit": 9
+    },
+    {
+      "serial": 224,
+      "text": "stoop",
+      "meaning": "(몸을)구부리다. 구부린 자세",
+      "unit": 9
+    },
+    {
+      "serial": 225,
+      "text": "disdain",
+      "meaning": "경멸하다. 경멸",
+      "unit": 9
+    },
+    {
+      "serial": 226,
+      "text": "retort",
+      "meaning": "말대꾸하다. 쏘아붙이다. 대꾸. 응수",
+      "unit": 10
+    },
+    {
+      "serial": 227,
+      "text": "education",
+      "meaning": "교육",
+      "unit": 10
+    },
+    {
+      "serial": 228,
+      "text": "conduct",
+      "meaning": "행위. 지도",
+      "unit": 10
+    },
+    {
+      "serial": 229,
+      "text": "prey",
+      "meaning": "먹이. 희생",
+      "unit": 10
+    },
+    {
+      "serial": 230,
+      "text": "landscape",
+      "meaning": "풍경. 경치",
+      "unit": 10
+    },
+    {
+      "serial": 231,
+      "text": "ancestor",
+      "meaning": "조상. 선조",
+      "unit": 10
+    },
+    {
+      "serial": 232,
+      "text": "offspring",
+      "meaning": "자손",
+      "unit": 10
+    },
+    {
+      "serial": 233,
+      "text": "growth",
+      "meaning": "성장. 발전",
+      "unit": 10
+    },
+    {
+      "serial": 234,
+      "text": "orbit",
+      "meaning": "(천체의)궤도",
+      "unit": 10
+    },
+    {
+      "serial": 235,
+      "text": "channel",
+      "meaning": "채널. 주파수대. 경로. 해협",
+      "unit": 10
+    },
+    {
+      "serial": 236,
+      "text": "justice",
+      "meaning": "정의. 공정",
+      "unit": 10
+    },
+    {
+      "serial": 237,
+      "text": "theme",
+      "meaning": "주제. 제목",
+      "unit": 10
+    },
+    {
+      "serial": 238,
+      "text": "routine",
+      "meaning": "일상적인 일. 틀에 박힌",
+      "unit": 10
+    },
+    {
+      "serial": 239,
+      "text": "protest",
+      "meaning": "항의. 주장",
+      "unit": 10
+    },
+    {
+      "serial": 240,
+      "text": "tendency",
+      "meaning": "경향",
+      "unit": 10
+    },
+    {
+      "serial": 241,
+      "text": "prophecy",
+      "meaning": "예언",
+      "unit": 10
+    },
+    {
+      "serial": 242,
+      "text": "role",
+      "meaning": "역할",
+      "unit": 10
+    },
+    {
+      "serial": 243,
+      "text": "origin",
+      "meaning": "기원. 태생",
+      "unit": 10
+    },
+    {
+      "serial": 244,
+      "text": "process",
+      "meaning": "경과. 과정",
+      "unit": 10
+    },
+    {
+      "serial": 245,
+      "text": "agriculture",
+      "meaning": "농업",
+      "unit": 10
+    },
+    {
+      "serial": 246,
+      "text": "skyscraper",
+      "meaning": "고층건물",
+      "unit": 10
+    },
+    {
+      "serial": 247,
+      "text": "nuisance",
+      "meaning": "성가신 것. 불법방해",
+      "unit": 10
+    },
+    {
+      "serial": 248,
+      "text": "vote",
+      "meaning": "투표하다. 투표",
+      "unit": 10
+    },
+    {
+      "serial": 249,
+      "text": "spur",
+      "meaning": "박차를 가하다. 자극",
+      "unit": 10
+    },
+    {
+      "serial": 250,
+      "text": "average",
+      "meaning": "평균의. 평균하다",
+      "unit": 10
+    },
+    {
+      "serial": 251,
+      "text": "category",
+      "meaning": "범주",
+      "unit": 11
+    },
+    {
+      "serial": 252,
+      "text": "doom",
+      "meaning": "운명. 파멸. 운명 짓다",
+      "unit": 11
+    },
+    {
+      "serial": 253,
+      "text": "utility",
+      "meaning": "유익. 효용",
+      "unit": 11
+    },
+    {
+      "serial": 254,
+      "text": "slavery",
+      "meaning": "노예제도",
+      "unit": 11
+    },
+    {
+      "serial": 255,
+      "text": "antipathy",
+      "meaning": "반감",
+      "unit": 11
+    },
+    {
+      "serial": 256,
+      "text": "caution",
+      "meaning": "조심. 경고",
+      "unit": 11
+    },
+    {
+      "serial": 257,
+      "text": "reaction",
+      "meaning": "반동. 반응",
+      "unit": 11
+    },
+    {
+      "serial": 258,
+      "text": "atmosphere",
+      "meaning": "분위기. 대기",
+      "unit": 11
+    },
+    {
+      "serial": 259,
+      "text": "satellite",
+      "meaning": "위성. 위성의",
+      "unit": 11
+    },
+    {
+      "serial": 260,
+      "text": "tumult",
+      "meaning": "소동",
+      "unit": 11
+    },
+    {
+      "serial": 261,
+      "text": "sage",
+      "meaning": "헌인. 성인",
+      "unit": 11
+    },
+    {
+      "serial": 262,
+      "text": "excess",
+      "meaning": "초과. 과잉",
+      "unit": 11
+    },
+    {
+      "serial": 263,
+      "text": "architecture",
+      "meaning": "건축. 건축술",
+      "unit": 11
+    },
+    {
+      "serial": 264,
+      "text": "prose",
+      "meaning": "산문(체)",
+      "unit": 11
+    },
+    {
+      "serial": 265,
+      "text": "temperature",
+      "meaning": "온도",
+      "unit": 11
+    },
+    {
+      "serial": 266,
+      "text": "purchase",
+      "meaning": "구입물. 획득. 구입하다",
+      "unit": 11
+    },
+    {
+      "serial": 267,
+      "text": "posterity",
+      "meaning": "자손. 후세사람들",
+      "unit": 11
+    },
+    {
+      "serial": 268,
+      "text": "heir",
+      "meaning": "상속인. 후계자",
+      "unit": 11
+    },
+    {
+      "serial": 269,
+      "text": "applause",
+      "meaning": "박수갈채. 칭찬",
+      "unit": 11
+    },
+    {
+      "serial": 270,
+      "text": "usage",
+      "meaning": "용법. 어법",
+      "unit": 11
+    },
+    {
+      "serial": 271,
+      "text": "witness",
+      "meaning": "증거. 증인. 목격. 증언하다. 목격하다",
+      "unit": 11
+    },
+    {
+      "serial": 272,
+      "text": "anarchy",
+      "meaning": "무정부 상태",
+      "unit": 11
+    },
+    {
+      "serial": 273,
+      "text": "sculpture",
+      "meaning": "조각. 조각하다",
+      "unit": 11
+    },
+    {
+      "serial": 274,
+      "text": "notion",
+      "meaning": "생각. 개념",
+      "unit": 11
+    },
+    {
+      "serial": 275,
+      "text": "diplomacy",
+      "meaning": "외교",
+      "unit": 11
+    },
+    {
+      "serial": 276,
+      "text": "decade",
+      "meaning": "10년",
+      "unit": 12
+    },
+    {
+      "serial": 277,
+      "text": "thermometer",
+      "meaning": "온도계",
+      "unit": 12
+    },
+    {
+      "serial": 278,
+      "text": "institution",
+      "meaning": "제도. 협회",
+      "unit": 12
+    },
+    {
+      "serial": 279,
+      "text": "exertion",
+      "meaning": "노력",
+      "unit": 12
+    },
+    {
+      "serial": 280,
+      "text": "feature",
+      "meaning": "특징. 용모. 특징을 이루다",
+      "unit": 12
+    },
+    {
+      "serial": 281,
+      "text": "disguise",
+      "meaning": "변장하다. 변장",
+      "unit": 12
+    },
+    {
+      "serial": 282,
+      "text": "congress",
+      "meaning": "회의",
+      "unit": 12
+    },
+    {
+      "serial": 283,
+      "text": "germ",
+      "meaning": "세균",
+      "unit": 12
+    },
+    {
+      "serial": 284,
+      "text": "algebra",
+      "meaning": "대수학",
+      "unit": 12
+    },
+    {
+      "serial": 285,
+      "text": "geometry",
+      "meaning": "기하학",
+      "unit": 12
+    },
+    {
+      "serial": 286,
+      "text": "scrutiny",
+      "meaning": "면밀한 조사. 음미",
+      "unit": 12
+    },
+    {
+      "serial": 287,
+      "text": "sojourn",
+      "meaning": "체류. 묵다. 체류하다",
+      "unit": 12
+    },
+    {
+      "serial": 288,
+      "text": "expedition",
+      "meaning": "탐험. 탐험대",
+      "unit": 12
+    },
+    {
+      "serial": 289,
+      "text": "definition",
+      "meaning": "정의. 정의하다. 명확히 하다",
+      "unit": 12
+    },
+    {
+      "serial": 290,
+      "text": "conflict",
+      "meaning": "투쟁. 충돌하다",
+      "unit": 12
+    },
+    {
+      "serial": 291,
+      "text": "disaster",
+      "meaning": "재해. 불행",
+      "unit": 12
+    },
+    {
+      "serial": 292,
+      "text": "focus",
+      "meaning": "초점",
+      "unit": 12
+    },
+    {
+      "serial": 293,
+      "text": "budget",
+      "meaning": "예산",
+      "unit": 12
+    },
+    {
+      "serial": 294,
+      "text": "intercourse",
+      "meaning": "교제하다. 연상하다.",
+      "unit": 12
+    },
+    {
+      "serial": 295,
+      "text": "ceremony",
+      "meaning": "의식. 의례",
+      "unit": 12
+    },
+    {
+      "serial": 296,
+      "text": "regret",
+      "meaning": "후회. 후회하다",
+      "unit": 12
+    },
+    {
+      "serial": 297,
+      "text": "enterprise",
+      "meaning": "기업. 전취적 기상",
+      "unit": 12
+    },
+    {
+      "serial": 298,
+      "text": "tragedy",
+      "meaning": "비극",
+      "unit": 12
+    },
+    {
+      "serial": 299,
+      "text": "miser",
+      "meaning": "구두쇠",
+      "unit": 12
+    },
+    {
+      "serial": 300,
+      "text": "muscle",
+      "meaning": "근육",
+      "unit": 12
+    },
+    {
+      "serial": 301,
+      "text": "unemployment",
+      "meaning": "실업",
+      "unit": 13
+    },
+    {
+      "serial": 302,
+      "text": "arithmetic",
+      "meaning": "산수, 셈",
+      "unit": 13
+    },
+    {
+      "serial": 303,
+      "text": "skill",
+      "meaning": "숙련",
+      "unit": 13
+    },
+    {
+      "serial": 304,
+      "text": "instrument",
+      "meaning": "기구, 수단",
+      "unit": 13
+    },
+    {
+      "serial": 305,
+      "text": "equator",
+      "meaning": "적도",
+      "unit": 13
+    },
+    {
+      "serial": 306,
+      "text": "structure",
+      "meaning": "구조, 구조물",
+      "unit": 13
+    },
+    {
+      "serial": 307,
+      "text": "mode",
+      "meaning": "방법, 양식",
+      "unit": 13
+    },
+    {
+      "serial": 308,
+      "text": "aristocracy",
+      "meaning": "귀족",
+      "unit": 13
+    },
+    {
+      "serial": 309,
+      "text": "zeal",
+      "meaning": "열심",
+      "unit": 13
+    },
+    {
+      "serial": 310,
+      "text": "trial",
+      "meaning": "시도, 시련, 재판",
+      "unit": 13
+    },
+    {
+      "serial": 311,
+      "text": "burden",
+      "meaning": "무거운 짐, 부담",
+      "unit": 13
+    },
+    {
+      "serial": 312,
+      "text": "tribe",
+      "meaning": "종족",
+      "unit": 13
+    },
+    {
+      "serial": 313,
+      "text": "realm",
+      "meaning": "영지, 왕국",
+      "unit": 13
+    },
+    {
+      "serial": 314,
+      "text": "fright",
+      "meaning": "놀람",
+      "unit": 13
+    },
+    {
+      "serial": 315,
+      "text": "intelligence",
+      "meaning": "지능, 지성",
+      "unit": 13
+    },
+    {
+      "serial": 316,
+      "text": "frame",
+      "meaning": "구조, 틀",
+      "unit": 13
+    },
+    {
+      "serial": 317,
+      "text": "hobby",
+      "meaning": "취미",
+      "unit": 13
+    },
+    {
+      "serial": 318,
+      "text": "source",
+      "meaning": "원천, 출처",
+      "unit": 13
+    },
+    {
+      "serial": 319,
+      "text": "twilight",
+      "meaning": "황혼, 희미한 빛",
+      "unit": 13
+    },
+    {
+      "serial": 320,
+      "text": "fever",
+      "meaning": "열",
+      "unit": 13
+    },
+    {
+      "serial": 321,
+      "text": "relief",
+      "meaning": "구제, 안심",
+      "unit": 13
+    },
+    {
+      "serial": 322,
+      "text": "refuge",
+      "meaning": "피난(처)",
+      "unit": 13
+    },
+    {
+      "serial": 323,
+      "text": "experiment",
+      "meaning": "실험",
+      "unit": 13
+    },
+    {
+      "serial": 324,
+      "text": "expense",
+      "meaning": "비용, 희생",
+      "unit": 13
+    },
+    {
+      "serial": 325,
+      "text": "reliance",
+      "meaning": "신뢰",
+      "unit": 13
+    },
+    {
+      "serial": 326,
+      "text": "grief",
+      "meaning": "슬픔",
+      "unit": 14
+    },
+    {
+      "serial": 327,
+      "text": "effect",
+      "meaning": "결과, 효과",
+      "unit": 14
+    },
+    {
+      "serial": 328,
+      "text": "scope",
+      "meaning": "범위, 시야",
+      "unit": 14
+    },
+    {
+      "serial": 329,
+      "text": "habit",
+      "meaning": "습관",
+      "unit": 14
+    },
+    {
+      "serial": 330,
+      "text": "defense",
+      "meaning": "방어, 변호",
+      "unit": 14
+    },
+    {
+      "serial": 331,
+      "text": "aviation",
+      "meaning": "비행(술), 항공(술)",
+      "unit": 14
+    },
+    {
+      "serial": 332,
+      "text": "navigation",
+      "meaning": "운항,항해(술), 항공(술)",
+      "unit": 14
+    },
+    {
+      "serial": 333,
+      "text": "resource",
+      "meaning": "자원, 지략",
+      "unit": 14
+    },
+    {
+      "serial": 334,
+      "text": "cruelty",
+      "meaning": "잔인",
+      "unit": 14
+    },
+    {
+      "serial": 335,
+      "text": "negligence",
+      "meaning": "태만",
+      "unit": 14
+    },
+    {
+      "serial": 336,
+      "text": "bliss",
+      "meaning": "더없는 행복, 환희",
+      "unit": 14
+    },
+    {
+      "serial": 337,
+      "text": "contact",
+      "meaning": "접촉",
+      "unit": 14
+    },
+    {
+      "serial": 338,
+      "text": "poison",
+      "meaning": "독, 독약",
+      "unit": 14
+    },
+    {
+      "serial": 339,
+      "text": "awe",
+      "meaning": "두려움",
+      "unit": 14
+    },
+    {
+      "serial": 340,
+      "text": "nutrition",
+      "meaning": "영양(물)",
+      "unit": 14
+    },
+    {
+      "serial": 341,
+      "text": "clue",
+      "meaning": "단서, 실마리",
+      "unit": 14
+    },
+    {
+      "serial": 342,
+      "text": "obligation",
+      "meaning": "의무, 책임",
+      "unit": 14
+    },
+    {
+      "serial": 343,
+      "text": "reward",
+      "meaning": "보답, 상, 보답하다",
+      "unit": 14
+    },
+    {
+      "serial": 344,
+      "text": "peer",
+      "meaning": "귀족, 동료, 응시하다",
+      "unit": 14
+    },
+    {
+      "serial": 345,
+      "text": "controversy",
+      "meaning": "논쟁",
+      "unit": 14
+    },
+    {
+      "serial": 346,
+      "text": "material",
+      "meaning": "물질, 재료, 물질적인",
+      "unit": 14
+    },
+    {
+      "serial": 347,
+      "text": "nationality",
+      "meaning": "국적, 국민성",
+      "unit": 14
+    },
+    {
+      "serial": 348,
+      "text": "majority",
+      "meaning": "대다수",
+      "unit": 14
+    },
+    {
+      "serial": 349,
+      "text": "personality",
+      "meaning": "개성, 명사",
+      "unit": 14
+    },
+    {
+      "serial": 350,
+      "text": "region",
+      "meaning": "지방",
+      "unit": 14
+    },
+    {
+      "serial": 351,
+      "text": "parliament",
+      "meaning": "의회",
+      "unit": 15
+    },
+    {
+      "serial": 352,
+      "text": "government",
+      "meaning": "정부, 통치",
+      "unit": 15
+    },
+    {
+      "serial": 353,
+      "text": "oath",
+      "meaning": "맹세, 서약",
+      "unit": 15
+    },
+    {
+      "serial": 354,
+      "text": "revenue",
+      "meaning": "세입",
+      "unit": 15
+    },
+    {
+      "serial": 355,
+      "text": "explanation",
+      "meaning": "설명",
+      "unit": 15
+    },
+    {
+      "serial": 356,
+      "text": "minister",
+      "meaning": "장관, 목사",
+      "unit": 15
+    },
+    {
+      "serial": 357,
+      "text": "obstacle",
+      "meaning": "장애(물)",
+      "unit": 15
+    },
+    {
+      "serial": 358,
+      "text": "majesty",
+      "meaning": "존엄, 폐하",
+      "unit": 15
+    },
+    {
+      "serial": 359,
+      "text": "globe",
+      "meaning": "구, 공, 지구",
+      "unit": 15
+    },
+    {
+      "serial": 360,
+      "text": "pressure",
+      "meaning": "압력, 압박",
+      "unit": 15
+    },
+    {
+      "serial": 361,
+      "text": "standpoint",
+      "meaning": "입장, 견지",
+      "unit": 15
+    },
+    {
+      "serial": 362,
+      "text": "monument",
+      "meaning": "기념비, 기념물",
+      "unit": 15
+    },
+    {
+      "serial": 363,
+      "text": "opponent",
+      "meaning": "적, 적수",
+      "unit": 15
+    },
+    {
+      "serial": 364,
+      "text": "fiction",
+      "meaning": "소설, 꾸며낸 이야기",
+      "unit": 15
+    },
+    {
+      "serial": 365,
+      "text": "detail",
+      "meaning": "상세",
+      "unit": 15
+    },
+    {
+      "serial": 366,
+      "text": "solution",
+      "meaning": "해결, 용해",
+      "unit": 15
+    },
+    {
+      "serial": 367,
+      "text": "maximum",
+      "meaning": "최대한(의)",
+      "unit": 15
+    },
+    {
+      "serial": 368,
+      "text": "communism",
+      "meaning": "공산주의",
+      "unit": 15
+    },
+    {
+      "serial": 369,
+      "text": "tide",
+      "meaning": "조수, 형세",
+      "unit": 15
+    },
+    {
+      "serial": 370,
+      "text": "honesty",
+      "meaning": "정직",
+      "unit": 15
+    },
+    {
+      "serial": 371,
+      "text": "brute",
+      "meaning": "짐승",
+      "unit": 15
+    },
+    {
+      "serial": 372,
+      "text": "beast",
+      "meaning": "짐승, 짐승같은 인간",
+      "unit": 15
+    },
+    {
+      "serial": 373,
+      "text": "inspiration",
+      "meaning": "영감, 고취",
+      "unit": 15
+    },
+    {
+      "serial": 374,
+      "text": "harm",
+      "meaning": "해, 해치다",
+      "unit": 15
+    },
+    {
+      "serial": 375,
+      "text": "taste",
+      "meaning": "맛, 취미",
+      "unit": 15
+    },
+    {
+      "serial": 376,
+      "text": "independence",
+      "meaning": "독립(심)",
+      "unit": 16
+    },
+    {
+      "serial": 377,
+      "text": "engagement",
+      "meaning": "약속, 약혼",
+      "unit": 16
+    },
+    {
+      "serial": 378,
+      "text": "rank",
+      "meaning": "열, 지위, 계급",
+      "unit": 16
+    },
+    {
+      "serial": 379,
+      "text": "glacier",
+      "meaning": "빙하",
+      "unit": 16
+    },
+    {
+      "serial": 380,
+      "text": "prairie",
+      "meaning": "대초원",
+      "unit": 16
+    },
+    {
+      "serial": 381,
+      "text": "cradle",
+      "meaning": "요람, 발상지",
+      "unit": 16
+    },
+    {
+      "serial": 382,
+      "text": "incident",
+      "meaning": "사건",
+      "unit": 16
+    },
+    {
+      "serial": 383,
+      "text": "illusion",
+      "meaning": "환영, 환상",
+      "unit": 16
+    },
+    {
+      "serial": 384,
+      "text": "disillusion",
+      "meaning": "각성, 환멸, 환멸을 느끼게 하다",
+      "unit": 16
+    },
+    {
+      "serial": 385,
+      "text": "election",
+      "meaning": "선거",
+      "unit": 16
+    },
+    {
+      "serial": 386,
+      "text": "gesture",
+      "meaning": "몸짓",
+      "unit": 16
+    },
+    {
+      "serial": 387,
+      "text": "warfare",
+      "meaning": "전쟁, 전투",
+      "unit": 16
+    },
+    {
+      "serial": 388,
+      "text": "adventure",
+      "meaning": "모험",
+      "unit": 16
+    },
+    {
+      "serial": 389,
+      "text": "resort",
+      "meaning": "유흥지, 휴양지, 수단",
+      "unit": 16
+    },
+    {
+      "serial": 390,
+      "text": "situation",
+      "meaning": "위치, 상태, 정세",
+      "unit": 16
+    },
+    {
+      "serial": 391,
+      "text": "immigrant",
+      "meaning": "(외국에서 오는) 이주자",
+      "unit": 16
+    },
+    {
+      "serial": 392,
+      "text": "emigrant",
+      "meaning": "(다른 나라로의) 이주자",
+      "unit": 16
+    },
+    {
+      "serial": 393,
+      "text": "historian",
+      "meaning": "역사가",
+      "unit": 16
+    },
+    {
+      "serial": 394,
+      "text": "creature",
+      "meaning": "창조물, 생물",
+      "unit": 16
+    },
+    {
+      "serial": 395,
+      "text": "victim",
+      "meaning": "희생(자)",
+      "unit": 16
+    },
+    {
+      "serial": 396,
+      "text": "delight",
+      "meaning": "즐거움, 즐겁게 하다",
+      "unit": 16
+    },
+    {
+      "serial": 397,
+      "text": "decay",
+      "meaning": "부패(하다), 쇠퇴(하다)",
+      "unit": 16
+    },
+    {
+      "serial": 398,
+      "text": "admiral",
+      "meaning": "해군 대장, 제독",
+      "unit": 16
+    },
+    {
+      "serial": 399,
+      "text": "colony",
+      "meaning": "식민지, 거류지",
+      "unit": 16
+    },
+    {
+      "serial": 400,
+      "text": "philosophy",
+      "meaning": "철학",
+      "unit": 16
+    },
+    {
+      "serial": 401,
+      "text": "treasure",
+      "meaning": "보물, 소중히 하다",
+      "unit": 17
+    },
+    {
+      "serial": 402,
+      "text": "admiration",
+      "meaning": "감탄, 칭찬",
+      "unit": 17
+    },
+    {
+      "serial": 403,
+      "text": "flesh",
+      "meaning": "살, 육체",
+      "unit": 17
+    },
+    {
+      "serial": 404,
+      "text": "aspect",
+      "meaning": "양상, 국면, 면",
+      "unit": 17
+    },
+    {
+      "serial": 405,
+      "text": "anniversary",
+      "meaning": "기념일",
+      "unit": 17
+    },
+    {
+      "serial": 406,
+      "text": "laboratory",
+      "meaning": "실험실, 연구소",
+      "unit": 17
+    },
+    {
+      "serial": 407,
+      "text": "cell",
+      "meaning": "세포, 작은 방",
+      "unit": 17
+    },
+    {
+      "serial": 408,
+      "text": "area",
+      "meaning": "면적, 지역",
+      "unit": 17
+    },
+    {
+      "serial": 409,
+      "text": "symbol",
+      "meaning": "상징, 부호",
+      "unit": 17
+    },
+    {
+      "serial": 410,
+      "text": "manuscript",
+      "meaning": "원고",
+      "unit": 17
+    },
+    {
+      "serial": 411,
+      "text": "mechanism",
+      "meaning": "기계(장치), 기구",
+      "unit": 17
+    },
+    {
+      "serial": 412,
+      "text": "scent",
+      "meaning": "향기, 냄새 맡다",
+      "unit": 17
+    },
+    {
+      "serial": 413,
+      "text": "donation",
+      "meaning": "기부(금), 기증",
+      "unit": 17
+    },
+    {
+      "serial": 414,
+      "text": "miracle",
+      "meaning": "기적",
+      "unit": 17
+    },
+    {
+      "serial": 415,
+      "text": "continent",
+      "meaning": "대륙",
+      "unit": 17
+    },
+    {
+      "serial": 416,
+      "text": "horror",
+      "meaning": "공포",
+      "unit": 17
+    },
+    {
+      "serial": 417,
+      "text": "essay",
+      "meaning": "수필",
+      "unit": 17
+    },
+    {
+      "serial": 418,
+      "text": "armament",
+      "meaning": "군비, 무기",
+      "unit": 17
+    },
+    {
+      "serial": 419,
+      "text": "fable",
+      "meaning": "우화",
+      "unit": 17
+    },
+    {
+      "serial": 420,
+      "text": "maxim",
+      "meaning": "격언",
+      "unit": 17
+    },
+    {
+      "serial": 421,
+      "text": "perspective",
+      "meaning": "가망, 전망, 시각",
+      "unit": 17
+    },
+    {
+      "serial": 422,
+      "text": "income",
+      "meaning": "수입",
+      "unit": 17
+    },
+    {
+      "serial": 423,
+      "text": "fortune",
+      "meaning": "운, 행운, 재산",
+      "unit": 17
+    },
+    {
+      "serial": 424,
+      "text": "aid",
+      "meaning": "도움, 도와주다",
+      "unit": 17
+    },
+    {
+      "serial": 425,
+      "text": "fuel",
+      "meaning": "연료, 연료를 공급하다",
+      "unit": 17
+    },
+    {
+      "serial": 426,
+      "text": "sigh",
+      "meaning": "한숨(쉬다)",
+      "unit": 18
+    },
+    {
+      "serial": 427,
+      "text": "furniture",
+      "meaning": "가구",
+      "unit": 18
+    },
+    {
+      "serial": 428,
+      "text": "shelter",
+      "meaning": "피난(처)",
+      "unit": 18
+    },
+    {
+      "serial": 429,
+      "text": "view",
+      "meaning": "경치, 의견, 목적",
+      "unit": 18
+    },
+    {
+      "serial": 430,
+      "text": "navy",
+      "meaning": "하군",
+      "unit": 18
+    },
+    {
+      "serial": 431,
+      "text": "inability",
+      "meaning": "무능, 무력",
+      "unit": 18
+    },
+    {
+      "serial": 432,
+      "text": "territory",
+      "meaning": "영토",
+      "unit": 18
+    },
+    {
+      "serial": 433,
+      "text": "imitation",
+      "meaning": "모방",
+      "unit": 18
+    },
+    {
+      "serial": 434,
+      "text": "alternative",
+      "meaning": "양자택일, 대안",
+      "unit": 18
+    },
+    {
+      "serial": 435,
+      "text": "review",
+      "meaning": "복습, 재검토, 평론",
+      "unit": 18
+    },
+    {
+      "serial": 436,
+      "text": "preview",
+      "meaning": "미리 보기, 사전 검토, 시사",
+      "unit": 18
+    },
+    {
+      "serial": 437,
+      "text": "memorial",
+      "meaning": "기념물, 기념비",
+      "unit": 18
+    },
+    {
+      "serial": 438,
+      "text": "preface",
+      "meaning": "머리말",
+      "unit": 18
+    },
+    {
+      "serial": 439,
+      "text": "mischief",
+      "meaning": "장난, 손해",
+      "unit": 18
+    },
+    {
+      "serial": 440,
+      "text": "departure",
+      "meaning": "출발",
+      "unit": 18
+    },
+    {
+      "serial": 441,
+      "text": "surface",
+      "meaning": "표면",
+      "unit": 18
+    },
+    {
+      "serial": 442,
+      "text": "funeral",
+      "meaning": "장례식",
+      "unit": 18
+    },
+    {
+      "serial": 443,
+      "text": "ignorance",
+      "meaning": "무지",
+      "unit": 18
+    },
+    {
+      "serial": 444,
+      "text": "popularity",
+      "meaning": "인기, 유행",
+      "unit": 18
+    },
+    {
+      "serial": 445,
+      "text": "pace",
+      "meaning": "걸음",
+      "unit": 18
+    },
+    {
+      "serial": 446,
+      "text": "merchandise",
+      "meaning": "상품",
+      "unit": 18
+    },
+    {
+      "serial": 447,
+      "text": "space",
+      "meaning": "공간, 우주",
+      "unit": 18
+    },
+    {
+      "serial": 448,
+      "text": "predecessor",
+      "meaning": "전임자, 선배, 조상",
+      "unit": 18
+    },
+    {
+      "serial": 449,
+      "text": "soil",
+      "meaning": "흙, 땅",
+      "unit": 18
+    },
+    {
+      "serial": 450,
+      "text": "hospitality",
+      "meaning": "환대",
+      "unit": 18
+    },
+    {
+      "serial": 451,
+      "text": "trait",
+      "meaning": "특색, 특징",
+      "unit": 19
+    },
+    {
+      "serial": 452,
+      "text": "traitor",
+      "meaning": "배신자, 반역자",
+      "unit": 19
+    },
+    {
+      "serial": 453,
+      "text": "puzzle",
+      "meaning": "수수께끼, 당황하게 하다",
+      "unit": 19
+    },
+    {
+      "serial": 454,
+      "text": "riddle",
+      "meaning": "수수께끼",
+      "unit": 19
+    },
+    {
+      "serial": 455,
+      "text": "vision",
+      "meaning": "시력, 통찰력, 환상",
+      "unit": 19
+    },
+    {
+      "serial": 456,
+      "text": "treachery",
+      "meaning": "배신, 반역",
+      "unit": 19
+    },
+    {
+      "serial": 457,
+      "text": "pasture",
+      "meaning": "목장, 목초지",
+      "unit": 19
+    },
+    {
+      "serial": 458,
+      "text": "renown",
+      "meaning": "명성",
+      "unit": 19
+    },
+    {
+      "serial": 459,
+      "text": "vessel",
+      "meaning": "(큰)배, 그릇, 혈관",
+      "unit": 19
+    },
+    {
+      "serial": 460,
+      "text": "specimen",
+      "meaning": "표본, 실례",
+      "unit": 19
+    },
+    {
+      "serial": 461,
+      "text": "trace",
+      "meaning": "자국, 자국을 밟아가다",
+      "unit": 19
+    },
+    {
+      "serial": 462,
+      "text": "slumber",
+      "meaning": "잠, 잠자다",
+      "unit": 19
+    },
+    {
+      "serial": 463,
+      "text": "harvest",
+      "meaning": "수확(기)",
+      "unit": 19
+    },
+    {
+      "serial": 464,
+      "text": "tact",
+      "meaning": "재치, 요령",
+      "unit": 19
+    },
+    {
+      "serial": 465,
+      "text": "element",
+      "meaning": "요소, 원소",
+      "unit": 19
+    },
+    {
+      "serial": 466,
+      "text": "solace",
+      "meaning": "위안, 위로, 위로하다",
+      "unit": 19
+    },
+    {
+      "serial": 467,
+      "text": "pang",
+      "meaning": "심한 고통",
+      "unit": 19
+    },
+    {
+      "serial": 468,
+      "text": "flaw",
+      "meaning": "결점, 흠, 흠(집)을 내다",
+      "unit": 19
+    },
+    {
+      "serial": 469,
+      "text": "riot",
+      "meaning": "폭동(을 일으키다)",
+      "unit": 19
+    },
+    {
+      "serial": 470,
+      "text": "folk",
+      "meaning": "사람들, 가족",
+      "unit": 19
+    },
+    {
+      "serial": 471,
+      "text": "temperance",
+      "meaning": "절제, 금주",
+      "unit": 19
+    },
+    {
+      "serial": 472,
+      "text": "garbage",
+      "meaning": "쓰레기, 찌꺼기",
+      "unit": 19
+    },
+    {
+      "serial": 473,
+      "text": "mob",
+      "meaning": "군중, 폭도",
+      "unit": 19
+    },
+    {
+      "serial": 474,
+      "text": "adult",
+      "meaning": "성인, 어른",
+      "unit": 19
+    },
+    {
+      "serial": 475,
+      "text": "temperament",
+      "meaning": "기질",
+      "unit": 19
+    },
+    {
+      "serial": 476,
+      "text": "expansion",
+      "meaning": "확장",
+      "unit": 20
+    },
+    {
+      "serial": 477,
+      "text": "output",
+      "meaning": "생산(량), 산출(물)",
+      "unit": 20
+    },
+    {
+      "serial": 478,
+      "text": "glance",
+      "meaning": "힐끗 봄, 힐끗 보다",
+      "unit": 20
+    },
+    {
+      "serial": 479,
+      "text": "vein",
+      "meaning": "정맥, 광맥",
+      "unit": 20
+    },
+    {
+      "serial": 480,
+      "text": "artery",
+      "meaning": "동맥",
+      "unit": 20
+    },
+    {
+      "serial": 481,
+      "text": "conclusion",
+      "meaning": "결말, 결론",
+      "unit": 20
+    },
+    {
+      "serial": 482,
+      "text": "revolt",
+      "meaning": "반란, 혐오",
+      "unit": 20
+    },
+    {
+      "serial": 483,
+      "text": "pessimist",
+      "meaning": "비관론자",
+      "unit": 20
+    },
+    {
+      "serial": 484,
+      "text": "expenditure",
+      "meaning": "지출, 소비",
+      "unit": 20
+    },
+    {
+      "serial": 485,
+      "text": "mixture",
+      "meaning": "혼합(물)",
+      "unit": 20
+    },
+    {
+      "serial": 486,
+      "text": "outcome",
+      "meaning": "결과, 성과",
+      "unit": 20
+    },
+    {
+      "serial": 487,
+      "text": "expert",
+      "meaning": "익숙한 사람, 전문가",
+      "unit": 20
+    },
+    {
+      "serial": 488,
+      "text": "project",
+      "meaning": "계획, 계획하다",
+      "unit": 20
+    },
+    {
+      "serial": 489,
+      "text": "consequence",
+      "meaning": "결과",
+      "unit": 20
+    },
+    {
+      "serial": 490,
+      "text": "conceit",
+      "meaning": "자부심",
+      "unit": 20
+    },
+    {
+      "serial": 491,
+      "text": "pioneer",
+      "meaning": "개척자, 선구자",
+      "unit": 20
+    },
+    {
+      "serial": 492,
+      "text": "revenge",
+      "meaning": "복수, 원한",
+      "unit": 20
+    },
+    {
+      "serial": 493,
+      "text": "amount",
+      "meaning": "총계, 총계~이 되다",
+      "unit": 20
+    },
+    {
+      "serial": 494,
+      "text": "author",
+      "meaning": "저자, 창시자",
+      "unit": 20
+    },
+    {
+      "serial": 495,
+      "text": "audience",
+      "meaning": "청중",
+      "unit": 20
+    },
+    {
+      "serial": 496,
+      "text": "throne",
+      "meaning": "왕위, 왕좌",
+      "unit": 20
+    },
+    {
+      "serial": 497,
+      "text": "outlook",
+      "meaning": "전망, ~관",
+      "unit": 20
+    },
+    {
+      "serial": 498,
+      "text": "expression",
+      "meaning": "표현, 표정",
+      "unit": 20
+    },
+    {
+      "serial": 499,
+      "text": "benefactor",
+      "meaning": "은인, 후원자",
+      "unit": 20
+    },
+    {
+      "serial": 500,
+      "text": "suburb",
+      "meaning": "교외, 변두리",
+      "unit": 20
+    },
+    {
+      "serial": 501,
+      "text": "apology",
+      "meaning": "사과, 변명",
+      "unit": 21
+    },
+    {
+      "serial": 502,
+      "text": "proposal",
+      "meaning": "제의, 신청",
+      "unit": 21
+    },
+    {
+      "serial": 503,
+      "text": "phase",
+      "meaning": "국면, 양상",
+      "unit": 21
+    },
+    {
+      "serial": 504,
+      "text": "male",
+      "meaning": "남자, 수컷",
+      "unit": 21
+    },
+    {
+      "serial": 505,
+      "text": "relish",
+      "meaning": "맛, 흥미",
+      "unit": 21
+    },
+    {
+      "serial": 506,
+      "text": "motive",
+      "meaning": "동기",
+      "unit": 21
+    },
+    {
+      "serial": 507,
+      "text": "summary",
+      "meaning": "요약(한)",
+      "unit": 21
+    },
+    {
+      "serial": 508,
+      "text": "plot",
+      "meaning": "음모, 계획, 줄거리",
+      "unit": 21
+    },
+    {
+      "serial": 509,
+      "text": "relic",
+      "meaning": "유물",
+      "unit": 21
+    },
+    {
+      "serial": 510,
+      "text": "bronze",
+      "meaning": "청동",
+      "unit": 21
+    },
+    {
+      "serial": 511,
+      "text": "status",
+      "meaning": "지위, 상태",
+      "unit": 21
+    },
+    {
+      "serial": 512,
+      "text": "mystery",
+      "meaning": "신비, 불가사의",
+      "unit": 21
+    },
+    {
+      "serial": 513,
+      "text": "treason",
+      "meaning": "반역(죄)",
+      "unit": 21
+    },
+    {
+      "serial": 514,
+      "text": "repose",
+      "meaning": "휴식, 쉬다",
+      "unit": 21
+    },
+    {
+      "serial": 515,
+      "text": "trifle",
+      "meaning": "사소한 일, 조금",
+      "unit": 21
+    },
+    {
+      "serial": 516,
+      "text": "trend",
+      "meaning": "경향, 추세",
+      "unit": 21
+    },
+    {
+      "serial": 517,
+      "text": "spectacle",
+      "meaning": "광경",
+      "unit": 21
+    },
+    {
+      "serial": 518,
+      "text": "statue",
+      "meaning": "조각상",
+      "unit": 21
+    },
+    {
+      "serial": 519,
+      "text": "cliff",
+      "meaning": "절벽, 낭떠러지",
+      "unit": 21
+    },
+    {
+      "serial": 520,
+      "text": "trap",
+      "meaning": "덫, 함정",
+      "unit": 21
+    },
+    {
+      "serial": 521,
+      "text": "sermon",
+      "meaning": "설교",
+      "unit": 21
+    },
+    {
+      "serial": 522,
+      "text": "imagination",
+      "meaning": "상상(력)",
+      "unit": 21
+    },
+    {
+      "serial": 523,
+      "text": "omen",
+      "meaning": "전조, 조짐",
+      "unit": 21
+    },
+    {
+      "serial": 524,
+      "text": "diameter",
+      "meaning": "지름, 직경",
+      "unit": 21
+    },
+    {
+      "serial": 525,
+      "text": "effort",
+      "meaning": "노력",
+      "unit": 21
+    },
+    {
+      "serial": 526,
+      "text": "adversity",
+      "meaning": "역경",
+      "unit": 22
+    },
+    {
+      "serial": 527,
+      "text": "elegy",
+      "meaning": "애가, 비가",
+      "unit": 22
+    },
+    {
+      "serial": 528,
+      "text": "snare",
+      "meaning": "덫, 유혹",
+      "unit": 22
+    },
+    {
+      "serial": 529,
+      "text": "satisfaction",
+      "meaning": "만족",
+      "unit": 22
+    },
+    {
+      "serial": 530,
+      "text": "research",
+      "meaning": "연구(하다), 조사(하다)",
+      "unit": 22
+    },
+    {
+      "serial": 531,
+      "text": "estate",
+      "meaning": "재산, 지위",
+      "unit": 22
+    },
+    {
+      "serial": 532,
+      "text": "orator",
+      "meaning": "웅변가",
+      "unit": 22
+    },
+    {
+      "serial": 533,
+      "text": "meadow",
+      "meaning": "목초지",
+      "unit": 22
+    },
+    {
+      "serial": 534,
+      "text": "shortage",
+      "meaning": "부족",
+      "unit": 22
+    },
+    {
+      "serial": 535,
+      "text": "activity",
+      "meaning": "활동",
+      "unit": 22
+    },
+    {
+      "serial": 536,
+      "text": "stage",
+      "meaning": "무대, 단계, 시기",
+      "unit": 22
+    },
+    {
+      "serial": 537,
+      "text": "decree",
+      "meaning": "명령(하다), 포고(하다)",
+      "unit": 22
+    },
+    {
+      "serial": 538,
+      "text": "myth",
+      "meaning": "신화",
+      "unit": 22
+    },
+    {
+      "serial": 539,
+      "text": "mythology",
+      "meaning": "신화(집), 신화학",
+      "unit": 22
+    },
+    {
+      "serial": 540,
+      "text": "hazard",
+      "meaning": "위험, 우연",
+      "unit": 22
+    },
+    {
+      "serial": 541,
+      "text": "pattern",
+      "meaning": "무늬, 양식, 모범",
+      "unit": 22
+    },
+    {
+      "serial": 542,
+      "text": "fluid",
+      "meaning": "액체, 유동성의",
+      "unit": 22
+    },
+    {
+      "serial": 543,
+      "text": "union",
+      "meaning": "결합, 조합",
+      "unit": 22
+    },
+    {
+      "serial": 544,
+      "text": "disciple",
+      "meaning": "제자",
+      "unit": 22
+    },
+    {
+      "serial": 545,
+      "text": "playwright",
+      "meaning": "극작가",
+      "unit": 22
+    },
+    {
+      "serial": 546,
+      "text": "cave",
+      "meaning": "동굴",
+      "unit": 22
+    },
+    {
+      "serial": 547,
+      "text": "feat",
+      "meaning": "공적",
+      "unit": 22
+    },
+    {
+      "serial": 548,
+      "text": "friction",
+      "meaning": "마찰, 알력",
+      "unit": 22
+    },
+    {
+      "serial": 549,
+      "text": "digestion",
+      "meaning": "소화, 숙고",
+      "unit": 22
+    },
+    {
+      "serial": 550,
+      "text": "verse",
+      "meaning": "운문, 시",
+      "unit": 22
+    },
+    {
+      "serial": 551,
+      "text": "counsel",
+      "meaning": "의논, 충고, 조언하다",
+      "unit": 23
+    },
+    {
+      "serial": 552,
+      "text": "token",
+      "meaning": "표시, 증거",
+      "unit": 23
+    },
+    {
+      "serial": 553,
+      "text": "value",
+      "meaning": "가치, 존중하다",
+      "unit": 23
+    },
+    {
+      "serial": 554,
+      "text": "flavor",
+      "meaning": "맛, 향기",
+      "unit": 23
+    },
+    {
+      "serial": 555,
+      "text": "transition",
+      "meaning": "변천, 과도기",
+      "unit": 23
+    },
+    {
+      "serial": 556,
+      "text": "pause",
+      "meaning": "멈춤, 중지",
+      "unit": 23
+    },
+    {
+      "serial": 557,
+      "text": "worth",
+      "meaning": "가치, ~의 가치가 있는",
+      "unit": 23
+    },
+    {
+      "serial": 558,
+      "text": "fund",
+      "meaning": "자금, 기금",
+      "unit": 23
+    },
+    {
+      "serial": 559,
+      "text": "suffrage",
+      "meaning": "참정권, 투표",
+      "unit": 23
+    },
+    {
+      "serial": 560,
+      "text": "bait",
+      "meaning": "미끼, 유혹",
+      "unit": 23
+    },
+    {
+      "serial": 561,
+      "text": "range",
+      "meaning": "범위, 산맥",
+      "unit": 23
+    },
+    {
+      "serial": 562,
+      "text": "orientation",
+      "meaning": "안내, 오리엔테이션",
+      "unit": 23
+    },
+    {
+      "serial": 563,
+      "text": "elegance",
+      "meaning": "우아함",
+      "unit": 23
+    },
+    {
+      "serial": 564,
+      "text": "masterpiece",
+      "meaning": "걸작",
+      "unit": 23
+    },
+    {
+      "serial": 565,
+      "text": "stature",
+      "meaning": "키, 신장",
+      "unit": 23
+    },
+    {
+      "serial": 566,
+      "text": "metropolis",
+      "meaning": "수도, 중심지",
+      "unit": 23
+    },
+    {
+      "serial": 567,
+      "text": "layer",
+      "meaning": "층",
+      "unit": 23
+    },
+    {
+      "serial": 568,
+      "text": "volume",
+      "meaning": "책, 권, 다량",
+      "unit": 23
+    },
+    {
+      "serial": 569,
+      "text": "testimony",
+      "meaning": "증거, 증명",
+      "unit": 23
+    },
+    {
+      "serial": 570,
+      "text": "haven",
+      "meaning": "항구, 피난처",
+      "unit": 23
+    },
+    {
+      "serial": 571,
+      "text": "seed",
+      "meaning": "씨, 종자",
+      "unit": 23
+    },
+    {
+      "serial": 572,
+      "text": "reverence",
+      "meaning": "존경(하다)",
+      "unit": 23
+    },
+    {
+      "serial": 573,
+      "text": "summit",
+      "meaning": "정상",
+      "unit": 23
+    },
+    {
+      "serial": 574,
+      "text": "crust",
+      "meaning": "(빵)껍질",
+      "unit": 23
+    },
+    {
+      "serial": 575,
+      "text": "boss",
+      "meaning": "우두머리, 사장",
+      "unit": 23
+    },
+    {
+      "serial": 576,
+      "text": "agony",
+      "meaning": "고민, 고뇌, 고통",
+      "unit": 24
+    },
+    {
+      "serial": 577,
+      "text": "wisdom",
+      "meaning": "지혜",
+      "unit": 24
+    },
+    {
+      "serial": 578,
+      "text": "propriety",
+      "meaning": "예의 바름, 적당",
+      "unit": 24
+    },
+    {
+      "serial": 579,
+      "text": "physics",
+      "meaning": "물리학",
+      "unit": 24
+    },
+    {
+      "serial": 580,
+      "text": "timber",
+      "meaning": "재목",
+      "unit": 24
+    },
+    {
+      "serial": 581,
+      "text": "planet",
+      "meaning": "행성",
+      "unit": 24
+    },
+    {
+      "serial": 582,
+      "text": "design",
+      "meaning": "디자인, 계획",
+      "unit": 24
+    },
+    {
+      "serial": 583,
+      "text": "lung",
+      "meaning": "폐, 허파",
+      "unit": 24
+    },
+    {
+      "serial": 584,
+      "text": "leisure",
+      "meaning": "틈, 여가",
+      "unit": 24
+    },
+    {
+      "serial": 585,
+      "text": "organization",
+      "meaning": "조직, 단체",
+      "unit": 24
+    },
+    {
+      "serial": 586,
+      "text": "republic",
+      "meaning": "공화국, 공화정체",
+      "unit": 24
+    },
+    {
+      "serial": 587,
+      "text": "heathen",
+      "meaning": "이교도, 이방인",
+      "unit": 24
+    },
+    {
+      "serial": 588,
+      "text": "prosecution",
+      "meaning": "기소, 소송, 수행",
+      "unit": 24
+    },
+    {
+      "serial": 589,
+      "text": "torture",
+      "meaning": "고문, 고뇌",
+      "unit": 24
+    },
+    {
+      "serial": 590,
+      "text": "cottage",
+      "meaning": "오두막집, 시골집",
+      "unit": 24
+    },
+    {
+      "serial": 591,
+      "text": "castle",
+      "meaning": "성",
+      "unit": 24
+    },
+    {
+      "serial": 592,
+      "text": "conference",
+      "meaning": "회의, 협의",
+      "unit": 24
+    },
+    {
+      "serial": 593,
+      "text": "tomb",
+      "meaning": "무덤, 묘",
+      "unit": 24
+    },
+    {
+      "serial": 594,
+      "text": "fault",
+      "meaning": "결점, 잘못",
+      "unit": 24
+    },
+    {
+      "serial": 595,
+      "text": "magic",
+      "meaning": "마술(의), 마력(의)",
+      "unit": 24
+    },
+    {
+      "serial": 596,
+      "text": "aim",
+      "meaning": "목적, 표적",
+      "unit": 24
+    },
+    {
+      "serial": 597,
+      "text": "sword",
+      "meaning": "검, 무력",
+      "unit": 24
+    },
+    {
+      "serial": 598,
+      "text": "risk",
+      "meaning": "위험, 위험을 무릅쓰다",
+      "unit": 24
+    },
+    {
+      "serial": 599,
+      "text": "tool",
+      "meaning": "도구, 연장",
+      "unit": 24
+    },
+    {
+      "serial": 600,
+      "text": "weapon",
+      "meaning": "무기",
+      "unit": 24
+    },
+    {
+      "serial": 601,
+      "text": "vehicle",
+      "meaning": "탈것, 차량",
+      "unit": 25
+    },
+    {
+      "serial": 602,
+      "text": "peculiarity",
+      "meaning": "특색, 버릇",
+      "unit": 25
+    },
+    {
+      "serial": 603,
+      "text": "contest",
+      "meaning": "투쟁, 경쟁, 겨루다",
+      "unit": 25
+    },
+    {
+      "serial": 604,
+      "text": "favor",
+      "meaning": "호의, 찬성",
+      "unit": 25
+    },
+    {
+      "serial": 605,
+      "text": "mankind",
+      "meaning": "인류, 인간",
+      "unit": 25
+    },
+    {
+      "serial": 606,
+      "text": "draft",
+      "meaning": "설계도, 초안, 설계하다",
+      "unit": 25
+    },
+    {
+      "serial": 607,
+      "text": "bomb",
+      "meaning": "폭탄, 폭격하다",
+      "unit": 25
+    },
+    {
+      "serial": 608,
+      "text": "chemistry",
+      "meaning": "화학",
+      "unit": 25
+    },
+    {
+      "serial": 609,
+      "text": "addition",
+      "meaning": "추가, 부가, 덧셈",
+      "unit": 25
+    },
+    {
+      "serial": 610,
+      "text": "measure",
+      "meaning": "수단, 치수, 계량기구",
+      "unit": 25
+    },
+    {
+      "serial": 611,
+      "text": "vogue",
+      "meaning": "유행(=fashion)",
+      "unit": 25
+    },
+    {
+      "serial": 612,
+      "text": "occasion",
+      "meaning": "경우, 기회",
+      "unit": 25
+    },
+    {
+      "serial": 613,
+      "text": "curiosity",
+      "meaning": "호기심",
+      "unit": 25
+    },
+    {
+      "serial": 614,
+      "text": "disorder",
+      "meaning": "무질서, 혼란",
+      "unit": 25
+    },
+    {
+      "serial": 615,
+      "text": "cancer",
+      "meaning": "암",
+      "unit": 25
+    },
+    {
+      "serial": 616,
+      "text": "well-being",
+      "meaning": "복지, 행복",
+      "unit": 25
+    },
+    {
+      "serial": 617,
+      "text": "chamber",
+      "meaning": "방",
+      "unit": 25
+    },
+    {
+      "serial": 618,
+      "text": "devil",
+      "meaning": "악마",
+      "unit": 25
+    },
+    {
+      "serial": 619,
+      "text": "barbarian",
+      "meaning": "야만인, 야만의",
+      "unit": 25
+    },
+    {
+      "serial": 620,
+      "text": "stuff",
+      "meaning": "재료, 물건",
+      "unit": 25
+    },
+    {
+      "serial": 621,
+      "text": "scheme",
+      "meaning": "계획",
+      "unit": 25
+    },
+    {
+      "serial": 622,
+      "text": "legislation",
+      "meaning": "입법, 법제",
+      "unit": 25
+    },
+    {
+      "serial": 623,
+      "text": "symmetry",
+      "meaning": "대칭, 규형, 조화",
+      "unit": 25
+    },
+    {
+      "serial": 624,
+      "text": "piety",
+      "meaning": "경건, 신앙심",
+      "unit": 25
+    },
+    {
+      "serial": 625,
+      "text": "antiquity",
+      "meaning": "고대(인)",
+      "unit": 25
+    },
+    {
+      "serial": 626,
+      "text": "malice",
+      "meaning": "악의, 원한",
+      "unit": 26
+    },
+    {
+      "serial": 627,
+      "text": "enzyme",
+      "meaning": "효소",
+      "unit": 26
+    },
+    {
+      "serial": 628,
+      "text": "multitude",
+      "meaning": "다수",
+      "unit": 26
+    },
+    {
+      "serial": 629,
+      "text": "bent",
+      "meaning": "경향, 구부러진",
+      "unit": 26
+    },
+    {
+      "serial": 630,
+      "text": "creed",
+      "meaning": "신조, 주의",
+      "unit": 26
+    },
+    {
+      "serial": 631,
+      "text": "procedure",
+      "meaning": "수속, 진행",
+      "unit": 26
+    },
+    {
+      "serial": 632,
+      "text": "standard",
+      "meaning": "표준(의), 모범(적인)",
+      "unit": 26
+    },
+    {
+      "serial": 633,
+      "text": "boredom",
+      "meaning": "지루함",
+      "unit": 26
+    },
+    {
+      "serial": 634,
+      "text": "device",
+      "meaning": "고안, 장치",
+      "unit": 26
+    },
+    {
+      "serial": 635,
+      "text": "greed",
+      "meaning": "탐욕",
+      "unit": 26
+    },
+    {
+      "serial": 636,
+      "text": "contagion",
+      "meaning": "전염(병)",
+      "unit": 26
+    },
+    {
+      "serial": 637,
+      "text": "ecology",
+      "meaning": "생태학, 생태 환경",
+      "unit": 26
+    },
+    {
+      "serial": 638,
+      "text": "satire",
+      "meaning": "풍자",
+      "unit": 26
+    },
+    {
+      "serial": 639,
+      "text": "progress",
+      "meaning": "진행, 진보, 진행하다",
+      "unit": 26
+    },
+    {
+      "serial": 640,
+      "text": "hypothesis",
+      "meaning": "가설",
+      "unit": 26
+    },
+    {
+      "serial": 641,
+      "text": "proposition",
+      "meaning": "명제, 제의",
+      "unit": 26
+    },
+    {
+      "serial": 642,
+      "text": "perfume",
+      "meaning": "향수, 향기",
+      "unit": 26
+    },
+    {
+      "serial": 643,
+      "text": "miniature",
+      "meaning": "축소지도, 축소모형",
+      "unit": 26
+    },
+    {
+      "serial": 644,
+      "text": "bond",
+      "meaning": "속박, 유대, 접착시키다",
+      "unit": 26
+    },
+    {
+      "serial": 645,
+      "text": "providence",
+      "meaning": "섭리, 신의 뜻",
+      "unit": 26
+    },
+    {
+      "serial": 646,
+      "text": "compassion",
+      "meaning": "동정",
+      "unit": 26
+    },
+    {
+      "serial": 647,
+      "text": "domain",
+      "meaning": "영토",
+      "unit": 26
+    },
+    {
+      "serial": 648,
+      "text": "caricature",
+      "meaning": "(풍자적)만화",
+      "unit": 26
+    },
+    {
+      "serial": 649,
+      "text": "anguish",
+      "meaning": "고민, 고뇌",
+      "unit": 26
+    },
+    {
+      "serial": 650,
+      "text": "facility",
+      "meaning": "손쉬움, 편의시설",
+      "unit": 26
+    },
+    {
+      "serial": 651,
+      "text": "hygiene",
+      "meaning": "위상",
+      "unit": 27
+    },
+    {
+      "serial": 652,
+      "text": "conspiracy",
+      "meaning": "음모, 공모",
+      "unit": 27
+    },
+    {
+      "serial": 653,
+      "text": "accordance",
+      "meaning": "일치, 조화",
+      "unit": 27
+    },
+    {
+      "serial": 654,
+      "text": "ecstasy",
+      "meaning": "황홀감",
+      "unit": 27
+    },
+    {
+      "serial": 655,
+      "text": "censure",
+      "meaning": "비난(하다)",
+      "unit": 27
+    },
+    {
+      "serial": 656,
+      "text": "allowance",
+      "meaning": "급여, 허가",
+      "unit": 27
+    },
+    {
+      "serial": 657,
+      "text": "campaign",
+      "meaning": "(선거)운동, 캠페인을 벌이다",
+      "unit": 27
+    },
+    {
+      "serial": 658,
+      "text": "canal",
+      "meaning": "운하",
+      "unit": 27
+    },
+    {
+      "serial": 659,
+      "text": "apparatus",
+      "meaning": "실험기구, 장치, 신체기관",
+      "unit": 27
+    },
+    {
+      "serial": 660,
+      "text": "defiance",
+      "meaning": "반항, 저항(공개적으로)",
+      "unit": 27
+    },
+    {
+      "serial": 661,
+      "text": "craft",
+      "meaning": "공예, 기능",
+      "unit": 27
+    },
+    {
+      "serial": 662,
+      "text": "patent",
+      "meaning": "전매특허(의), 명백(한)",
+      "unit": 27
+    },
+    {
+      "serial": 663,
+      "text": "countenance",
+      "meaning": "표정, 안색",
+      "unit": 27
+    },
+    {
+      "serial": 664,
+      "text": "pulse",
+      "meaning": "맥박",
+      "unit": 27
+    },
+    {
+      "serial": 665,
+      "text": "implement",
+      "meaning": "기구, 도구, 시행하다",
+      "unit": 27
+    },
+    {
+      "serial": 666,
+      "text": "insurance",
+      "meaning": "보험, 보증",
+      "unit": 27
+    },
+    {
+      "serial": 667,
+      "text": "catastrophe",
+      "meaning": "파국, 재난",
+      "unit": 27
+    },
+    {
+      "serial": 668,
+      "text": "accident",
+      "meaning": "사고, 사건",
+      "unit": 27
+    },
+    {
+      "serial": 669,
+      "text": "district",
+      "meaning": "구역, 지역",
+      "unit": 27
+    },
+    {
+      "serial": 670,
+      "text": "direction",
+      "meaning": "방향, 지도",
+      "unit": 27
+    },
+    {
+      "serial": 671,
+      "text": "textile",
+      "meaning": "직물",
+      "unit": 27
+    },
+    {
+      "serial": 672,
+      "text": "organ",
+      "meaning": "오르간, (생물의)기관",
+      "unit": 27
+    },
+    {
+      "serial": 673,
+      "text": "blood",
+      "meaning": "피, 혈액",
+      "unit": 27
+    },
+    {
+      "serial": 674,
+      "text": "ray",
+      "meaning": "광선",
+      "unit": 27
+    },
+    {
+      "serial": 675,
+      "text": "crop",
+      "meaning": "농작물, 수확",
+      "unit": 27
+    },
+    {
+      "serial": 676,
+      "text": "drought",
+      "meaning": "가뭄",
+      "unit": 28
+    },
+    {
+      "serial": 677,
+      "text": "skin",
+      "meaning": "피부, (동물의)가죽",
+      "unit": 28
+    },
+    {
+      "serial": 678,
+      "text": "bone",
+      "meaning": "뼈",
+      "unit": 28
+    },
+    {
+      "serial": 679,
+      "text": "interest",
+      "meaning": "이익, 흥미, 관심",
+      "unit": 28
+    },
+    {
+      "serial": 680,
+      "text": "limit",
+      "meaning": "제한, 한계, 제한하다",
+      "unit": 28
+    },
+    {
+      "serial": 681,
+      "text": "haste",
+      "meaning": "서두름",
+      "unit": 28
+    },
+    {
+      "serial": 682,
+      "text": "siege",
+      "meaning": "포위공격",
+      "unit": 28
+    },
+    {
+      "serial": 683,
+      "text": "anachronism",
+      "meaning": "시대착오",
+      "unit": 28
+    },
+    {
+      "serial": 684,
+      "text": "menace",
+      "meaning": "협박(하다), 위협(하다)",
+      "unit": 28
+    },
+    {
+      "serial": 685,
+      "text": "ravage",
+      "meaning": "황폐, 황폐해지다",
+      "unit": 28
+    },
+    {
+      "serial": 686,
+      "text": "forbearance",
+      "meaning": "인내, 자제",
+      "unit": 28
+    },
+    {
+      "serial": 687,
+      "text": "rein",
+      "meaning": "고삐",
+      "unit": 28
+    },
+    {
+      "serial": 688,
+      "text": "drudgery",
+      "meaning": "고된 일, 고역",
+      "unit": 28
+    },
+    {
+      "serial": 689,
+      "text": "delicious",
+      "meaning": "맛있는",
+      "unit": 28
+    },
+    {
+      "serial": 690,
+      "text": "trustworthy",
+      "meaning": "신뢰할 수 있는",
+      "unit": 28
+    },
+    {
+      "serial": 691,
+      "text": "manifest",
+      "meaning": "명백한, 명시하다",
+      "unit": 28
+    },
+    {
+      "serial": 692,
+      "text": "gradual",
+      "meaning": "점진적인",
+      "unit": 28
+    },
+    {
+      "serial": 693,
+      "text": "voluntary",
+      "meaning": "자발적인",
+      "unit": 28
+    },
+    {
+      "serial": 694,
+      "text": "stately",
+      "meaning": "위엄이 있는, 당당한",
+      "unit": 28
+    },
+    {
+      "serial": 695,
+      "text": "proficient",
+      "meaning": "숙달한, 능숙한",
+      "unit": 28
+    },
+    {
+      "serial": 696,
+      "text": "tropical",
+      "meaning": "열대의",
+      "unit": 28
+    },
+    {
+      "serial": 697,
+      "text": "superfluous",
+      "meaning": "여분의",
+      "unit": 28
+    },
+    {
+      "serial": 698,
+      "text": "eminent",
+      "meaning": "저명한, 뛰어난",
+      "unit": 28
+    },
+    {
+      "serial": 699,
+      "text": "contrary",
+      "meaning": "반대의, 반대",
+      "unit": 28
+    },
+    {
+      "serial": 700,
+      "text": "fertile",
+      "meaning": "비옥한, 다산의",
+      "unit": 28
+    }
+  ]
+}
