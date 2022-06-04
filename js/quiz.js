@@ -38,10 +38,11 @@ const randomNum = []; //문제 10개 랜덤추출
 const randomDisplay = [];  // 추출한 문제와 뜻 총 20개 객체를 랜덤으로 화면에 표시
 let displayText = [];
 let scoreArray = [];
-let scoreSpeakArray = [];
+// let scoreSpeakArray = [];
 let matchedNo; //문제 맞힐 때마다 1씩 증가. 10문제 다 맞히면 화면reset
 let scoreValue;
 let scoreTodayValue;
+let scoreTodayVariation = 0;
 let combo = 0;
 let decreaseNum = 20;//총 20요소. 영어10, 한글뜻10
 let word = [];
@@ -178,6 +179,7 @@ function displayWords(){
 }
 
 function displaySpeakWords(){
+
   score.textContent = scoreValue;
   kor.textContent = '';
   answer.textContent = '';
@@ -185,11 +187,12 @@ function displaySpeakWords(){
   words.style.opacity = '1';
 
   const li1 = document.createElement('li')
-  li1.textContent = word[randomNum[matchedNo]].meaning; //json data에 담겨있는 단어글자를 li에 표시
+  li1.textContent = word[randomNum[matchedNo]].sentenceMeaning ? word[randomNum[matchedNo]].sentenceMeaning : word[randomNum[matchedNo]].meaning; 
+  //json data에 담겨있는 단어글자를 li에 표시 (sentenceMeaning이 있으면 그걸 우선 쓰라)
   li1.classList.add('kor');
   kor.append(li1);
 
-  engArray = word[randomNum[matchedNo]].text.split(' ');
+  engArray = word[randomNum[matchedNo]].sentence ? word[randomNum[matchedNo]].sentence.split(' ') : word[randomNum[matchedNo]].text.split(' ');
   arrayLength = engArray.length;
   arrayLengthLeft = engArray.length; //단어를 선택할 때마다 하나씩 차감할 예정
   randomSpeakArray();

@@ -38,30 +38,66 @@ mainChapter.addEventListener('click',(e)=>{
 
 subUnitList.addEventListener('click',(e)=>{
   elem = e.target;
-  url = "quiz.html";
-  quizType = "matching";
-  console.log(elem, quizType)
-  SelectData();
-  SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
-})
-
-subSpeakList.addEventListener('click',(e)=>{
-  elem = e.target;
-  url = "quizSpeak.html";
-  quizType = "speaking";
-  console.log(elem, quizType)
+  let scoreValue = scoreArray[parseInt(elem.dataset.unit)-1];
+  if (scoreValue >= 80000){
+    quizType = "speaking"
+  } else if (scoreValue >= 70000){
+    quizType = "matching"
+  }else if (scoreValue >= 60000){
+    quizType = "speaking"
+  } else if (scoreValue >= 50000){
+    quizType = "matching"
+  } else if (scoreValue >= 40000){
+    quizType = "speaking"
+  } else {
+    quizType = "matching"
+  }
+  // quizType = scoreValue <=60000 ? "matching" : "speaking";
+  url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
+  // console.log(elem, quizType);
   SelectData();
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })
 
 signIn.addEventListener('click',()=>{
+  calendar.style.visibility = 'visible';
   SelectCalendarData();
 })
 
 changeUser.addEventListener('click', ()=>{
+  calendar.style.visibility = 'visible';
   SelectCalendarData();
 })
 
+
+    
+//------------- 캘린더에서 좌,우 화살표 클릭 시 월별이동 이벤트
+calendarLeftArrow.addEventListener('click',(e)=>{
+  doShiftMonth(-1);
+});
+
+calendarRighttArrow.addEventListener('click',(e)=>{
+  doShiftMonth(1);
+})
+
+
+//------------- 캘린더에서 user이름 클릭 시 월별이동 이벤트
+signIn.addEventListener('click',(e)=>{
+  today = new Date();
+  thisMonth = `${today.getFullYear()}/${today.getMonth()+1}`;
+  getDayOfFirst();
+  SelectCalendarData();
+})
+
+
+function doShiftMonth(shiftMonth){
+  // today = new Date(today.setMonth(today.getMonth()-1));
+  today = new Date(today.setMonth(today.getMonth()+shiftMonth));
+  thisMonth = `${today.getFullYear()}/${today.getMonth()+1}`;
+  getDayOfFirst();
+  SearchCalendarData();
+
+}
 
 
 // ----------- SELECT PROGRESS FUNCTION ---------------------------------//    
@@ -84,6 +120,26 @@ async function SelectCalendarData(){
       });
       await displayCalendar();
     }
+
+
+    
+    async function SearchCalendarData(){
+      const dbref = ref(db);
+      await get(child(dbref, `${user}/` + 'calendar'+ `/${thisMonth}`)).then((snapshot)=>{
+        if(snapshot.exists()){
+          dateScoreArray = snapshot.val().DateScore;
+        }
+        //firebase데이터에 아무것도 없을 경우
+        else {
+          dateScoreArray = [];
+        }
+      })
+      .catch((error)=>{
+        alert("unsuccessful, error" + error);
+      });
+      await displayCalendar();
+        }
+
 
     async function SelectTodayData(){
       const dbref = ref(db);
@@ -114,14 +170,14 @@ async function SelectData(){
   await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
     if(snapshot.exists()){
       scoreArray = snapshot.val().Score;
-      scoreSpeakArray = snapshot.val().ScoreSpeak;
+      // scoreSpeakArray = snapshot.val().ScoreSpeak;
     }
     //firebase데이터에 아무것도 없을 경우
     //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
     else {
           //새로운 배열을 만들고 각 자리에 0을 채운다.
           scoreArray = new Array(unitLength).fill(0); 
-          scoreSpeakArray = new Array(unitLength).fill(0); 
+          // scoreSpeakArray = new Array(unitLength).fill(0); 
         }
       })
       .catch((error)=>{
@@ -130,19 +186,4 @@ async function SelectData(){
       await displayUnits();
     }
 
-// export {InsertData}; 
-// export {SelectData}; 
 
-    // ----------- INSERT DATA FUNTION ---------------------------------//    
-function InsertData(){
-  console.log("next level");
-  // set(ref(db, `${user}/` + Chapter), {
-  //       Score : [33,0,2,5,0,0,0,0,0,0,0,0,0]
-  //     })
-  //     .then(() => {
-  //       alert("data stored successfully");
-  //     })
-  //     .catch((error)=>{
-  //       alert("unsuccessful, error" + error);
-  //     });
-    }

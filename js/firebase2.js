@@ -56,14 +56,14 @@ async function SelectData(){
   await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
     if(snapshot.exists()){
       scoreArray = snapshot.val().Score;
-      scoreSpeakArray = snapshot.val().ScoreSpeak;
+      // scoreSpeakArray = snapshot.val().ScoreSpeak;
     }
         //firebase데이터에 아무것도 없을 경우
         //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
         else {
           //새로운 배열을 만들고 각 자리에 0을 채운다.
           scoreArray = new Array(unitLength).fill(0); 
-          scoreSpeakArray = new Array(unitLength).fill(0); 
+          // scoreSpeakArray = new Array(unitLength).fill(0); 
         }
       })
       .catch((error)=>{
@@ -95,12 +95,14 @@ async function SelectTodayData(){
     // ----------- INSERT DATA FUNTION ---------------------------------//    
 function InsertData(){
   
-  quizType === "matching" ? scoreArray[unit-1] = scoreValue : scoreSpeakArray[unit-1] = scoreValue;
-  // scoreArray[unit-1] = scoreValue;
-  dateScoreArray[new Date().getDate()-1] = scoreTodayValue;
+  // quizType === "matching" ? scoreArray[unit-1] = scoreValue : scoreSpeakArray[unit-1] = scoreValue;
+  scoreArray[unit-1] = scoreValue;
+  scoreTodayValue = dateScoreArray[new Date().getDate()-1];
+  dateScoreArray[new Date().getDate()-1] = scoreTodayValue + scoreTodayVariation;
+  scoreTodayVariation = 0;
   set(ref(db, `${user}/` + chapter), {
         Score : scoreArray,
-        ScoreSpeak : scoreSpeakArray
+        // ScoreSpeak : scoreSpeakArray
       })
       .then(() => {
         // alert("data stored successfully");
@@ -139,7 +141,7 @@ speakList.addEventListener('click',(e)=>{
     //나열된 영어 단어를 문장으로 다 만들면 맞았나 틀렸나 확인
     if (arrayLengthLeft === 0){ 
        //정답이면
-      if (answer.textContent === word[randomNum[matchedNo]].text){
+      if (answer.textContent === word[randomNum[matchedNo]].text || word[randomNum[matchedNo]].sentence){
         checkAnswerYes();
     }
 
@@ -158,7 +160,7 @@ check.addEventListener('click',()=>{
 })
 
 function checkSpeakAnswer(){
-  let answerTrans = word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
+  let answerTrans = word[randomNum[matchedNo]].sentence? word[randomNum[matchedNo]].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
   //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
   if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
     checkAnswerYes();
@@ -174,10 +176,10 @@ function checkSpeakAnswer(){
 function checkAnswerYes(){
        //정답이면
         audioYes.play();
-        scoreValue = scoreValue + 300 + combo*10;
-        scoreTodayValue = scoreTodayValue + 300 + combo*10;
+        scoreValue = scoreValue + 200 + combo*10;
+        scoreTodayVariation = scoreTodayVariation + 200 + combo*10;
         score.textContent = scoreValue;
-        scoreToday.textContent = scoreTodayValue;
+        scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
         // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
         if(combo>0){
           comboBox.innerHTML = `${combo} combo!`;
@@ -200,7 +202,7 @@ function checkAnswerYes(){
           audioClear.play();
           
           m = Math.floor(Math.random()*10);
-          console.log(m);
+          // console.log(m);
           character.classList.add(`charater0${m}`);
           clearBox.style.display = 'block';
           scoreProgressDisplay();
@@ -266,9 +268,10 @@ wordsList.addEventListener('click',(e)=>{
     if(serialE === serialK){
     audioYes.play();
     scoreValue = scoreValue + 100 + combo*10;
-    scoreTodayValue = scoreTodayValue + 100 + combo*10;
+    scoreTodayVariation = scoreTodayVariation  + 100 + combo*10;
+    // scoreTodayValue = scoreTodayValue + 100 + combo*10;
     score.textContent = scoreValue;
-    scoreToday.textContent = scoreTodayValue;
+    scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
     // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
     if(combo>0){
       comboBox.innerHTML = `${combo} combo!`;
