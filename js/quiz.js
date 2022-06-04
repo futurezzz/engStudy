@@ -403,5 +403,5 @@ mic.addEventListener("click", () => {
 
 //--------------사전 열어보기-------------------------------------//
 dictionary.addEventListener('click',()=>{
-  window.open("../dictionary.html", "Dictionary", "toolbar=no, menubar=no, scrollbars=yes, resizable=no, width=700, height=700, left=0, top=0" );
+  window.open("dictionary.html", "Dictionary", "toolbar=no, menubar=no, scrollbars=yes, resizable=no, width=700, height=700, left=0, top=0" );
 })
