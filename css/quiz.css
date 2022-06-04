@@ -104,6 +104,14 @@
   margin-top: -18px;
 }
 
+.quiz-left{
+  margin-top: -10px;
+  margin-right: -260px;
+  width: 20px;
+  font-size: 12px;
+  color: #aaa;
+}
+
 .dictionary{
   position: absolute;
   margin-right: -260px;
