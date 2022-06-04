@@ -44,7 +44,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  height: 100px;
+  height: 78px;
   user-select: none;
   cursor: pointer;
   overflow-x: scroll;
@@ -76,7 +76,7 @@
   grid-template-columns: repeat(4,1fr);
   gap: 5px;
   list-style: none;
-  margin-top: 10px;
+  margin-top: -10px;
   margin-bottom: 30px;
 }
 
@@ -253,11 +253,13 @@
 
   .main-unit-list {
     width: 900px;
+    height: 100px;
     justify-content: center;
     overflow-x:auto;
   }
-    .sub-unit-list, .sub-speak-list {
-      grid-template-columns: repeat(7,1fr);
+
+  .sub-unit-list, .sub-speak-list {
+    grid-template-columns: repeat(7,1fr);
   }
 
   .signIn {

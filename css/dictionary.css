@@ -1,0 +1,192 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+:root {
+  /* color */
+  --word-on-color: hsla(180, 82%, 31%, 0.877);
+  --word-off-color: hsl(185, 66%, 22%);
+  --answer-color: hsla(180, 82%, 31%, 0.424);
+  --meaning-on-color: hsl(58, 100%, 93%);
+  --meaning-on-border-color: hsl(43, 52%, 79%);
+  --score-color: hsl(186, 39%, 26%);
+  --score-porgress-color: hsl(180, 43%, 82%);
+  --button-color: hsl(185, 34%, 53%);
+  --black-color:hsl(0, 0%, 35%);
+  --white: #f0f0f0;
+}
+
+#menu {
+  position: absolute;
+  /* z-index: 10; */
+}
+
+.container {
+  position: absolute;
+  width: 96%;
+  top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-box {
+  display: flex;
+}
+
+.title-box > img {
+  width: 25px;
+  height: 25px;
+  margin-left: -30px;
+}
+
+.title {
+  height: 25px;
+  color: var(--black-color);
+  font-size: 18px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.close {
+  position: absolute;
+  right: 10px;
+  top: -10px;
+  font-size: 20px;
+  color: rgb(57, 149, 189);
+  cursor: pointer;
+}
+
+.user-img{
+  position: absolute;
+  margin-left: -270px;
+  margin-top: 37px;
+  /* background-image: url('../img /userMirae.png'); */
+  background-size: 50px;
+  width: 50px;
+  height: 50px;
+}
+
+.search {
+  margin: 10px 0 20px;
+  font-size: 15px;
+  text-align: center;
+  padding: 5px;
+  color: var(--score-color);
+  border: 1px solid rgb(87, 135, 174);
+  border-radius: 10px;
+  width: 180px;
+  
+}
+
+.search-icon{
+  position: absolute;
+  margin-right: -220px;
+  margin-top: 45px;
+  cursor: pointer;
+}
+
+.allBtn{
+  position: absolute;
+  margin-right: -310px;
+  margin-top: 47px;
+  padding: 3px;
+  width: 40px;
+  cursor: pointer;
+  background-color: rgb(72, 184, 232);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.unit-num {
+  font-size: 14px;
+  font-style: italic;
+  color: orangered;
+}
+
+.text {
+  color: rgb(70, 99, 157);
+}
+
+.meaning {
+  color: rgb(74, 74, 74);
+}
+
+.words {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  max-width: 700px;
+  background-color: #f0f0f0;
+}
+
+.word-scroll {
+  overflow: auto;
+  height: 700px;
+}
+
+.word {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 0;
+  text-align: center;
+  border: 1px solid #ccc;
+  /* color: var(--black-color); */
+  user-select: none;
+}
+
+
+
+.words-list {
+  display: grid;
+  /* grid-template-columns: repeat(3,1fr); */
+  grid-template-columns: 30px 40px 250px 250px;
+  list-style: none;
+}
+
+.red {
+  color: orangered;
+}
+
+/* 유져벌 캐릭터이미지 */
+.thumbSkyShim {
+  background-image: url('../img/userSkyShim.png');
+}
+
+.thumbLamon {
+  background-image: url('../img/userLamon.png');
+}
+
+.thumbMirae {
+  background-image: url('../img/userMirae.png');
+}
+
+
+@media screen and (max-width: 768px) {
+
+  .word-scroll {
+    margin-left: 10px;
+    height: 500px;
+  }
+  
+  .words {
+    max-width: 400px;
+  }
+  
+  .word {
+    font-size: 12px;
+  }
+  
+  .words-list {
+    display: grid;
+    /* grid-template-columns: repeat(3,1fr); */
+    grid-template-columns: 25px 30px 160px 160px;
+    list-style: none;
+  }
+  
+}

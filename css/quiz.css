@@ -104,6 +104,20 @@
   margin-top: -18px;
 }
 
+.dictionary{
+  position: absolute;
+  margin-right: -260px;
+  margin-top: 2px;
+  padding: 3px;
+  width: 50px;
+  cursor: pointer;
+  background-color: rgb(111, 200, 238);
+  box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
 .combo-box {
   font-size: 10px;
   width: 260px;
@@ -149,13 +163,7 @@
   color: var(--black-color);
   user-select: none;
 }
-.test, .test2 {
-  width: 200px;
-  height: 30px;
-  margin: 2px;
-  text-align: center;
-  background-color: #aaa;
-}
+
 .kor {
   display: flex;
   justify-content: center;
@@ -400,7 +408,6 @@
 
 .thumbMirae {
   background-image: url('../img/userMirae.png');
-  color: rgb(18, 73, 15);
 }
 
 @keyframes play {
