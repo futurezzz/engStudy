@@ -141,7 +141,7 @@ speakList.addEventListener('click',(e)=>{
     //나열된 영어 단어를 문장으로 다 만들면 맞았나 틀렸나 확인
     if (arrayLengthLeft === 0){ 
        //정답이면
-      if (answer.textContent === word[randomNum[matchedNo]].text || word[randomNum[matchedNo]].sentence){
+      if (answer.textContent === (word[matchedNo].sentence ? word[matchedNo].sentence : word[matchedNo].text)){
         checkAnswerYes();
     }
 
@@ -160,7 +160,8 @@ check.addEventListener('click',()=>{
 })
 
 function checkSpeakAnswer(){
-  let answerTrans = word[randomNum[matchedNo]].sentence? word[randomNum[matchedNo]].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
+  // let answerTrans = word[randomNum[matchedNo]].sentence? word[randomNum[matchedNo]].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
+  let answerTrans = word[matchedNo].sentence? word[matchedNo].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[matchedNo].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
   //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
   if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
     checkAnswerYes();
@@ -188,6 +189,7 @@ function checkAnswerYes(){
       combo++;
       matchedNo++;
       console.log(matchedNo);
+      quizLeft.textContent = numOfQuiz - matchedNo;
       answer.style.color = '#98d0d0';
       setTimeout(()=>{
         comboBox.classList.remove('combo-boxOn');
@@ -196,7 +198,8 @@ function checkAnswerYes(){
       },1000)
       
     // 10문제 다 맞히면 클리어. platBtn 활성화
-      if(matchedNo === 10 ){
+    // seak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
+      if(matchedNo === numOfQuiz ){
         character.classList.remove(`charater0${m}`);
         setTimeout(()=>{
           audioClear.play();
@@ -291,7 +294,7 @@ wordsList.addEventListener('click',(e)=>{
     },500)
 
     // 10문제 다 맞히면 클리어. platBtn 활성화
-    if(matchedNo === 10 ){
+    if(matchedNo === numOfQuiz ){
       character.classList.remove(`charater0${m}`);
       setTimeout(()=>{
         audioClear.play();

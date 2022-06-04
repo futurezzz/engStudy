@@ -10,6 +10,8 @@ const answer = document.querySelector('.answer');
 const bottom = document.querySelector('.bottom');
 const back = document.querySelector('.back');
 const check = document.querySelector('.check');
+let quizLeft = document.querySelector('.quiz-left'); //짝맞추기 문제를 풀지. speak문제를 풀지 선택
+let numOfQuiz = 10;
 let answerTry;
 const reset = document.querySelector('.reset');
 const score = document.querySelector('.score');
@@ -65,6 +67,7 @@ loadItems()
   displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   displayItems(items); //DATA에서 랜덤으로 가져온 단어들을 word라는 변수에 할당
   //quizType이 matcing이면 짝맞추기 문제. speaking 이면 speaking 문제 내기
+  quizLeft.textContent = word.length;
   quizType === "matching" ? displayWords() : displaySpeakWords()
   
 })
@@ -142,6 +145,7 @@ function displayWords(){
   reset.style.display = 'none';
   back.style.display = 'none';
   check.style.display = 'none';
+  quizLeft.style.display = 'none';
   // matchedNo = 0;
   // combo = 0;
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
@@ -186,14 +190,17 @@ function displaySpeakWords(){
   answer.textContent = '';
   speakList.textContent = '';
   words.style.opacity = '1';
+  numOfQuiz = word.length;
 
   const li1 = document.createElement('li')
-  li1.textContent = word[randomNum[matchedNo]].sentenceMeaning ? word[randomNum[matchedNo]].sentenceMeaning : word[randomNum[matchedNo]].meaning; 
+  // li1.textContent = word[randomNum[matchedNo]].sentenceMeaning ? word[randomNum[matchedNo]].sentenceMeaning : word[randomNum[matchedNo]].meaning; 
+  li1.textContent = word[matchedNo].sentenceMeaning ? word[matchedNo].sentenceMeaning : word[matchedNo].meaning; 
   //json data에 담겨있는 단어글자를 li에 표시 (sentenceMeaning이 있으면 그걸 우선 쓰라)
   li1.classList.add('kor');
   kor.append(li1);
 
-  engArray = word[randomNum[matchedNo]].sentence ? word[randomNum[matchedNo]].sentence.split(' ') : word[randomNum[matchedNo]].text.split(' ');
+  // engArray = word[randomNum[matchedNo]].sentence ? word[randomNum[matchedNo]].sentence.split(' ') : word[randomNum[matchedNo]].text.split(' ');
+  engArray = word[matchedNo].sentence ? word[matchedNo].sentence.split(' ') : word[matchedNo].text.split(' ');
   arrayLength = engArray.length;
   arrayLengthLeft = engArray.length; //단어를 선택할 때마다 하나씩 차감할 예정
   randomSpeakArray();
@@ -204,6 +211,8 @@ function displaySpeakWords(){
     speakList.append(li2);
   }
 }
+
+
 // ------------------------- BACK --------------------------------------//
 back.addEventListener('click',()=>{
   //undo할 글자가 하나 이상 있으면
@@ -243,8 +252,10 @@ function randomSpeakArray(){
   }
   for (let j=0; j<arrayLength; j++){
     let n = Math.floor(Math.random()*engArray.length);
+
     // 인덱스 번호에 있는 값을 빼서 num 에 넣기
     num = engArray.splice(n,1);
+
     // console.log(num)
     // 빼내온 num을 randomNum에 차례로 배열로 집어넣기
     // 여기서 빼온 num도 배열이기 때문에 []을 써서 값만 꺼내옴
@@ -282,8 +293,10 @@ function displayShuffle(){
   for ( let i = 0; i < 20; i++){
     //0~19 사이 인덱스번호고르기
     let n = Math.floor(Math.random()*array.length);
+
     // 인덱스 번호에 있는 값을 빼서 num 에 넣기
     num = array.splice(n,1);
+
     // 빼내온 num을 randomNum에 차례로 배열로 집어넣기
     // 여기서 빼온 num도 배열이기 때문에 []을 써서 값만 꺼내옴
     randomDisplay.push(num[0]);
