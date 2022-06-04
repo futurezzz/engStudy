@@ -1,6 +1,7 @@
 const title = document.querySelector('.title');
 const userImg = document.querySelector('.user-img');
 const unitText = document.querySelector('.unit');
+const dictionary = document.querySelector('.dictionary');
 const wordsList = document.querySelector('.words-list');
 const speakList = document.querySelector('.speak-list');
 const words = document.querySelector('.words');
@@ -384,4 +385,10 @@ mic.addEventListener("click", () => {
     mic.style.backgroundColor = null;
   }
 
+})
+
+
+//--------------사전 열어보기-------------------------------------//
+dictionary.addEventListener('click',()=>{
+  window.open("../dictionary.html", "Dictionary", "toolbar=no, menubar=no, scrollbars=yes, resizable=no, width=700, height=700, left=0, top=0" );
 })
