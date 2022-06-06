@@ -57,6 +57,9 @@ recognition.continuous = true;
 // maxAlternatives가 크면 이상한 단어도 문장에 적합하게 알아서 수정합니다.
 recognition.maxAlternatives = 10000;
 
+// displaySpeakWords();
+
+
 let p = document.createElement("p");
 p.classList.add("para");
 

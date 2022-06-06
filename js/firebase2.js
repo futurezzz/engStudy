@@ -45,7 +45,23 @@ function resetData(){
   randomArray(); //난수를 발생시켜 단어와 뜻을 섞음
   displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   // displayItems(items);
-  // quiZtype이 matching이면 짝맞추기. 그게 아니면 말하기 버전으로 이동
+
+  if (scoreValue >= 70000){
+    quizType = "speaking"
+  } else if (scoreTodayValue >= 65000){
+    quizType = "matching"
+  }else if (scoreTodayValue >= 50000){
+    quizType = "speaking";
+  } else if (scoreTodayValue >= 45000){
+    quizType = "matching";
+  } else if (scoreTodayValue >= 30000){
+    quizType = "speaking"
+  } else {
+    quizType = "matching"
+  }
+
+
+  // // quiZtype이 matching이면 짝맞추기. 그게 아니면 말하기 버전으로 이동
   quizType === "matching" ? displayWords() : displaySpeakWords()
 }
 
@@ -99,6 +115,7 @@ function InsertData(){
   scoreArray[unit-1] = scoreValue;
   scoreTodayValue = dateScoreArray[new Date().getDate()-1];
   dateScoreArray[new Date().getDate()-1] = scoreTodayValue + scoreTodayVariation;
+  scoreTodayValue = scoreTodayValue + scoreTodayVariation;
   scoreTodayVariation = 0;
   set(ref(db, `${user}/` + chapter), {
         Score : scoreArray,
@@ -181,6 +198,7 @@ function checkAnswerYes(){
         scoreTodayVariation = scoreTodayVariation + 200 + combo*10;
         score.textContent = scoreValue;
         scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+        
         // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
         if(combo>0){
           comboBox.innerHTML = `${combo} combo!`;
@@ -226,10 +244,10 @@ function checkAnswerYes(){
 function checkAnswerNo(){
   audioNo.play();
   scoreValue -= 50;
-  scoreTodayValue -= 50;
+  scoreTodayVariation -= 50;
   combo = 0;
   score.textContent = scoreValue;
-  scoreToday.textContent = scoreTodayValue;
+  scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
   answer.style.color = '#98d0d0';
   setTimeout(()=>{
     resetSpeech();
@@ -239,7 +257,7 @@ function checkAnswerNo(){
 }
 
 
-// quiz.js 에서 가져옴--------------------------------------------------------
+// quiz.js 에서 가져옴--짝맞추기에 쓰이는 코딩------------------------------------------------------
 wordsList.addEventListener('click',(e)=>{
   // console.log(e.target.textContent);
   let elem = e.target.classList;
@@ -272,7 +290,7 @@ wordsList.addEventListener('click',(e)=>{
     audioYes.play();
     scoreValue = scoreValue + 100 + combo*10;
     scoreTodayVariation = scoreTodayVariation  + 100 + combo*10;
-    // scoreTodayValue = scoreTodayValue + 100 + combo*10;
+    
     score.textContent = scoreValue;
     scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
     // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
@@ -323,10 +341,11 @@ wordsList.addEventListener('click',(e)=>{
   } else if(checkedE && checkedK && serialE !== serialK){
     audioNo.play();
     scoreValue -= 50;
-    scoreTodayValue -= 50;
+    scoreTodayVariation -= 50;
     combo = 0;
     score.textContent = scoreValue;
-    scoreToday.textContent = scoreTodayValue;
+    scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+    
     setTimeout(()=>{
       checkedE.replace('textOn','text')
       checkedK.replace('meaningOn','meaning')

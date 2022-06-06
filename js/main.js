@@ -97,8 +97,8 @@ function transferData(){
     // localStorage.setItem("scoreSpeakArray",JSON.stringify(scoreSpeakArray));
     localStorage.setItem("dateScoreArray",JSON.stringify(dateScoreArray));
     if (typeof (window.open) == "function")
-    { window.open(url); 
-    } else { window.location.href = url;
+    { window.open("quiz.html"); 
+    } else { window.location.href = "quiz.html";
     // { window.open("quiz.html"); 
     // } else { window.location.href = "quiz.html";
     }

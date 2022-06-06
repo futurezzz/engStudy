@@ -39,21 +39,23 @@ mainChapter.addEventListener('click',(e)=>{
 subUnitList.addEventListener('click',(e)=>{
   elem = e.target;
   let scoreValue = scoreArray[parseInt(elem.dataset.unit)-1];
-  if (scoreValue >= 80000){
+  if (scoreValue >= 70000){
     quizType = "speaking"
-  } else if (scoreValue >= 70000){
+  } else if (scoreValue >= 65000){
     quizType = "matching"
-  }else if (scoreValue >= 60000){
+  }else if (scoreValue >= 50000){
     quizType = "speaking"
-  } else if (scoreValue >= 50000){
+  } else if (scoreValue >= 45000){
     quizType = "matching"
-  } else if (scoreValue >= 40000){
+  } else if (scoreValue >= 30000){
     quizType = "speaking"
   } else {
     quizType = "matching"
   }
+
+
   // quizType = scoreValue <=60000 ? "matching" : "speaking";
-  url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
+  // url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
   // console.log(elem, quizType);
   SelectData();
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
@@ -184,6 +186,7 @@ async function SelectData(){
         alert("unsuccessful, error" + error);
       });
       await displayUnits();
+      //displayUnits은 해당unit점수표시와 진행정도 표시
     }
 
 

@@ -105,7 +105,7 @@ function userImgDisplay(){
 }
 
 function scoreProgressDisplay(){
-  scoreProgressValue = scoreValue / 200;
+  scoreProgressValue = scoreValue / 400;
   console.log(scoreValue)
   if (scoreProgressValue >= 190) {
     scoreProgressValue = 200;
@@ -139,13 +139,24 @@ function displayItems(items){
   word = items.map(item=>item);
 }
 
+
+
 function displayWords(){
+
+  
+  // -----짝맞추기에 활용된 아이템들 보이기
+  wordsList.style.display = 'grid';
   score.textContent = scoreValue;
+  words.style.opacity = '1';
+
+  //---- 스피킹에 활용된 아이템들 감추기
+  speakList.style.display = 'none';
   bottom.style.display = 'none';
-  reset.style.display = 'none';
-  back.style.display = 'none';
-  check.style.display = 'none';
+  kor.style.display = 'none';
+  answer.style.display = 'none';
   quizLeft.style.display = 'none';
+  numOfQuiz = word.length;
+
   // matchedNo = 0;
   // combo = 0;
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
@@ -184,12 +195,20 @@ function displayWords(){
 }
 
 function displaySpeakWords(){
-
+  // -----짝맞추기에 활용된 아이템들 감추기
+  wordsList.style.display = 'none';
   score.textContent = scoreValue;
   kor.textContent = '';
   answer.textContent = '';
   speakList.textContent = '';
   words.style.opacity = '1';
+
+  //---- 스피킹에 활용된 아이템들 보이기
+  speakList.style.display = 'flex';
+  bottom.style.display = 'block';
+  kor.style.display = 'block';
+  answer.style.display = 'block';
+  quizLeft.style.display = 'block';
   numOfQuiz = word.length;
 
   const li1 = document.createElement('li')
