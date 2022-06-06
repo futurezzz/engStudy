@@ -316,7 +316,7 @@ wordsList.addEventListener('click',(e)=>{
     },500)
 
     // 10문제 다 맞히면 클리어. platBtn 활성화
-    if(matchedNo === numOfQuiz ){
+    if(matchedNo === 10 ){
       character.classList.remove(`charater0${m}`);
       setTimeout(()=>{
         audioClear.play();
