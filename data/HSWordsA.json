@@ -2117,7 +2117,7 @@
       "serial": 265,
       "text": "lottery",
       "meaning": "복권뽑기, 추첨",
-      "sentence": "She won first prize in the lottery.",
+      "sentence": "She won the first prize in the lottery.",
       "sentenceMeaning": "그녀는 복권 1등에 당첨되었다",
       "unit": 11
     },
@@ -4037,7 +4037,7 @@
       "serial": 505,
       "text": "separate",
       "meaning": "분리된",
-      "sentence": "I try to keep meat separate from other food",
+      "sentence": "I try to separate meat from other food",
       "sentenceMeaning": "나는 고기를 다른 음식과 분리하려고 노력한다.",
       "unit": 21
     },
@@ -4653,7 +4653,7 @@
       "serial": 582,
       "text": "equip",
       "meaning": "갖추다. 장비하다",
-      "sentence": "It's going to cost $4 million to equip the hospital.",
+      "sentence": "It's going to cost $4million to equip the hospital.",
       "sentenceMeaning": "병원 설비를 갖추는데 4백만 달러가 들 것이다.",
       "unit": 24
     },
@@ -4918,7 +4918,7 @@
       "text": "operate",
       "meaning": "움직이다. 운영하다. 수술하다.",
       "sentence": "How do you operate the remote control unit?",
-      "sentenceMeaning": "리모컨은 어떻게 작동합니까?",
+      "sentenceMeaning": "리모컨은 어떻게 작동합니까? ",
       "unit": 25
     },
     {
