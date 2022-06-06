@@ -205,22 +205,23 @@
   background-color: var(--answer-color);
 }
 
+
+
 .bottom {
   display: flex;
-  /* justify-content: center; */
-  padding: 25px;
+  padding: 15px;
 }
+
 .back{
   position: relative;
-  /* left: -35px; */
+  left: 55px;
+  top: 35px;
   color: #aaa;
   box-sizing: border-box;
   width: 25px;
   height: 25px;
   border-width: 4px 0 0 4px;
   border-style: solid;
-  margin: 10px;
-  margin-left: 30px;
   transform: rotate(-45deg);
   cursor: pointer;
 }
@@ -237,12 +238,12 @@
 }
 
 .reset {
-  width: 150px;
+  width: 140px;
   height: 45px;
   background-color: rgb(228, 228, 228);
   text-align: center;
   line-height: 45px;
-  margin-left: 25px;
+  margin-left: 110px;
   border-radius: 10px;
   user-select: none;
   cursor: pointer;
@@ -257,7 +258,7 @@
   box-shadow: 0px 0px 3px #b1b1b1;
   background-color: var(--white);
   line-height: 65px;
-  margin-left: 20px;
+  margin: -45px 0 0 260px;
   cursor: pointer;
 }
 
@@ -266,8 +267,10 @@
 }
 
 .check >img {
+  position: relative;
+  top: -50px;
   width: 50px;
-  margin-left: 10px;
+  margin-left: 320px;
   font-size: 43px;
   cursor: pointer;
   /* svg색상은 filter명령을 통해서 바꾼다.
@@ -277,7 +280,6 @@
   /* filter: invert(28%) sepia(39%) saturate(505%) hue-rotate(137deg) brightness(96%) contrast(96%); */
   filter: invert(60%) sepia(44%) saturate(377%) hue-rotate(137deg) brightness(95%) contrast(86%);
 }
-
 
 .speak-list{
   display: flex;
