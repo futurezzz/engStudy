@@ -2,6 +2,7 @@ const title = document.querySelector('.title')
 const userImg = document.querySelector('.user-img');
 const searchText = document.querySelector('.search');
 const searchIcon = document.querySelector('.search-icon');
+const searchedSent = document.querySelector('.searchedSentence');
 const allBtn = document.querySelector('.allBtn');
 const closeBtn = document.querySelector('.close');
 const wordsList = document.querySelector('.words-list');
@@ -11,7 +12,6 @@ const meaning = document.querySelector('.meaning');
 let chapter;
 let wordsArray = []; //해당 unit에 속하는 모든 문제들 담기
 let searchArray = []; //해당 unit에 속하는 모든 문제들 담기
-
 
 
 loadLocalStorage();
@@ -31,8 +31,13 @@ async function loadItems(){
 }
 
 wordsList.addEventListener('click',(e)=>{
-  console.log(e.target)
-})
+  let searchedIndex = wordsArray.findIndex(item=>
+      item.text == e.target.textContent);
+        console.log(searchedIndex)
+  let searchedSentence = wordsArray[searchedIndex].sentence;
+        console.log(searchedSentence);
+  searchedSent.textContent =  searchedSentence;
+  })
 
 searchIcon.addEventListener('click',()=>{
   searchArray = wordsArray.filter(item => item.text.includes(searchText.value) || item.meaning.includes(searchText.value) );
@@ -49,9 +54,9 @@ closeBtn.addEventListener('click',()=>{
 })
 
 // --------------FUNCTION ----------------------------
-function displayItems(items){
-  word = items.map(item=>item);
-}
+// function displayItems(items){
+//   word = items.map(item=>item);
+// }
 
 function displayWords(items){
   wordsList.innerHTML = '';
@@ -60,6 +65,8 @@ function displayWords(items){
       const li1 = document.createElement('li');
       const li2 = document.createElement('li');
       const li3 = document.createElement('li');
+      const li4 = document.createElement('li');
+      const li5 = document.createElement('li');
       // ``백틱 안에 공백넣는 것. \u00a0
       li3.textContent = items[i].unit;
       li3.classList.add('word');
@@ -79,6 +86,7 @@ function displayWords(items){
       li2.classList.add('word');
       li2.classList.add('meaning');
       wordsList.append(li2);
+
   }
 }
 
