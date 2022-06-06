@@ -162,8 +162,8 @@ function displayWords(){
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
   for(let i=0 ; i<10; i++){
     let index = randomNum[i];
-    displayText[randomDisplay[2*i]] = (scoreProgressValue >= 50 && word[index].sentence) ? word[index].sentence : word[index].text;
-    displayText[randomDisplay[2*i+1]] = (scoreProgressValue >= 50 && word[index].sentence) ? word[index].sentenceMeaning :word[index].meaning;
+    displayText[randomDisplay[2*i]] = (scoreProgressValue >= 30 && word[index].sentence) ? word[index].sentence : word[index].text;
+    displayText[randomDisplay[2*i+1]] = (scoreProgressValue >= 30 && word[index].sentence) ? word[index].sentenceMeaning :word[index].meaning;
   }
 
   for(let j=0; j<20; j++){

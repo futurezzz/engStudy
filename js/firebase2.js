@@ -56,6 +56,10 @@ function resetData(){
     quizType = "matching";
   } else if (scoreTodayValue >= 30000){
     quizType = "speaking"
+  } else if (scoreTodayValue >= 25000){
+    quizType = "matching";
+  } else if (scoreTodayValue >= 15000){
+    quizType = "speaking"
   } else {
     quizType = "matching"
   }
