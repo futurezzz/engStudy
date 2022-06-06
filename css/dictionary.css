@@ -71,7 +71,7 @@
 }
 
 .search {
-  margin: 10px 0 20px;
+  margin: 10px 0;
   font-size: 15px;
   text-align: center;
   padding: 5px;
@@ -101,6 +101,19 @@
   border: none;
   border-radius: 5px;
 }
+
+.searchedSentence {
+  margin: 0 0 10px;
+  font-size: 14px;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  background-color: rgba(0,0,0,.7);
+  border-radius: 10px;
+  width: 420px;
+}
+
+
 .unit-num {
   font-size: 14px;
   font-style: italic;
@@ -125,7 +138,7 @@
 }
 
 .word-scroll {
-  overflow: auto;
+  overflow: scroll;
   height: 700px;
 }
 
@@ -144,7 +157,7 @@
 
 .words-list {
   display: grid;
-  /* grid-template-columns: repeat(3,1fr); */
+  /* grid-template-columns: repeat(6,auto); */
   grid-template-columns: 30px 40px 250px 250px;
   list-style: none;
 }
@@ -169,13 +182,17 @@
 
 @media screen and (max-width: 768px) {
 
+  .searchedSentence {
+    font-size: 12px;
+    width: 320px;
+  }
   .word-scroll {
-    margin-left: 10px;
+    margin-left: 20px;
     height: 500px;
   }
   
   .words {
-    max-width: 400px;
+    max-width: 380px;
   }
   
   .word {
@@ -184,7 +201,8 @@
   
   .words-list {
     display: grid;
-    /* grid-template-columns: repeat(3,1fr); */
+    
+    /* grid-template-columns: repeat(6,auto); */
     grid-template-columns: 25px 30px 160px 160px;
     list-style: none;
   }
