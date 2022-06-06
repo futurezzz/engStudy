@@ -1,0 +1,1145 @@
+{
+  "items":
+  [
+    {
+      "serial": 1,
+      "text": "What are you interested in?",
+      "meaning": "너는 무엇에 관심이 있니?",
+      "unit": 1
+    },
+    {
+      "serial": 2,
+      "text": "I'm interested in music",
+      "meaning": "나는 음악에 관심이 있다.",
+      "unit": 1
+    },
+    {
+      "serial": 3,
+      "text": "Why don't you go to a concert hall this weekend?",
+      "meaning": "이번 주말에 콘서트 홀에 가는 게 어때요?",
+      "unit": 1
+    },
+    {
+      "serial": 4,
+      "text": "Sound good. May I record the music there?",
+      "meaning": "좋아요. 거기서 음악을 녹음해도 될까요?",
+      "unit": 1
+    },
+    {
+      "serial": 5,
+      "text": "No, you may not",
+      "meaning": "아니, 너는 그래서는 안된다.",
+      "unit": 1
+    },
+    {
+      "serial": 6,
+      "text": "Are you interested in selfies?",
+      "meaning": "여러분은 셀카에 관심이 있나요?",
+      "unit": 1
+    },
+    {
+      "serial": 7,
+      "text": "You probably like to post selfies on social media, but how much do you know about selfies?",
+      "meaning": "여러분은 아마도 소셜 미디어에 셀카를 올리는 것을 좋아할 것이지만, 셀카에 대해 얼마나 알고 있나요?",
+      "unit": 1
+    },
+    {
+      "serial": 8,
+      "text": "Here are some interesting facts.",
+      "meaning": "여기 몇 가지 흥미로운 사실이 있습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 9,
+      "text": "Robert Cornelius took the world's first selfie in 1839.",
+      "meaning": "로버트 코넬리우스는 1839년에 세계 최초의 셀카를 찍었습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 10,
+      "text": "Selfie became a new word in the dictionary in 2013.",
+      "meaning": "셀카는 2013년에 사전에서 새로운 단어가 되었습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 11,
+      "text": "Buzz Aldrin took the first space selfie in 1966.",
+      "meaning": "버즈 올드린은 1966년에 처음으로 우주 셀카를 찍었습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 12,
+      "text": "Taking selfies is part of daily life for many teens, but do teens really enjoy it?",
+      "meaning": "셀카를 찍는 것은 많은 십대들에게 일상 생활의 일부이지만, 십대들이 정말 셀카를 즐길까요?",
+      "unit": 1
+    },
+    {
+      "serial": 13,
+      "text": "To find out, we did a survey.",
+      "meaning": "알아보기 위해, 우리는 설문조사를 했습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 14,
+      "text": "We asked three questions of300 students from ages 14 to 16.",
+      "meaning": "우리는 14세에서 16세 사이의 300명의 학생들에게 세 가지 질문을 했습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 15,
+      "text": "Let's look at the results.",
+      "meaning": "결과를 봅시다.",
+      "unit": 1
+    },
+    {
+      "serial": 16,
+      "text": "Surprisingly, 90 percent of the girls take selfies, but only 15 percent of the boys take selfies.",
+      "meaning": "놀랍게도, 90%의 소녀들이 셀카를 찍지만, 15%의 소년들만이 셀카를 찍습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 17,
+      "text": "Also, 93 percent of these students said that they use filters.",
+      "meaning": "또한, 이 학생들 중 93 퍼센트가 필터를 사용한다고 말했습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 18,
+      "text": "The survey also showed that the students take selfies at school the most.",
+      "meaning": "이 조사는 또한 학생들이 학교에서 셀카를 가장 많이 찍는다는 것을 보여주었습니다.",
+      "unit": 1
+    },
+    {
+      "serial": 19,
+      "text": "Check out some of the students' comments.",
+      "meaning": "학생들의 코멘트를 확인해 보세요.",
+      "unit": 1
+    },
+    {
+      "serial": 20,
+      "text": "Selfies are awesome. Making silly faces is really fun!",
+      "meaning": "셀카 대박이다. 바보 같은 표정을 짓는 것은 정말 재미있어요!",
+      "unit": 1
+    },
+    {
+      "serial": 21,
+      "text": "I enjoy taking selfies, but some students spend too much time doing it.",
+      "meaning": "나는 셀카를 찍는 것을 좋아하지만, 어떤 학생들은 셀카를 찍는데 너무 많은 시간을 보낸다.",
+      "unit": 1
+    },
+    {
+      "serial": 22,
+      "text": "My pictures look good when I use filters.",
+      "meaning": "내 사진은 필터를 사용하면 보기 좋다.",
+      "unit": 1
+    },
+    {
+      "serial": 23,
+      "text": "But sometimes my selfies don't look like me.",
+      "meaning": "하지만 가끔 내 셀카는 나와 닮지 않았어.",
+      "unit": 1
+    },
+    {
+      "serial": 24,
+      "text": "You should follow etiquette for selfies.",
+      "meaning": "셀카를 찍으려면 에티켓을 지켜야 한다.",
+      "unit": 2
+    },
+    {
+      "serial": 25,
+      "text": "Ask yourself these questions before you take, post, or look at selfies.",
+      "meaning": "셀카를 찍거나 게시하거나 보기 전에 자신에게 이러한 질문을 하십시오.",
+      "unit": 2
+    },
+    {
+      "serial": 26,
+      "text": "Choose appropriate places to take selfies.",
+      "meaning": "셀카를 찍을 적절한 장소를 선택하세요.",
+      "unit": 2
+    },
+    {
+      "serial": 27,
+      "text": "Don't take selfies in hospitals or public restrooms.",
+      "meaning": "병원이나 공중 화장실에서 셀카를 찍지 마세요.",
+      "unit": 2
+    },
+    {
+      "serial": 28,
+      "text": "It may bother other people.",
+      "meaning": "그것은 다른 사람들을 괴롭힐지도 모른다.",
+      "unit": 2
+    },
+    {
+      "serial": 29,
+      "text": "Keep in mind that anyone can see your selfies.",
+      "meaning": "여러분의 셀카를 누구나 볼 수 있다는 것을 기억하세요.",
+      "unit": 2
+    },
+    {
+      "serial": 30,
+      "text": "Choose carefully when you post them.",
+      "meaning": "그것들을 게시할 때 신중하게 선택하세요.",
+      "unit": 2
+    },
+    {
+      "serial": 31,
+      "text": "Leave nice comments on other people's selfies.",
+      "meaning": "다른 사람의 셀카에 좋은 댓글을 달아주세요.",
+      "unit": 2
+    },
+    {
+      "serial": 32,
+      "text": "Don't be rude.",
+      "meaning": "버릇없이 굴지 마.",
+      "unit": 2
+    },
+    {
+      "serial": 33,
+      "text": "That sounds easy, doesn't it?",
+      "meaning": "쉽겠네요, 그렇죠?",
+      "unit": 2
+    },
+    {
+      "serial": 34,
+      "text": "Follow these tips and have fun with your selfies!",
+      "meaning": "이 조언들을 따르고 셀카를 찍으며 재미있게 보내세요!",
+      "unit": 2
+    },
+    {
+      "serial": 35,
+      "text": "Be a great internet user!",
+      "meaning": "훌륭한 인터넷 사용자가 되세요!",
+      "unit": 2
+    },
+    {
+      "serial": 36,
+      "text": "When we use the internet, we should follow some rules.",
+      "meaning": "우리가 인터넷을 사용할 때, 우리는 몇 가지 규칙을 따라야 한다.",
+      "unit": 2
+    },
+    {
+      "serial": 37,
+      "text": "Then we can enjoy the internet more.",
+      "meaning": "그러면 우리는 인터넷을 더 즐길 수 있다.",
+      "unit": 2
+    },
+    {
+      "serial": 38,
+      "text": "First of all, we should follow language rules because people may not understand us.",
+      "meaning": "우선, 사람들은 우리를 이해하지 못할 수도 있기 때문에 우리는 언어 규칙을 따라야 합니다.",
+      "unit": 2
+    },
+    {
+      "serial": 39,
+      "text": "Also, we should post only true information.",
+      "meaning": "또한, 우리는 진실된 정보만 게시해야 합니다.",
+      "unit": 2
+    },
+    {
+      "serial": 40,
+      "text": "People may believe our incorrect information.",
+      "meaning": "사람들은 우리의 잘못된 정보를 믿을지도 모른다.",
+      "unit": 2
+    },
+    {
+      "serial": 41,
+      "text": "Finally, we should not leave rude comments.",
+      "meaning": "마지막으로, 우리는 무례한 말을 남기지 말아야 합니다.",
+      "unit": 2
+    },
+    {
+      "serial": 42,
+      "text": "We can hurt others' feelings.",
+      "meaning": "우리는 다른 사람의 감정을 상하게 할 수 있습니다.",
+      "unit": 2
+    },
+    {
+      "serial": 43,
+      "text": "Keep these rules in mind.",
+      "meaning": "이 규칙들을 명심해라.",
+      "unit": 2
+    },
+    {
+      "serial": 44,
+      "text": "Then you will be a great internet user!",
+      "meaning": "그러면 너는 훌륭한 인터넷 사용자가 될 거야!",
+      "unit": 2
+    },
+    {
+      "serial": 45,
+      "text": "I often get colds these days.",
+      "meaning": "요즘 감기에 자주 걸려요.",
+      "unit": 3
+    },
+    {
+      "serial": 46,
+      "text": "Then you'd better drink a lot of water and wash your hands often.",
+      "meaning": "그러면 물을 많이 마시고 손을 자주 씻는 게 좋을 거야.",
+      "unit": 3
+    },
+    {
+      "serial": 47,
+      "text": "Thank you for your advice.",
+      "meaning": "충고해 주셔서 고맙습니다.",
+      "unit": 3
+    },
+    {
+      "serial": 48,
+      "text": "I usually have stomach pain after lunch.",
+      "meaning": "나는 보통 점심을 먹고 나면 배가 아파요.",
+      "unit": 3
+    },
+    {
+      "serial": 49,
+      "text": "For three days, my partner and I both ate a lot of meat.",
+      "meaning": "3일 동안, 내 파트너와 나는 둘 다 많은 고기를 먹었다.",
+      "unit": 3
+    },
+    {
+      "serial": 50,
+      "text": "But I didn't eat any vegetables, and my partner ate many sweets.",
+      "meaning": "하지만 나는 야채를 먹지 않았고, 내 파트너는 단 것을 많이 먹었어.",
+      "unit": 3
+    },
+    {
+      "serial": 51,
+      "text": "We’d better eat less sweets and eat more vegetables.",
+      "meaning": "우리는 단 것을 적게 먹고 야채를 더 많이 먹는 것이 좋겠다.",
+      "unit": 3
+    },
+    {
+      "serial": 52,
+      "text": "My sister eats a salad as an appetizer.",
+      "meaning": "내 여동생은 애피타이저로 샐러드를 먹는다.",
+      "unit": 3
+    },
+    {
+      "serial": 53,
+      "text": "Korean meals have many side dishes.",
+      "meaning": "한국 음식에는 많은 반찬이 있다.",
+      "unit": 3
+    },
+    {
+      "serial": 54,
+      "text": "You can choose different kinds of food at this restaurant.",
+      "meaning": "당신은 이 식당에서 다른 종류의 음식을 선택할 수 있다.",
+      "unit": 3
+    },
+    {
+      "serial": 55,
+      "text": "Hello, this is food reporter Minjun from Korea.",
+      "meaning": "안녕하세요, 저는 한국에서 온 음식 기자 민준입니다.",
+      "unit": 3
+    },
+    {
+      "serial": 56,
+      "text": "For many students, lunch is the best part of the school day.",
+      "meaning": "많은 학생들에게 점심은 학교에서 가장 좋은 부분이다.",
+      "unit": 3
+    },
+    {
+      "serial": 57,
+      "text": "In Korea, we often eat rice and soup for lunch.",
+      "meaning": "한국에서, 우리는 종종 점심으로 밥과 국을 먹습니다.",
+      "unit": 3
+    },
+    {
+      "serial": 58,
+      "text": "We also have side dishes, such as Bulgogi or Gimchi.",
+      "meaning": "불고기나 김치 같은 반찬도 있습니다.",
+      "unit": 3
+    },
+    {
+      "serial": 59,
+      "text": "Sometimes our school serves special dishes, such as pizza, Bibimbap, or pasta.",
+      "meaning": "때때로 우리 학교는 피자, 비빔밥, 파스타와 같은 특별한 음식을 제공합니다.",
+      "unit": 3
+    },
+    {
+      "serial": 60,
+      "text": "What do students who live in other countries eat for lunch?",
+      "meaning": "다른 나라에 사는 학생들은 점심으로 무엇을 먹나요?",
+      "unit": 3
+    },
+    {
+      "serial": 61,
+      "text": "Let's hear from our food reporters!",
+      "meaning": "우리 음식 기자들의 의견을 들어봅시다!",
+      "unit": 3
+    },
+    {
+      "serial": 62,
+      "text": "Our school serves healthy and balanced meals.",
+      "meaning": "우리 학교는 건강하고 균형 잡힌 식사를 제공합니다.",
+      "unit": 3
+    },
+    {
+      "serial": 63,
+      "text": "We usually eat a salad as an appetizer.",
+      "meaning": "우리는 보통 애피타이저로 샐러드를 먹는다.",
+      "unit": 3
+    },
+    {
+      "serial": 64,
+      "text": "Main dishes often include meat or fish.",
+      "meaning": "메인 요리는 종종 고기나 생선을 포함한다.",
+      "unit": 3
+    },
+    {
+      "serial": 65,
+      "text": "We also eat fresh fruit at the end of the lunch.",
+      "meaning": "우리는 또한 점심의 마지막에 신선한 과일을 먹습니다.",
+      "unit": 3
+    },
+    {
+      "serial": 66,
+      "text": "Oh, I can never forget about baguettes!",
+      "meaning": "오, 나는 바게트를 절대 잊을 수 없어!",
+      "unit": 3
+    },
+    {
+      "serial": 67,
+      "text": "They're great with cheese.",
+      "meaning": "치즈랑 잘 어울려요.",
+      "unit": 3
+    },
+    {
+      "serial": 68,
+      "text": "Our school also has a special rule.",
+      "meaning": "우리 학교에도 특별한 규칙이 있어.",
+      "unit": 3
+    },
+    {
+      "serial": 69,
+      "text": "We must stay at the lunch table for at least 30 minutes.",
+      "meaning": "우리는 적어도 30분 동안 점심 식탁에 있어야 한다.",
+      "unit": 3
+    },
+    {
+      "serial": 70,
+      "text": "Usually, we have beans and rice for lunch.",
+      "meaning": "보통, 우리는 점심으로 콩과 밥을 먹습니다.",
+      "unit": 4
+    },
+    {
+      "serial": 71,
+      "text": "Meat and vegetables are common in our side dishes.",
+      "meaning": "고기와 야채는 우리 반찬에서 흔히 볼 수 있다.",
+      "unit": 4
+    },
+    {
+      "serial": 72,
+      "text": "My favorite lunch comes with plantains.",
+      "meaning": "내가 가장 좋아하는 점심은 플랜틴과 함께 나온다.",
+      "unit": 4
+    },
+    {
+      "serial": 73,
+      "text": "A plantain is a fruit which looks like a banana.",
+      "meaning": "플랜테인(plantain)은 바나나처럼 생긴 과일이다.",
+      "unit": 4
+    },
+    {
+      "serial": 74,
+      "text": "We usually fry plantains.",
+      "meaning": "우리는 보통 플랜틴을 튀긴다.",
+      "unit": 4
+    },
+    {
+      "serial": 75,
+      "text": "Our school lunches are fresh because the vegetables and fruit come from local farms.",
+      "meaning": "우리 학교 급식은 야채와 과일이 지역 농장에서 나오기 때문에 신선하다.",
+      "unit": 4
+    },
+    {
+      "serial": 76,
+      "text": "People who live in Singapore come from many different cultures.",
+      "meaning": "싱가포르에 사는 사람들은 많은 다른 문화권 출신이다.",
+      "unit": 4
+    },
+    {
+      "serial": 77,
+      "text": "so we have both Eastern and Western dishes at lunch.",
+      "meaning": "그래서 우리는 점심에 동양의 요리와 서양음식을 먹는다.",
+      "unit": 4
+    },
+    {
+      "serial": 78,
+      "text": "Students can choose from many dishes, such as curry, noodle soup, or pasta, each day.",
+      "meaning": "학생들은 매일 카레, 국수, 파스타와 같은 많은 음식 중에서 고를 수 있습니다.",
+      "unit": 4
+    },
+    {
+      "serial": 79,
+      "text": "My school won an award for healthy school food last year.",
+      "meaning": "우리 학교는 작년에 건강한 학교 음식으로 상을 받았어.",
+      "unit": 4
+    },
+    {
+      "serial": 80,
+      "text": "Our lunches are always healthy, and they taste good, too!",
+      "meaning": "우리의 점심은 항상 건강에 좋고 맛도 좋습니다!",
+      "unit": 4
+    },
+    {
+      "serial": 81,
+      "text": "Which school lunch do you want to try?",
+      "meaning": "너는 어떤 학교 급식을 먹어보고 싶니?",
+      "unit": 4
+    },
+    {
+      "serial": 82,
+      "text": "Does it have anything in common with your school lunch?",
+      "meaning": "그것이 당신의 학교 점심과 어떤 공통점이 있나요?",
+      "unit": 4
+    },
+    {
+      "serial": 83,
+      "text": "Please leave your comments on my blog.",
+      "meaning": "제 블로그에 댓글을 남겨주세요.",
+      "unit": 4
+    },
+    {
+      "serial": 84,
+      "text": "Are you the person who dropped this?",
+      "meaning": "당신이 이것을 떨어뜨린 사람입니까?",
+      "unit": 4
+    },
+    {
+      "serial": 85,
+      "text": "Oh, thank you. May I take a photo of you?",
+      "meaning": "아, 고마워요. 제가 당신의 사진을 찍어도 될까요?",
+      "unit": 4
+    },
+    {
+      "serial": 86,
+      "text": "Okay, but it was in the water for a long time.",
+      "meaning": "좋아요, 하지만 그것은 오랫동안 물속에 있었어요.",
+      "unit": 4
+    },
+    {
+      "serial": 87,
+      "text": "It's a special phone which works well in the water.",
+      "meaning": "이것은 물속에서 잘 작동하는 특별한 전화기이다.",
+      "unit": 4
+    },
+    {
+      "serial": 88,
+      "text": "Mr. Kim is a doctor who lives in Seoul.",
+      "meaning": "김씨는 서울에 사는 의사이다.",
+      "unit": 4
+    },
+    {
+      "serial": 89,
+      "text": "A baguette is a type of bread which is popular in France.",
+      "meaning": "바게트는 프랑스에서 인기 있는 빵의 한 종류입니다.",
+      "unit": 4
+    },
+    {
+      "serial": 90,
+      "text": "Nara is wearing a hat that is too big for her.",
+      "meaning": "나라는 그녀에게 너무 큰 모자를 쓰고 있다.",
+      "unit": 4
+    },
+    {
+      "serial": 91,
+      "text": "You never take care of your brother.",
+      "meaning": "넌 네 동생을 돌보지 않는구나.",
+      "unit": 4
+    },
+    {
+      "serial": 92,
+      "text": "What? I am always nice to him.",
+      "meaning": "뭐라고? 난 항상 그에게 잘해줘.",
+      "unit": 4
+    },
+    {
+      "serial": 93,
+      "text": "That's not true. He never helps me!",
+      "meaning": "그렇지 않아요. 그는 절대 날 돕지 않아!",
+      "unit": 4
+    },
+    {
+      "serial": 94,
+      "text": "I sometimes help him.",
+      "meaning": "나는 가끔 그를 돕는다.",
+      "unit": 4
+    },
+    {
+      "serial": 95,
+      "text": "My wife even gave him some rice.",
+      "meaning": "제 아내는 그에게 밥도 좀 줬어요.",
+      "unit": 4
+    },
+    {
+      "serial": 96,
+      "text": "My favoriet restaurant is Antonio's Restaurant.",
+      "meaning": "내가 가장 좋아하는 레스토랑은 안토니오 레스토랑이다.",
+      "unit": 5
+    },
+    {
+      "serial": 97,
+      "text": "It is a Spanish restaurant. It is near my home.",
+      "meaning": "그것은 스페인 식당이다. 그것은 우리 집 근처에 있다.",
+      "unit": 5
+    },
+    {
+      "serial": 98,
+      "text": "Mixed paella is the most popular dish at this restaurant.",
+      "meaning": "이 식당에서 가장 인기 있는 요리는 혼합 파에야입니다.",
+      "unit": 5
+    },
+    {
+      "serial": 99,
+      "text": "All of the food is really fresh and delicious, and the prices are low.",
+      "meaning": "모든 음식이 정말 신선하고 맛있고 가격도 저렴하다.",
+      "unit": 5
+    },
+    {
+      "serial": 100,
+      "text": "I recommend this restaurant!",
+      "meaning": "나는 이 식당을 추천한다!",
+      "unit": 5
+    },
+    {
+      "serial": 101,
+      "text": "Have you ever watched a Chinese movie?",
+      "meaning": "당신은 중국 영화를 본 적이 있나요?",
+      "unit": 5
+    },
+    {
+      "serial": 102,
+      "text": "Yes, I have.",
+      "meaning": "네, 있습니다.",
+      "unit": 5
+    },
+    {
+      "serial": 103,
+      "text": "What does that mean in Korea?",
+      "meaning": "한국에서 그것은 무엇을 의미합니까?",
+      "unit": 5
+    },
+    {
+      "serial": 104,
+      "text": "It means good luck.",
+      "meaning": "행운을 뜻합니다.",
+      "unit": 5
+    },
+    {
+      "serial": 105,
+      "text": "Do you want to have a good time in Korea?",
+      "meaning": "당신은 한국에서 좋은 시간을 보내고 싶나요?",
+      "unit": 5
+    },
+    {
+      "serial": 106,
+      "text": "Then follow these tips.",
+      "meaning": "그리고 나서 이 조언들을 따르세요.",
+      "unit": 5
+    },
+    {
+      "serial": 107,
+      "text": "First, please take off your shoes when you go into people's homes.",
+      "meaning": "먼저, 사람들의 집에 들어갈 때 신발을 벗어주세요.",
+      "unit": 5
+    },
+    {
+      "serial": 108,
+      "text": "Next, bow when you greet others.",
+      "meaning": "다음으로, 다른 사람에게 인사할 때 절하세요.",
+      "unit": 5
+    },
+    {
+      "serial": 109,
+      "text": "Peter is visiting Korea to meet a friend, Mina, from a sister school.",
+      "meaning": "피터는 자매학교에서 온 친구 미나를 만나기 위해 한국을 방문한다.",
+      "unit": 5
+    },
+    {
+      "serial": 110,
+      "text": "Peter is going to stay at her grandfather's house for a week.",
+      "meaning": "피터는 할아버지 댁에 일주일간 머물 예정입니다.",
+      "unit": 5
+    },
+    {
+      "serial": 111,
+      "text": "When he arrives, Mina shows him the guest room",
+      "meaning": "그가 도착했을 때, 미나는 그에게 게스트룸을 보여주었다.",
+      "unit": 5
+    },
+    {
+      "serial": 112,
+      "text": "Peter, you will stay here.",
+      "meaning": "피터, 넌 여기서 머물거야.",
+      "unit": 5
+    },
+    {
+      "serial": 113,
+      "text": "This guest room is full of traditional Korean things.",
+      "meaning": "이 객실은 한국 전통 물건들로 가득 차 있어.",
+      "unit": 5
+    },
+    {
+      "serial": 114,
+      "text": "Look at this pillow.",
+      "meaning": "이 베개 좀 봐.",
+      "unit": 5
+    },
+    {
+      "serial": 115,
+      "text": "What are these things? They are bats.",
+      "meaning": "이것들은 무엇입니까? 그들은 박쥐입니다.",
+      "unit": 5
+    },
+    {
+      "serial": 116,
+      "text": "Bats on my pillow? That's scary!",
+      "meaning": "내 베개에 박쥐? 무섭다!",
+      "unit": 5
+    },
+    {
+      "serial": 117,
+      "text": "Not really. In Korea, bats are symbols of luck and a long life.",
+      "meaning": "사실 그렇지 않아요. 한국에서 박쥐는 행운과 장수의 상징입니다.",
+      "unit": 5
+    },
+    {
+      "serial": 118,
+      "text": "That's surprising.",
+      "meaning": "놀랍군요.",
+      "unit": 5
+    },
+    {
+      "serial": 119,
+      "text": "In many Western countries, bats remind people of darkness and scary things.",
+      "meaning": "많은 서양 국가에서 박쥐는 사람들에게 어둠과 무서운 것들을 상기시켜줍니다.",
+      "unit": null
+    },
+    {
+      "serial": 120,
+      "text": "Mina show Peter her grandfather's room.",
+      "meaning": "미나는 피터에게 할아버지의 방을 보여준다.",
+      "unit": 6
+    },
+    {
+      "serial": 121,
+      "text": "Peter and Mina's grandfather meet and greet each other.",
+      "meaning": "피터와 미나의 할아버지는 만나서 인사를 합니다.",
+      "unit": 6
+    },
+    {
+      "serial": 122,
+      "text": "Hi, Peter! Have you ever seen this kind of lock before?",
+      "meaning": "안녕, 피터! 이런 종류의 자물쇠를 전에 본 적이 있나요?",
+      "unit": 6
+    },
+    {
+      "serial": 123,
+      "text": "No, I haven't. It's so old that I can't really tell, but is it a fish?",
+      "meaning": "아니요, 안 했어요. 너무 오래돼서 잘 모르겠는데, 혹시 물고기인가요?",
+      "unit": 6
+    },
+    {
+      "serial": 124,
+      "text": "Yes. For a long time, Koreans have thought that fish are good guards.",
+      "meaning": "응. 오랫동안, 한국인들은 물고기가 좋은 보호자라고 생각해왔어.",
+      "unit": 6
+    },
+    {
+      "serial": 125,
+      "text": "Fish don't close their eyes, even when they sleep.",
+      "meaning": "물고기는 잠을 잘 때도 눈을 감지 않습니다.",
+      "unit": 6
+    },
+    {
+      "serial": 126,
+      "text": "That's interesting.",
+      "meaning": "그거 재미있네요.",
+      "unit": 6
+    },
+    {
+      "serial": 127,
+      "text": "We think fish can watch over valuable things.",
+      "meaning": "우리는 물고기가 귀중한 것들을 감시할 수 있다고 생각한다.",
+      "unit": 6
+    },
+    {
+      "serial": 128,
+      "text": "That's why this lock looks like a fish.",
+      "meaning": "그래서 이 자물쇠가 물고기처럼 보이는 거야.",
+      "unit": 6
+    },
+    {
+      "serial": 129,
+      "text": "Now I understand.",
+      "meaning": "이제 알겠다.",
+      "unit": 6
+    },
+    {
+      "serial": 130,
+      "text": "They go outside and walk around the garden.",
+      "meaning": "그들은 밖으로 나가서 정원을 걸어다닌다.",
+      "unit": 6
+    },
+    {
+      "serial": 131,
+      "text": "What is on that piece of paper? It looks scary.",
+      "meaning": "저 종이 위에 무엇이 있습니까? 무서워 보인다.",
+      "unit": 6
+    },
+    {
+      "serial": 132,
+      "text": "Do you mean this painting of a rooster?",
+      "meaning": "이 수탉 그림 말인가요?",
+      "unit": 6
+    },
+    {
+      "serial": 133,
+      "text": "Oh, is it a rooster?",
+      "meaning": "오, 수탉이야?",
+      "unit": 6
+    },
+    {
+      "serial": 134,
+      "text": "Yes, it is. Roosters crow every morning.",
+      "meaning": "네, 그렇습니다. 수탉은 매일 아침 운다.",
+      "unit": 6
+    },
+    {
+      "serial": 135,
+      "text": "Their crowing means that a new day is beginning.",
+      "meaning": "그들의 울음소리는 새로운 날이 시작된다는 것을 의미합니다.",
+      "unit": 6
+    },
+    {
+      "serial": 136,
+      "text": "For many years, Koreans have believed evil spirits go away when a rooster crows.",
+      "meaning": "오랫동안, 한국인들은 수탉이 울면 악령이 사라진다고 믿어왔다.",
+      "unit": 6
+    },
+    {
+      "serial": 137,
+      "text": "Really? I've never heard that before.",
+      "meaning": "정말요? 그런 말 처음 들어봐요.",
+      "unit": 6
+    },
+    {
+      "serial": 138,
+      "text": "Actually, I'm afraid of darkness and evil spirits.",
+      "meaning": "사실, 저는 어둠과 악령이 무서워요.",
+      "unit": 6
+    },
+    {
+      "serial": 139,
+      "text": "Could you draw a rooster for me, Mina?",
+      "meaning": "미나야, 수탉 좀 그려 줄래?",
+      "unit": 6
+    },
+    {
+      "serial": 140,
+      "text": "Sure. I'll draw a big rooster for you!",
+      "meaning": "그럼요. 제가 큰 수탉을 그려드릴게요!",
+      "unit": 6
+    },
+    {
+      "serial": 141,
+      "text": "Put the drawing above your door. Then it will protect you.",
+      "meaning": "그림을 문 위에 놓으세요. 그럼 널 지켜줄 거야",
+      "unit": 6
+    },
+    {
+      "serial": 142,
+      "text": "Yes, I will",
+      "meaning": "네, 그럴게요",
+      "unit": 6
+    },
+    {
+      "serial": 143,
+      "text": "I'm enjoying this trip so much that I want to stay longer.",
+      "meaning": "나는 이 여행이 너무 즐거워서 더 있고 싶다.",
+      "unit": 6
+    },
+    {
+      "serial": 144,
+      "text": "I love all the traditional Korean symbols in this house.",
+      "meaning": "나는 이 집에 있는 모든 한국 전통 상징들을 사랑한다.",
+      "unit": 6
+    },
+    {
+      "serial": 145,
+      "text": "Now I understand a lot of them.",
+      "meaning": "이제 나는 그들 중 많은 것을 이해한다.",
+      "unit": 6
+    },
+    {
+      "serial": 146,
+      "text": "I want to visit Korea again with my family.",
+      "meaning": "나는 가족과 함께 한국을 다시 방문하고 싶다.",
+      "unit": 6
+    },
+    {
+      "serial": 147,
+      "text": "Amy has visited Jeonju Hanok Village before.",
+      "meaning": "에이미는 전주 한옥 마을을 방문한 적이 있다.",
+      "unit": 7
+    },
+    {
+      "serial": 148,
+      "text": "Kate and Dane have known each other for five years.",
+      "meaning": "케이트와 데인은 5년 동안 서로 알고 지냈다.",
+      "unit": 7
+    },
+    {
+      "serial": 149,
+      "text": "I have never heard of that actor before.",
+      "meaning": "나는 그 배우에 대해 들어본 적이 없다.",
+      "unit": 7
+    },
+    {
+      "serial": 150,
+      "text": "Mr.Lee and his wife have lived in Seoul for 10 years.",
+      "meaning": "이씨 부부는 서울에서 10년째 살고 있다",
+      "unit": 7
+    },
+    {
+      "serial": 151,
+      "text": "My sons are so lazy that this farm will not survive.",
+      "meaning": "내 아들들은 너무 게을러서 이 농장은 살아남지 못할 것이다.",
+      "unit": 7
+    },
+    {
+      "serial": 152,
+      "text": "There is some treasure on this farm.",
+      "meaning": "이 농장에는 보물이 좀 있다.",
+      "unit": 7
+    },
+    {
+      "serial": 153,
+      "text": "Dig around to find it.",
+      "meaning": "그것을 찾기 위해 주위를 파세요.",
+      "unit": 7
+    },
+    {
+      "serial": 154,
+      "text": "There is no treasrue.",
+      "meaning": "보물은 없다.",
+      "unit": 7
+    },
+    {
+      "serial": 155,
+      "text": "We have to find it. Keep digging.",
+      "meaning": "찾아야 돼. 계속 파세요.",
+      "unit": 7
+    },
+    {
+      "serial": 156,
+      "text": "Look! We worked so hard that we have a lot of grapes now.",
+      "meaning": "보세요! 저희가 너무 열심히 해서 포도가 많이 나왔어요.",
+      "unit": 7
+    },
+    {
+      "serial": 157,
+      "text": "The girl is so smart that she can solve any puzzle.",
+      "meaning": "그 소녀는 매우 영리해서 어떤 퍼즐도 풀 수 있다.",
+      "unit": 7
+    },
+    {
+      "serial": 158,
+      "text": "The boy studied so hard that he passed the test.",
+      "meaning": "그 소년은 너무 열심히 공부해서 시험에 합격했다.",
+      "unit": 7
+    },
+    {
+      "serial": 159,
+      "text": "The movie was so sad that everone cried.",
+      "meaning": "그 영화는 너무 슬퍼서 모두가 울었다.",
+      "unit": 7
+    },
+    {
+      "serial": 160,
+      "text": "It was so cold outside that the rain changed into snow.",
+      "meaning": "밖이 너무 추워서 비가 눈으로 변했다.",
+      "unit": 7
+    },
+    {
+      "serial": 161,
+      "text": "An amazing traditional Chinese dance",
+      "meaning": "놀라운 중국 전통 춤",
+      "unit": 7
+    },
+    {
+      "serial": 162,
+      "text": "Do you know about traditional Chinese dances?",
+      "meaning": "당신은 중국 전통 춤에 대해 알고 있나요?",
+      "unit": 7
+    },
+    {
+      "serial": 163,
+      "text": "There are many kinds.",
+      "meaning": "많은 종류가 있다.",
+      "unit": 7
+    },
+    {
+      "serial": 164,
+      "text": "For example, there is a lion dance, a fan dance, and an umbrella dance.",
+      "meaning": "예를 들면, 사자춤, 부채춤, 그리고 우산춤이 있습니다.",
+      "unit": 7
+    },
+    {
+      "serial": 165,
+      "text": "One of the most famous dances is the lion dance.",
+      "meaning": "가장 유명한 춤 중 하나는 사자춤이다.",
+      "unit": 7
+    },
+    {
+      "serial": 166,
+      "text": "In this dance, two dancers dress and act like lions.",
+      "meaning": "이 춤에서, 두 명의 댄서가 사자처럼 옷을 입고 연기합니다.",
+      "unit": 7
+    },
+    {
+      "serial": 167,
+      "text": "They usually dance on special days, such as New Year's Day.",
+      "meaning": "그들은 보통 새해 첫날과 같은 특별한 날에 춤을 춥니다.",
+      "unit": 7
+    },
+    {
+      "serial": 168,
+      "text": "I think their dance moves are great.",
+      "meaning": "저는 그들의 춤 동작이 멋지다고 생각해요.",
+      "unit": 7
+    },
+    {
+      "serial": 169,
+      "text": "I hope to practice this dance someday.",
+      "meaning": "저는 언젠가 이 춤을 연습하고 싶습니다.",
+      "unit": 7
+    },
+    {
+      "serial": 170,
+      "text": "I'm worried about the amount of trash these days.",
+      "meaning": "나는 요즘 쓰레기의 양이 걱정된다.",
+      "unit": 8
+    },
+    {
+      "serial": 171,
+      "text": "Me, too. We should recycle and use less plastic to solve this problem.",
+      "meaning": "나도. 우리는 이 문제를 해결하기 위해 재활용을 하고 플라스틱을 덜 사용해야 합니다.",
+      "unit": 8
+    },
+    {
+      "serial": 172,
+      "text": "I made a money box with a plastic cup.",
+      "meaning": "나는 플라스틱 컵으로 돈 상자를 만들었다.",
+      "unit": 8
+    },
+    {
+      "serial": 173,
+      "text": "Can you tell me how to make it?",
+      "meaning": "어떻게 만드는지 알려주실 수 있나요?",
+      "unit": 8
+    },
+    {
+      "serial": 174,
+      "text": "Sure. Make a hole in the lid. Then fill the cup with money.",
+      "meaning": "물론이죠. 뚜껑에 구멍을 뚫으세요. 그리고 나서 컵에 돈을 채우세요.",
+      "unit": 8
+    },
+    {
+      "serial": 175,
+      "text": "I'm worried about a park in my town. It is full of trash.",
+      "meaning": "우리 동네에 공원이 있어서 걱정이에요. 그것은 쓰레기로 가득 차 있다.",
+      "unit": 8
+    },
+    {
+      "serial": 176,
+      "text": "Can you tell me how to solve this problem?",
+      "meaning": "이 문제를 어떻게 풀어야 하는지 알려줄 수 있나요?",
+      "unit": 8
+    },
+    {
+      "serial": 177,
+      "text": "I think we should clean up the park together.",
+      "meaning": "나는 우리가 함께 공원을 청소해야 한다고 생각한다.",
+      "unit": 8
+    },
+    {
+      "serial": 178,
+      "text": "Time is running out for the Earth. ",
+      "meaning": "지구를 위한 시간이 얼마 남지 않았다.",
+      "unit": 8
+    },
+    {
+      "serial": 179,
+      "text": "Remember the Earth is in danger. Keep the Earth green",
+      "meaning": "지구가 위험하다는 것을 기억하세요. 지구를 푸르게 유지하라",
+      "unit": 8
+    },
+    {
+      "serial": 180,
+      "text": "What are you reading?",
+      "meaning": "지금 뭐 읽고 있니?",
+      "unit": 8
+    },
+    {
+      "serial": 181,
+      "text": "I'm reading an article about aquaponic.",
+      "meaning": "나는 아쿠아포닉에 대한 기사를 읽고 있다.",
+      "unit": 8
+    },
+    {
+      "serial": 182,
+      "text": "It's a way of growing plants without soil.",
+      "meaning": "이것은 흙 없이 식물을 키우는 방법입니다.",
+      "unit": 8
+    },
+    {
+      "serial": 183,
+      "text": "We can also grow plants and raise fish in just one system.",
+      "meaning": "우리는 또한 식물을 기를 수 있고 물고기를 기를 수 있습니다.",
+      "unit": 8
+    },
+    {
+      "serial": 184,
+      "text": "Is that possible?",
+      "meaning": "가능할까요?",
+      "unit": 8
+    },
+    {
+      "serial": 185,
+      "text": "We'll see. I'm going to try it at home for my science project.",
+      "meaning": "곧 알게 되겠지. 나는 내 과학 프로젝트를 위해 집에서 그것을 시도해 볼 거야.",
+      "unit": 8
+    },
+    {
+      "serial": 186,
+      "text": "Fish, bacteria, and plants are the main parts of aquaponics.",
+      "meaning": "생선, 박테리아, 그리고 식물은 아쿠아포닉의 주요 부분이다.",
+      "unit": 8
+    },
+    {
+      "serial": 187,
+      "text": "After you feed the fish, they produce waste.",
+      "meaning": "물고기에게 먹이를 준 후에, 그들은 노폐물을 생산합니다.",
+      "unit": 8
+    },
+    {
+      "serial": 188,
+      "text": "The waste is turned into food for the plants by bacteria.",
+      "meaning": "쓰레기는 박테리아에 의해 식물을 위한 음식으로 변한다.",
+      "unit": 8
+    },
+    {
+      "serial": 189,
+      "text": "The plants clean the water by consuming the food.",
+      "meaning": "식물들은 음식을 먹음으로써 물을 정화한다.",
+      "unit": 8
+    },
+    {
+      "serial": 190,
+      "text": "This process is repeated again and again!",
+      "meaning": "이 과정은 계속해서 반복됩니다!",
+      "unit": 8
+    }
+  ]
+}
