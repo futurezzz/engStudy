@@ -1460,7 +1460,7 @@
     {
       "serial": 183,
       "text": "resist",
-      "meaning": "저항하다.",
+      "meaning": "저항하다",
       "sentence": "Who can resist God's will?",
       "sentenceMeaning": "누가 신의 뜻을 거역할 수 있겠는가?",
       "unit": 8
@@ -1468,7 +1468,7 @@
     {
       "serial": 184,
       "text": "prosper",
-      "meaning": "번영하다. ",
+      "meaning": "번영하다",
       "sentence": "The tourism industry prospers.",
       "sentenceMeaning": "관광 산업이 번영한다.",
       "unit": 8
@@ -1949,7 +1949,7 @@
       "serial": 244,
       "text": "sacrifice",
       "meaning": "희생, 희생하다.",
-      "sentence": "She sacrificed everything for her children. ",
+      "sentence": "She sacrificed everything for her children.",
       "sentenceMeaning": "그녀는 자녀를 위해 모든 것을 희생했다.",
       "unit": 10
     },
@@ -2709,7 +2709,7 @@
       "serial": 339,
       "text": "foundation",
       "meaning": "기초, 토대, 재단",
-      "sentence": "Respect provide a solid foundation for marriage. ",
+      "sentence": "Respect provide a solid foundation for marriage.",
       "sentenceMeaning": "존중은 결혼생활을 위한 견고한 기반을 제공합니다.",
       "unit": 14
     },
@@ -2917,8 +2917,8 @@
       "serial": 365,
       "text": "prospect",
       "meaning": "기대, 전망, 가망",
-      "sentence": "Is there any prospect of the weather improving ",
-      "sentenceMeaning": "날씨가 좋아질 가망이 있습니까 ",
+      "sentence": "Is there any prospect of the weather improving?",
+      "sentenceMeaning": "날씨가 좋아질 가망이 있습니까?",
       "unit": 15
     },
     {
@@ -3045,8 +3045,8 @@
       "serial": 381,
       "text": "community",
       "meaning": "사회, 공동체",
-      "sentence": "What makes a community",
-      "sentenceMeaning": "공동체를 이루는 것은 무엇일까 ",
+      "sentence": "What makes a community?",
+      "sentenceMeaning": "공동체를 이루는 것은 무엇일까?",
       "unit": 16
     },
     {
@@ -3270,7 +3270,7 @@
       "text": "indignation",
       "meaning": "분개, 분노",
       "sentence": "The rise in train fares has aroused public indignation.",
-      "sentenceMeaning": "기차 요금 인상은 대중의 분노를 불러일으켰다. ",
+      "sentenceMeaning": "기차 요금 인상은 대중의 분노를 불러일으켰다.",
       "unit": 17
     },
     {
@@ -4332,7 +4332,7 @@
     {
       "serial": 542,
       "text": "irresistible",
-      "meaning": "저항할 수 없는 ",
+      "meaning": "저항할 수 없는",
       "sentence": "an irresistible offer",
       "sentenceMeaning": "거부할 수 없는 제의",
       "unit": 22
@@ -4918,7 +4918,7 @@
       "text": "operate",
       "meaning": "움직이다. 운영하다. 수술하다.",
       "sentence": "How do you operate the remote control unit?",
-      "sentenceMeaning": "리모컨은 어떻게 작동합니까? ",
+      "sentenceMeaning": "리모컨은 어떻게 작동합니까?",
       "unit": 25
     },
     {
@@ -5261,8 +5261,8 @@
       "serial": 658,
       "text": "imply",
       "meaning": "의미하다. 암시하다.",
-      "sentence": "Are you implying that I'm fat ",
-      "sentenceMeaning": "내가 뚱뚱하다는 뜻인가요 ",
+      "sentence": "Are you implying that I'm fat?",
+      "sentenceMeaning": "내가 뚱뚱하다는 뜻인가요?",
       "unit": 27
     },
     {
@@ -5309,8 +5309,8 @@
       "serial": 664,
       "text": "foster",
       "meaning": "조성하다.(입양하여)기르다.",
-      "sentence": "Would you consider fostering a child ",
-      "sentenceMeaning": "위탁양육을 고려해 보시겠습니까 ",
+      "sentence": "Would you consider fostering a child?",
+      "sentenceMeaning": "위탁양육을 고려해 보시겠습니까?",
       "unit": 27
     },
     {
@@ -5326,7 +5326,7 @@
       "text": "convey",
       "meaning": "나르다. 전하다",
       "sentence": "Pipes convey hot water.",
-      "sentenceMeaning": "파이프는 뜨거운 물을 운반한다. ",
+      "sentenceMeaning": "파이프는 뜨거운 물을 운반한다.",
       "unit": 27
     },
     {
@@ -5533,8 +5533,8 @@
       "serial": 692,
       "text": "cultivate",
       "meaning": "경작하다. 기르다. 재배하다.",
-      "sentence": "The people cultivate mainly rice and beans. ",
-      "sentenceMeaning": "사람들은 주로 쌀과 콩을 재배한다. ",
+      "sentence": "The people cultivate mainly rice and beans.",
+      "sentenceMeaning": "사람들은 주로 쌀과 콩을 재배한다.",
       "unit": 28
     },
     {
