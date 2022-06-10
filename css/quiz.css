@@ -209,45 +209,34 @@
 
 .bottom {
   display: flex;
-  padding: 15px;
+  justify-content: space-evenly;
+  width: 350px;
+  margin-top: 35px;
 }
 
 .back{
-  position: relative;
-  left: 55px;
-  top: 35px;
-  color: #aaa;
-  box-sizing: border-box;
-  width: 25px;
-  height: 25px;
-  border-width: 4px 0 0 4px;
-  border-style: solid;
-  transform: rotate(-45deg);
-  cursor: pointer;
-}
-
-.back::before{
-  content: '';
-  left: -8px;
-  top: 10px;
-  position: absolute;
-  height: 4px;
-  border-top: 4px solid #aaa;
-  transform: rotate(45deg);
-  width: 40px;
-}
-
-.reset {
-  width: 140px;
+  width: 100px;
   height: 45px;
-  background-color: rgb(228, 228, 228);
+  background-color: rgb(40, 40, 40);
+  color: #fefefe;
   text-align: center;
   line-height: 45px;
-  margin-left: 110px;
   border-radius: 10px;
   user-select: none;
   cursor: pointer;
-  /* box-shadow: 1px 1px 3px rgba(0,0,0,.3); */
+}
+
+
+.reset {
+  width: 100px;
+  height: 45px;
+  border: 3px solid #777;
+  background-color: rgb(235, 235, 235);
+  text-align: center;
+  line-height: 40px;
+  border-radius: 10px;
+  user-select: none;
+  cursor: pointer;
 }
 
 .mic {
@@ -258,7 +247,7 @@
   box-shadow: 0px 0px 3px #b1b1b1;
   background-color: var(--white);
   line-height: 65px;
-  margin: -45px 0 0 260px;
+  /* margin: -45px 0 0 260px; */
   cursor: pointer;
 }
 
@@ -267,10 +256,8 @@
 }
 
 .check >img {
-  position: relative;
-  top: -50px;
   width: 50px;
-  margin-left: 320px;
+  /* margin-left: 320px; */
   font-size: 43px;
   cursor: pointer;
   /* svg색상은 filter명령을 통해서 바꾼다.
