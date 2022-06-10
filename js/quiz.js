@@ -205,7 +205,7 @@ function displaySpeakWords(){
 
   //---- 스피킹에 활용된 아이템들 보이기
   speakList.style.display = 'flex';
-  bottom.style.display = 'block';
+  bottom.style.display = 'flex';
   kor.style.display = 'block';
   answer.style.display = 'block';
   quizLeft.style.display = 'block';
@@ -227,6 +227,7 @@ function displaySpeakWords(){
     const li2 = document.createElement('li')
     li2.textContent = engRandomArray[i];
     li2.classList.add('eng')
+    li2.classList.add('onList')
     speakList.append(li2);
   }
 }
@@ -240,7 +241,8 @@ back.addEventListener('click',()=>{
     let undoNo = undo.pop();
     let undoLength = lis[undoNo].textContent.length;
     let textLength = answer.textContent.length;
-    lis[undoNo].style.opacity = '1';
+    lis[undoNo].style.opacity = 1;
+    lis[undoNo].classList.add("onList");
     answer.textContent = answer.textContent.substring(0,textLength-undoLength-1);
     arrayLengthLeft += 1;
     console.log(undoLength)
@@ -253,7 +255,10 @@ back.addEventListener('click',()=>{
 reset.addEventListener('click',()=>{
   let lis = document.querySelectorAll('.eng');
   resetSpeech();
-  lis.forEach(li => li.style.opacity = '1')
+  lis.forEach(li => {
+    li.style.opacity = '1';
+    li.classList.add('onList');
+  })
   arrayLengthLeft = arrayLength;
 })
 

@@ -1,6 +1,6 @@
 const mainChapter = document.querySelector('.main-unit-list');
 const subUnitList = document.querySelector('.sub-unit-list');
-const subSpeakList = document.querySelector('.sub-speak-list');
+// const subSpeakList = document.querySelector('.sub-speak-list');
 const calendar = document.querySelector('.calendar');
 const calendarToday = document.querySelector('.calendar-today');
 const calendarLeftArrow =  document.querySelector('.calendar-left-arrow');
@@ -137,7 +137,7 @@ function displayCalendar(){
   //이전에 표시된 단원선택표가 있으면 우선 초기화(지우기)
   calendarToday.textContent =  `${today.getFullYear()}-${today.getMonth()+1}-${today.getDate()} ${week[today.getDay()]}`;
   subUnitList.innerHTML = ''; 
-  subSpeakList.innerHTML = ''; 
+  // subSpeakList.innerHTML = ''; 
   // 요일 표시
   calendarUnitList.innerHTML = ''; //unit메뉴들을 초기화
   for(let j=0; j<7; j++){

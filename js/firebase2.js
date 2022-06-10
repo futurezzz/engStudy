@@ -48,17 +48,17 @@ function resetData(){
 
   if (scoreValue >= 70000){
     quizType = "speaking"
-  } else if (scoreTodayValue >= 65000){
+  } else if (scoreValue >= 65000){
     quizType = "matching"
-  }else if (scoreTodayValue >= 50000){
+  }else if (scoreValue >= 50000){
     quizType = "speaking";
-  } else if (scoreTodayValue >= 45000){
+  } else if (scoreValue >= 45000){
     quizType = "matching";
-  } else if (scoreTodayValue >= 30000){
+  } else if (scoreValue >= 30000){
     quizType = "speaking"
-  } else if (scoreTodayValue >= 25000){
+  } else if (scoreValue >= 25000){
     quizType = "matching";
-  } else if (scoreTodayValue >= 15000){
+  } else if (scoreValue >= 15000){
     quizType = "speaking"
   } else {
     quizType = "matching"
@@ -145,12 +145,13 @@ function InsertData(){
 //speakQuiz에서 사용되는 코딩
 speakList.addEventListener('click',(e)=>{
   let elem = e.target
-  if(elem.classList.contains("eng")) {
+  if(elem.classList.contains("onList")) {
     let text = elem.textContent;
-    
+
     speech(elem.textContent);
     answer.textContent = answer.textContent ? `${answer.textContent} ${text}` : `${text}`;
     elem.style.opacity = "0";
+    elem.classList.remove("onList");
     arrayLengthLeft -= 1;
     // undo배열에 내가 몇번째 영어 단어를 선택했는지 기록.
     // undo 누를 때마다 하나씩 복원
