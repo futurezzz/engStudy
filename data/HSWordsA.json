@@ -1981,7 +1981,7 @@
       "serial": 248,
       "text": "disgust",
       "meaning": "혐오, 불쾌하게 하다.",
-      "sentence": "Much to his disgust, was fined for illegal parking.",
+      "sentence": "Much to his disgust, he was fined for illegal parking.",
       "sentenceMeaning": "그는 매우 역겹게도 불법 주차로 벌금을 물었다.",
       "unit": 10
     },
@@ -4373,7 +4373,7 @@
       "serial": 547,
       "text": "constant",
       "meaning": "불변의, 끊임없는",
-      "sentence": "The constant noise drove me crazy .",
+      "sentence": "The constant noise drove me crazy.",
       "sentenceMeaning": "끊임없는 소음이 나를 미치게 했다.",
       "unit": 22
     },
