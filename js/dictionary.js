@@ -40,7 +40,7 @@ wordsList.addEventListener('click',(e)=>{
   })
 
 searchIcon.addEventListener('click',()=>{
-  searchArray = wordsArray.filter(item => item.text.includes(searchText.value) || item.meaning.includes(searchText.value) );
+  searchArray = wordsArray.filter(item => item.text.includes(searchText.value.toLowerCase()) || item.meaning.includes(searchText.value.toLowerCase()) );
   displayWords(searchArray);
 })
 
