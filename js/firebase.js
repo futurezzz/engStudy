@@ -36,9 +36,26 @@ mainChapter.addEventListener('click',(e)=>{
   }
 })
 
+grammerChapter.addEventListener('click',(e)=>{
+  if(user && chapter){
+    SelectData();
+  }
+})
+
+grammerSubUnitList.addEventListener('click',(e)=>{
+  elem = e.target;
+  chapterTitle = units[elem.dataset.unit-1].unit;
+  console.log(chapterTitle);
+  SelectScore(parseInt(elem.dataset.unit)-1); //scoreValue를 업데이트 해서 다시 불러오기 위함
+  SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
+})
+
+
 subUnitList.addEventListener('click',(e)=>{
   elem = e.target;
-  let scoreValue = scoreArray[parseInt(elem.dataset.unit)-1];
+
+  SelectScore(parseInt(elem.dataset.unit)-1); //scoreValue를 업데이트 해서 다시 불러오기 위함
+  // scoreValue = scoreArray[parseInt(elem.dataset.unit)-1];
   
   if (scoreValue >= 70000){
     quizType = "speaking"
@@ -61,7 +78,6 @@ subUnitList.addEventListener('click',(e)=>{
   // quizType = scoreValue <=60000 ? "matching" : "speaking";
   // url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
   // console.log(elem, quizType);
-  SelectData();
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })
 
@@ -191,6 +207,29 @@ async function SelectData(){
       });
       await displayUnits();
       //displayUnits은 해당unit점수표시와 진행정도 표시
+    }
+
+
+    // --특정 유닛의 score만 가져오기--------------------------
+async function SelectScore(unit){
+  const dbref = ref(db);
+  await get(child(dbref, `${user}/` + chapter)).then((snapshot)=>{
+    if(snapshot.exists()){
+      scoreArray = snapshot.val().Score;
+      // scoreSpeakArray = snapshot.val().ScoreSpeak;
+    }
+    //firebase데이터에 아무것도 없을 경우
+    //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
+    else {
+          //새로운 배열을 만들고 각 자리에 0을 채운다.
+          scoreArray = new Array(unitLength).fill(0); 
+          // scoreSpeakArray = new Array(unitLength).fill(0); 
+        }
+      })
+      .catch((error)=>{
+        alert("unsuccessful, error" + error);
+      });
+      scoreValue = scoreArray[unit];
     }
 
 

@@ -10,6 +10,7 @@
   <link rel="shortcut icon" href="img/favicon.png" />
   <!-- stylesheet -->
   <link rel="stylesheet" href="css/quiz.css">
+  <link rel="stylesheet" href="css/quizGrammer.css">
   <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"> -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -31,39 +32,41 @@
         <div class="score-today"></div>
       </div>
       <div class="quiz-left"></div>
-      <button class="dictionary">Dic</button>
+      <button class="dictionary">★</button>
+      <div class="combo-box"></div>
 
-    <div class="combo-box"></div>
+    <div class="grammer-words">
+      <div class="quizBox">
+        <div class="quiz"></div>
+      </div>
+      <div class="answer-view"></div>
+      <ul class="answer-list">
+      </ul>
+    </div>
+    <div class="check-grammer"><img src="img/circle-check-solid.svg" alt="check"></div>
+
+
+
+<!-- QUZI 에 쓰였던 DOM . js에서 오류나지 않게 코딩으로 표시만 하고 있음---------------------- -->
     <div class="words">
       <ul class="words-list">
-        <!--         
-          <li class="word text">영단어 일 때</li>
-          <li class="word meaning">한글 뜻일 때</li>
-        -->
       </ul>
-      <div class="check-grammer"></div>
-
       <div class="kor"></div>
       <div class="answer"></div>
       <ul class="speak-list">
-        <!-- <li class="speak eng">영어 단어</li> -->
       </ul>
 
       <div class="bottom">
         <div class="back">UNDO</div>
         <div class="reset">CLEAR</div>
-        <div class="mic">
-          <svg class="mic-icon" version="1.1" xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
-      enable-background="new 0 0 1000 1000" xml:space="preserve" style="fill:#1E2D70">
-              <g>
-                  <path d="M500,683.8c84.6,0,153.1-68.6,153.1-153.1V163.1C653.1,78.6,584.6,10,500,10c-84.6,0-153.1,68.6-153.1,153.1v367.5C346.9,615.2,415.4,683.8,500,683.8z M714.4,438.8v91.9C714.4,649,618.4,745,500,745c-118.4,0-214.4-96-214.4-214.4v-91.9h-61.3v91.9c0,141.9,107.2,258.7,245,273.9v124.2H346.9V990h306.3v-61.3H530.6V804.5c137.8-15.2,245-132.1,245-273.9v-91.9H714.4z" />
-              </g>
-          </svg>
-        </div>
+        <div class="mic"></div>
         <div class="check"><img src="img/circle-check-solid.svg" alt="check"></div>
       </div>
   </div>
+<!-- 여기까지가 명맥으로 가지고 있는 DOM코딩 -->
+
+
+
     <div class="clearBox">
       <div class="characterMom"><div id="character"></div></div>
       <button class="playBtn">PLAY</button>
@@ -74,6 +77,6 @@
 <!--   <script src="js/includeHTML.js"></script> -->
 <!-- <script src="js/menu.js"></script> -->
   <script type="module" src="js/firebase2.js"></script>
-  <script src="js/quiz.js"></script>
+  <script src="js/quizGrammer.js"></script>
 </body>
 </html>

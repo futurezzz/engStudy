@@ -10,9 +10,9 @@ const answer = document.querySelector('.answer');
 const bottom = document.querySelector('.bottom');
 const back = document.querySelector('.back');
 const check = document.querySelector('.check');
+const checkGrammer = document.querySelector('.check-grammer');
 let quizLeft = document.querySelector('.quiz-left'); //짝맞추기 문제를 풀지. speak문제를 풀지 선택
 let numOfQuiz = 10;
-let answerTry;
 const reset = document.querySelector('.reset');
 const score = document.querySelector('.score');
 const scoreProgress = document.querySelector('.scoreProgress');
@@ -95,7 +95,8 @@ function loadLocalStorage(){
     console.log(user,unit,chapter, unitLength);
     title.textContent = chapter;
     unitText.textContent = `unit ${unit}`;
-    scoreValue = scoreArray[unit-1];
+    scoreValue = parseInt(localStorage.getItem('scoreValue'));
+    // scoreValue = scoreArray[unit-1]; //위의것 안되면 이거 다시 써야 함
     scoreProgressDisplay();
   }
 }
@@ -233,6 +234,8 @@ function displaySpeakWords(){
 }
 
 
+
+
 // ------------------------- BACK --------------------------------------//
 back.addEventListener('click',()=>{
   //undo할 글자가 하나 이상 있으면
@@ -245,8 +248,8 @@ back.addEventListener('click',()=>{
     lis[undoNo].classList.add("onList");
     answer.textContent = answer.textContent.substring(0,textLength-undoLength-1);
     arrayLengthLeft += 1;
-    console.log(undoLength)
-    console.log(answer.textContent.length)
+    // console.log(undoLength)
+    // console.log(answer.textContent.length)
   }
 })
 

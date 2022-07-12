@@ -63,10 +63,23 @@ function resetData(){
   } else {
     quizType = "matching"
   }
+if (chapter === 'GRIU') {
+  quizType = 'grammer';
+}
 
-
-  // // quiZtype이 matching이면 짝맞추기. 그게 아니면 말하기 버전으로 이동
-  quizType === "matching" ? displayWords() : displaySpeakWords()
+  //  quiZtype에 따라 matching, speaking, grammer 형태의 문제를 출제
+  switch(quizType) {
+    case "sepaking":
+      displaySpeakWords();
+      break;
+    case "grammer":
+      displayQuiz();
+      break; 
+    default:
+      displayWords();
+  }
+  // 아래는 위의 switch 문을 쓰기 전에 쓰던 문법
+  // quizType === "matching" ? displayWords() : displaySpeakWords()
 }
 
 // ----------- SELECT DATA FUNCTION ---------------------------------// 
@@ -176,6 +189,33 @@ speakList.addEventListener('click',(e)=>{
 })
 
 
+checkGrammer.addEventListener('click',(e)=>{
+  let checked = document.querySelectorAll('.answer-click');
+  let checkedAnswer = '';
+  let answer = itemArray[randomNum[quizNo]]['ANSWER'];
+  console.log(answer, checked.length, checked.item(0).classList.item(0));
+  for (let i=0; i<checked.length; i++){
+    // checkedArray.push(checked.item(i).classList.item(0));
+    checkedAnswer += checked.item(i).classList.item(0);
+    // console.log(An.item(0).classList.item(0))
+  }
+  
+  checkedAnswer = checkedAnswer.split('').sort().join('') //문자열 오름차순 정렬
+  if( checkedAnswer === answer){
+    let speakAnswer = answer.length === 1 ? answer : checked.item(0).classList.item(0);
+    console.log(itemArray[randomNum[quizNo]][speakAnswer])
+    checkGrammerYes(speakAnswer);
+  } else {
+    console.log('no')
+  };
+});
+
+
+
+
+
+
+
 // 마이크로 말하고 check버튼을 누르면 정답인지 확인
 check.addEventListener('click',()=>{
   checkSpeakAnswer();
@@ -195,51 +235,101 @@ function checkSpeakAnswer(){
   }
 }
 
+//퀴즈에서 맞히면 점수 증가
+function scoreAdd(add){
+  audioYes.play();
+  scoreValue += add + combo*10;
+  
+  scoreTodayVariation = scoreTodayVariation + add + combo*10;
+  score.textContent = scoreValue;
+  scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+  
+  // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
+  if(combo>0){
+    comboBox.innerHTML = `${combo} combo!`;
+    comboBox.classList.add('combo-boxOn');
+} 
+combo++;
+matchedNo++;
+// console.log(numOfQuiz, matchedNo, scoreValue)
+quizLeft.textContent = numOfQuiz - matchedNo;
+}
 
-function checkAnswerYes(){
-       //정답이면
-        audioYes.play();
-        scoreValue = scoreValue + 200 + combo*10;
-        scoreTodayVariation = scoreTodayVariation + 200 + combo*10;
-        score.textContent = scoreValue;
-        scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
-        
-        // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
-        if(combo>0){
-          comboBox.innerHTML = `${combo} combo!`;
-          comboBox.classList.add('combo-boxOn');
-      } 
-      combo++;
-      matchedNo++;
-      console.log(matchedNo);
-      quizLeft.textContent = numOfQuiz - matchedNo;
-      answer.style.color = '#98d0d0';
+
+//퀴즈에서 틀리면 점수 감소
+function scoreSubtract(){
+  audioNo.play();
+  scoreValue -= 50;
+  scoreTodayVariation -= 50;
+  combo = 0;
+  score.textContent = scoreValue;
+  scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+}
+
+//주어진 문제 맞춘 후 캐릭터 나오면서 큰 버튼 나오기
+function afterClearQuiz(){
+  character.classList.remove(`charater0${m}`);
+  setTimeout(()=>{
+    audioClear.play();
+    
+    m = Math.floor(Math.random()*10);
+    // console.log(m);
+    character.classList.add(`charater0${m}`);
+    clearBox.style.display = 'block';
+    scoreProgressDisplay();
+    if (scoreValue > 100){
+      playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
+      playBtn.innerText = 'YOU DID IT!';
+    }
+    words.style.opacity = '0';
+    InsertData();
+  },300)
+}
+
+//grammer퀴즈에서 정답을 맞혔을 때 사용
+function checkGrammerYes(answer){
+      if (answer.length > 1){
+
+      }
+      let speakingText = quiz.textContent.replace('___',itemArray[randomNum[quizNo]][answer])
+      // 문제에 있는 ___ 빈칸을 처음 선택한 정답으로 교체한 후 읽어주기
+      speech(speakingText);
+       //정답이면 100점씩 증가.
+      scoreAdd(100); 
       setTimeout(()=>{
         comboBox.classList.remove('combo-boxOn');
-        resetSpeech();
-        answer.style.color = '#000';
+        // resetSpeech();
       },1000)
       
     // 10문제 다 맞히면 클리어. platBtn 활성화
-    // seak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
+    // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
       if(matchedNo === numOfQuiz ){
-        character.classList.remove(`charater0${m}`);
-        setTimeout(()=>{
-          audioClear.play();
-          
-          m = Math.floor(Math.random()*10);
-          // console.log(m);
-          character.classList.add(`charater0${m}`);
-          clearBox.style.display = 'block';
-          scoreProgressDisplay();
-          if (scoreValue > 100){
-            playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
-            playBtn.innerText = 'YOU DID IT!';
-          }
-          words.style.opacity = '0';
-          InsertData();
-        },300)
+        afterClearQuiz();
       }
+      //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
+      else {
+        displayQuiz();
+        console.log(quizNo);
+      }
+    }
+
+//speak 퀴즈에서 정답을 맞혔을 때 사용    
+function checkAnswerYes(){
+       //정답이면 200점씩 증가.
+      scoreAdd(200); 
+      // answer.style.color = '#98d0d0';
+      setTimeout(()=>{
+        comboBox.classList.remove('combo-boxOn');
+        resetSpeech();
+        // answer.style.color = '#000';
+      },1000)
+      
+    // 10문제 다 맞히면 클리어. platBtn 활성화
+    // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
+      if(matchedNo === numOfQuiz ){
+        afterClearQuiz();
+      }
+      //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
       else {
         displaySpeakWords();
       }
@@ -247,16 +337,11 @@ function checkAnswerYes(){
 
 
 function checkAnswerNo(){
-  audioNo.play();
-  scoreValue -= 50;
-  scoreTodayVariation -= 50;
-  combo = 0;
-  score.textContent = scoreValue;
-  scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
-  answer.style.color = '#98d0d0';
+  scoreSubtract()
+  // answer.style.color = '#98d0d0';
   setTimeout(()=>{
     resetSpeech();
-    answer.style.color = '#000';
+    // answer.style.color = '#000';
   },1000)
   displaySpeakWords();
 }

@@ -1,5 +1,7 @@
 const mainChapter = document.querySelector('.main-unit-list');
+const grammerChapter = document.querySelector('.grammer-unit-list');
 const subUnitList = document.querySelector('.sub-unit-list');
+const grammerSubUnitList = document.querySelector('.grammer-sub-unit-list');
 // const subSpeakList = document.querySelector('.sub-speak-list');
 const calendar = document.querySelector('.calendar');
 const calendarToday = document.querySelector('.calendar-today');
@@ -20,6 +22,8 @@ let today = new Date();
 let thisMonth = `${today.getFullYear()}/${today.getMonth()+1}`;
 let user;
 let chapter;
+// let chapterForJSON;
+let chapterTitle;
 let week = ['일','월','화','수','목','금','토'];
 let todayDay = week[today.getDay()];
 let lastDay;
@@ -29,6 +33,7 @@ let units = [];
 let itemArray = [];
 let dateScoreArray = [];
 let scoreArray = [];
+let scoreValue;
 // let scoreSpeakArray = [];
 let unitLength = 0; //전체 unit의 개수
 const score = document.querySelector('.score');
@@ -68,10 +73,11 @@ changeUser.addEventListener('click',()=>{
 
 // import {SelectData} from './firebase.js';
 
+// firebase.jsdpeh mainChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
 mainChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
   calendar.style.visibility = 'hidden';
-  unitLength =  parseInt(e.target.dataset.unitNo);
+  // unitLength =  parseInt(e.target.dataset.unitNo);
   if ( chapter ) {
     init();
     console.log(chapter);
@@ -80,30 +86,18 @@ mainChapter.addEventListener('click', (e)=> {
   }
 })
 
-
-
-
-function transferData(){
-  let isAvailable = elem.classList.contains("unit"); //빈공간이 아닌 버튼을 눌렀으면 true
-  if(isAvailable){
-    elem.classList.add('unit-on');
-    unitNo = elem.dataset.unit;
-    localStorage.setItem("user",user);
-    localStorage.setItem("unit",unitNo);
-    localStorage.setItem("unitLength",unitLength);
-    localStorage.setItem("chapter",chapter);
-    localStorage.setItem("quizType",quizType);
-    localStorage.setItem("scoreArray",JSON.stringify(scoreArray));
-    // localStorage.setItem("scoreSpeakArray",JSON.stringify(scoreSpeakArray));
-    localStorage.setItem("dateScoreArray",JSON.stringify(dateScoreArray));
-    if (typeof (window.open) == "function")
-    { window.open("quiz.html"); 
-    } else { window.location.href = "quiz.html";
-    // { window.open("quiz.html"); 
-    // } else { window.location.href = "quiz.html";
-    }
+// firebase.jsdpeh grammerChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
+grammerChapter.addEventListener('click', (e)=> {
+  chapter = e.target.dataset.chapter;
+  calendar.style.visibility = 'hidden';
+  // unitLength =  parseInt(e.target.dataset.unitNo);
+  if ( chapter ) {
+    init();
+    // console.log(chapter);
+    // SelectData();
+    // displayUnits();
   }
-}
+})
 
 
 //main
@@ -115,6 +109,34 @@ function init(){
   })
   .catch(console.log);
 }
+
+
+function transferData(){
+  let isAvailable = elem.classList.contains("unit"); //빈공간이 아닌 버튼을 눌렀으면 true
+  if(isAvailable){
+    elem.classList.add('unit-on');
+    unitNo = elem.dataset.unit;
+    localStorage.setItem("user",user);
+    localStorage.setItem("unit",unitNo);
+    localStorage.setItem("unitLength",unitLength);
+    localStorage.setItem("chapter",chapter);
+    // localStorage.setItem("chapterForJSON",chapterForJSON);
+    localStorage.setItem("chapterTitle",chapterTitle);
+    localStorage.setItem("quizType",quizType);
+    localStorage.setItem("scoreArray",JSON.stringify(scoreArray));
+    // localStorage.setItem("scoreSpeakArray",JSON.stringify(scoreSpeakArray));
+    localStorage.setItem("dateScoreArray",JSON.stringify(dateScoreArray));
+    localStorage.setItem("scoreValue",scoreValue);
+    let url = (chapter !=='GRIU' ? "quiz.html" : "quizGrammer.html");
+    if (typeof (window.open) == "function")
+    { window.open(url); 
+    } else { window.location.href = url;
+    // { window.open("quiz.html"); 
+    // } else { window.location.href = "quiz.html";
+    }
+  }
+}
+
 
 
 // functions
@@ -137,6 +159,7 @@ function displayCalendar(){
   //이전에 표시된 단원선택표가 있으면 우선 초기화(지우기)
   calendarToday.textContent =  `${today.getFullYear()}-${today.getMonth()+1}-${today.getDate()} ${week[today.getDay()]}`;
   subUnitList.innerHTML = ''; 
+  grammerSubUnitList.innerHTML = ''; 
   // subSpeakList.innerHTML = ''; 
   // 요일 표시
   calendarUnitList.innerHTML = ''; //unit메뉴들을 초기화
@@ -216,7 +239,7 @@ function groupBy(list) {
 
 function displayItems(items){
   units = items.map(item=>item);
-  // groupBy(units);
+  groupBy(units);
   // console.log(unitLength);
 }
 
@@ -224,12 +247,15 @@ function displayUnits(){
   calendarToday.textContent = '';
   calendarUnitList.innerHTML = '';
   subUnitList.innerHTML = ''; //unit메뉴들을 초기화
+  grammerSubUnitList.innerHTML = ''; //unit메뉴들을 초기화
   // subSpeakList.innerHTML = ''; //unit메뉴들을 초기화
   // 첫번째 unit들 표시(짝 맞추기)
   for(let i=0; i<unitLength; i++ ){
     const li = document.createElement('li');
     const li2 = document.createElement('li');
     let scoreItem = scoreArray[i];
+    //GRIU 인 경우에는 따로 Unit이름을 정해주었음
+    // li.innerHTML = ((chapter!=='GRIU') ? `${chapter} ${i+1} <br/> ${scoreItem}` : `${units[i].unit} <br/> ${scoreItem}`);
     li.innerHTML = `${chapter} ${i+1} <br/> ${scoreItem}`;
     li.classList.add('unit');
     if (scoreItem >= 7000 ){
@@ -242,7 +268,11 @@ function displayUnits(){
     }
     // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
     li.dataset.unit = i+1; //나중에 li선택시 어떤 unit을 클릭했는지 데이터 전송을 위해 필요
-    subUnitList.append(li);
+    if(chapter!=='GRIU'){
+      subUnitList.append(li);}
+    else {
+      grammerSubUnitList.append(li);
+    }
   }
 
   // 두번째 unit표시 (speak관련)
