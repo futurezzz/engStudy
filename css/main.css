@@ -50,6 +50,17 @@
   overflow-x: scroll;
 }
 
+.grammer-unit-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 78px;
+  user-select: none;
+  cursor: pointer;
+  overflow-x: scroll;
+  margin: -15px 0;
+}
 
 .list {
   list-style: none;
@@ -65,13 +76,18 @@
   transition: .3s;
 }
 
+.g-list{
+  flex: 0 0 185px;
+  background-color: rgb(19, 91, 78);
+}
+
 .list:hover {
   background-color: rgb(19, 54, 68);
   background-color: rgb(0, 80, 120);
   margin-top: -3px;
 }
 
-.sub-unit-list, .sub-speak-list {
+.sub-unit-list, .grammer-sub-unit-list, .sub-speak-list {
   display: grid;
   grid-template-columns: repeat(4,1fr);
   gap: 5px;
@@ -251,6 +267,10 @@
     font-size: 17px;
   }
 
+  .g-list{
+    flex: 0 0 265px;
+  }
+
   .main-unit-list {
     width: 900px;
     height: 100px;
@@ -258,7 +278,10 @@
     overflow-x:auto;
   }
 
-  .sub-unit-list, .sub-speak-list {
+  .grammer-unit-list{
+    margin: 0;
+  }
+  .sub-unit-list, .grammer-sub-unit-list, .sub-speak-list {
     grid-template-columns: repeat(7,1fr);
   }
 
