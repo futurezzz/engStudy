@@ -245,6 +245,7 @@ function displayItems(items){
 }
 
 function displayUnits(){
+  console.log(scoreArray);
   calendarToday.textContent = '';
   calendarUnitList.innerHTML = '';
   subUnitList.innerHTML = ''; //unit메뉴들을 초기화
