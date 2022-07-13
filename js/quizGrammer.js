@@ -78,8 +78,7 @@ hideQuizDOM(); //quiz에서 사용하던 DOM들 감추기
 loadLocalStorage();
 loadItems()
 .then(items => {
-  // numOfQuiz = itemArray.length;
-  numOfQuiz = 2;
+  numOfQuiz = itemArray.length;
   randomArray(); //문제 섞기
   console.log(randomNum, numOfQuiz)
   displayQuiz();
