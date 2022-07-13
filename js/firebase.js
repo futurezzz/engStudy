@@ -33,6 +33,7 @@ userBox.addEventListener('click', (e)=>{
 mainChapter.addEventListener('click',(e)=>{
   if(user && chapter){
     SelectData();
+    console.log('data')
   }
 })
 
@@ -44,9 +45,14 @@ grammerChapter.addEventListener('click',(e)=>{
 
 grammerSubUnitList.addEventListener('click',(e)=>{
   elem = e.target;
-  chapterTitle = units[elem.dataset.unit-1].unit;
+  chapterTitle = collectionArray[elem.dataset.unit-1];
   console.log(chapterTitle);
+  quizType = 'grammer';
   SelectScore(parseInt(elem.dataset.unit)-1); //scoreValue를 업데이트 해서 다시 불러오기 위함
+  setTimeout(() => {
+    scoreValue = scoreValue ?? 0; //scoreValue가 null or undefined 이면 0을 사용하라
+    elem.innerHTML = `${chapter} ${elem.dataset.unit} <br/> ${scoreValue}`;
+  }, 500);
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })
 
@@ -55,7 +61,10 @@ subUnitList.addEventListener('click',(e)=>{
   elem = e.target;
 
   SelectScore(parseInt(elem.dataset.unit)-1); //scoreValue를 업데이트 해서 다시 불러오기 위함
-  // scoreValue = scoreArray[parseInt(elem.dataset.unit)-1];
+  setTimeout(() => {
+    scoreValue = scoreValue ?? 0; //scoreValue가 null or undefined 이면 0을 사용하라
+    elem.innerHTML = `${chapter} ${elem.dataset.unit} <br/> ${scoreValue}`;
+  }, 500);
   
   if (scoreValue >= 70000){
     quizType = "speaking"
@@ -74,7 +83,6 @@ subUnitList.addEventListener('click',(e)=>{
   } else {
     quizType = "matching"
   }
-
   // quizType = scoreValue <=60000 ? "matching" : "speaking";
   // url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
   // console.log(elem, quizType);
@@ -205,8 +213,8 @@ async function SelectData(){
       .catch((error)=>{
         alert("unsuccessful, error" + error);
       });
-      await displayUnits();
       //displayUnits은 해당unit점수표시와 진행정도 표시
+      displayUnits();
     }
 
 

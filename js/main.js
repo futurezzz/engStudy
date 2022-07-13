@@ -33,6 +33,7 @@ let units = [];
 let itemArray = [];
 let dateScoreArray = [];
 let scoreArray = [];
+let collectionArray = []; //unit 단원들만 모아놓은 배열
 let scoreValue;
 // let scoreSpeakArray = [];
 let unitLength = 0; //전체 unit의 개수
@@ -224,7 +225,7 @@ function displayCalendar(){
 //   return map;
 // }
 function groupBy(list) {
-  let collectionArray = [];
+  
   unitLength = 0;
   list.forEach((item) => {
     const collection = item.unit;
@@ -250,7 +251,7 @@ function displayUnits(){
   grammerSubUnitList.innerHTML = ''; //unit메뉴들을 초기화
   // subSpeakList.innerHTML = ''; //unit메뉴들을 초기화
   // 첫번째 unit들 표시(짝 맞추기)
-  for(let i=0; i<unitLength; i++ ){
+  for(let i=0; i<scoreArray.length; i++ ){
     const li = document.createElement('li');
     const li2 = document.createElement('li');
     let scoreItem = scoreArray[i];
@@ -269,7 +270,8 @@ function displayUnits(){
     // li.style.backgroundColor = (scoreItem == 0) ? "rgba(0,0,0,.5)" : ("rgba(220,10,10,"+scoreItem/10000 +")")
     li.dataset.unit = i+1; //나중에 li선택시 어떤 unit을 클릭했는지 데이터 전송을 위해 필요
     if(chapter!=='GRIU'){
-      subUnitList.append(li);}
+      subUnitList.append(li);
+    }
     else {
       grammerSubUnitList.append(li);
     }

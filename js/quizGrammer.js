@@ -4,6 +4,7 @@ const unitText = document.querySelector('.unit');
 const dictionary = document.querySelector('.dictionary');
 const wordsList = document.querySelector('.words-list');
 const speakList = document.querySelector('.speak-list');
+const grammerWords = document.querySelector('.grammer-words'); //quiz를 다 맞혔을 때 버튼이 나오기 전 퀴즈화면 안보이게 할 때 필요함
 const quiz = document.querySelector('.quiz');
 const answerView = document.querySelector('.answer-view');
 const answerList = document.querySelector('.answer-list');
@@ -67,7 +68,7 @@ let scoreTodayVariation = 0;
 let combo = 0;
 let decreaseNum = 20;//총 20요소. 영어10, 한글뜻10
 let quizNo = -1;
-
+let m;
 
 //main
 matchedNo = 0;
@@ -77,7 +78,8 @@ hideQuizDOM(); //quiz에서 사용하던 DOM들 감추기
 loadLocalStorage();
 loadItems()
 .then(items => {
-  numOfQuiz = itemArray.length;
+  // numOfQuiz = itemArray.length;
+  numOfQuiz = 2;
   randomArray(); //문제 섞기
   console.log(randomNum, numOfQuiz)
   displayQuiz();
@@ -210,7 +212,6 @@ function displayQuiz(){
   let answerListNum;
   answerList.innerHTML = ''; //정답선택지 초기화
   quizNo += 1;
-  console.log(quizNo, numOfQuiz)
   quiz.textContent = itemArray[randomNum[quizNo]].QUIZ;
   answerView.textContent = itemArray[randomNum[quizNo]].ANSWER;
   // 정답 선택 리스트가 B까지만 있으면 선택지2개, C까지 3개, D까지 4개, E까지 있으면 5개 라는 의미
@@ -280,27 +281,4 @@ dictionary.addEventListener('click',()=>{
 
 
 
-// ------------------------- 음성합성 --------------------------------------//
-function setVoiceList() {
-  voices = window.speechSynthesis.getVoices();
-  }
-  function speech(txt) {
-  if(!window.speechSynthesis) {
-  alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");
-  return;
-  }
-  var lang = 'en-US';//ko-KR
-  var utterThis = new SpeechSynthesisUtterance(txt);
-  utterThis.onend = function (event) {
-  // console.log('end');
-  };
-  utterThis.onerror = function(event) {
-  console.log('error', event);
-  };
-
-  utterThis.lang = lang;
-  utterThis.pitch = 1;
-  utterThis.rate = 1; //속도
-  window.speechSynthesis.speak(utterThis);
-  };
 

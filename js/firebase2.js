@@ -73,6 +73,8 @@ if (chapter === 'GRIU') {
       displaySpeakWords();
       break;
     case "grammer":
+      grammerWords.style.display = 'flex'; 
+      checkGrammer.style.display = 'block';
       displayQuiz();
       break; 
     default:
@@ -197,7 +199,6 @@ checkGrammer.addEventListener('click',(e)=>{
   for (let i=0; i<checked.length; i++){
     // checkedArray.push(checked.item(i).classList.item(0));
     checkedAnswer += checked.item(i).classList.item(0);
-    // console.log(An.item(0).classList.item(0))
   }
   
   checkedAnswer = checkedAnswer.split('').sort().join('') //문자열 오름차순 정렬
@@ -206,12 +207,44 @@ checkGrammer.addEventListener('click',(e)=>{
     console.log(itemArray[randomNum[quizNo]][speakAnswer])
     checkGrammerYes(speakAnswer);
   } else {
-    console.log('no')
+    // grammer 퀴즈에서 틀렸을 때
+    checked.forEach(elem => elem.classList.remove('answer-click'));
+    scoreSubtract();
   };
 });
 
 
 
+//grammer퀴즈에서 정답을 맞혔을 때 사용
+function checkGrammerYes(answer){
+  let speakingText = quiz.textContent.replace('___',itemArray[randomNum[quizNo]][answer])
+  // 문제에 있는 ___ 빈칸을 처음 선택한 정답으로 교체한 후 읽어주기
+  speech(speakingText);
+// speech가 끝나면 다음 문제를 출제하도록 했음. onend
+
+
+   //정답이면 100점씩 증가.
+  scoreAdd(100); 
+  setTimeout(()=>{
+    comboBox.classList.remove('combo-boxOn');
+  },1000)
+}
+
+function nextQuiz(){
+  
+    // 10문제 다 맞히면 클리어. platBtn 활성화
+    // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
+    if(matchedNo === numOfQuiz ){
+      grammerWords.style.display = 'none'; 
+      checkGrammer.style.display = 'none';
+      afterClearQuiz();
+      }
+      //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
+      else {
+      displayQuiz();
+      }
+    
+}
 
 
 
@@ -286,32 +319,6 @@ function afterClearQuiz(){
   },300)
 }
 
-//grammer퀴즈에서 정답을 맞혔을 때 사용
-function checkGrammerYes(answer){
-      if (answer.length > 1){
-
-      }
-      let speakingText = quiz.textContent.replace('___',itemArray[randomNum[quizNo]][answer])
-      // 문제에 있는 ___ 빈칸을 처음 선택한 정답으로 교체한 후 읽어주기
-      speech(speakingText);
-       //정답이면 100점씩 증가.
-      scoreAdd(100); 
-      setTimeout(()=>{
-        comboBox.classList.remove('combo-boxOn');
-        // resetSpeech();
-      },1000)
-      
-    // 10문제 다 맞히면 클리어. platBtn 활성화
-    // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
-      if(matchedNo === numOfQuiz ){
-        afterClearQuiz();
-      }
-      //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
-      else {
-        displayQuiz();
-        console.log(quizNo);
-      }
-    }
 
 //speak 퀴즈에서 정답을 맞혔을 때 사용    
 function checkAnswerYes(){
@@ -447,3 +454,34 @@ wordsList.addEventListener('click',(e)=>{
   }
 }
 });
+
+
+
+
+
+// ------------------------- 음성합성 --------------------------------------//
+function setVoiceList() {
+  voices = window.speechSynthesis.getVoices();
+  }
+  function speech(txt) {
+  if(!window.speechSynthesis) {
+  alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");
+  return;
+  }
+  var lang = 'en-US';//ko-KR
+  var utterThis = new SpeechSynthesisUtterance(txt);
+  //음성합성이 끝나면 onend
+  utterThis.onend = function (event) {
+    //문장을 읽고 나면 
+    if(quizType === 'grammer'){
+      nextQuiz()};
+  };
+  utterThis.onerror = function(event) {
+  console.log('error', event);
+  };
+
+  utterThis.lang = lang;
+  utterThis.pitch = 1;
+  utterThis.rate = 1; //속도
+  window.speechSynthesis.speak(utterThis);
+};

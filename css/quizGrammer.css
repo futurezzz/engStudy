@@ -9,7 +9,7 @@
   /* color */
   --word-on-color: hsla(180, 82%, 31%, 0.877);
   --word-off-color: hsl(185, 66%, 22%);
-  --answer-color: hsla(180, 82%, 31%, 0.424);
+  --answer-color: rgba(14, 144, 144, 0.424);
   --meaning-on-color: hsl(58, 100%, 93%);
   --meaning-on-border-color: hsl(43, 52%, 79%);
   --score-color: hsl(186, 39%, 26%);
