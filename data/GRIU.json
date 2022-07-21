@@ -985,8 +985,8 @@
       "serial": 90,
       "QUIZ": " Have you been to ___ ?",
       "A": "Canada or United States",
-      "B": "",
-      "C": "nada or United States B the Canada or the United States C Canada or the United States",
+      "B": "the Canada or the United States",
+      "C": "Canada or the United States",
       "D": "the Canada or United States",
       "E": "",
       "ANSWER": "C"
