@@ -73,8 +73,8 @@ if (chapter === 'GRIU') {
       displaySpeakWords();
       break;
     case "grammer":
-      grammerWords.style.display = 'flex'; 
-      checkGrammer.style.display = 'block';
+      // grammerWords.style.display = 'flex'; 
+      // checkGrammer.style.display = 'block';
       displayQuiz();
       break; 
     default:
@@ -220,11 +220,13 @@ function checkGrammerYes(answer){
   let speakingText = quiz.textContent.replace('___',itemArray[randomNum[quizNo]][answer])
   // 문제에 있는 ___ 빈칸을 처음 선택한 정답으로 교체한 후 읽어주기
   speech(speakingText);
-// speech가 끝나면 다음 문제를 출제하도록 했음. onend
+  // 기존에는 speech가 끝나면 다음 문제를 출제하도록 했었음. onend. 
+  // 다음 퀴즈 기다리기가 지루해서 지금과 같이 바꿈
+  nextQuiz();
 
 
    //정답이면 100점씩 증가.
-  scoreAdd(100); 
+  scoreAdd(150); 
   setTimeout(()=>{
     comboBox.classList.remove('combo-boxOn');
   },1000)
@@ -235,8 +237,8 @@ function nextQuiz(){
     // 10문제 다 맞히면 클리어. platBtn 활성화
     // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
     if(matchedNo === numOfQuiz ){
-      grammerWords.style.display = 'none'; 
-      checkGrammer.style.display = 'none';
+      // grammerWords.style.display = 'none'; 
+      // checkGrammer.style.display = 'none';
       afterClearQuiz();
       }
       //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
@@ -460,7 +462,7 @@ wordsList.addEventListener('click',(e)=>{
 
 
 // ------------------------- 음성합성 --------------------------------------//
-function setVoiceList() {
+  function setVoiceList() {
   voices = window.speechSynthesis.getVoices();
   }
   function speech(txt) {
@@ -473,8 +475,7 @@ function setVoiceList() {
   //음성합성이 끝나면 onend
   utterThis.onend = function (event) {
     //문장을 읽고 나면 
-    if(quizType === 'grammer'){
-      nextQuiz()};
+
   };
   utterThis.onerror = function(event) {
   console.log('error', event);
