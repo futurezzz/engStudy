@@ -78,16 +78,14 @@ hideQuizDOM(); //quiz에서 사용하던 DOM들 감추기
 loadLocalStorage();
 loadItems()
 .then(items => {
-  // numOfQuiz = itemArray.length;
-  numOfQuiz = 3;
+  numOfQuiz = itemArray.length;
   randomArray(); //문제 섞기
   console.log(randomNum, numOfQuiz)
   displayQuiz();
   // displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   // displayItems(items); //DATA에서 랜덤으로 가져온 단어들을 word라는 변수에 할당
   //quizType이 matcing이면 짝맞추기 문제. speaking 이면 speaking 문제 내기
-  quizLeft.textContent = 3;
-  // quizLeft.textContent = randomNum.length;
+  quizLeft.textContent = randomNum.length;
   
 })
 .catch(console.log);
@@ -149,7 +147,6 @@ async function loadItems(){
 
 function displayItems(items){
   word = items.map(item=>item);
-  console.log(numOfQuiz)
 }
 
 

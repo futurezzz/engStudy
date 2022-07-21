@@ -75,6 +75,7 @@ if (chapter === 'GRIU') {
     case "grammer":
       grammerWords.style.display = 'flex'; 
       checkGrammer.style.display = 'block';
+      quizLeft.textContent = randomNum.length;
       displayQuiz();
       break; 
     default:
@@ -234,7 +235,6 @@ function checkGrammerYes(answer){
 
 function nextQuiz(){
   
-  console.log('matched',matchedNo, 'numofquiz',numOfQuiz)
     // 10문제 다 맞히면 클리어. platBtn 활성화
     // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
     if(matchedNo === numOfQuiz ){
