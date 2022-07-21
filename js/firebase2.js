@@ -73,8 +73,8 @@ if (chapter === 'GRIU') {
       displaySpeakWords();
       break;
     case "grammer":
-      // grammerWords.style.display = 'flex'; 
-      // checkGrammer.style.display = 'block';
+      grammerWords.style.display = 'flex'; 
+      checkGrammer.style.display = 'block';
       displayQuiz();
       break; 
     default:
@@ -222,11 +222,11 @@ function checkGrammerYes(answer){
   speech(speakingText);
   // 기존에는 speech가 끝나면 다음 문제를 출제하도록 했었음. onend. 
   // 다음 퀴즈 기다리기가 지루해서 지금과 같이 바꿈
+  
+  //정답이면 100점씩 증가.
+  scoreAdd(150); 
   nextQuiz();
 
-
-   //정답이면 100점씩 증가.
-  scoreAdd(150); 
   setTimeout(()=>{
     comboBox.classList.remove('combo-boxOn');
   },1000)
@@ -234,11 +234,12 @@ function checkGrammerYes(answer){
 
 function nextQuiz(){
   
+  console.log('matched',matchedNo, 'numofquiz',numOfQuiz)
     // 10문제 다 맞히면 클리어. platBtn 활성화
     // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
     if(matchedNo === numOfQuiz ){
-      // grammerWords.style.display = 'none'; 
-      // checkGrammer.style.display = 'none';
+      grammerWords.style.display = 'none'; 
+      checkGrammer.style.display = 'none';
       afterClearQuiz();
       }
       //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
@@ -332,7 +333,6 @@ function checkAnswerYes(){
         resetSpeech();
         // answer.style.color = '#000';
       },1000)
-      
     // 10문제 다 맞히면 클리어. platBtn 활성화
     // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
       if(matchedNo === numOfQuiz ){
