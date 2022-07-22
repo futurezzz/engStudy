@@ -11,9 +11,6 @@ const answerList = document.querySelector('.answer-list');
 const checkGrammer = document.querySelector('.check-grammer');
 let quizLeft = document.querySelector('.quiz-left'); //총 몇 문제 남았는지 표시
 
-// ----------------------------------에러 잡기 위해 잠시. ------나중에 삭제해야함
-const refer = document.querySelector('.ref');
-
 
 // 여기서부터 --------- js 오류방지를 위한 껍데기 DOM
 const words = document.querySelector('.words');
