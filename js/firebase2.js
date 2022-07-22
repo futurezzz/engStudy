@@ -196,7 +196,7 @@ checkGrammer.addEventListener('click',(e)=>{
   let checked = document.querySelectorAll('.answer-click');
   let checkedAnswer = '';
   let answer = itemArray[randomNum[matchedNo]]['ANSWER'];
-  console.log(answer, checked.length, checked.item(0).classList.item(0));
+  // console.log(answer, checked.length, checked.item(0).classList.item(0));
   for (let i=0; i<checked.length; i++){
     // checkedArray.push(checked.item(i).classList.item(0));
     checkedAnswer += checked.item(i).classList.item(0);
@@ -241,7 +241,6 @@ function nextQuiz(){
     if(matchedNo === numOfQuiz ){
       grammerWords.style.display = 'none'; 
       checkGrammer.style.display = 'none';
-      // quizNo = 0 ;
       afterClearQuiz();
       }
       //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
