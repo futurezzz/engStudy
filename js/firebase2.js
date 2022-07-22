@@ -33,7 +33,7 @@ let value;
 
 // 10문제 맞힌 후 play 버튼 활성화.
 // 이 play버튼을 누르면 다시 게임 시작
-playBtn.addEventListener('click',(e)=>{
+playBtn.addEventListener('click',()=>{
   resetData();
 })
 
@@ -238,7 +238,8 @@ function nextQuiz(){
   refer.textContent = `${itemArray.length}  ${matchedNo}`;
     // 10문제 다 맞히면 클리어. platBtn 활성화
     // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
-    if(matchedNo === numOfQuiz ){
+    if(matchedNo === 2 ){
+    // if(matchedNo === numOfQuiz ){
       grammerWords.style.display = 'none'; 
       checkGrammer.style.display = 'none';
       afterClearQuiz();
