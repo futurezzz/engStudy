@@ -212,7 +212,8 @@ function displayShuffle(answerListNum){
 // ----Grammer 문제내기 -----------------------------------------------------
 
 function displayQuiz(){
-  score.textContent = scoreValue;
+  // score.textContent = scoreValue;
+  score.textContent = `${scoreValue} haha`;
   let answerListNum;
   answerList.innerHTML = ''; //정답선택지 초기화
   quizNo += 1;
