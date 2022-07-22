@@ -242,6 +242,7 @@ function nextQuiz(){
     if(matchedNo === numOfQuiz ){
       grammerWords.style.display = 'none'; 
       checkGrammer.style.display = 'none';
+      quizNo = 0 ;
       afterClearQuiz();
       }
       //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제

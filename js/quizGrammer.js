@@ -83,7 +83,6 @@ loadItems()
 .then(items => {
   numOfQuiz = itemArray.length;
   randomArray(); //문제 섞기
-  console.log(randomNum, numOfQuiz)
   displayQuiz();
   // displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   // displayItems(items); //DATA에서 랜덤으로 가져온 단어들을 word라는 변수에 할당
@@ -213,8 +212,9 @@ function displayQuiz(){
   let answerListNum;
   answerList.innerHTML = ''; //정답선택지 초기화
   quizNo += 1;
-  quiz.textContent = itemArray[randomNum[quizNo]].QUIZ;
-  answerView.textContent = itemArray[randomNum[quizNo]].ANSWER;
+  // console.log("num",itemArray, "quizNo",quizNo)
+  quiz.textContent = itemArray[randomNum[quizNo]]['QUIZ'];
+  answerView.textContent = itemArray[randomNum[quizNo]]['ANSWER'];
   // 정답 선택 리스트가 B까지만 있으면 선택지2개, C까지 3개, D까지 4개, E까지 있으면 5개 라는 의미
   if (!itemArray[randomNum[quizNo]].C){
     answerListNum = 2
