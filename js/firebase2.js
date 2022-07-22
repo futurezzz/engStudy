@@ -73,12 +73,12 @@ if (chapter === 'GRIU') {
       displaySpeakWords();
       break;
     case "grammer":
-      // grammerWords.style.display = 'flex'; 
+      grammerWords.style.display = 'flex'; 
       checkGrammer.style.display = 'block';
       quizLeft.textContent = randomNum.length;
       displayQuiz();
       break; 
-    default:
+    default: //단어 짝맞추기("matching")
       displayWords();
   }
   // 아래는 위의 switch 문을 쓰기 전에 쓰던 문법
@@ -238,7 +238,7 @@ function nextQuiz(){
     // 10문제 다 맞히면 클리어. platBtn 활성화
     // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
     if(matchedNo === numOfQuiz ){
-      // grammerWords.style.display = 'none'; 
+      grammerWords.style.display = 'none'; 
       checkGrammer.style.display = 'none';
       afterClearQuiz();
       }
@@ -311,7 +311,7 @@ function afterClearQuiz(){
     m = Math.floor(Math.random()*10);
     // console.log(m);
     character.classList.add(`charater0${m}`);
-    clearBox.style.display = 'block';
+    clearBox.style.display = 'block'; //버튼 보이기
     scoreProgressDisplay();
     if (scoreValue > 100){
       playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가

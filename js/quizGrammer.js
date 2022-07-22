@@ -11,6 +11,9 @@ const answerList = document.querySelector('.answer-list');
 const checkGrammer = document.querySelector('.check-grammer');
 let quizLeft = document.querySelector('.quiz-left'); //총 몇 문제 남았는지 표시
 
+// ----------------------------------에러 잡기 위해 잠시. ------나중에 삭제해야함
+const ref = document.querySelector('.ref');
+
 
 // 여기서부터 --------- js 오류방지를 위한 껍데기 DOM
 const words = document.querySelector('.words');
@@ -78,14 +81,16 @@ hideQuizDOM(); //quiz에서 사용하던 DOM들 감추기
 loadLocalStorage();
 loadItems()
 .then(items => {
-  numOfQuiz = itemArray.length;
+  numOfQuiz = 3;
+  // numOfQuiz = itemArray.length;
   randomArray(); //문제 섞기
   console.log(randomNum, numOfQuiz)
   displayQuiz();
   // displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   // displayItems(items); //DATA에서 랜덤으로 가져온 단어들을 word라는 변수에 할당
   //quizType이 matcing이면 짝맞추기 문제. speaking 이면 speaking 문제 내기
-  quizLeft.textContent = randomNum.length;
+  quizLeft.textContent = 3;
+  // quizLeft.textContent = randomNum.length;
   
 })
 .catch(console.log);
@@ -187,7 +192,7 @@ function displayShuffle(answerListNum){
 
   //자리순서 지정
   for ( let i = 0; i < answerListNum; i++){
-    //0~19 사이 인덱스번호고르기
+    //0~문제개수-1 사이 인덱스번호고르기
     let n = Math.floor(Math.random()*array.length);
 
     // 인덱스 번호에 있는 값을 빼서 num 에 넣기
@@ -224,7 +229,7 @@ function displayQuiz(){
   }
 
   displayShuffle(answerListNum); //정답 선택지를 섞기
-
+  ref.textContent = randomDisplay;
   console.log(answerListNum, randomNum[quizNo]+1, randomDisplay);
   for (let i=0; i< answerListNum; i++){
   let key;
