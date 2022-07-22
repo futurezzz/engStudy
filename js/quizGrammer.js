@@ -67,7 +67,7 @@ let scoreTodayValue;
 let scoreTodayVariation = 0;
 let combo = 0;
 let decreaseNum = 20;//총 20요소. 영어10, 한글뜻10
-let quizNo = -1;
+// let quizNo = -1;
 let m;
 
 //main
@@ -208,23 +208,23 @@ function displayQuiz(){
   score.textContent = scoreValue;
   let answerListNum;
   answerList.innerHTML = ''; //정답선택지 초기화
-  quizNo += 1;
+  // quizNo += 1;
   // console.log("num",itemArray, "quizNo",quizNo)
-  quiz.textContent = itemArray[randomNum[quizNo]]['QUIZ'];
-  answerView.textContent = itemArray[randomNum[quizNo]]['ANSWER'];
+  quiz.textContent = itemArray[randomNum[matchedNo]]['QUIZ'];
+  answerView.textContent = itemArray[randomNum[matchedNo]]['ANSWER'];
   // 정답 선택 리스트가 B까지만 있으면 선택지2개, C까지 3개, D까지 4개, E까지 있으면 5개 라는 의미
-  if (!itemArray[randomNum[quizNo]].C){
+  if (!itemArray[randomNum[matchedNo]].C){
     answerListNum = 2
-  } else if(!itemArray[randomNum[quizNo]].D){
+  } else if(!itemArray[randomNum[matchedNo]].D){
     answerListNum = 3
-  } else if(!itemArray[randomNum[quizNo]].E){
+  } else if(!itemArray[randomNum[matchedNo]].E){
     answerListNum = 4
   } else {
     answerListNum = 5
   }
 
   displayShuffle(answerListNum); //정답 선택지를 섞기
-  console.log(answerListNum, randomNum[quizNo]+1, randomDisplay);
+  console.log(answerListNum, randomNum[matchedNo]+1, randomDisplay);
   for (let i=0; i< answerListNum; i++){
   let key;
   // let answerOrder = randomDisplay[i];
@@ -246,7 +246,7 @@ function displayQuiz(){
       break;
   }
   const li = document.createElement('li');
-  li.innerHTML = `${i+1}. \u00a0 ${itemArray[randomNum[quizNo]][key]}`;
+  li.innerHTML = `${i+1}. \u00a0 ${itemArray[randomNum[matchedNo]][key]}`;
   li.classList.add(key);
   // 한칸 띄우기, 한 칸, 공백 주기 \u00a0
   answerList.append(li);

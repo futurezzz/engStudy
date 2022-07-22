@@ -195,7 +195,7 @@ speakList.addEventListener('click',(e)=>{
 checkGrammer.addEventListener('click',(e)=>{
   let checked = document.querySelectorAll('.answer-click');
   let checkedAnswer = '';
-  let answer = itemArray[randomNum[quizNo]]['ANSWER'];
+  let answer = itemArray[randomNum[matchedNo]]['ANSWER'];
   console.log(answer, checked.length, checked.item(0).classList.item(0));
   for (let i=0; i<checked.length; i++){
     // checkedArray.push(checked.item(i).classList.item(0));
@@ -205,7 +205,7 @@ checkGrammer.addEventListener('click',(e)=>{
   checkedAnswer = checkedAnswer.split('').sort().join('') //문자열 오름차순 정렬
   if( checkedAnswer === answer){
     let speakAnswer = answer.length === 1 ? answer : checked.item(0).classList.item(0);
-    console.log(itemArray[randomNum[quizNo]][speakAnswer])
+    console.log(itemArray[randomNum[matchedNo]][speakAnswer])
     checkGrammerYes(speakAnswer);
   } else {
     // grammer 퀴즈에서 틀렸을 때
@@ -218,7 +218,7 @@ checkGrammer.addEventListener('click',(e)=>{
 
 //grammer퀴즈에서 정답을 맞혔을 때 사용
 function checkGrammerYes(answer){
-  let speakingText = quiz.textContent.replace('___',itemArray[randomNum[quizNo]][answer])
+  let speakingText = quiz.textContent.replace('___',itemArray[randomNum[matchedNo]][answer])
   // 문제에 있는 ___ 빈칸을 처음 선택한 정답으로 교체한 후 읽어주기
   speech(speakingText);
   // 기존에는 speech가 끝나면 다음 문제를 출제하도록 했었음. onend. 
@@ -241,7 +241,7 @@ function nextQuiz(){
     if(matchedNo === numOfQuiz ){
       grammerWords.style.display = 'none'; 
       checkGrammer.style.display = 'none';
-      quizNo = 0 ;
+      // quizNo = 0 ;
       afterClearQuiz();
       }
       //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
