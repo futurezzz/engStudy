@@ -12,7 +12,7 @@ const checkGrammer = document.querySelector('.check-grammer');
 let quizLeft = document.querySelector('.quiz-left'); //총 몇 문제 남았는지 표시
 
 // ----------------------------------에러 잡기 위해 잠시. ------나중에 삭제해야함
-const ref = document.querySelector('.ref');
+const refer = document.querySelector('.ref');
 
 
 // 여기서부터 --------- js 오류방지를 위한 껍데기 DOM
@@ -81,8 +81,6 @@ hideQuizDOM(); //quiz에서 사용하던 DOM들 감추기
 loadLocalStorage();
 loadItems()
 .then(items => {
-  // ref.textContent = itemArray.length;
-  console.log(itemArray);
   numOfQuiz = itemArray.length;
   randomArray(); //문제 섞기
   console.log(randomNum, numOfQuiz)
@@ -211,8 +209,7 @@ function displayShuffle(answerListNum){
 // ----Grammer 문제내기 -----------------------------------------------------
 
 function displayQuiz(){
-  // score.textContent = scoreValue;
-  score.textContent = `${scoreValue} haha`;
+  score.textContent = scoreValue;
   let answerListNum;
   answerList.innerHTML = ''; //정답선택지 초기화
   quizNo += 1;
@@ -230,7 +227,6 @@ function displayQuiz(){
   }
 
   displayShuffle(answerListNum); //정답 선택지를 섞기
-  // ref.textContent = randomDisplay;
   console.log(answerListNum, randomNum[quizNo]+1, randomDisplay);
   for (let i=0; i< answerListNum; i++){
   let key;
