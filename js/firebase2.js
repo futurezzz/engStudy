@@ -45,7 +45,7 @@ function resetData(){
   randomArray(); //난수를 발생시켜 단어와 뜻을 섞음
   displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   // displayItems(items);
-
+//-----------firesbase에도 같은 조건문 있음.(시작할 때 판단용)
   if (scoreValue >= 70000){
     quizType = "speaking"
   } else if (scoreValue >= 65000){
@@ -58,7 +58,7 @@ function resetData(){
     quizType = "speaking"
   } else if (scoreValue >= 25000){
     quizType = "matching";
-  } else if (scoreValue >= 15000){
+  } else if (scoreValue >= 6000){
     quizType = "speaking"
   } else {
     quizType = "matching"

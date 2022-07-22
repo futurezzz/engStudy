@@ -77,7 +77,7 @@ subUnitList.addEventListener('click',(e)=>{
     quizType = "speaking"
   } else if (scoreValue >= 25000){
     quizType = "matching";
-  } else if (scoreValue >= 15000){
+  } else if (scoreValue >= 6000){
     quizType = "speaking"
   } else {
     quizType = "matching"
