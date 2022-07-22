@@ -81,6 +81,7 @@ hideQuizDOM(); //quiz에서 사용하던 DOM들 감추기
 loadLocalStorage();
 loadItems()
 .then(items => {
+  ref.textContent = itemArray.length;
   numOfQuiz = 3;
   // numOfQuiz = itemArray.length;
   randomArray(); //문제 섞기
@@ -229,7 +230,7 @@ function displayQuiz(){
   }
 
   displayShuffle(answerListNum); //정답 선택지를 섞기
-  ref.textContent = randomDisplay;
+  // ref.textContent = randomDisplay;
   console.log(answerListNum, randomNum[quizNo]+1, randomDisplay);
   for (let i=0; i< answerListNum; i++){
   let key;
