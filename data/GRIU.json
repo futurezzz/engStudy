@@ -1082,7 +1082,7 @@
     {
       "unit": "QuickQuiz 4",
       "serial": 99,
-      "QUIZ": "‘What would you like to eat?’ ‘I don’t mind. ___ ? whatever you have.’",
+      "QUIZ": "‘What would you like to eat?’ ‘I don’t mind. ___ whatever you have.’",
       "A": "Something",
       "B": "Anything",
       "C": "Nothing",
