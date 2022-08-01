@@ -5,7 +5,7 @@
       "serial": 1,
       "text": "deserve",
       "meaning": "~할 가치가 있다.",
-      "sentence": "The book deserves reading.",
+      "sentence": "The book deserves reading",
       "sentenceMeaning": "그 책은 읽을 만하다.",
       "unit": 1
     },
@@ -349,7 +349,7 @@
       "serial": 44,
       "text": "abuse",
       "meaning": "남용하다. 학대하다",
-      "sentence": "If you abuse your body now, you'll pay the price when you're older.",
+      "sentence": "If you abuse your body now, you'll pay the price when you're older",
       "sentenceMeaning": "지금 몸을 학대하면 나이가 들었을 때 대가를 치르게 될 거야.",
       "unit": 2
     },
@@ -541,7 +541,7 @@
       "serial": 68,
       "text": "drag",
       "meaning": "질질 끌다",
-      "sentence": "She dragged the canoe down to the water.",
+      "sentence": "She dragged the canoe down to the water",
       "sentenceMeaning": "그녀는 카누를 물가로 끌고 내려갔다.",
       "unit": 3
     },
@@ -621,7 +621,7 @@
       "serial": 78,
       "text": "remove",
       "meaning": "옮기다. 치우다",
-      "sentence": "He removed his tie and jacket.",
+      "sentence": "He removed his tie and jacket",
       "sentenceMeaning": "그는 넥타이와 재킷을 벗었다.",
       "unit": 4
     },
@@ -637,7 +637,7 @@
       "serial": 80,
       "text": "clap",
       "meaning": "(손뼉을) 치다",
-      "sentence": "The audience clapped in time to the music.",
+      "sentence": "The audience clapped in time to the music",
       "sentenceMeaning": "청중은 음악에 맞춰 박수를 쳤다.",
       "unit": 4
     },
@@ -805,5800 +805,5800 @@
       "serial": 101,
       "text": "culture",
       "meaning": "문화. 교양",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Western culture",
+      "sentenceMeaning": "서구문화",
       "unit": 5
     },
     {
       "serial": 102,
       "text": "experience",
       "meaning": "경험",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We all learn by experience",
+      "sentenceMeaning": "우리는 모두 경험에 의해 배운다.",
       "unit": 5
     },
     {
       "serial": 103,
       "text": "education",
       "meaning": "교육",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a city of education",
+      "sentenceMeaning": "교육의 도시",
       "unit": 5
     },
     {
       "serial": 104,
       "text": "symbol",
       "meaning": "상징",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Doves are the symbol of peace",
+      "sentenceMeaning": "비둘기는 평화의 상징이다.",
       "unit": 5
     },
     {
       "serial": 105,
       "text": "effect",
       "meaning": "영향. 효과",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The effects of the illness were not serious",
+      "sentenceMeaning": "그 병의 영향은 심각하지 않았다.",
       "unit": 5
     },
     {
       "serial": 106,
       "text": "liberty",
       "meaning": "자유",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "religious liberty",
+      "sentenceMeaning": "종교의 자유",
       "unit": 5
     },
     {
       "serial": 107,
       "text": "affair",
       "meaning": "사건. 일",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the chief affairs of the year",
+      "sentenceMeaning": "그 해의 주요 사건",
       "unit": 5
     },
     {
       "serial": 108,
       "text": "comfort",
       "meaning": "안락. 위안",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She is living in great comfort",
+      "sentenceMeaning": "그녀는 아주 편안하게 살고 있다.",
       "unit": 5
     },
     {
       "serial": 109,
       "text": "tradition",
       "meaning": "전통. 풍습",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "historical tradition",
+      "sentenceMeaning": "역사적 전통",
       "unit": 5
     },
     {
       "serial": 110,
       "text": "source",
       "meaning": "출처. 근원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Salary is his chief source of income",
+      "sentenceMeaning": "급여는 그의 주된 수입원이다.",
       "unit": 5
     },
     {
       "serial": 111,
       "text": "revolution",
       "meaning": "혁명",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The Industrial Revolution broke out",
+      "sentenceMeaning": "산업혁명이 일어났다.",
       "unit": 5
     },
     {
       "serial": 112,
       "text": "pollution",
       "meaning": "오염",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They were clearing all the pollution off the beach",
+      "sentenceMeaning": "그들은 해변의 모든 오염을 치우고 있었다.",
       "unit": 5
     },
     {
       "serial": 113,
       "text": "system",
       "meaning": "조직. 체계",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You need some system in your work if you want to succeed",
+      "sentenceMeaning": "당신이 성공하고 싶다면 당신의 일에 약간의 체계가 필요하다.",
       "unit": 5
     },
     {
       "serial": 114,
       "text": "triumph",
-      "meaning": "승리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "업적, 대성공",
+      "sentence": "They held a party to celebrate their election triumph",
+      "sentenceMeaning": "그들은 선거 승리를 축하하기 위해 파티를 열었다.",
       "unit": 5
     },
     {
       "serial": 115,
       "text": "respect",
       "meaning": "존경. 존경하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "great respect for elders",
+      "sentenceMeaning": "연장자에 대한 큰 존경",
       "unit": 5
     },
     {
       "serial": 116,
       "text": "communication",
       "meaning": "의사소통. 전달. 교통",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "All communication has been stopped by the snowstorm",
+      "sentenceMeaning": "눈보라로 모든 통신이 두절되었다.",
       "unit": 5
     },
     {
       "serial": 117,
       "text": "foundation",
       "meaning": "기초. 근거. 설립",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Respect and friendship provide a solid foundation for marriage",
+      "sentenceMeaning": "존경과 우정은 결혼을 위한 견고한 기초를 제공한다.",
       "unit": 5
     },
     {
       "serial": 118,
       "text": "glory",
       "meaning": "영광",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the glory of God",
+      "sentenceMeaning": "신의 영광",
       "unit": 5
     },
     {
       "serial": 119,
       "text": "situation",
       "meaning": "위치. 상황",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "How is the situation there?",
+      "sentenceMeaning": "그곳 상황은 어떻습니까?",
       "unit": 5
     },
     {
       "serial": 120,
       "text": "competition",
       "meaning": "경쟁",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "So, who won the competition?",
+      "sentenceMeaning": "그래서 경쟁에서는 누가 이겼어?",
       "unit": 5
     },
     {
       "serial": 121,
       "text": "effort",
       "meaning": "노력",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He made an effort to succeed",
+      "sentenceMeaning": "그는 성공하기 위해 노력했다.",
       "unit": 5
     },
     {
       "serial": 122,
       "text": "section",
       "meaning": "부분. 구역",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This book is divided into three separate sections",
+      "sentenceMeaning": "이 책은 세 부분으로 나뉜다.",
       "unit": 5
     },
     {
       "serial": 123,
       "text": "solution",
       "meaning": "해결. 용해",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Attempts to find a solution have failed",
+      "sentenceMeaning": "해결 방법을 찾지 못했습니다.",
       "unit": 5
     },
     {
       "serial": 124,
       "text": "honor",
       "meaning": "명예. 경의. 존경하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It's an honor",
+      "sentenceMeaning": "영광입니다.",
       "unit": 5
     },
     {
       "serial": 125,
       "text": "unity",
       "meaning": "통합. 일치",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The design lacks unity",
+      "sentenceMeaning": "그 디자인은 통일성이 부족하다.",
       "unit": 5
     },
     {
       "serial": 126,
       "text": "population",
       "meaning": "인구",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the population of the country",
+      "sentenceMeaning": "그 나라의 인구",
       "unit": 6
     },
     {
       "serial": 127,
       "text": "direction",
       "meaning": "방향. 지시",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Tom went off in the direction of home",
+      "sentenceMeaning": "톰은 집으로 향했다.",
       "unit": 6
     },
     {
       "serial": 128,
       "text": "dialog",
       "meaning": "대화",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I read the dialogs in my English book",
+      "sentenceMeaning": "나는 영어책의 대화내용을 읽었다.",
       "unit": 6
     },
     {
       "serial": 129,
       "text": "republic",
       "meaning": "공화국",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Korea is a democratic republic",
+      "sentenceMeaning": "한국은 민주공화국이다.",
       "unit": 6
     },
     {
       "serial": 130,
       "text": "method",
       "meaning": "방법",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The bank has introduced a new method of payment",
+      "sentenceMeaning": "그 은행은 새로운 지불 방법을 도입했다.",
       "unit": 6
     },
     {
       "serial": 131,
       "text": "increase",
       "meaning": "증가. 증가하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There was a steady increase in population",
+      "sentenceMeaning": "인구가 꾸준히 증가했다.",
       "unit": 6
     },
     {
       "serial": 132,
       "text": "decrease",
       "meaning": "감소. 감소하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The number of new students decreased from 210 to 160 this year",
+      "sentenceMeaning": "올해 신입생 수는 210명에서 160명으로 줄었다.",
       "unit": 6
     },
     {
       "serial": 133,
       "text": "amount",
       "meaning": "총액",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "What is the amount of my hotel bill?",
+      "sentenceMeaning": "내 호텔 사용비가 얼마나 되지?",
       "unit": 6
     },
     {
       "serial": 134,
       "text": "prairie",
       "meaning": "대초원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There are many prairies in North America",
+      "sentenceMeaning": "북아메리카에는 많은 대초원이 있습니다.",
       "unit": 6
     },
     {
       "serial": 135,
       "text": "ancestor",
       "meaning": "조상. 선조",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a reptile that was the common ancestor of lizards and turtles",
+      "sentenceMeaning": "도마뱀과 거북이의 공통 조상이었던 파충류",
       "unit": 6
     },
     {
       "serial": 136,
       "text": "voyage",
       "meaning": "항해. 여행. 항해하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a voyage around the world",
+      "sentenceMeaning": "세계 일주 항해",
       "unit": 6
     },
     {
       "serial": 137,
       "text": "sculpture",
       "meaning": "조각(품)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a marble sculpture of Venus",
+      "sentenceMeaning": "금성의 대리석 조각",
       "unit": 6
     },
     {
       "serial": 138,
       "text": "sculptor",
       "meaning": "조각가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Rodin was the first important modern sculptor",
+      "sentenceMeaning": "로댕은 최초의 중요한 현대 조각가였다.",
       "unit": 6
     },
     {
       "serial": 139,
       "text": "instrument",
       "meaning": "기구",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "medical instrument",
+      "sentenceMeaning": "의료 기구",
       "unit": 6
     },
     {
       "serial": 140,
       "text": "activity",
       "meaning": "활동",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "classroom activities",
+      "sentenceMeaning": "교실 활동",
       "unit": 6
     },
     {
       "serial": 141,
       "text": "fund",
       "meaning": "기금",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "raise funds",
+      "sentenceMeaning": "자금을 모으다",
       "unit": 6
     },
     {
       "serial": 142,
       "text": "accident",
       "meaning": "사고. 뜻밖의 사건",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I met him yesterday by accident",
+      "sentenceMeaning": "나는 어제 우연히 그를 만났다.",
       "unit": 6
     },
     {
       "serial": 143,
       "text": "adventure",
       "meaning": "모험",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a story of adventure",
+      "sentenceMeaning": "모험담",
       "unit": 6
     },
     {
       "serial": 144,
       "text": "view",
       "meaning": "경치. 의견",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "e view of the lake is beautiful",
+      "sentenceMeaning": "호수의 경치는 아름답다.",
       "unit": 6
     },
     {
       "serial": 145,
       "text": "superstition",
       "meaning": "미신",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "According to superstition, breaking a mirror brings bad luck",
+      "sentenceMeaning": "미신에 따르면, 거울을 깨는 것은 불운을 가져온다.",
       "unit": 6
     },
     {
       "serial": 146,
       "text": "habit",
       "meaning": "습관. 버릇",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It would be best if you changed your eating habits",
+      "sentenceMeaning": "당신이 식습관을 바꾼다면 가장 좋을 것이다.",
       "unit": 6
     },
     {
       "serial": 147,
       "text": "wealth",
       "meaning": "재산. 부",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Health is better than wealth",
+      "sentenceMeaning": "건강이 부보다 낫다.",
       "unit": 6
     },
     {
       "serial": 148,
       "text": "treasure",
       "meaning": "보물",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The pirates buried their treasure",
+      "sentenceMeaning": "해적들은 그들의 보물을 묻었다.",
       "unit": 6
     },
     {
       "serial": 149,
       "text": "universe",
       "meaning": "우주. 전세계",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "God made the universe",
+      "sentenceMeaning": "신은 우주를 만들었다.",
       "unit": 6
     },
     {
       "serial": 150,
       "text": "adult",
       "meaning": "어른",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Children must be accompanied by an adult",
+      "sentenceMeaning": "어린이는 반드시 어른과 동반해야 한다.",
       "unit": 6
     },
     {
       "serial": 151,
       "text": "feast",
       "meaning": "축제. 향연. 잔치",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the feast of Christmas",
+      "sentenceMeaning": "성탄절의 향연",
       "unit": 7
     },
     {
       "serial": 152,
       "text": "resource",
       "meaning": "(~s)자원. 수단",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the exploitation of minerals and other natural resources",
+      "sentenceMeaning": "광물 및 기타 천연 자원의 개발",
       "unit": 7
     },
     {
       "serial": 153,
       "text": "ruin",
       "meaning": "파멸. (~s)폐허. 파멸시키다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The bad weather ruined our trip",
+      "sentenceMeaning": "날씨가 나빠서 우리의 여행이 엉망이 되었다.",
       "unit": 7
     },
     {
       "serial": 154,
       "text": "monument",
       "meaning": "기념비. 기념물",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A monument to him was erected in St Paul’s Cathedral",
+      "sentenceMeaning": "그의 기념비가 세인트 폴 대성당에 세워졌다.",
       "unit": 7
     },
     {
       "serial": 155,
       "text": "information",
       "meaning": "정보. 지식",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She wants information about the university",
+      "sentenceMeaning": "그녀는 대학의 정보를 원합니다.",
       "unit": 7
     },
     {
       "serial": 156,
       "text": "appetite",
       "meaning": "식욕",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He suffered from headaches and loss of appetite",
+      "sentenceMeaning": "그는 두통과 식욕부진으로 고생했다.",
       "unit": 7
     },
     {
       "serial": 157,
       "text": "unification",
       "meaning": "통일",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Our wish is the unification of Korea",
+      "sentenceMeaning": "우리의 소원은 한국의 통일입니다.",
       "unit": 7
     },
     {
       "serial": 158,
       "text": "mystery",
       "meaning": "신비. 불가사의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It is one of the great unsolved mysteries of this century",
+      "sentenceMeaning": "그것은 금세기 최대의 풀리지 않은 수수께끼 중 하나이다.",
       "unit": 7
     },
     {
       "serial": 159,
       "text": "wage",
       "meaning": "임금. (전투를) 벌이다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The rebels have waged a guerrilla war since 2001",
+      "sentenceMeaning": "반군들은 2001년부터 게릴라전을 벌여왔다.",
       "unit": 7
     },
     {
       "serial": 160,
       "text": "thermometer",
       "meaning": "온도계",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We measure temperature with a thermometer",
+      "sentenceMeaning": "우리는 온도계로 온도를 측정했다.",
       "unit": 7
     },
     {
       "serial": 161,
       "text": "burden",
       "meaning": "짐. 짐을 지우다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He walked with a heavy burden on his back",
+      "sentenceMeaning": "그는 무거운 짐을 지고 걸었다.",
       "unit": 7
     },
     {
       "serial": 162,
       "text": "series",
       "meaning": "연속. 시리즈",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We had a series of good harvests",
+      "sentenceMeaning": "풍년이 들었다",
       "unit": 7
     },
     {
       "serial": 163,
       "text": "appointment",
       "meaning": "임명. 약속",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She made an appointment for her son to see the doctor",
+      "sentenceMeaning": "그녀는 아들의 병원 진찰을 예약했다",
       "unit": 7
     },
     {
       "serial": 164,
       "text": "clue",
       "meaning": "실마리. 단서",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We found a clue to the mystery",
+      "sentenceMeaning": "우리는 그 수수께끼의 실마리를 찾았다.",
       "unit": 7
     },
     {
       "serial": 165,
       "text": "debt",
       "meaning": "빚. 은혜",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He died heavily in debt",
+      "sentenceMeaning": "그는 많은 빚을 지고 죽었다.",
       "unit": 7
     },
     {
       "serial": 166,
       "text": "hydrogen",
       "meaning": "수소",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a hydrogen bomb",
+      "sentenceMeaning": "수소 폭탄",
       "unit": 7
     },
     {
       "serial": 167,
       "text": "oxygen",
       "meaning": "산소",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "All animals need oxygen to live",
+      "sentenceMeaning": "모든 동물들은 살기 위해 산소가 필요하다.",
       "unit": 7
     },
     {
       "serial": 168,
       "text": "control",
       "meaning": "통제. 지배",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The ship was out of control",
+      "sentenceMeaning": "그 배는 통제 불능이었다.",
       "unit": 7
     },
     {
       "serial": 169,
       "text": "uniform",
       "meaning": "제복. 같은 모양의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Policemen wear uniforms",
+      "sentenceMeaning": "경찰들은 제복을 입는다.",
       "unit": 7
     },
     {
       "serial": 170,
       "text": "design",
       "meaning": "계획. 설계. 디자인하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The building was poorly designed",
+      "sentenceMeaning": "그 건물은 설계가 형편없었다.",
       "unit": 7
     },
     {
       "serial": 171,
       "text": "damage",
       "meaning": "손해. 손상",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The flood did a lot of damage to the crops",
+      "sentenceMeaning": "홍수는 농작물에 많은 피해를 입혔다.",
       "unit": 7
     },
     {
       "serial": 172,
       "text": "custom",
       "meaning": "관습. 습관",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a social custom",
+      "sentenceMeaning": "사회적 관습",
       "unit": 7
     },
     {
       "serial": 173,
       "text": "traffic",
       "meaning": "교통",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There was not much traffic on the roads",
+      "sentenceMeaning": "도로에 차가 별로 없었다.",
       "unit": 7
     },
     {
       "serial": 174,
       "text": "oath",
       "meaning": "맹세. 선서",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a false oath",
+      "sentenceMeaning": "거짓 맹세",
       "unit": 7
     },
     {
       "serial": 175,
       "text": "sophomore",
       "meaning": "2학년생",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The first year I was a freshman, the second year a sophomore",
+      "sentenceMeaning": "1학년 때는 1학년, 2학년 때는 2학년 때였다.",
       "unit": 7
     },
     {
       "serial": 176,
       "text": "temperature",
       "meaning": "온도",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "average temperature",
+      "sentenceMeaning": "평균 기온",
       "unit": 8
     },
     {
       "serial": 177,
       "text": "limit",
       "meaning": "제한. 한계. 제한하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There is a limit to the amount of pain we can bear",
+      "sentenceMeaning": "우리가 견딜 수 있는 고통의 양에는 한계가 있다.",
       "unit": 8
     },
     {
       "serial": 178,
       "text": "statue",
       "meaning": "조각상",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This statue is a monument to one of our greatest statesmen",
+      "sentenceMeaning": "이 조각상은 우리의 위대한 정치가 중 한 명을 위한 기념비이다.",
       "unit": 8
     },
     {
       "serial": 179,
       "text": "furniture",
       "meaning": "가구",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We don't have much furniture",
+      "sentenceMeaning": "우리는 가구가 별로 없다.",
       "unit": 8
     },
     {
       "serial": 180,
       "text": "parade",
       "meaning": "행렬",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There was a big parade in the street",
+      "sentenceMeaning": "거리에서 큰 퍼레이드가 있었다.",
       "unit": 8
     },
     {
       "serial": 181,
       "text": "public",
       "meaning": "공공의. 공중의. 공중(사회)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He works at a public library",
+      "sentenceMeaning": "그는 공립 도서관에서 일합니다.",
       "unit": 8
     },
     {
       "serial": 182,
       "text": "pilgrim",
       "meaning": "순례자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The Pilgrims arrived in the New World",
+      "sentenceMeaning": "청교도들은 신대륙에 도착했다.",
       "unit": 8
     },
     {
       "serial": 183,
       "text": "greeting",
       "meaning": "인사. 축하",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I sent her birthday greetings",
+      "sentenceMeaning": "나는 그녀에게 생일 축하를 보냈다.",
       "unit": 8
     },
     {
       "serial": 184,
       "text": "language",
       "meaning": "언어",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "How many languages do you speak?",
+      "sentenceMeaning": "몇 나라 말을 하십니까?",
       "unit": 8
     },
     {
       "serial": 185,
       "text": "opinion",
       "meaning": "의견",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "public opinion",
+      "sentenceMeaning": "여론",
       "unit": 8
     },
     {
       "serial": 186,
       "text": "athlete",
       "meaning": "운동선수",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He is a fine athlete",
+      "sentenceMeaning": "그는 훌륭한 운동선수이다.",
       "unit": 8
     },
     {
       "serial": 187,
       "text": "supply",
       "meaning": "공급. 공급하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "supply and demand",
+      "sentenceMeaning": "수요와 공급",
       "unit": 8
     },
     {
       "serial": 188,
       "text": "surface",
       "meaning": "표면. 표면의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the surface of the earth",
+      "sentenceMeaning": "지구의 표면",
       "unit": 8
     },
     {
       "serial": 189,
       "text": "electricity",
       "meaning": "전기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "When did electricity come to the village?",
+      "sentenceMeaning": "언제 마을에 전기가 들어왔나요?",
       "unit": 8
     },
     {
       "serial": 190,
       "text": "spirit",
       "meaning": "정신",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He is dead, but his spirit is alive",
+      "sentenceMeaning": "그는 죽었지만 그의 정신은 살아있다.",
       "unit": 8
     },
     {
       "serial": 191,
       "text": "purpose",
       "meaning": "목적",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "What was the purpose of her visit?",
+      "sentenceMeaning": "그녀의 방문 목적은 무엇이었습니까?",
       "unit": 8
     },
     {
       "serial": 192,
       "text": "passion",
       "meaning": "열정",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I felt a strong passion from the actor",
+      "sentenceMeaning": "나는 그 배우에게서 강한 열정을 느꼈다.",
       "unit": 8
     },
     {
       "serial": 193,
       "text": "project",
       "meaning": "프로젝트. 계획하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They projected a new park",
+      "sentenceMeaning": "그들은 새로운 공원을 계획하였다.",
       "unit": 8
     },
     {
       "serial": 194,
       "text": "government",
       "meaning": "정부. 정치",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The Government has welcomed the proposal",
+      "sentenceMeaning": "정부는 그 제안을 환영했다.",
       "unit": 8
     },
     {
       "serial": 195,
       "text": "interest",
       "meaning": "이익. 흥미",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She has a great interest in short stories",
+      "sentenceMeaning": "그녀는 단편 소설에 관심이 많다.",
       "unit": 8
     },
     {
       "serial": 196,
       "text": "funeral",
       "meaning": "장례식",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The old lady's funeral was held at the church",
+      "sentenceMeaning": "그 노부인의 장례식은 교회에서 거행되었다.",
       "unit": 8
     },
     {
       "serial": 197,
       "text": "senior",
       "meaning": "선배. 연장자. 손위의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's my senior by two years",
+      "sentenceMeaning": "그는 저의 2년 선배입니다.",
       "unit": 8
     },
     {
       "serial": 198,
       "text": "junior",
       "meaning": "후배. 손아래의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He is my junior by three years",
+      "sentenceMeaning": "그는 나보다 세 살 아래다",
       "unit": 8
     },
     {
       "serial": 199,
       "text": "democracy",
       "meaning": "민주주의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They fought for democracy",
+      "sentenceMeaning": "그들은 민주주의를 위해 싸웠다.",
       "unit": 8
     },
     {
       "serial": 200,
       "text": "general",
       "meaning": "장군",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The general opinion is that the conference was a success",
+      "sentenceMeaning": "그 대회가 성공적이었다는 것이 일반적인 견해이다.",
       "unit": 8
     },
     {
       "serial": 201,
       "text": "admiral",
       "meaning": "해군 대장. 제독",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The admiral visited the ships under his command",
+      "sentenceMeaning": "그 제독은 휘하의 배들을 방문했다.",
       "unit": 9
     },
     {
       "serial": 202,
       "text": "edge",
       "meaning": "모서리. 날. 가장자리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He stood on the edge of the cliff",
+      "sentenceMeaning": "그는 절벽 끝에 서 있었다.",
       "unit": 9
     },
     {
       "serial": 203,
       "text": "biology",
       "meaning": "생물학",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She studied biology at university",
+      "sentenceMeaning": "그녀는 대학에서 생물학을 공부했다.",
       "unit": 9
     },
     {
       "serial": 204,
       "text": "danger",
       "meaning": "위험",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Is there any danger of fire?",
+      "sentenceMeaning": "화재에 대한 위험이 있는가?",
       "unit": 9
     },
     {
       "serial": 205,
       "text": "advice",
       "meaning": "충고",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Can I give you a piece of advice?",
+      "sentenceMeaning": "충고 하나 해도 될까요?",
       "unit": 9
     },
     {
       "serial": 206,
       "text": "mammal",
       "meaning": "포유동물",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Humans, dogs, elephants, and dolphins are all mammals",
+      "sentenceMeaning": "인간, 개, 코끼리, 돌고래는 모두 포유류이다.",
       "unit": 9
     },
     {
       "serial": 207,
       "text": "grade",
       "meaning": "등급. 학년",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Steve never studies, but he always gets good grades",
+      "sentenceMeaning": "스티브는 결코 공부하지 않지만 항상 좋은 성적을 받는다.",
       "unit": 9
     },
     {
       "serial": 208,
       "text": "pause",
       "meaning": "중지. 멈추다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He paused and thought for a moment",
+      "sentenceMeaning": "그는 잠시 말을 멈추고 잠시 생각했다.",
       "unit": 9
     },
     {
       "serial": 209,
       "text": "pronunciation",
       "meaning": "발음",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "English pronunciation is notoriously difficult",
+      "sentenceMeaning": "영어 발음이 어렵기로 악명이 높다.",
       "unit": 9
     },
     {
       "serial": 210,
       "text": "stress",
       "meaning": "강조. 압박",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "All that stress at work had begun to drag him down",
+      "sentenceMeaning": "직장에서의 그 모든 스트레스가 그를 끌어내리기 시작했었다.",
       "unit": 9
     },
     {
       "serial": 211,
       "text": "contest",
       "meaning": "경기. 경쟁",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Both sides played well, it was a very even contest",
+      "sentenceMeaning": "양쪽 모두 경기를 잘해서, 그것은 매우 고른 경기였다.",
       "unit": 9
     },
     {
       "serial": 212,
       "text": "horizon",
       "meaning": "수평선. 지평선",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The moon rose slowly above the horizon",
+      "sentenceMeaning": "달이 지평선 위로 천천히 떠올랐다.",
       "unit": 9
     },
     {
       "serial": 213,
       "text": "principal",
       "meaning": "교장. 주요한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "That was my principal reason for moving",
+      "sentenceMeaning": "그것이 내가 이사한 주된 이유였다.",
       "unit": 9
     },
     {
       "serial": 214,
       "text": "trouble",
       "meaning": "근심. 곤란. 수고를 끼치다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's never been in trouble with his teachers before",
+      "sentenceMeaning": "그는 전에 선생님들과 말썽을 부린 적이 없다.",
       "unit": 9
     },
     {
       "serial": 215,
       "text": "scar",
       "meaning": "상처. 흔적",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "That burn will leave a bad scar",
+      "sentenceMeaning": "그 화상은 흉터를 남길 것이다.",
       "unit": 9
     },
     {
       "serial": 216,
       "text": "balance",
       "meaning": "균형. 균형을 유지하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The toddler wobbled and lost his balance",
+      "sentenceMeaning": "갓난아기는 비틀거리며 균형을 잃었다.",
       "unit": 9
     },
     {
       "serial": 217,
       "text": "proverb",
       "meaning": "속담. 격언",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I now saw the true meaning of the proverb",
+      "sentenceMeaning": "나는 그 속담의 참뜻을 이제 알았다.",
       "unit": 9
     },
     {
       "serial": 218,
       "text": "individual",
       "meaning": "개인. 개인의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Every individual has rights that must never be taken away",
+      "sentenceMeaning": "모든 개인은 절대 빼앗겨서는 안 되는 권리를 가지고 있다.",
       "unit": 9
     },
     {
       "serial": 219,
       "text": "character",
       "meaning": "특성. 인격. 인물",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Politeness is traditionally part of the British character",
+      "sentenceMeaning": "공손함은 전통적으로 영국인의 성격의 일부이다.",
       "unit": 9
     },
     {
       "serial": 220,
       "text": "environment",
       "meaning": "환경",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We're not doing enough to protect the environment from pollution",
+      "sentenceMeaning": "우리는 오염으로부터 환경을 보호하기 위해 충분히 하고 있지 않다.",
       "unit": 9
     },
     {
       "serial": 221,
       "text": "victory",
       "meaning": "승리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This result is a triumphant victory for democracy",
+      "sentenceMeaning": "이 결과는 민주주의의 승리이다.",
       "unit": 9
     },
     {
       "serial": 222,
       "text": "talent",
       "meaning": "재능. 재주",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Her talent for music showed at an early age",
+      "sentenceMeaning": "그녀의 음악에 대한 재능은 어린 나이에 나타났다.",
       "unit": 9
     },
     {
       "serial": 223,
       "text": "semester",
       "meaning": "학기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the spring semester",
+      "sentenceMeaning": "봄 학기",
       "unit": 9
     },
     {
       "serial": 224,
       "text": "election",
       "meaning": "선거",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Local government elections will take place in May",
+      "sentenceMeaning": "지방 정부 선거는 5월에 열릴 것이다.",
       "unit": 9
     },
     {
       "serial": 225,
       "text": "inning",
       "meaning": "(야구) 회",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Cleveland scored three times in the ninth inning",
+      "sentenceMeaning": "클리블랜드는 9회에 3골을 넣었다.",
       "unit": 9
     },
     {
       "serial": 226,
       "text": "hollow",
       "meaning": "구덩이. 속이 빈",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Hollow blocks are used because they are lighter",
+      "sentenceMeaning": "속이 빈 블록은 가볍기 때문에 사용됩니다.",
       "unit": 10
     },
     {
       "serial": 227,
       "text": "virtue",
       "meaning": "미덕. 장점",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Patience is a virtue",
+      "sentenceMeaning": "인내는 미덕이다.",
       "unit": 10
     },
     {
       "serial": 228,
       "text": "cemetery",
       "meaning": "묘지",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "His father is buried in the cemetery on the hill",
+      "sentenceMeaning": "그의 아버지는 언덕의 공동묘지에 묻혔다.",
       "unit": 10
     },
     {
       "serial": 229,
       "text": "relay",
-      "meaning": "교대. 교대하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "전달하다. 중계하다",
+      "sentence": "I was told the news first and then I relayed it to the others",
+      "sentenceMeaning": "나는 먼저 그 소식을 듣고 나서 다른 사람들에게 알렸다.",
       "unit": 10
     },
     {
       "serial": 230,
       "text": "exchange",
       "meaning": "교환. 교환하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The exchange of prisoners took place this morning",
+      "sentenceMeaning": "포로 교환은 오늘 아침에 이루어졌다.",
       "unit": 10
     },
     {
       "serial": 231,
       "text": "merchant",
-      "meaning": "상인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "상인. (특정활동에 미친)광",
+      "sentence": "a speed merchant",
+      "sentenceMeaning": "속달상인.",
       "unit": 10
     },
     {
       "serial": 232,
       "text": "saying",
       "meaning": "격언. 속담",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "As the saying goes, \"Don't count your chickens before they're hatched\"",
+      "sentenceMeaning": "속담에 있듯이, \"닭이 부화하기 전에 닭을 세지 말라.\"",
       "unit": 10
     },
     {
       "serial": 233,
       "text": "refrigerator",
       "meaning": "냉장고",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This dessert can be served straight from the refrigerator",
+      "sentenceMeaning": "이 디저트는 냉장고에서 바로 나올 수 있다.",
       "unit": 10
     },
     {
       "serial": 234,
       "text": "crack",
       "meaning": "갈라진 금. 금 가게 하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I cracked my tooth as I fell",
+      "sentenceMeaning": "넘어지면서 이가 깨졌다",
       "unit": 10
     },
     {
       "serial": 235,
       "text": "judge",
       "meaning": "재판관. 재판하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a British high-court judge",
+      "sentenceMeaning": "영국의 고등법원 판사",
       "unit": 10
     },
     {
       "serial": 236,
       "text": "slave",
       "meaning": "노예",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I'm tired of being treated like a slave",
+      "sentenceMeaning": "난 노예처럼 취급받는 게 지겨워.",
       "unit": 10
     },
     {
       "serial": 237,
       "text": "settler",
       "meaning": "정착민",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The first settlers of this area were Germans",
+      "sentenceMeaning": "이 지역의 최초 정착자는 독일인이었다.",
       "unit": 10
     },
     {
       "serial": 238,
       "text": "fare",
       "meaning": "요금",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Train fares are going up again",
+      "sentenceMeaning": "기차 요금이 또 오르고 있다.",
       "unit": 10
     },
     {
       "serial": 239,
       "text": "gesture",
       "meaning": "몸짓. 손짓",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She made a rude gesture at the other driver",
+      "sentenceMeaning": "그녀는 다른 운전사에게 무례한 제스처를 취했다.",
       "unit": 10
     },
     {
       "serial": 240,
       "text": "planet",
       "meaning": "행성",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Might there be intelligent life on other planets?",
+      "sentenceMeaning": "다른 행성에 지적인 생명체가 있을까?",
       "unit": 10
     },
     {
       "serial": 241,
       "text": "type",
       "meaning": "유형. 활자. 타이프를 치다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "What type of clothes does she wear?",
+      "sentenceMeaning": "그녀는 어떤 종류의 옷을 입습니까?",
       "unit": 10
     },
     {
       "serial": 242,
       "text": "secretary",
       "meaning": "비서",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My secretary will phone you to arrange a meeting",
+      "sentenceMeaning": "제 비서가 당신에게 전화를 해서 회의를 주선할 것입니다.",
       "unit": 10
     },
     {
       "serial": 243,
       "text": "devil",
       "meaning": "악마",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Those little devils broke my window",
+      "sentenceMeaning": "그 작은 악마들이 내 창문을 깼어.",
       "unit": 10
     },
     {
       "serial": 244,
       "text": "scholar",
       "meaning": "학자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "David's never been much of a scholar",
+      "sentenceMeaning": "David은 대단한 학자는 아니었다.",
       "unit": 10
     },
     {
       "serial": 245,
       "text": "pardon",
       "meaning": "용서. 용서하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Pardon my ignorance, but what exactly is ergonomics?",
+      "sentenceMeaning": "제가 무식해서 죄송하지만, 인체공학이 정확히 뭐죠?",
       "unit": 10
     },
     {
       "serial": 246,
       "text": "kindergarten",
       "meaning": "유치원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Callie will start kindergarten in September",
+      "sentenceMeaning": "캘리는 9월에 유치원을 시작할 것이다.",
       "unit": 10
     },
     {
       "serial": 247,
       "text": "detective",
       "meaning": "탐정. 탐정의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The detective on the case has been suspended from duty",
+      "sentenceMeaning": "그 사건의 형사는 정직되었다.",
       "unit": 10
     },
     {
       "serial": 248,
       "text": "license",
       "meaning": "면허(증)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A broker is also licensed to work with private lenders",
+      "sentenceMeaning": "중개인은 또한 사채업자들과 함께 일할 수 있는 면허가 있다.",
       "unit": 10
     },
     {
       "serial": 249,
       "text": "palace",
       "meaning": "궁전",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "An old movie palace is being restored",
+      "sentenceMeaning": "오래된 영화 궁전이 복원되고 있다.",
       "unit": 10
     },
     {
       "serial": 250,
       "text": "spade",
       "meaning": "삽",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The kids took their buckets and spades to the beach",
+      "sentenceMeaning": "아이들은 양동이와 삽을 들고 해변으로 갔다.",
       "unit": 10
     },
     {
       "serial": 251,
       "text": "square",
       "meaning": "정사각형. 광장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It's a square-shaped room",
+      "sentenceMeaning": "네모난 방이에요.",
       "unit": 11
     },
     {
       "serial": 252,
       "text": "fountain pen",
       "meaning": "만년필",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I withdraw any reference to the fountain pen",
+      "sentenceMeaning": "만년필에 대한 언급을 철회합니다.",
       "unit": 11
     },
     {
       "serial": 253,
       "text": "harvest",
       "meaning": "수확. 추수. 수확하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We had a good harvest this year",
+      "sentenceMeaning": "올해는 풍년이 들었다",
       "unit": 11
     },
     {
       "serial": 254,
       "text": "tool",
       "meaning": "도구",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I always keep a set of tools in the back of my car",
+      "sentenceMeaning": "나는 항상 내 차 뒤에 공구 세트를 보관한다.",
       "unit": 11
     },
     {
       "serial": 255,
       "text": "sword",
       "meaning": "칼. 검",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a sword with a steel blade",
+      "sentenceMeaning": "강철 날이 달린 칼",
       "unit": 11
     },
     {
       "serial": 256,
       "text": "magazine",
       "meaning": "잡지",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She buys all the latest fashion magazines",
+      "sentenceMeaning": "그녀는 모든 최신 패션 잡지를 산다.",
       "unit": 11
     },
     {
       "serial": 257,
       "text": "stadium",
       "meaning": "경기장. 스타디움",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Thousands of fans packed into the stadium to watch the match",
+      "sentenceMeaning": "수천 명의 팬들이 경기를 보기 위해 경기장으로 몰려들었다.",
       "unit": 11
     },
     {
       "serial": 258,
       "text": "care",
       "meaning": "돌봄. 조심. 상관하다. 돌보다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The standard of care at our local hospital is excellent",
+      "sentenceMeaning": "우리 지역 병원의 진료 수준은 훌륭하다.",
       "unit": 11
     },
     {
       "serial": 259,
       "text": "beauty",
       "meaning": "아름다움",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This is an area of outstanding natural beauty",
+      "sentenceMeaning": "이곳은 뛰어난 자연미를 자랑하는 지역이다.",
       "unit": 11
     },
     {
       "serial": 260,
       "text": "museum",
       "meaning": "박물관",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a museum of modern art",
+      "sentenceMeaning": "현대 미술 박물관",
       "unit": 11
     },
     {
       "serial": 261,
       "text": "congratulation",
       "meaning": "축하",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Congratulations on your engagement!",
+      "sentenceMeaning": "약혼을 축하합니다!",
       "unit": 11
     },
     {
       "serial": 262,
       "text": "memory",
       "meaning": "기억(력)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "After the accident, he suffered from loss of memory",
+      "sentenceMeaning": "사고 후, 그는 기억 상실로 고통받았다.",
       "unit": 11
     },
     {
       "serial": 263,
       "text": "delight",
       "meaning": "기쁨. 즐거움",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My sister's little boy is a real delight",
+      "sentenceMeaning": "내 여동생의 어린 아들은 정말 즐겁다.",
       "unit": 11
     },
     {
       "serial": 264,
       "text": "passenger",
       "meaning": "승객",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Two passenger trains were involved in the accident",
+      "sentenceMeaning": "두 대의 여객 열차가 그 사고에 연루되었다.",
       "unit": 11
     },
     {
       "serial": 265,
       "text": "skill",
       "meaning": "기술. 솜씨",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Ruth had great writing skills",
+      "sentenceMeaning": "루스는 훌륭한 글쓰기 기술을 가지고 있었다.",
       "unit": 11
     },
     {
       "serial": 266,
       "text": "journey",
       "meaning": "여행(=travel)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Have a safe journey!",
+      "sentenceMeaning": "안전한 여행 되세요!",
       "unit": 11
     },
     {
       "serial": 267,
       "text": "ceremony",
       "meaning": "의식 (시상식.개막식 등)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "an opening ceremony",
+      "sentenceMeaning": "개회식",
       "unit": 11
     },
     {
       "serial": 268,
       "text": "hobby",
       "meaning": "취미",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Angela's hobby is restoring vintage motorcycles",
+      "sentenceMeaning": "안젤라의 취미는 빈티지 오토바이를 복구하는 것이다.",
       "unit": 11
     },
     {
       "serial": 269,
       "text": "president",
       "meaning": "대통령. 사장. 회장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She is Ireland's first woman president",
+      "sentenceMeaning": "그녀는 아일랜드의 첫 여성 대통령입니다.",
       "unit": 11
     },
     {
       "serial": 270,
       "text": "address",
       "meaning": "주소. 주소를 쓰다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The letter was correctly addressed but delivered to the wrong house",
+      "sentenceMeaning": "그 편지는 주소가 정확했지만 엉뚱한 집으로 배달되었다.",
       "unit": 11
     },
     {
       "serial": 271,
       "text": "continent",
       "meaning": "대륙",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The continents make up about 35% of the earth's crust",
+      "sentenceMeaning": "대륙은 지각의 약 35%를 차지한다.",
       "unit": 11
     },
     {
       "serial": 272,
       "text": "mankind",
       "meaning": "인류",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Mankind has always been obsessed with power",
+      "sentenceMeaning": "인류는 항상 권력에 집착해 왔다.",
       "unit": 11
     },
     {
       "serial": 273,
       "text": "giant",
       "meaning": "거대한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Dad terrified us with stories of a big, bad giant who ate little children",
+      "sentenceMeaning": "아빠는 어린 아이들을 잡아먹은 크고 나쁜 거인의 이야기로 우리를 겁먹게 했다.",
       "unit": 11
     },
     {
       "serial": 274,
       "text": "site",
       "meaning": "부지. 위치. 장소",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This is the site of the accident",
+      "sentenceMeaning": "여기가 사고 현장입니다.",
       "unit": 11
     },
     {
       "serial": 275,
       "text": "marble",
       "meaning": "대리석. (아이들)구슬",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a marble floor",
+      "sentenceMeaning": "대리석 바닥",
       "unit": 11
     },
     {
       "serial": 276,
       "text": "stem",
-      "meaning": "(식물)줄기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "(식물)줄기, (와인잔)손잡이",
+      "sentence": "Champagne glasses usually have long stems",
+      "sentenceMeaning": "샴페인 잔은 보통 긴 줄기를 가지고 있다.",
       "unit": 12
     },
     {
       "serial": 277,
       "text": "torch",
-      "meaning": "횃불",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "손전등, 방화하다, 횃불",
+      "sentence": "They torched the warehouse and ran",
+      "sentenceMeaning": "그들은 창고를 태우고 달려갔다.",
       "unit": 12
     },
     {
       "serial": 278,
       "text": "composer",
       "meaning": "작곡가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The composer Strauss was once challenged to a duel",
+      "sentenceMeaning": "작곡가 슈트라우스는 한때 결투에 도전했었다.",
       "unit": 12
     },
     {
       "serial": 279,
       "text": "trick",
       "meaning": "계략. 속임수. 장난",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They're plotting to play a trick on their brother",
+      "sentenceMeaning": "그들은 자기 동생에게 장난을 치려고 음모를 꾸미고 있다.",
       "unit": 12
     },
     {
       "serial": 280,
       "text": "flight",
       "meaning": "비행",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I'll never forget my first flight",
+      "sentenceMeaning": "나는 나의 첫 비행을 결코 잊지 못할 것이다.",
       "unit": 12
     },
     {
       "serial": 281,
       "text": "castle",
       "meaning": "성. 궁전",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The castle is set on a steep hill",
+      "sentenceMeaning": "그 성은 가파른 언덕 위에 자리잡고 있다.",
       "unit": 12
     },
     {
       "serial": 282,
       "text": "envelope",
       "meaning": "봉투",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Do you recognize the writing on the envelope?",
+      "sentenceMeaning": "봉투에 적혀있는 글씨를 알아보시겠어요?",
       "unit": 12
     },
     {
       "serial": 283,
       "text": "pal",
       "meaning": "친구(=friend)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You're my best pal",
+      "sentenceMeaning": "넌 내 가장 친한 친구야.",
       "unit": 12
     },
     {
       "serial": 284,
       "text": "vacation",
       "meaning": "휴가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We're taking a vacation in June",
+      "sentenceMeaning": "우리는 6월에 휴가를 갈 것이다.",
       "unit": 12
     },
     {
       "serial": 285,
       "text": "desert",
       "meaning": "사막. 버리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They were lost in the desert for nine days",
+      "sentenceMeaning": "그들은 사막에서 9일 동안 길을 잃었다.",
       "unit": 12
     },
     {
       "serial": 286,
       "text": "event",
       "meaning": "사건. 행사",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Susannah's party was the social event of the year",
+      "sentenceMeaning": "수잔나의 파티는 그 해의 사교 행사였다.",
       "unit": 12
     },
     {
       "serial": 287,
       "text": "theater",
       "meaning": "극장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We have tickets to the theater tonight",
+      "sentenceMeaning": "우리는 오늘 밤 극장표가 있다.",
       "unit": 12
     },
     {
       "serial": 288,
       "text": "stage",
       "meaning": "단계. 무대",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They did the last stage of their journey on foot",
+      "sentenceMeaning": "그들은 도보로 여행의 마지막 단계를 마쳤다.",
       "unit": 12
     },
     {
       "serial": 289,
       "text": "error",
       "meaning": "잘못. 과오",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He admitted that he'd made an error",
+      "sentenceMeaning": "그는 실수를 저질렀다고 인정했다.",
       "unit": 12
     },
     {
       "serial": 290,
       "text": "area",
       "meaning": "지역. 면적",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "All areas of the country will have some rain tonight",
+      "sentenceMeaning": "오늘 밤 전국 모든 지역에 비가 조금 내리겠습니다.",
       "unit": 12
     },
     {
       "serial": 291,
       "text": "base",
       "meaning": "기초. 토대. 기초를 두다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "At the base of the cliff was a rocky beach",
+      "sentenceMeaning": "절벽 아래에는 바위가 많은 해변이 있었다.",
       "unit": 12
     },
     {
       "serial": 292,
       "text": "basement",
       "meaning": "지하실",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Our kitchenware department is in the basement",
+      "sentenceMeaning": "저희 주방용품 매장은 지하에 있습니다.",
       "unit": 12
     },
     {
       "serial": 293,
       "text": "evil",
       "meaning": "악. 나쁜",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "These people are just evil",
+      "sentenceMeaning": "이 사람들은 그냥 사악해요.",
       "unit": 12
     },
     {
       "serial": 294,
       "text": "atom",
       "meaning": "원자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the splitting of the atom",
+      "sentenceMeaning": "원자의 분열",
       "unit": 12
     },
     {
       "serial": 295,
       "text": "poet",
       "meaning": "시인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Wordsworth is one of Britain's most famous poets",
+      "sentenceMeaning": "워즈워스는 영국에서 가장 유명한 시인 중 한 명이다.",
       "unit": 12
     },
     {
       "serial": 296,
       "text": "mind",
       "meaning": "마음. 생각. 걱정하다. 싫어하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I just said the first thing that came into my mind",
+      "sentenceMeaning": "나는 방금 내 머리에 떠오른 첫 번째 말을 했다.",
       "unit": 12
     },
     {
       "serial": 297,
       "text": "climate",
       "meaning": "기후. 풍토",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "When we retire, we're going to move to a warmer climate",
+      "sentenceMeaning": "우리가 은퇴하면, 우리는 더 따뜻한 기후로 이사할 것이다.",
       "unit": 12
     },
     {
       "serial": 298,
       "text": "suburb",
       "meaning": "교외. 외곽",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Box Hill is a suburb of Melbourne",
+      "sentenceMeaning": "박스 힐은 멜버른의 교외 지역이다.",
       "unit": 12
     },
     {
       "serial": 299,
       "text": "throat",
       "meaning": "목구멍",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A fish bone got stuck in my throat",
+      "sentenceMeaning": "생선 가시가 목에 걸렸다",
       "unit": 12
     },
     {
       "serial": 300,
       "text": "voice",
       "meaning": "목소리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She has a soft voice",
+      "sentenceMeaning": "그녀는 목소리가 부드럽다.",
       "unit": 12
     },
     {
       "serial": 301,
       "text": "valley",
       "meaning": "골짜리. 계곡",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There was snow on the hilltops but not in the valley",
+      "sentenceMeaning": "산꼭대기에는 눈이 있었지만 계곡에는 눈이 없었다.",
       "unit": 13
     },
     {
       "serial": 302,
-      "text": "Puritan",
+      "text": "puritan",
       "meaning": "청교도. 청교도의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's really something of a puritan",
+      "sentenceMeaning": "그는 정말 청교도다.",
       "unit": 13
     },
     {
       "serial": 303,
       "text": "feather",
       "meaning": "깃털",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The bird ruffled its feathers",
+      "sentenceMeaning": "새가 깃털을 곤두세웠다.",
       "unit": 13
     },
     {
       "serial": 304,
       "text": "amateur",
       "meaning": "아마추어. 비전문가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He was an amateur singer until the age of 40",
+      "sentenceMeaning": "그는 40세까지 아마추어 가수였다.",
       "unit": 13
     },
     {
       "serial": 305,
       "text": "nation",
       "meaning": "국가. 국민",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "All the nations of the world will be represented at the conference",
+      "sentenceMeaning": "세계 각국이 회의에 참석할 것이다.",
       "unit": 13
     },
     {
       "serial": 306,
       "text": "puzzle",
       "meaning": "퍼즐. 당황하게 하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The situation remains a puzzle to all of us",
+      "sentenceMeaning": "그 상황은 우리 모두에게 수수께끼로 남아 있다.",
       "unit": 13
     },
     {
       "serial": 307,
       "text": "rear",
       "meaning": "뒤쪽. 기르다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There's a sticker on the rear door",
+      "sentenceMeaning": "뒷문에 스티커가 붙어 있다.",
       "unit": 13
     },
     {
       "serial": 308,
       "text": "battle",
       "meaning": "전투. 싸움",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Her only brother was killed in battle",
+      "sentenceMeaning": "그녀의 유일한 남동생은 전투에서 죽었다.",
       "unit": 13
     },
     {
       "serial": 309,
       "text": "riddle",
       "meaning": "수수께끼",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Scientists may have solved the riddle of Saturn's rings",
+      "sentenceMeaning": "과학자들은 토성 고리의 수수께끼를 풀었을지도 모른다.",
       "unit": 13
     },
     {
       "serial": 310,
       "text": "laundry",
       "meaning": "세탁물. 세탁소",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've got to do my laundry",
+      "sentenceMeaning": "빨래를 해야 해요.",
       "unit": 13
     },
     {
       "serial": 311,
       "text": "shower",
       "meaning": "샤워. 소나기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Do I have time to have a shower before we go out?",
+      "sentenceMeaning": "우리가 외출하기 전에 샤워할 시간이 있나요?",
       "unit": 13
     },
     {
       "serial": 312,
       "text": "navy",
-      "meaning": "해군 대장. 제독",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "해군",
+      "sentence": "My brother is an officer in the Navy",
+      "sentenceMeaning": "내 남동생은 해군 장교이다.",
       "unit": 13
     },
     {
       "serial": 313,
       "text": "Mars",
       "meaning": "화성",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "So is there life on Mars?",
+      "sentenceMeaning": "그렇다면 화성에는 생명체가 있을까요?",
       "unit": 13
     },
     {
       "serial": 314,
       "text": "gallery",
       "meaning": "화랑. 미술관",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a contemporary art gallery",
+      "sentenceMeaning": "현대 미술관",
       "unit": 13
     },
     {
       "serial": 315,
       "text": "guest",
       "meaning": "손님",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Is he on the guest list?",
+      "sentenceMeaning": "그가 손님 명단에 있나요?",
       "unit": 13
     },
     {
       "serial": 316,
       "text": "folk",
       "meaning": "(~s)사람들. 가족",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Ordinary folk can't afford cars like that",
+      "sentenceMeaning": "보통 사람들은 그런 차를 살 여유가 없다.",
       "unit": 13
     },
     {
       "serial": 317,
       "text": "problem",
       "meaning": "문제",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Our main problem is a lack of cash",
+      "sentenceMeaning": "우리의 주된 문제는 현금 부족이다.",
       "unit": 13
     },
     {
       "serial": 318,
       "text": "jewel",
       "meaning": "보석",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She was wearing a large gold necklace set with jewels",
+      "sentenceMeaning": "그녀는 보석이 박힌 커다란 금목걸이를 하고 있었다.",
       "unit": 13
     },
     {
       "serial": 319,
       "text": "garage",
       "meaning": "차고",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Did you put the car in the garage?",
+      "sentenceMeaning": "차를 차고에 넣었어요?",
       "unit": 13
     },
     {
       "serial": 320,
       "text": "fault",
       "meaning": "결점. 잘못",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It's not my fault she didn't come!",
+      "sentenceMeaning": "그녀가 오지 않은 것은 내 잘못이 아니야!",
       "unit": 13
     },
     {
       "serial": 321,
       "text": "lantern",
       "meaning": "랜턴",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Why couldn't they take out the lantern?",
+      "sentenceMeaning": "왜 그들은 랜턴을 꺼낼 수 없었을까요?",
       "unit": 13
     },
     {
       "serial": 322,
       "text": "import",
       "meaning": "수입. 수입하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We import a large number of cars from Korea",
+      "sentenceMeaning": "우리는 한국에서 많은 차를 수입한다.",
       "unit": 13
     },
     {
       "serial": 323,
       "text": "export",
       "meaning": "수출. 수출하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "French cheeses are exported to many different countries",
+      "sentenceMeaning": "프랑스 치즈는 많은 다른 나라들로 수출된다.",
       "unit": 13
     },
     {
       "serial": 324,
       "text": "angle",
       "meaning": "각도. 관점",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The boat settled into the mud at an angle of 35 degrees",
+      "sentenceMeaning": "그 보트는 35도의 각도로 진창에 가라앉았다.",
       "unit": 13
     },
     {
       "serial": 325,
       "text": "petal",
       "meaning": "꽃잎",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "rose petals",
+      "sentenceMeaning": "장미 꽃잎",
       "unit": 13
     },
     {
       "serial": 326,
       "text": "stripe",
       "meaning": "줄무늬",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The zebra is a wild African horse with black and white stripes",
+      "sentenceMeaning": "얼룩말은 검은색과 흰색 줄무늬가 있는 야생 아프리카 말입니다.",
       "unit": 14
     },
     {
       "serial": 327,
       "text": "pulse",
       "meaning": "맥박",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The child's pulse was weak",
+      "sentenceMeaning": "아이의 맥박이 약했다",
       "unit": 14
     },
     {
       "serial": 328,
       "text": "powder",
       "meaning": "가루",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You can buy milk in powder form",
+      "sentenceMeaning": "당신은 분유 형태로 우유를 살 수 있습니다.",
       "unit": 14
     },
     {
       "serial": 329,
       "text": "flood",
       "meaning": "홍수. 넘쳐흐르다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The whole town flooded when the river burst its banks",
+      "sentenceMeaning": "강물이 둑을 무너뜨리자 온 마을이 물에 잠겼다.",
       "unit": 14
     },
     {
       "serial": 330,
       "text": "bush",
       "meaning": "수풀. 덤불",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a lavender bush",
+      "sentenceMeaning": "라벤더 수풀",
       "unit": 14
     },
     {
       "serial": 331,
       "text": "branch",
       "meaning": "가지. 지점",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Immunology is a branch of biological science",
+      "sentenceMeaning": "면역학은 생물 과학의 한 분야이다.",
       "unit": 14
     },
     {
       "serial": 332,
       "text": "hero",
       "meaning": "영웅. (남자)주인공",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He is a national hero for his part in the revolution",
+      "sentenceMeaning": "그는 혁명에 참여한 공로로 국민적 영웅이다.",
       "unit": 14
     },
     {
       "serial": 333,
       "text": "heaven",
       "meaning": "천국. 하늘",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He'll move heaven and earth to get it done on time",
+      "sentenceMeaning": "그는 그 일을 제시간에 끝내기 위해 전력을 다할 것이다.",
       "unit": 14
     },
     {
       "serial": 334,
       "text": "exit",
       "meaning": "출구",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We headed for the nearest exit",
+      "sentenceMeaning": "우리는 가장 가까운 출구로 향했다.",
       "unit": 14
     },
     {
       "serial": 335,
       "text": "beast",
       "meaning": "짐승",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The room wasn't fit for man or beast",
+      "sentenceMeaning": "그 방은 사람이나 짐승에게 적합하지 않았다.",
       "unit": 14
     },
     {
       "serial": 336,
       "text": "century",
       "meaning": "세기. 100년",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This sculpture must be centuries old",
+      "sentenceMeaning": "이 조각은 수세기 전에 만들어졌음에 틀림없다.",
       "unit": 14
     },
     {
       "serial": 337,
       "text": "coeducation",
       "meaning": "남녀공학",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "In 1963 the university moved to co-education",
+      "sentenceMeaning": "1963년에 이 대학은 남녀공학으로 전환했다.",
       "unit": 14
     },
     {
       "serial": 338,
       "text": "twin",
       "meaning": "쌍둥이 한 명. (~s)쌍둥이",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My twin sister and I have got the same nose",
+      "sentenceMeaning": "내 쌍둥이 여동생과 나는 코가 같다.",
       "unit": 14
     },
     {
       "serial": 339,
       "text": "wound",
       "meaning": "상처. 상처를 입히다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a gunshot wound",
+      "sentenceMeaning": "총상",
       "unit": 14
     },
     {
       "serial": 340,
       "text": "metal",
       "meaning": "금속",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Metal, paper, and glass can be recycled",
+      "sentenceMeaning": "금속, 종이, 그리고 유리는 재활용될 수 있다.",
       "unit": 14
     },
     {
       "serial": 341,
       "text": "insect",
       "meaning": "곤충",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've got some sort of insect bite on my leg",
+      "sentenceMeaning": "다리에 벌레 물린 것 같아요.",
       "unit": 14
     },
     {
       "serial": 342,
       "text": "track",
       "meaning": "지나간 자국. 선로",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a ten-mile stretch of track",
+      "sentenceMeaning": "10마일의 선로",
       "unit": 14
     },
     {
       "serial": 343,
       "text": "excellent",
       "meaning": "뛰어난. 우수한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The food was excellent",
+      "sentenceMeaning": "그 음식은 훌륭했다.",
       "unit": 14
     },
     {
       "serial": 344,
       "text": "competent",
       "meaning": "능숙한. 유능한. 권한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a competent secretary",
+      "sentenceMeaning": "유능한 비서",
       "unit": 14
     },
     {
       "serial": 345,
       "text": "religious",
       "meaning": "종교적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's deeply religious and goes to church twice a week",
+      "sentenceMeaning": "그는 신앙심이 깊어서 일주일에 두 번 교회에 간다.",
       "unit": 14
     },
     {
       "serial": 346,
       "text": "worth",
       "meaning": "가치 있는. 가치",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Our house is worth 200,000",
+      "sentenceMeaning": "우리 집은 20만 파운드의 가치가 있다.",
       "unit": 14
     },
     {
       "serial": 347,
       "text": "favorite",
       "meaning": "아주 좋아하는. 마음에 드는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This is one of my favorite restaurants",
+      "sentenceMeaning": "이곳은 내가 가장 좋아하는 식당 중 하나이다.",
       "unit": 14
     },
     {
       "serial": 348,
       "text": "upset",
       "meaning": "기분이 상한. 화난",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It still upsets him when he thinks about the accident",
+      "sentenceMeaning": "그가 그 사고에 대해 생각하면 아직도 화가 난다.",
       "unit": 14
     },
     {
       "serial": 349,
       "text": "entire",
       "meaning": "전체의(=whole)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They ate an entire cake",
+      "sentenceMeaning": "그들은 케이크를 통째로 먹었다.",
       "unit": 14
     },
     {
       "serial": 350,
       "text": "primary",
       "meaning": "주요한. 기본의. 초등교육의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The primary responsibility lies with those who break the law",
+      "sentenceMeaning": "일차적인 책임은 법을 어기는 사람들에게 있다.",
       "unit": 14
     },
     {
       "serial": 351,
       "text": "similar",
       "meaning": "비슷한. 같은 모양의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Paul is very similar in appearance to his brother",
+      "sentenceMeaning": "Paul은 외모가 그의 형과 매우 비슷하다.",
       "unit": 15
     },
     {
       "serial": 352,
       "text": "precious",
       "meaning": "귀중한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You're so precious to me",
+      "sentenceMeaning": "넌 내게 너무 소중해.",
       "unit": 15
     },
     {
       "serial": 353,
       "text": "normal",
       "meaning": "정상의. 보통의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a normal working day",
+      "sentenceMeaning": "정상 근무일",
       "unit": 15
     },
     {
       "serial": 354,
       "text": "relative",
       "meaning": "상대적인. 친척",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "All her close relatives came to the wedding",
+      "sentenceMeaning": "그녀의 가까운 친척들이 모두 결혼식에 왔다.",
       "unit": 15
     },
     {
       "serial": 355,
       "text": "popular",
       "meaning": "인기 있는. 유행의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She's the most popular teacher in school",
+      "sentenceMeaning": "그녀는 학교에서 가장 인기 있는 선생님이다.",
       "unit": 15
     },
     {
       "serial": 356,
       "text": "compulsory",
       "meaning": "의무적인. 필수적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Swimming was compulsory at my school",
+      "sentenceMeaning": "수영은 우리 학교에서 필수였다.",
       "unit": 15
     },
     {
       "serial": 357,
       "text": "curious",
       "meaning": "호기심이 강한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I was curious to know what would happen next",
+      "sentenceMeaning": "나는 다음에 무슨 일이 일어날지 궁금했다.",
       "unit": 15
     },
     {
       "serial": 358,
       "text": "independent",
       "meaning": "독립의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've always been financially independent",
+      "sentenceMeaning": "저는 항상 경제적으로 독립적이었습니다.",
       "unit": 15
     },
     {
       "serial": 359,
       "text": "intimate",
       "meaning": "친밀한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The restaurant has a very intimate atmosphere",
+      "sentenceMeaning": "그 식당은 매우 친밀한 분위기를 가지고 있다.",
       "unit": 15
     },
     {
       "serial": 360,
       "text": "delicious",
       "meaning": "맛있는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a delicious cake",
+      "sentenceMeaning": "맛있는 케이크",
       "unit": 15
     },
     {
       "serial": 361,
       "text": "valuable",
       "meaning": "소중한. 가치있는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "These antiques are extremely valuable",
+      "sentenceMeaning": "이 골동품들은 매우 귀중하다.",
       "unit": 15
     },
     {
       "serial": 362,
       "text": "grave",
       "meaning": "중대한. 무덤",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He visits his mother's grave every Sunday",
+      "sentenceMeaning": "그는 매주 일요일마다 어머니의 묘소를 방문한다.",
       "unit": 15
     },
     {
       "serial": 363,
       "text": "elementary",
       "meaning": "초등의(학교). 초보의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I have an elementary knowledge of physics",
+      "sentenceMeaning": "나는 물리학에 대해 초보적인 지식을 가지고 있다.",
       "unit": 15
     },
     {
       "serial": 364,
       "text": "crazy",
       "meaning": "미친. 열광적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It's a crazy idea",
+      "sentenceMeaning": "그건 말도 안 되는 생각이야.",
       "unit": 15
     },
     {
       "serial": 365,
       "text": "contrary",
       "meaning": "반대의. 반대",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a contrary point of view",
+      "sentenceMeaning": "반대되는 관점",
       "unit": 15
     },
     {
       "serial": 366,
       "text": "regular",
       "meaning": "규칙적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She goes to her doctor for regular check-ups",
+      "sentenceMeaning": "그녀는 의사에게 정기 검진을 받으러 간다.",
       "unit": 15
     },
     {
       "serial": 367,
       "text": "social",
       "meaning": "사회의. 사회적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I had an active social life when I was at college",
+      "sentenceMeaning": "나는 대학 다닐 때 활발한 사회생활을 했다.",
       "unit": 15
     },
     {
       "serial": 368,
       "text": "straight",
       "meaning": "똑바른",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The dog seemed to be coming straight at me",
+      "sentenceMeaning": "그 개는 나를 향해 곧장 다가오는 것 같았다.",
       "unit": 15
     },
     {
       "serial": 369,
       "text": "noble",
       "meaning": "고귀한. 고상한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a noble gesture",
+      "sentenceMeaning": "고상한 몸짓",
       "unit": 15
     },
     {
       "serial": 370,
       "text": "anxious",
       "meaning": "걱정되는. 열망하는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I saw my sister's anxious face at the window",
+      "sentenceMeaning": "나는 창문에서 언니의 불안한 얼굴을 보았다.",
       "unit": 15
     },
     {
       "serial": 371,
       "text": "international",
       "meaning": "국제적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She was the boss of a large international company",
+      "sentenceMeaning": "그녀는 큰 국제 회사의 사장이었다.",
       "unit": 15
     },
     {
       "serial": 372,
       "text": "greedy",
       "meaning": "탐욕스러운",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's greedy for success",
+      "sentenceMeaning": "그는 성공을 갈망한다.",
       "unit": 15
     },
     {
       "serial": 373,
       "text": "stupid",
       "meaning": "어리석은. 멍청한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "How could you be so stupid?",
+      "sentenceMeaning": "넌 어떻게 그렇게 멍청해?",
       "unit": 15
     },
     {
       "serial": 374,
       "text": "silly",
       "meaning": "우스꽝스런. 유치한. 철없는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It was silly of you to go out in the sun without a hat",
+      "sentenceMeaning": "모자를 쓰지 않고 햇볕에 외출하다니 너는 어리석었다.",
       "unit": 15
     },
     {
       "serial": 375,
       "text": "lonely",
       "meaning": "외로운. 쓸쓸한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the lonely life of a widower",
+      "sentenceMeaning": "홀아비의 고독한 생활",
       "unit": 15
     },
     {
       "serial": 376,
       "text": "dirty",
       "meaning": "더러운. 더럽히다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Her face was dirty and tear-stained",
+      "sentenceMeaning": "그녀의 얼굴은 더럽고 눈물로 얼룩져 있었다.",
       "unit": 16
     },
     {
       "serial": 377,
       "text": "various",
       "meaning": "다양한. 여러가지의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We enjoy eating in various types of restaurants",
+      "sentenceMeaning": "우리는 다양한 종류의 식당에서 먹는 것을 즐긴다.",
       "unit": 16
     },
     {
       "serial": 378,
       "text": "private",
       "meaning": "개인의. 사적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I caught him looking through my private papers",
+      "sentenceMeaning": "나는 그가 내 개인 서류를 뒤적거리는 것을 발견했다.",
       "unit": 16
     },
     {
       "serial": 379,
       "text": "vain",
       "meaning": "헛된. 무익한. 허영심이 강한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I tried in vain to start a conversation",
+      "sentenceMeaning": "나는 대화를 시작하려고 했지만 허사였다.",
       "unit": 16
     },
     {
       "serial": 380,
       "text": "sore",
       "meaning": "아픈. 상처",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've got a sore back",
+      "sentenceMeaning": "등이 아픕니다.",
       "unit": 16
     },
     {
       "serial": 381,
       "text": "fierce",
       "meaning": "사나운. 맹렬한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a fierce attack",
+      "sentenceMeaning": "맹렬한 공격",
       "unit": 16
     },
     {
       "serial": 382,
       "text": "firm",
       "meaning": "굳은. 견고한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "These pears are still too firm to eat",
+      "sentenceMeaning": "이 배들은 아직 너무 단단해서 먹을 수 없다.",
       "unit": 16
     },
     {
       "serial": 383,
       "text": "solar",
       "meaning": "태양의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "solar energy",
+      "sentenceMeaning": "태양 에너지",
       "unit": 16
     },
     {
       "serial": 384,
       "text": "smart",
       "meaning": "영리한. 멋진",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I need a smart jacket for my interview",
+      "sentenceMeaning": "나는 면접을 위해 스마트 재킷이 필요하다.",
       "unit": 16
     },
     {
       "serial": 385,
       "text": "single",
       "meaning": "한 하나의. 독신의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Not a single person offered to help her",
+      "sentenceMeaning": "아무도 그녀를 돕겠다고 하지 않았다.",
       "unit": 16
     },
     {
       "serial": 386,
       "text": "diligent",
       "meaning": "부지런한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Leo is very diligent in his work",
+      "sentenceMeaning": "레오는 그의 일에 매우 부지런하다.",
       "unit": 16
     },
     {
       "serial": 387,
       "text": "serious",
       "meaning": "진지한. 심각한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There were no reports of serious injuries",
+      "sentenceMeaning": "심각한 부상에 대한 보고는 없었다.",
       "unit": 16
     },
     {
       "serial": 388,
       "text": "fresh",
       "meaning": "새로운. 신선한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We need to take a fresh look at the problem",
+      "sentenceMeaning": "우리는 그 문제를 새롭게 살펴볼 필요가 있다.",
       "unit": 16
     },
     {
       "serial": 389,
       "text": "empty",
       "meaning": "빈",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Shall I take the empty bottles for recycling?",
+      "sentenceMeaning": "빈 병은 재활용을 위해 가져갈까요?",
       "unit": 16
     },
     {
       "serial": 390,
       "text": "mild",
       "meaning": "온화한. 상냥한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We've had a mild winter this year",
+      "sentenceMeaning": "금년 겨울은 포근했다",
       "unit": 16
     },
     {
       "serial": 391,
       "text": "amazing",
       "meaning": "놀라운",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It's amazing that no one else has applied for the job",
+      "sentenceMeaning": "아무도 그 일에 지원하지 않다니 놀랍다.",
       "unit": 16
     },
     {
       "serial": 392,
       "text": "charming",
       "meaning": "매력적인(=attractive)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "What a charming street this is",
+      "sentenceMeaning": "얼마나 매력적인 거리인가.",
       "unit": 16
     },
     {
       "serial": 393,
       "text": "boring",
       "meaning": "지루한. 따분한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She finds opera boring",
+      "sentenceMeaning": "그녀는 오페라가 지루하다고 생각한다.",
       "unit": 16
     },
     {
       "serial": 394,
       "text": "patient",
       "meaning": "참을성 잇는. 환자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Be patient with her, she's very young",
+      "sentenceMeaning": "조금만 참아줘, 그녀는 너무 어려.",
       "unit": 16
     },
     {
       "serial": 395,
       "text": "huge",
-      "meaning": "거대한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "(아주)커다란",
+      "sentence": "They live in a huge house",
+      "sentenceMeaning": "그들은 큰 집에서 산다.",
       "unit": 16
     },
     {
       "serial": 396,
       "text": "tiny",
       "meaning": "아주 작은",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a tiny baby",
+      "sentenceMeaning": "아주 작은 아기",
       "unit": 16
     },
     {
       "serial": 397,
       "text": "tough",
       "meaning": "단단한. 어려운. 질린",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Children's shoes need to be tough",
+      "sentenceMeaning": "아이들의 신발은 튼튼해야 한다.",
       "unit": 16
     },
     {
       "serial": 398,
       "text": "foreign",
       "meaning": "외국의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Spain was the first foreign country she had visited",
+      "sentenceMeaning": "스페인은 그녀가 방문한 첫 번째 외국이었다.",
       "unit": 16
     },
     {
       "serial": 399,
       "text": "modern",
       "meaning": "현대의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "modern technology",
+      "sentenceMeaning": "현대 기술",
       "unit": 16
     },
     {
       "serial": 400,
       "text": "expensive",
       "meaning": "값비싼",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Big houses are expensive to maintain",
+      "sentenceMeaning": "큰 집은 유지비가 비싸다.",
       "unit": 16
     },
     {
       "serial": 401,
       "text": "harmful",
       "meaning": "해로운",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This chemicals is known to be harmful to people with asthma",
+      "sentenceMeaning": "이 화학물질은 천식을 가진 사람들에게 해로운 것으로 알려져 있습니다.",
       "unit": 17
     },
     {
       "serial": 402,
       "text": "calm",
       "meaning": "평온한. 침착한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Now keep calm everyone, the police are on their way",
+      "sentenceMeaning": "진정해, 경찰이 오고 있어",
       "unit": 17
     },
     {
       "serial": 403,
       "text": "special",
       "meaning": "특별한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The car has a number of special safety features",
+      "sentenceMeaning": "그 차에는 여러 가지 특별한 안전 기능이 있다.",
       "unit": 17
     },
     {
       "serial": 404,
       "text": "familiar",
       "meaning": "친한. 잘 알고 있는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The street was familiar to me",
+      "sentenceMeaning": "그 거리는 내게 익숙했다.",
       "unit": 17
     },
     {
       "serial": 405,
       "text": "nervous",
       "meaning": "초초한. 겁을 잘 먹는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I was too nervous to speak",
+      "sentenceMeaning": "나는 너무 긴장해서 말을 할 수가 없었다.",
       "unit": 17
     },
     {
       "serial": 406,
       "text": "brave",
       "meaning": "용감한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She was very brave to learn to ski at 50",
+      "sentenceMeaning": "그녀는 50살에 스키를 배우는 것을 매우 용감했다.",
       "unit": 17
     },
     {
       "serial": 407,
       "text": "steady",
       "meaning": "꾸준한. 한결같은",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Progress has been slow but steady",
+      "sentenceMeaning": "진전은 느리지만 꾸준하다.",
       "unit": 17
     },
     {
       "serial": 408,
       "text": "except",
       "meaning": "~을 제외하고. 제외하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The museum is open daily except Monday",
+      "sentenceMeaning": "박물관은 월요일을 제외하고 매일 문을 연다.",
       "unit": 17
     },
     {
       "serial": 409,
       "text": "hardly",
       "meaning": "거의 ~ 아니다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I could hardly hear her at the back",
+      "sentenceMeaning": "뒤에서 그녀의 목소리가 거의 들리지 않았다.",
       "unit": 17
     },
     {
       "serial": 410,
       "text": "otherwise",
       "meaning": "그렇지 않으면",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I'd better write it down, otherwise I'll forget it",
+      "sentenceMeaning": "적어두는 게 좋겠어요, 안 그러면 잊어버릴 거예요.",
       "unit": 17
     },
     {
       "serial": 411,
       "text": "however",
       "meaning": "그러나. 아무리~해도",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "However you look at it, it's still a mess",
+      "sentenceMeaning": "아무리 봐도 엉망진창이에요.",
       "unit": 17
     },
     {
       "serial": 412,
       "text": "together",
       "meaning": "함께",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We used to go to yoga together",
+      "sentenceMeaning": "우리는 함께 요가를 가곤 했다.",
       "unit": 17
     },
     {
       "serial": 413,
       "text": "ahead",
       "meaning": "앞에. 미리. 앞선",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The road ahead is very busy",
+      "sentenceMeaning": "앞으로 갈 길은 매우 바쁘다.",
       "unit": 17
     },
     {
       "serial": 414,
       "text": "instead",
       "meaning": "그 대신에",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There's no coffee - would you like a cup of tea instead?",
+      "sentenceMeaning": "커피가 없는데 대신 차 한 잔 드릴까요?",
       "unit": 17
     },
     {
       "serial": 415,
       "text": "quite",
       "meaning": "매우. 아주",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The two situations are quite different",
+      "sentenceMeaning": "그 두 상황은 상당히 다르다.",
       "unit": 17
     },
     {
       "serial": 416,
       "text": "almost",
       "meaning": "거의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It was almost six o'clock when he left",
+      "sentenceMeaning": "그가 떠난 것은 거의 6시였다.",
       "unit": 17
     },
     {
       "serial": 417,
       "text": "forward",
       "meaning": "앞으로. 앞쪽에. 앞으로 가는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She leaned forward to whisper something in my ear",
+      "sentenceMeaning": "그녀는 몸을 앞으로 숙여 내 귀에 대고 뭐라고 속삭였다.",
       "unit": 17
     },
     {
       "serial": 418,
       "text": "since",
       "meaning": "~이래. ~부터",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've been chewing the problem over since last week",
+      "sentenceMeaning": "나는 지난주부터 그 문제를 곰곰이 생각해 왔다.",
       "unit": 17
     },
     {
       "serial": 419,
       "text": "once",
       "meaning": "한 번. 한 때.~하게 되면",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I went sailing once, but I didn't like it",
+      "sentenceMeaning": "나는 한 번 항해하러 갔었지만, 그것이 마음에 들지 않았다.",
       "unit": 17
     },
     {
       "serial": 420,
       "text": "whether",
       "meaning": "~인지 어떤지",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I doubt whether it'll work",
+      "sentenceMeaning": "그것이 잘 될지 의심스럽다.",
       "unit": 17
     },
     {
       "serial": 421,
       "text": "unless",
       "meaning": "~하지 않으면",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You can't get a job unless you have experience",
+      "sentenceMeaning": "경험이 없으면 취직할 수 없다.",
       "unit": 17
     },
     {
       "serial": 422,
       "text": "though",
       "meaning": "비록 ~이지만",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She hasn't called, even though she said she would",
+      "sentenceMeaning": "그녀는 전화하겠다고 했는데도 전화를 안 했어요.",
       "unit": 17
     },
     {
       "serial": 423,
       "text": "while",
       "meaning": "~하는 동안",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I read it while you were drying your hair",
+      "sentenceMeaning": "네가 머리를 말리는 동안 읽었어.",
       "unit": 17
     },
     {
       "serial": 424,
       "text": "usually",
       "meaning": "보통. 대게",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Is your friend usually so rude?",
+      "sentenceMeaning": "너의 친구는 평소에 그렇게 무례하니?",
       "unit": 17
     },
     {
       "serial": 425,
       "text": "along",
       "meaning": "~을 따라서",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a row of houses along the river",
+      "sentenceMeaning": "강을 따라 늘어선 집들",
       "unit": 17
     },
     {
       "serial": 426,
       "text": "without",
       "meaning": "~없이",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I left without my umbrella",
+      "sentenceMeaning": "나는 우산 없이 떠났습니다.",
       "unit": 18
     },
     {
       "serial": 427,
       "text": "behind",
       "meaning": "~의 뒤에. 뒤에",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Look behind you!",
+      "sentenceMeaning": "뒤를 봐!",
       "unit": 18
     },
     {
       "serial": 428,
       "text": "beyond",
       "meaning": "~을 넘어서. ~의 너머에",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Our house is just beyond the bridge",
+      "sentenceMeaning": "우리 집은 다리 바로 너머에 있다.",
       "unit": 18
     },
     {
       "serial": 429,
       "text": "below",
       "meaning": "~의 아래에",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The author's name was printed below the title",
+      "sentenceMeaning": "저자의 이름이 제목 아래에 인쇄되어 있었다.",
       "unit": 18
     },
     {
       "serial": 430,
       "text": "toward",
       "meaning": "~쪽으로",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She stood up and walked toward him",
+      "sentenceMeaning": "그녀는 일어서서 그를 향해 걸어갔다.",
       "unit": 18
     },
     {
       "serial": 431,
       "text": "explain",
       "meaning": "설명하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He explained how the machine worked",
+      "sentenceMeaning": "그는 그 기계가 어떻게 작동하는지 설명했다.",
       "unit": 18
     },
     {
       "serial": 432,
       "text": "wear",
       "meaning": "입다. 착용하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He wears glasses for reading",
+      "sentenceMeaning": "그는 독서를 위해 안경을 쓴다.",
       "unit": 18
     },
     {
       "serial": 433,
       "text": "amuse",
       "meaning": "즐겁게 하다. 웃기다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Shall I put on a film to amuse the kids?",
+      "sentenceMeaning": "아이들을 즐겁게 하기 위해 필름을 하나 붙여도 될까요?",
       "unit": 18
     },
     {
       "serial": 434,
       "text": "suppose",
       "meaning": "가정하다. (~일거라)생각하다.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Do you suppose that Gillian will marry him?",
+      "sentenceMeaning": "당신은 길시언이 그와 결혼할 것이라고 생각합니까?",
       "unit": 18
     },
     {
       "serial": 435,
       "text": "leap",
       "meaning": "뛰다(=jump)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The dog leaped over the gate into the field",
+      "sentenceMeaning": "개가 대문을 뛰어넘어 들판으로 뛰어들었다.",
       "unit": 18
     },
     {
       "serial": 436,
       "text": "bury",
       "meaning": "(땅에)묻다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "His father is buried in the cemetery on the hill",
+      "sentenceMeaning": "그의 아버지는 언덕 위의 공동묘지에 묻혔다.",
       "unit": 18
     },
     {
       "serial": 437,
       "text": "engage",
       "meaning": "약속하다. 고용하다. 약혼하다.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We've recently engaged a cleaner",
+      "sentenceMeaning": "우리는 최근에 청소부를 고용했다.",
       "unit": 18
     },
     {
       "serial": 438,
       "text": "sow",
       "meaning": "씨를 뿌리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Sow the seeds in pots",
+      "sentenceMeaning": "냄비에 씨를 뿌리세요.",
       "unit": 18
     },
     {
       "serial": 439,
       "text": "lift",
       "meaning": "들어 올리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Could you help me lift this table, please?",
+      "sentenceMeaning": "이 테이블 드는 것 좀 도와주시겠어요?",
       "unit": 18
     },
     {
       "serial": 440,
       "text": "bow",
       "meaning": "머리를 숙이다. 절하다.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They bowed to the Queen",
+      "sentenceMeaning": "그들은 여왕에게 절을 했다.",
       "unit": 18
     },
     {
       "serial": 441,
       "text": "rub",
       "meaning": "비비다. 문지르다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She gently rubbed the ointment in",
+      "sentenceMeaning": "그녀는 부드럽게 연고를 문질렀다.",
       "unit": 18
     },
     {
       "serial": 442,
       "text": "bite",
       "meaning": "물다. 물어뜯다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He bites his fingernails",
+      "sentenceMeaning": "그는 손톱을 물어뜯는다.",
       "unit": 18
     },
     {
       "serial": 443,
       "text": "vote",
       "meaning": "투표하다. 투표",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Over 55 percent voted Democratic",
+      "sentenceMeaning": "55% 이상이 민주당에 투표했다.",
       "unit": 18
     },
     {
       "serial": 444,
       "text": "hop",
       "meaning": "(깡충)뛰다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The rabbit hopped across the grass",
+      "sentenceMeaning": "토끼는 풀밭을 가로질러 깡충깡충 뛰었다.",
       "unit": 18
     },
     {
       "serial": 445,
       "text": "imagine",
       "meaning": "상상하다.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Can you imagine how it feels to be blind?",
+      "sentenceMeaning": "여러분은 장님이 되는 기분이 어떨지 상상할 수 있나요?",
       "unit": 18
     },
     {
       "serial": 446,
       "text": "allow",
       "meaning": "허락하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You're not allowed to talk during the exam",
+      "sentenceMeaning": "시험 중에는 말을 하면 안 돼요.",
       "unit": 18
     },
     {
       "serial": 447,
       "text": "offer",
       "meaning": "제공하다. 권하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She was offered a job in Paris",
+      "sentenceMeaning": "그녀는 파리에서 일자리를 제의받았다.",
       "unit": 18
     },
     {
       "serial": 448,
       "text": "wish",
       "meaning": "소원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I wish that I hadn't eaten so much",
+      "sentenceMeaning": "내가 그렇게 많이 먹지 않았더라면 좋았을 텐데.",
       "unit": 18
     },
     {
       "serial": 449,
       "text": "obey",
       "meaning": "복종하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The soldiers refused to obey orders",
+      "sentenceMeaning": "병사들은 명령에 복종하기를 거부했다.",
       "unit": 18
     },
     {
       "serial": 450,
       "text": "dig",
       "meaning": "(땅을) 파다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Digging in the garden is good exercise",
+      "sentenceMeaning": "정원에서 땅을 파는 것은 좋은 운동이다.",
       "unit": 18
     },
     {
       "serial": 451,
       "text": "choose",
       "meaning": "고르다. 선택하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've chosen a present for Luis",
+      "sentenceMeaning": "루이스에게 줄 선물을 골랐어요.",
       "unit": 19
     },
     {
       "serial": 452,
       "text": "receive",
       "meaning": "받다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Did you receive my letter?",
+      "sentenceMeaning": "내 편지 받았니?",
       "unit": 19
     },
     {
       "serial": 453,
       "text": "bet",
       "meaning": "(돈을) 걸다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I bet that he won't come",
+      "sentenceMeaning": "나는 그가 오지 않을 것이라고 확신한다.",
       "unit": 19
     },
     {
       "serial": 454,
       "text": "hurt",
       "meaning": "상처를 입히다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My head hurts",
+      "sentenceMeaning": "머리가 아파요.",
       "unit": 19
     },
     {
       "serial": 455,
       "text": "burn",
       "meaning": "타다. 태우다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He was badly burned in the blaze",
+      "sentenceMeaning": "그는 화재로 심하게 화상을 입었다.",
       "unit": 19
     },
     {
       "serial": 456,
       "text": "sink",
       "meaning": "가라앉아",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Enemy aircraft sank two battleships",
+      "sentenceMeaning": "적기가 전함 두 척을 격침시켰다.",
       "unit": 19
     },
     {
       "serial": 457,
       "text": "decide",
       "meaning": "결정하다. 결심하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He can't decide whether to buy it",
+      "sentenceMeaning": "그는 그것을 사야 할지 말아야 할지 결정할 수 없다.",
       "unit": 19
     },
     {
       "serial": 458,
       "text": "beg",
       "meaning": "구걸하다. 청하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They begged for mercy",
+      "sentenceMeaning": "그들은 자비를 구걸했다.",
       "unit": 19
     },
     {
       "serial": 459,
       "text": "reply",
       "meaning": "대답하다. 대답",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I try to reply to letters the day I receive them",
+      "sentenceMeaning": "나는 편지를 받는 날 답장을 하려고 노력한다.",
       "unit": 19
     },
     {
       "serial": 460,
       "text": "tear",
       "meaning": "찢다. 찢어지다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I tore my skirt on the chair as I stood up",
+      "sentenceMeaning": "나는 일어서다가 의자에서 치마가 찢어졌다",
       "unit": 19
     },
     {
       "serial": 461,
       "text": "flow",
       "meaning": "흐르다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Many short rivers flow into the Pacific Ocean",
+      "sentenceMeaning": "많은 짧은 강들이 태평양으로 흘러 들어간다.",
       "unit": 19
     },
     {
       "serial": 462,
       "text": "remember",
       "meaning": "기억하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I don't remember signing a contract",
+      "sentenceMeaning": "나는 계약서에 서명한 기억이 없다.",
       "unit": 19
     },
     {
       "serial": 463,
       "text": "appear",
       "meaning": "나타나다. ~인 것 같다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He suddenly appeared in the doorway",
+      "sentenceMeaning": "그가 갑자기 문간에 나타났다.",
       "unit": 19
     },
     {
       "serial": 464,
       "text": "breathe",
       "meaning": "숨쉬다. 호흡하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It's so airless in here, I can hardly breathe",
+      "sentenceMeaning": "여긴 공기가 너무 없어서 숨도 못 쉬겠어.",
       "unit": 19
     },
     {
       "serial": 465,
       "text": "whistle",
       "meaning": "휘파람을 불다. 휘파람",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He whistled as he worked",
+      "sentenceMeaning": "그는 일을 하면서 휘파람을 불었다.",
       "unit": 19
     },
     {
       "serial": 466,
       "text": "continue",
       "meaning": "계속하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "If she continues drinking like that, I'll have to carry her home",
+      "sentenceMeaning": "그녀가 그런 식으로 계속 술을 마시면, 내가 그녀를 집에 데려다 줘야 할 것 같아.",
       "unit": 19
     },
     {
       "serial": 467,
       "text": "check",
       "meaning": "점검하다. 알아보다. 억제하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The doctor will call next week to check on your progress",
+      "sentenceMeaning": "의사 선생님이 다음 주에 전화해서 경과를 확인할 거예요.",
       "unit": 19
     },
     {
       "serial": 468,
       "text": "sail",
       "meaning": "항해하다. 돛",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The ship was sailing to China",
+      "sentenceMeaning": "그 배는 중국으로 항해하고 있었다.",
       "unit": 19
     },
     {
       "serial": 469,
       "text": "wake",
       "meaning": "깨다. 깨우다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Please wake me up early tomorrow",
+      "sentenceMeaning": "내일 일찍 깨워 주세요.",
       "unit": 19
     },
     {
       "serial": 470,
       "text": "agree",
       "meaning": "동의하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I agree with you on this issue",
+      "sentenceMeaning": "저는 이 문제에 대해 당신과 동의합니다.",
       "unit": 19
     },
     {
       "serial": 471,
       "text": "hang",
       "meaning": "걸다. 매달다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A heavy gold necklace hung around her neck",
+      "sentenceMeaning": "무거운 금 목걸이가 그녀의 목에 걸려 있었다.",
       "unit": 19
     },
     {
       "serial": 472,
       "text": "record",
       "meaning": "기록하다. 기록",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We recorded their wedding on video",
+      "sentenceMeaning": "우리는 그들의 결혼식을 비디오로 녹화했다.",
       "unit": 19
     },
     {
       "serial": 473,
       "text": "drop",
       "meaning": "떨어지다. 떨어뜨리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I'm always dropping things",
+      "sentenceMeaning": "나는 항상 물건을 떨어뜨린다.",
       "unit": 19
     },
     {
       "serial": 474,
       "text": "climb",
       "meaning": "오르다. 기어오르다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The plane climbed quickly to a height of 30,000 feet",
+      "sentenceMeaning": "그 비행기는 3만 피트 높이까지 빠르게 올라갔다.",
       "unit": 19
     },
     {
       "serial": 475,
       "text": "add",
       "meaning": "더하다. 보태다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Don't forget to add on your travelling expenses",
+      "sentenceMeaning": "여행 경비를 추가하는 것을 잊지 마세요.",
       "unit": 19
     },
     {
       "serial": 476,
       "text": "shine",
       "meaning": "빛나다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Is that light shining in your eyes?",
+      "sentenceMeaning": "저 빛이 네 눈에서 빛나고 있니?",
       "unit": 20
     },
     {
       "serial": 477,
       "text": "invite",
       "meaning": "초대하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They've invited 80 guests to the wedding",
+      "sentenceMeaning": "그들은 결혼식에 80명의 하객을 초대했다.",
       "unit": 20
     },
     {
       "serial": 478,
       "text": "join",
       "meaning": "연결하다. 함께하다. 가입하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A long suspension bridge joins the two islands",
+      "sentenceMeaning": "긴 현수교가 두 섬을 잇는다.",
       "unit": 20
     },
     {
       "serial": 479,
       "text": "hide",
       "meaning": "숨기다. 숨다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She used to hide her diary under her pillow",
+      "sentenceMeaning": "그녀는 일기를 베개 밑에 숨기곤 했다.",
       "unit": 20
     },
     {
       "serial": 480,
       "text": "bring",
       "meaning": "가져오다. 데려오다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Bring me that knife",
+      "sentenceMeaning": "그 칼을 내게 가져와라.",
       "unit": 20
     },
     {
       "serial": 481,
       "text": "wink",
       "meaning": "눈을 깜박이다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Laura winked at me as Stephen turned his back",
+      "sentenceMeaning": "스티븐이 등을 돌리자 로라는 나에게 윙크를 했다.",
       "unit": 20
     },
     {
       "serial": 482,
       "text": "roll",
       "meaning": "구르다. 굴리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The dog rolled over onto its back",
+      "sentenceMeaning": "개가 등을 대고 뒹굴었다.",
       "unit": 20
     },
     {
       "serial": 483,
       "text": "pull",
       "meaning": "끌다. 당기다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The car was pulling a caravan",
+      "sentenceMeaning": "그 차는 캐러밴을 끌고 있었다.",
       "unit": 20
     },
     {
       "serial": 484,
       "text": "push",
       "meaning": "밀다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She pushed her hair out of her eyes",
+      "sentenceMeaning": "그녀는 머리카락을 눈 밖으로 밀어냈다.",
       "unit": 20
     },
     {
       "serial": 485,
       "text": "guess",
       "meaning": "추측하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She asked me to guess her age",
+      "sentenceMeaning": "그녀는 나에게 나이를 맞춰달라고 부탁했다.",
       "unit": 20
     },
     {
       "serial": 486,
       "text": "belong",
       "meaning": "~에 속하다. ~소속이다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This document belongs to someone else",
+      "sentenceMeaning": "이 문서는 다른 사용자의 것입니다.",
       "unit": 20
     },
     {
       "serial": 487,
       "text": "happen",
       "meaning": "(일.사건이)일어나다. 우연히 ~하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A funny thing happened in the office today",
+      "sentenceMeaning": "오늘 사무실에서 재미있는 일이 있었다.",
       "unit": 20
     },
     {
       "serial": 488,
       "text": "pick",
       "meaning": "고르다. 줍다. 집다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Pick a card from the pack",
+      "sentenceMeaning": "팩에서 카드를 선택합니다.",
       "unit": 20
     },
     {
       "serial": 489,
       "text": "shake",
       "meaning": "흔들다. 떨다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The explosion shook buildings for miles around",
+      "sentenceMeaning": "그 폭발로 건물들이 수 마일에 걸쳐 흔들렸다.",
       "unit": 20
     },
     {
       "serial": 490,
       "text": "fill",
       "meaning": "채우다. 가득 차다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I filled the bucket with water",
+      "sentenceMeaning": "나는 양동이에 물을 채웠다.",
       "unit": 20
     },
     {
       "serial": 491,
       "text": "fight",
       "meaning": "싸우다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The children were fighting in the playground",
+      "sentenceMeaning": "아이들은 운동장에서 싸우고 있었다.",
       "unit": 20
     },
     {
       "serial": 492,
       "text": "fear",
       "meaning": "두려워하다. 두려움",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I have a fear of heights",
+      "sentenceMeaning": "저는 고소공포증이 있어요.",
       "unit": 20
     },
     {
       "serial": 493,
       "text": "carry",
       "meaning": "나르다. 운반하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "These books are too heavy for me to carry",
+      "sentenceMeaning": "이 책들은 너무 무거워서 내가 들 수 없다.",
       "unit": 20
     },
     {
       "serial": 494,
       "text": "dive",
       "meaning": "(물속으로) 뛰어들다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She dove into the still water of the lake",
+      "sentenceMeaning": "그녀는 호수의 고요한 물 속으로 뛰어들었다.",
       "unit": 20
     },
     {
       "serial": 495,
       "text": "win",
       "meaning": "이기다. 얻다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He won the first prize in the lottery",
+      "sentenceMeaning": "그는 복권 1등에 당첨되었다.",
       "unit": 20
     },
     {
       "serial": 496,
       "text": "ride",
       "meaning": "타다. 승차",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I learned to ride a bike when I was six",
+      "sentenceMeaning": "나는 여섯 살 때 자전거 타는 법을 배웠다.",
       "unit": 20
     },
     {
       "serial": 497,
       "text": "need",
       "meaning": "필요하다. 필요",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Babies need constant care",
+      "sentenceMeaning": "아기들은 지속적인 보살핌이 필요하다.",
       "unit": 20
     },
     {
       "serial": 498,
       "text": "build",
       "meaning": "짓다. 건축하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The birds built their nest in the tree",
+      "sentenceMeaning": "새들이 나무에 둥지를 틀었다.",
       "unit": 20
     },
     {
       "serial": 499,
       "text": "hurry",
       "meaning": "서두르다. 재촉하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Hurry or you'll be late",
+      "sentenceMeaning": "서두르지 않으면 늦을 거야.",
       "unit": 20
     },
     {
       "serial": 500,
       "text": "return",
       "meaning": "돌아가다(오다). 돌려주다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My investments return a high rate of interest",
+      "sentenceMeaning": "내 투자는 높은 이자를 돌려준다.",
       "unit": 20
     },
     {
       "serial": 501,
       "text": "believe",
       "meaning": "믿다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She's arriving tomorrow, I believe",
+      "sentenceMeaning": "그녀는 내일 도착할 겁니다.",
       "unit": 21
     },
     {
       "serial": 502,
       "text": "surprise",
       "meaning": "놀라게 하다. 놀람",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They launched a surprise attack at dawn",
+      "sentenceMeaning": "그들은 새벽에 기습 공격을 개시했다.",
       "unit": 21
     },
     {
       "serial": 503,
       "text": "gather",
       "meaning": "모으다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We gathered blueberries from the bushes",
+      "sentenceMeaning": "우리는 덤불에서 블루베리를 땄다.",
       "unit": 21
     },
     {
       "serial": 504,
       "text": "throw",
       "meaning": "던지다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My friend threw the ball back over the fence",
+      "sentenceMeaning": "내 친구는 공을 다시 울타리 너머로 던졌다.",
       "unit": 21
     },
     {
       "serial": 505,
       "text": "smell",
       "meaning": "냄새 맡다. 냄새",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My hands smell of onions",
+      "sentenceMeaning": "손에서 양파 냄새가 나요.",
       "unit": 21
     },
     {
       "serial": 506,
       "text": "spend",
       "meaning": "소비하다. 지내다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "How much did you spend?",
+      "sentenceMeaning": "얼마나 썼어요?",
       "unit": 21
     },
     {
       "serial": 507,
       "text": "pitch",
-      "meaning": "(야구)던지다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "(야구)던지다. 경기장",
+      "sentence": "The football pitch was absolutely sodden",
+      "sentenceMeaning": "축구 경기장은 완전히 흠뻑 젖었다.",
       "unit": 21
     },
     {
       "serial": 508,
       "text": "pop",
       "meaning": "펑 터지다. 탁 튀다. 대중적인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I heard a pop and the lights went out",
+      "sentenceMeaning": "나는 펑 하는 소리를 듣고 불이 꺼졌다.",
       "unit": 21
     },
     {
       "serial": 509,
       "text": "excuse",
       "meaning": "용서하다. 변명하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Nothing can excuse that sort of behaviour",
+      "sentenceMeaning": "그 어떤 것도 그런 행동을 용서할 수 없다.",
       "unit": 21
     },
     {
       "serial": 510,
       "text": "hit",
       "meaning": "치다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She hit the nail with a hammer",
+      "sentenceMeaning": "그녀는 망치로 못을 쳤다.",
       "unit": 21
     },
     {
       "serial": 511,
       "text": "tie",
       "meaning": "묶다. 매다. 넥타이",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I tie my hair back when it's hot",
+      "sentenceMeaning": "저는 더울 때 머리를 뒤로 묶습니다.",
       "unit": 21
     },
     {
       "serial": 512,
       "text": "stay",
       "meaning": "머무르다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Stay until the rain has stopped",
+      "sentenceMeaning": "비가 그칠 때까지 계세요.",
       "unit": 21
     },
     {
       "serial": 513,
       "text": "enjoy",
       "meaning": "즐기다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I really enjoyed that movie",
+      "sentenceMeaning": "나 그 영화 정말 재미있게 봤어.",
       "unit": 21
     },
     {
       "serial": 514,
       "text": "close",
       "meaning": "닫다. (눈을)감다. 가까운",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I went out and forgot to close the window",
+      "sentenceMeaning": "나는 밖에 나가서 창문을 닫는 것을 잊었다.",
       "unit": 21
     },
     {
       "serial": 515,
       "text": "arrive",
       "meaning": "도착하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "What time does your train arrive?",
+      "sentenceMeaning": "당신의 기차는 몇 시에 도착합니까?",
       "unit": 21
     },
     {
       "serial": 516,
       "text": "travel",
       "meaning": "(긴)여행하다. 여행",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "As a young man he had travelled the world",
+      "sentenceMeaning": "그는 젊었을 때 세계를 여행했었다.",
       "unit": 21
     },
     {
       "serial": 517,
       "text": "worry",
       "meaning": "걱정하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Don't worry, she'll be all right",
+      "sentenceMeaning": "걱정 마, 그녀는 괜찮을 거야.",
       "unit": 21
     },
     {
       "serial": 518,
       "text": "marry",
       "meaning": "결혼하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Paul married Lucy four years ago",
+      "sentenceMeaning": "Paul은 4년 전에 Lucy와 결혼했다.",
       "unit": 21
     },
     {
       "serial": 519,
       "text": "expect",
       "meaning": "기대하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He didn't expect to see me",
+      "sentenceMeaning": "그는 나를 만날 줄 몰랐다.",
       "unit": 21
     },
     {
       "serial": 520,
       "text": "understand",
       "meaning": "이해하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Is there anyone here who understands Arabic?",
+      "sentenceMeaning": "여기 아랍어를 할 줄 아는 사람 있나요?",
       "unit": 21
     },
     {
       "serial": 521,
       "text": "dye",
       "meaning": "물들이다. 물감",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "For a change, why not dye your T-shirts?",
+      "sentenceMeaning": "기분 전환으로, 티셔츠를 염색하는 게 어때요?",
       "unit": 21
     },
     {
       "serial": 522,
       "text": "smoke",
       "meaning": "담배 피우다. 연기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Do you smoke?",
+      "sentenceMeaning": "담배 피우세요?",
       "unit": 21
     },
     {
       "serial": 523,
       "text": "lend",
       "meaning": "빌려주다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She doesn't like lending her books",
+      "sentenceMeaning": "그녀는 책을 빌려주는 것을 좋아하지 않는다.",
       "unit": 21
     },
     {
       "serial": 524,
       "text": "shut",
       "meaning": "닫다(=close)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Please shut the gate",
+      "sentenceMeaning": "게이트를 닫아 주세요.",
       "unit": 21
     },
     {
       "serial": 525,
       "text": "sleep",
       "meaning": "자다. 잠",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I must get some sleep, I'm exhausted",
+      "sentenceMeaning": "잠을 좀 자야겠어요. 너무 피곤해요.",
       "unit": 21
     },
     {
       "serial": 526,
       "text": "lay",
       "meaning": "놓다. 눕히다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She laid the baby on the bed",
+      "sentenceMeaning": "그녀는 아기를 침대에 눕혔다.",
       "unit": 22
     },
     {
       "serial": 527,
       "text": "paint",
       "meaning": "그리다. 페인트",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've been painting all morning",
+      "sentenceMeaning": "오전 내내 그림을 그렸어요.",
       "unit": 22
     },
     {
       "serial": 528,
       "text": "spell",
       "meaning": "철자를 쓰다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Could you spell your name again, please?",
+      "sentenceMeaning": "이름 철자를 다시 한 번 말씀해 주시겠어요?",
       "unit": 22
     },
     {
       "serial": 529,
       "text": "sell",
       "meaning": "팔다. 팔리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The stall sells drinks and snacks",
+      "sentenceMeaning": "그 노점에서는 음료와 간식을 판다.",
       "unit": 22
     },
     {
       "serial": 530,
       "text": "invest",
       "meaning": "투자하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The institute will invest five million in the project",
+      "sentenceMeaning": "그 기관은 그 프로젝트에 5백만 달러를 투자할 것이다.",
       "unit": 22
     },
     {
       "serial": 531,
       "text": "seek",
       "meaning": "찾다. 구하다. 찾기. 수색",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "\"Are you actively seeking jobs \" she asked",
+      "sentenceMeaning": "\"당신은 적극적으로 일자리를 찾고 있습니까?\" 그녀가 물었다.",
       "unit": 22
     },
     {
       "serial": 532,
       "text": "broadcast",
       "meaning": "방송하다. 방송",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The ceremony was broadcasted on the Internet",
+      "sentenceMeaning": "그 의식은 인터넷으로 방송되었다.",
       "unit": 22
     },
     {
       "serial": 533,
       "text": "cure",
-      "meaning": "치료하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "치료하다. 치유법",
+      "sentence": "There's still no cure for cancer",
+      "sentenceMeaning": "암 치료법은 아직 없다.",
       "unit": 22
     },
     {
       "serial": 534,
       "text": "howl",
       "meaning": "짖다. 울부짖다. 짖는소리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A lone wolf howled in the silence of the night",
+      "sentenceMeaning": "외로운 늑대가 밤의 정적 속에서 울부짖었다.",
       "unit": 22
     },
     {
       "serial": 535,
       "text": "halt",
       "meaning": "멈추다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "\"Halt!\" called the guard \"You can't go any further without a permit\"",
+      "sentenceMeaning": "\"멈춰!\" 경비원이 소리쳤다. \"허가가 없으면 더 이상 갈 수 없습니다.\"",
       "unit": 22
     },
     {
       "serial": 536,
       "text": "joy",
       "meaning": "기쁨",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Listening to music is one of his greatest joys",
+      "sentenceMeaning": "음악을 듣는 것은 그의 가장 큰 즐거움 중 하나이다.",
       "unit": 22
     },
     {
       "serial": 537,
       "text": "revival",
       "meaning": "부활",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "An economic revival is sweeping the country",
+      "sentenceMeaning": "경제 부흥이 전국을 휩쓸고 있다",
       "unit": 22
     },
     {
       "serial": 538,
       "text": "million",
       "meaning": "백만. 다수",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The city has a population of almost one million",
+      "sentenceMeaning": "그 도시에는 거의 백만 명의 인구가 있다.",
       "unit": 22
     },
     {
       "serial": 539,
       "text": "crop",
       "meaning": "농작물. 수확",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The main crops grown for export are coffee and rice",
+      "sentenceMeaning": "수출을 위해 재배되는 주요 작물은 커피와 쌀이다.",
       "unit": 22
     },
     {
       "serial": 540,
       "text": "shade",
       "meaning": "그늘",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The sun was hot, and there were no trees to offer us shade",
+      "sentenceMeaning": "태양은 뜨거웠고, 우리에게 그늘을 제공해 줄 나무가 없었다.",
       "unit": 22
     },
     {
       "serial": 541,
       "text": "canal",
       "meaning": "운하",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The Panama Canal provides a crucial shipping link between the Atlantic and Pacific oceans",
+      "sentenceMeaning": "파나마 운하는 대서양과 태평양을 연결하는 중요한 연결고리를 제공한다.",
       "unit": 22
     },
     {
       "serial": 542,
       "text": "wagon",
       "meaning": "짐마차",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The horse effortlessly hauled a big wagon?",
+      "sentenceMeaning": "그 말은 큰 마차를 힘들이지 않고 끌고 갔다.?",
       "unit": 22
     },
     {
       "serial": 543,
       "text": "fact",
       "meaning": "사실",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I don't know all the facts about the case",
+      "sentenceMeaning": "나는 그 사건에 대한 모든 사실을 알지 못한다.",
       "unit": 22
     },
     {
       "serial": 544,
       "text": "concert",
       "meaning": "음악회. 연주회",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a school concert",
+      "sentenceMeaning": "학교 음악회",
       "unit": 22
     },
     {
       "serial": 545,
       "text": "rule",
       "meaning": "규칙. 습관. 지배하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You must not break the rules",
+      "sentenceMeaning": "규칙을 어겨서는 안 된다",
       "unit": 22
     },
     {
       "serial": 546,
       "text": "suitcase",
       "meaning": "여행가방",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The suitcase was full of dollar bills?",
+      "sentenceMeaning": "그 여행 가방은 달러 지폐로 가득 차 있었다.",
       "unit": 22
     },
     {
       "serial": 547,
       "text": "weight",
       "meaning": "무게",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "How many weights can this truck carry safely?",
+      "sentenceMeaning": "이 트럭은 몇 개의 무게를 안전하게 운반할 수 있습니까?",
       "unit": 22
     },
     {
       "serial": 548,
       "text": "hurrah",
       "meaning": "만세",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Hurrah for the whole team!",
+      "sentenceMeaning": "팀 전체를 위해 만세!",
       "unit": 22
     },
     {
       "serial": 549,
       "text": "mail",
       "meaning": "우편(물). 우송하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "All of our customers will be contacted by mail",
+      "sentenceMeaning": "우리의 모든 고객은 우편으로 연락할 것이다.",
       "unit": 22
     },
     {
       "serial": 550,
       "text": "hay",
       "meaning": "건초",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a bale of hay",
+      "sentenceMeaning": "건초 한 무더기",
       "unit": 22
     },
     {
       "serial": 551,
       "text": "log",
       "meaning": "통나무",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We found a huge pile of logs",
+      "sentenceMeaning": "우리는 거대한 통나무 더미를 발견했다.",
       "unit": 23
     },
     {
       "serial": 552,
       "text": "hut",
       "meaning": "오두막집",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a mountain hut",
+      "sentenceMeaning": "산장",
       "unit": 23
     },
     {
       "serial": 553,
       "text": "tax",
       "meaning": "세금. 과세하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They're increasing the tax on cigarettes",
+      "sentenceMeaning": "그들은 담배에 붙는 세금을 인상하고 있다.",
       "unit": 23
     },
     {
       "serial": 554,
       "text": "lesson",
       "meaning": "수업. 교훈",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She has never taken any acting lessons",
+      "sentenceMeaning": "그녀는 연기 수업을 받은 적이 없다.",
       "unit": 23
     },
     {
       "serial": 555,
       "text": "flame",
       "meaning": "불꽃. 타오르다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The flames grew larger as the fire spread",
+      "sentenceMeaning": "불이 번지면서 불길은 더 커졌다.",
       "unit": 23
     },
     {
       "serial": 556,
       "text": "shape",
       "meaning": "모양",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "These bricks are all different shapes",
+      "sentenceMeaning": "이 벽돌들은 모두 다른 모양이다.",
       "unit": 23
     },
     {
       "serial": 557,
       "text": "chest",
       "meaning": "가슴",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She went to the doctor complaining of chest pains",
+      "sentenceMeaning": "그녀는 흉통을 호소하며 의사에게 갔다.",
       "unit": 23
     },
     {
       "serial": 558,
       "text": "chain",
       "meaning": "사슬. 사슬로 매다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Put the chain on the door if you are alone in the house",
+      "sentenceMeaning": "집에 혼자 있다면 문에 쇠사슬을 달아라.",
       "unit": 23
     },
     {
       "serial": 559,
       "text": "coast",
       "meaning": "해안",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We spent a week on the coast?",
+      "sentenceMeaning": "우리는 해변에서 일주일을 보냈다.?",
       "unit": 23
     },
     {
       "serial": 560,
       "text": "circle",
       "meaning": "원. 집단. 동그라미를 그리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We sat in a circle",
+      "sentenceMeaning": "우리는 둥글게 앉았다.",
       "unit": 23
     },
     {
       "serial": 561,
       "text": "heart",
       "meaning": "심장. 마음",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's got a weak heart",
+      "sentenceMeaning": "그는 심장이 약하다.",
       "unit": 23
     },
     {
       "serial": 562,
       "text": "fever",
       "meaning": "열. 열병",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's got a headache and a slight fever",
+      "sentenceMeaning": "그는 두통과 미열이 있다.",
       "unit": 23
     },
     {
       "serial": 563,
       "text": "trust",
       "meaning": "신뢰. 믿다. 신용하다.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My sister warned me not to trust him",
+      "sentenceMeaning": "내 여동생은 나에게 그를 믿지 말라고 경고했다.",
       "unit": 23
     },
     {
       "serial": 564,
       "text": "whisker",
       "meaning": "수염. 구레나룻",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He watched the cat cleaning the milk off her whiskers",
+      "sentenceMeaning": "그는 고양이가 수염에 묻은 우유를 닦는 것을 지켜보았다.",
       "unit": 23
     },
     {
       "serial": 565,
       "text": "prison",
       "meaning": "감옥",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's spent a lot of time in prison",
+      "sentenceMeaning": "그는 감옥에서 많은 시간을 보냈다.",
       "unit": 23
     },
     {
       "serial": 566,
       "text": "blood",
       "meaning": "피",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He lost a lot of blood in the accident",
+      "sentenceMeaning": "그는 사고로 많은 피를 흘렸다.",
       "unit": 23
     },
     {
       "serial": 567,
       "text": "loaf",
       "meaning": "빵 한 덩어리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I bought five loaves of bread",
+      "sentenceMeaning": "나는 빵 다섯 덩어리를 샀다.",
       "unit": 23
     },
     {
       "serial": 568,
       "text": "list",
       "meaning": "목록",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Is your name on the list?",
+      "sentenceMeaning": "당신 이름이 명단에 있나요?",
       "unit": 23
     },
     {
       "serial": 569,
       "text": "fence",
       "meaning": "울타리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A cat was walking along the top of the fence",
+      "sentenceMeaning": "고양이 한 마리가 울타리 꼭대기를 따라 걷고 있었다.",
       "unit": 23
     },
     {
       "serial": 570,
       "text": "enemy",
       "meaning": "적(군)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's made a few enemies in this company",
+      "sentenceMeaning": "그는 이 회사에서 적을 몇 명 만들었다.",
       "unit": 23
     },
     {
       "serial": 571,
       "text": "thief",
       "meaning": "도둑",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It is said that a barking dog subdues a thief",
+      "sentenceMeaning": "짖는 개가 도둑을 제압한다고 한다.",
       "unit": 23
     },
     {
       "serial": 572,
       "text": "data",
       "meaning": "자료. 데이터",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The data was collected by various researchers",
+      "sentenceMeaning": "그 자료는 다양한 연구자들에 의해 수집되었다.",
       "unit": 23
     },
     {
       "serial": 573,
-      "text": "solider",
+      "text": "soldier",
       "meaning": "군인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Soldiers were patrolling the streets",
+      "sentenceMeaning": "군인들이 거리를 순찰하고 있었다.",
       "unit": 23
     },
     {
       "serial": 574,
       "text": "musician",
       "meaning": "음악가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She was a prodigious musician",
+      "sentenceMeaning": "그녀는 대단한 음악가였다.",
       "unit": 23
     },
     {
       "serial": 575,
       "text": "capital",
       "meaning": "수도. 자본. 주요한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Australia's capital city is Canberra",
+      "sentenceMeaning": "호주의 수도는 캔버라입니다.",
       "unit": 23
     },
     {
       "serial": 576,
       "text": "course",
       "meaning": "진로. 과정",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They're going away on a training course next week",
+      "sentenceMeaning": "그들은 다음 주에 훈련 코스를 떠난다.",
       "unit": 24
     },
     {
       "serial": 577,
       "text": "diary",
       "meaning": "일기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Hold on, I'll check in my diary",
+      "sentenceMeaning": "잠시만요, 일기장을 확인해 볼게요.",
       "unit": 24
     },
     {
       "serial": 578,
       "text": "squirrel",
       "meaning": "다람쥐",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Red squirrels are uncommon in England",
+      "sentenceMeaning": "붉은 다람쥐는 영국에서 흔하지 않습니다.",
       "unit": 24
     },
     {
       "serial": 579,
       "text": "dawn",
       "meaning": "새벽. 시작. 날이 밝다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We woke at dawn",
+      "sentenceMeaning": "우리는 새벽에 일어났다.",
       "unit": 24
     },
     {
       "serial": 580,
       "text": "shadow",
       "meaning": "그림자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This corner of the room is always in shadow",
+      "sentenceMeaning": "방의 이 구석은 항상 그늘에 가려져 있다.",
       "unit": 24
     },
     {
       "serial": 581,
       "text": "ditch",
-      "meaning": "도랑",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "도랑, 배수로, 버리다",
+      "sentence": "It’s time to ditch this old, torn sweater",
+      "sentenceMeaning": "이 낡고 찢어진 스웨터를 버릴 때가 되었다.",
       "unit": 24
     },
     {
       "serial": 582,
       "text": "crew",
       "meaning": "승무원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "an ambulance crew",
+      "sentenceMeaning": "구급대원.",
       "unit": 24
     },
     {
       "serial": 583,
       "text": "stomach",
       "meaning": "위",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He was punched in the stomach",
+      "sentenceMeaning": "그는 배를 한 대 맞았다.",
       "unit": 24
     },
     {
       "serial": 584,
       "text": "neighbor",
       "meaning": "이웃 사람",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Elie is my next-door neighbor",
+      "sentenceMeaning": "엘리는 내 옆집 이웃이다.",
       "unit": 24
     },
     {
       "serial": 585,
       "text": "servant",
       "meaning": "하인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "civil servant",
+      "sentenceMeaning": "공무원",
       "unit": 24
     },
     {
       "serial": 586,
       "text": "hunger",
       "meaning": "굶주림",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She started to feel faint from hunger",
+      "sentenceMeaning": "그녀는 배가 고파서 정신이 혼미해지기 시작했다.",
       "unit": 24
     },
     {
       "serial": 587,
       "text": "tomb",
       "meaning": "무덤. 묘",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "His tomb was covered with leaves",
+      "sentenceMeaning": "그의 무덤은 나뭇잎으로 덮여 있었다.",
       "unit": 24
     },
     {
       "serial": 588,
       "text": "taste",
       "meaning": "맛. 취미. 맛을 보다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I love the taste of garlic",
+      "sentenceMeaning": "마늘 맛이 너무 좋아요.",
       "unit": 24
     },
     {
       "serial": 589,
       "text": "sign",
       "meaning": "징후. 간판. 신호. 서명하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Sign here, please",
+      "sentenceMeaning": "여기에 서명해 주세요.",
       "unit": 24
     },
     {
       "serial": 590,
       "text": "stair",
       "meaning": "계단",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Go up the stairs and her office is on the right",
+      "sentenceMeaning": "계단을 올라가시면 오른쪽에 그녀의 사무실이 있습니다.",
       "unit": 24
     },
     {
       "serial": 591,
       "text": "trip",
       "meaning": "(가벼운)여행",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We're going on a trip to Norway this summer",
+      "sentenceMeaning": "우리는 이번 여름에 노르웨이로 여행을 갈 것이다.",
       "unit": 24
     },
     {
       "serial": 592,
       "text": "brain",
       "meaning": "두뇌",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "His wife died from a brain tumour",
+      "sentenceMeaning": "그의 아내는 뇌종양으로 죽었다.",
       "unit": 24
     },
     {
       "serial": 593,
       "text": "trumpet",
       "meaning": "나팔. 트럼펫",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Ann blew a few notes on the trumpet",
+      "sentenceMeaning": "앤은 트럼펫으로 몇 음을 불었다.",
       "unit": 24
     },
     {
       "serial": 594,
       "text": "speech",
       "meaning": "말. 연설",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "His speech was slurred and I thought he was drunk",
+      "sentenceMeaning": "그의 연설은 어눌했고 나는 그가 술에 취했다고 생각했다.",
       "unit": 24
     },
     {
       "serial": 595,
       "text": "thumb",
       "meaning": "엄지손가락",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The thorn was embedded in her thumb",
+      "sentenceMeaning": "가시가 그녀의 엄지손가락에 박혔다.",
       "unit": 24
     },
     {
       "serial": 596,
       "text": "horn",
       "meaning": "뿔. 경적",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The driver blew her horn",
+      "sentenceMeaning": "운전사가 그녀의 경적을 울렸다.",
       "unit": 24
     },
     {
       "serial": 597,
       "text": "chief",
       "meaning": "우두머리. 주요한. 최고의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the Chief Education Officer",
+      "sentenceMeaning": "최고 교육 책임자",
       "unit": 24
     },
     {
       "serial": 598,
       "text": "trousers",
       "meaning": "바지",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I need a new pair of trousers to go with this jacket",
+      "sentenceMeaning": "나는 이 재킷과 어울리는 새 바지가 필요하다.",
       "unit": 24
     },
     {
       "serial": 599,
       "text": "prince",
       "meaning": "왕자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Prince Juan Carlos of Spain became king in 1975",
+      "sentenceMeaning": "스페인의 후안 카를로스 왕자는 1975년에 왕이 되었습니다.",
       "unit": 24
     },
     {
       "serial": 600,
       "text": "force",
       "meaning": "힘. 강요하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She slapped his face with unexpected force",
+      "sentenceMeaning": "그녀가 뜻밖의 힘으로 그의 뺨을 때렸다.",
       "unit": 24
     },
     {
       "serial": 601,
       "text": "sight",
       "meaning": "광경. 시력. 경치",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The old woman has lost her sight",
+      "sentenceMeaning": "그 노파는 시력을 잃었다.",
       "unit": 25
     },
     {
       "serial": 602,
       "text": "space",
       "meaning": "공간. 우주",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I need to make some space for Mark's things",
+      "sentenceMeaning": "마크의 물건을 넣을 공간을 만들어야겠어.",
       "unit": 25
     },
     {
       "serial": 603,
       "text": "wool",
       "meaning": "양모",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I can't wear wool, it makes me itch",
+      "sentenceMeaning": "나는 양털을 입을 수 없어, 가려워.",
       "unit": 25
     },
     {
       "serial": 604,
       "text": "expressway",
       "meaning": "고속도로",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We enjoyed driving along the new expressway",
+      "sentenceMeaning": "우리는 새로운 고속도로를 따라 운전하는 것을 즐겼다.",
       "unit": 25
     },
     {
       "serial": 605,
       "text": "science",
       "meaning": "과학",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "one of the pioneers of modern science",
+      "sentenceMeaning": "현대 과학의 선구자 중 한 사람",
       "unit": 25
     },
     {
       "serial": 606,
       "text": "examination",
       "meaning": "시험. 조사",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The evidence is still under examination",
+      "sentenceMeaning": "그 증거는 아직 검토 중이다.",
       "unit": 25
     },
     {
       "serial": 607,
       "text": "jar",
       "meaning": "항아리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a jam jar",
+      "sentenceMeaning": "잼병",
       "unit": 25
     },
     {
       "serial": 608,
       "text": "salt",
       "meaning": "소금",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Add a pinch of salt to the sauce",
+      "sentenceMeaning": "소스에 소금을 조금 넣으세요.",
       "unit": 25
     },
     {
       "serial": 609,
       "text": "death",
       "meaning": "죽음. 사망",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Do you believe in life after death?",
+      "sentenceMeaning": "당신은 사후의 삶을 믿습니까?",
       "unit": 25
     },
     {
       "serial": 610,
       "text": "saw",
       "meaning": "톱. 톱으로 켜다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They sawed the door in half",
+      "sentenceMeaning": "그들은 톱으로 문을 반으로 잘랐다.",
       "unit": 25
     },
     {
       "serial": 611,
       "text": "swing",
       "meaning": "그네. 진동",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He walked briskly along swinging his umbrella",
+      "sentenceMeaning": "그는 우산을 흔들며 활기차게 걸어갔다.",
       "unit": 25
     },
     {
       "serial": 612,
       "text": "alarm",
       "meaning": "놀람. 경보. 놀라게 하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The first two bomb alerts were false alarms, but the third was for real",
+      "sentenceMeaning": "처음 두 번의 폭탄 경고는 거짓 경보였지만, 세 번째 경고는 실제 경보였다.",
       "unit": 25
     },
     {
       "serial": 613,
       "text": "grain",
       "meaning": "곡식. 낟알",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "grains of wheat",
+      "sentenceMeaning": "밀알",
       "unit": 25
     },
     {
       "serial": 614,
       "text": "eraser",
       "meaning": "지우개",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This eraser is worn down to a stub?",
+      "sentenceMeaning": "이 지우개는 닳아서 뭉툭하다.?",
       "unit": 25
     },
     {
       "serial": 615,
       "text": "alphabet",
       "meaning": "알파벳. 문자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the Roman alphabet",
+      "sentenceMeaning": "로마자",
       "unit": 25
     },
     {
       "serial": 616,
       "text": "shoulder",
       "meaning": "어깨",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I rested my head on her shoulder",
+      "sentenceMeaning": "나는 그녀의 어깨에 머리를 기댔다.",
       "unit": 25
     },
     {
       "serial": 617,
       "text": "nephew",
       "meaning": "조카",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He entrusted the task to his nephew",
+      "sentenceMeaning": "그는 그 일을 조카에게 맡겼다.",
       "unit": 25
     },
     {
       "serial": 618,
       "text": "niece",
       "meaning": "조카딸",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My niece visits me every month",
+      "sentenceMeaning": "내 조카가 매달 나를 방문한다.",
       "unit": 25
     },
     {
       "serial": 619,
       "text": "library",
       "meaning": "도서관. 도서실",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This library loans books, CDs, and videotapes",
+      "sentenceMeaning": "이 도서관은 책, CD, 비디오테이프를 대여한다.",
       "unit": 25
     },
     {
       "serial": 620,
       "text": "factory",
       "meaning": "공장.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a textile factory",
+      "sentenceMeaning": "직물 공장",
       "unit": 25
     },
     {
       "serial": 621,
       "text": "giraffe",
       "meaning": "기린",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A full-grown giraffe is 55m tall",
+      "sentenceMeaning": "다 자란 기린은 키가 5.5m입니다.",
       "unit": 25
     },
     {
       "serial": 622,
       "text": "hawk",
       "meaning": "(동물)매",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He waited, watching her like a hawk?",
+      "sentenceMeaning": "그는 그녀를 매처럼 지켜보며 기다렸다.?",
       "unit": 25
     },
     {
       "serial": 623,
       "text": "pigeon",
       "meaning": "비둘기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We fed the pigeons in the park",
+      "sentenceMeaning": "우리는 공원에서 비둘기들에게 먹이를 주었다.",
       "unit": 25
     },
     {
       "serial": 624,
       "text": "bowl",
       "meaning": "사발. 그릇",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a bowl of soup",
+      "sentenceMeaning": "수프 한 그릇",
       "unit": 25
     },
     {
       "serial": 625,
       "text": "scene",
       "meaning": "장면. 현장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Lowry painted street scenes",
+      "sentenceMeaning": "로리는 거리의 풍경을 그렸다.",
       "unit": 25
     },
     {
       "serial": 626,
       "text": "life",
       "meaning": "생명. 생활. 일생",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Life's too short to worry about money!",
+      "sentenceMeaning": "돈 걱정하기엔 인생이 너무 짧아요!",
       "unit": 26
     },
     {
       "serial": 627,
       "text": "earth",
       "meaning": "지구. 땅",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The satellite slowly rotates as it circles the earth",
+      "sentenceMeaning": "위성은 지구를 돌면서 천천히 회전한다.",
       "unit": 26
     },
     {
       "serial": 628,
       "text": "pill",
       "meaning": "알약",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My mother takes three or four pills a day",
+      "sentenceMeaning": "어머니는 하루에 서너 알씩 드세요.",
       "unit": 26
     },
     {
       "serial": 629,
       "text": "math",
       "meaning": "수학",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "solve a math problem",
+      "sentenceMeaning": "수학 문제를 풀다",
       "unit": 26
     },
     {
       "serial": 630,
       "text": "ocean",
       "meaning": "대양",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The ship sank slowly to the depths of the ocean",
+      "sentenceMeaning": "그 배는 천천히 바다 깊숙이 가라앉았다.",
       "unit": 26
     },
     {
       "serial": 631,
       "text": "price",
       "meaning": "값. 가격",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The price of oil has risen sharply",
+      "sentenceMeaning": "유가가 급등했다",
       "unit": 26
     },
     {
       "serial": 632,
       "text": "row",
       "meaning": "줄. 열(=line). 배를 젓다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I'd like seats on the front row of the stalls",
+      "sentenceMeaning": "저는 좌판 맨 앞줄의 좌석을 원합니다.",
       "unit": 26
     },
     {
       "serial": 633,
       "text": "schedule",
       "meaning": "스케줄. 일정(표)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Everything went according to schedule",
+      "sentenceMeaning": "모든 것이 예정대로 진행되었다.",
       "unit": 26
     },
     {
       "serial": 634,
       "text": "machine",
       "meaning": "기계",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I got some chocolate from a vending machine",
+      "sentenceMeaning": "나는 자판기에서 초콜릿을 조금 받았다.",
       "unit": 26
     },
     {
       "serial": 635,
       "text": "route",
       "meaning": "길. 노선",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I live on a bus route so I can easily get to work",
+      "sentenceMeaning": "나는 버스 노선에 살아서 회사에 쉽게 갈 수 있다.",
       "unit": 26
     },
     {
       "serial": 636,
       "text": "ivy",
       "meaning": "아이비. 담쟁이덩굴",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Ivy covered the broken walls",
+      "sentenceMeaning": "아이비가 부서진 벽을 덮었다.",
       "unit": 26
     },
     {
       "serial": 637,
       "text": "candle",
       "meaning": "양초",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Shall I light a candle?",
+      "sentenceMeaning": "촛불을 켤까요?",
       "unit": 26
     },
     {
       "serial": 638,
       "text": "joke",
       "meaning": "농담. 농담을 하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Do you know any funny jokes?",
+      "sentenceMeaning": "재미있는 농담 알고 있는 거 있어요?",
       "unit": 26
     },
     {
       "serial": 639,
       "text": "corn",
       "meaning": "곡물",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "grains of corn",
+      "sentenceMeaning": "옥수수 알갱이",
       "unit": 26
     },
     {
       "serial": 640,
       "text": "pet",
       "meaning": "애완동물. 사랑하는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Keeping a pet can do wonders for your health",
+      "sentenceMeaning": "애완동물을 기르는 것은 여러분의 건강에 놀라운 일을 할 수 있습니다.",
       "unit": 26
     },
     {
       "serial": 641,
       "text": "robber",
       "meaning": "강도",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The robbers shot a policeman before making their getaway",
+      "sentenceMeaning": "강도들은 달아나기 전에 경찰을 쐈다.",
       "unit": 26
     },
     {
       "serial": 642,
       "text": "cheek",
       "meaning": "볼. 뺨",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A tear rolled down his cheek",
+      "sentenceMeaning": "눈물이 그의 뺨을 타고 흘러내렸다.",
       "unit": 26
     },
     {
       "serial": 643,
       "text": "clerk",
       "meaning": "사무원. 점원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a junior office clerk",
+      "sentenceMeaning": "하급 사무원",
       "unit": 26
     },
     {
       "serial": 644,
       "text": "cookie",
       "meaning": "쿠키",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This recipe makes three dozen cookies",
+      "sentenceMeaning": "이 조리법은 36개의 쿠키를 만든다.",
       "unit": 26
     },
     {
       "serial": 645,
       "text": "army",
       "meaning": "육군. 군대",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "When did you join the army?",
+      "sentenceMeaning": "당신은 언제 군대에 갔습니까?",
       "unit": 26
     },
     {
       "serial": 646,
       "text": "nurse",
       "meaning": "간호사",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He worked as a nurse in a psychiatric hospital",
+      "sentenceMeaning": "그는 정신병원에서 간호사로 일했다.",
       "unit": 26
     },
     {
       "serial": 647,
       "text": "master",
       "meaning": "주인. 정복하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Servants had to obey their masters",
+      "sentenceMeaning": "하인들은 주인에게 복종해야 했다.",
       "unit": 26
     },
     {
       "serial": 648,
       "text": "lock",
       "meaning": "자물쇠. 잠그다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Did you lock the door?",
+      "sentenceMeaning": "문 잠갔니?",
       "unit": 26
     },
     {
       "serial": 649,
       "text": "moment",
       "meaning": "순간",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Can you wait a moment?",
+      "sentenceMeaning": "잠시만 기다려 주시겠어요?",
       "unit": 26
     },
     {
       "serial": 650,
       "text": "sheet",
       "meaning": "(침대의)시트. (종이)한 장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've put clean sheets on the bed",
+      "sentenceMeaning": "침대 위에 깨끗한 시트를 깔았다.",
       "unit": 26
     },
     {
       "serial": 651,
       "text": "monk",
       "meaning": "승려",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Buddhist monks",
+      "sentenceMeaning": "스님들",
       "unit": 27
     },
     {
       "serial": 652,
       "text": "teenager",
       "meaning": "십대 아이",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The magazine is aimed at teenagers and young adults",
+      "sentenceMeaning": "그 잡지는 청소년과 젊은 성인을 대상으로 한다.",
       "unit": 27
     },
     {
       "serial": 653,
       "text": "closet",
       "meaning": "벽장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a bedroom closet",
+      "sentenceMeaning": "침실 벽장",
       "unit": 27
     },
     {
       "serial": 654,
       "text": "handle",
       "meaning": "손잡이. 다루다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I thought he handled the situation very well",
+      "sentenceMeaning": "나는 그가 그 상황을 아주 잘 처리했다고 생각했다.",
       "unit": 27
     },
     {
       "serial": 655,
       "text": "guide",
       "meaning": "안내자. 안내서. 안내하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a guide to the birds of North America",
+      "sentenceMeaning": "북미의 새들을 위한 안내서",
       "unit": 27
     },
     {
       "serial": 656,
       "text": "bar",
       "meaning": "막대기. 빗장. 술집.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They noticed him going into the hotel bar",
+      "sentenceMeaning": "그들은 그가 호텔 바에 들어가는 것을 알아챘다.",
       "unit": 27
     },
     {
       "serial": 657,
       "text": "ostrich",
       "meaning": "타조",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The ostrich is the fastest animal on two legs",
+      "sentenceMeaning": "타조는 두 다리로 가장 빠른 동물이다.",
       "unit": 27
     },
     {
       "serial": 658,
       "text": "knee",
       "meaning": "무릎",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She took the child and sat it on her knee",
+      "sentenceMeaning": "그녀는 아이를 무릎에 앉혔다.",
       "unit": 27
     },
     {
       "serial": 659,
       "text": "cricket",
       "meaning": "크리켓(경기)",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Are you coming to cricket practice this evening?",
+      "sentenceMeaning": "오늘 저녁에 크리켓 연습하러 올 거야?",
       "unit": 27
     },
     {
       "serial": 660,
       "text": "deck",
       "meaning": "갑판",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the upper deck of the bus",
+      "sentenceMeaning": "버스의 상갑판",
       "unit": 27
     },
     {
       "serial": 661,
       "text": "bit",
       "meaning": "조금. 작은 조각",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Would you like a bit of chocolate?",
+      "sentenceMeaning": "초콜릿 좀 드실래요?",
       "unit": 27
     },
     {
       "serial": 662,
       "text": "silk",
       "meaning": "비단",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Her hair was so soft it was like silk",
+      "sentenceMeaning": "그녀의 머리는 실크처럼 부드러웠다.",
       "unit": 27
     },
     {
       "serial": 663,
       "text": "jeans",
       "meaning": "청바지",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I never wear jeans to work",
+      "sentenceMeaning": "나는 절대 청바지를 입고 출근하지 않는다.",
       "unit": 27
     },
     {
       "serial": 664,
       "text": "cotton",
       "meaning": "솜. 목화",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a shirt made of pure cotton",
+      "sentenceMeaning": "순면 셔츠",
       "unit": 27
     },
     {
       "serial": 665,
       "text": "drum",
       "meaning": "드럼. 북",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He beat out a jazz rhythm on the drums",
+      "sentenceMeaning": "그는 드럼으로 재즈 리듬을 연주했다.",
       "unit": 27
     },
     {
       "serial": 666,
       "text": "sand",
       "meaning": "모래",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The children played on the sand all day?",
+      "sentenceMeaning": "아이들은 하루 종일 모래 위에서 놀았다.?",
       "unit": 27
     },
     {
       "serial": 667,
       "text": "shock",
       "meaning": "충격. 충격을 주다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I was in shock for about two weeks after the accident",
+      "sentenceMeaning": "나는 사고 후 약 2주 동안 충격을 받았다.",
       "unit": 27
     },
     {
       "serial": 668,
       "text": "march",
       "meaning": "행진(곡). 행진하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They are planning a large anti-racism march",
+      "sentenceMeaning": "그들은 대규모 인종차별 반대 시위를 계획하고 있다.",
       "unit": 27
     },
     {
       "serial": 669,
       "text": "cage",
       "meaning": "새장. 우리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A lion has escaped from its cage",
+      "sentenceMeaning": "사자가 우리에서 탈출했다.",
       "unit": 27
     },
     {
       "serial": 670,
       "text": "whole",
       "meaning": "전부. 전부의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I spent the whole day cleaning",
+      "sentenceMeaning": "나는 하루 종일 청소를 하며 보냈다.",
       "unit": 27
     },
     {
       "serial": 671,
       "text": "change",
       "meaning": "변화. 교환. 잔돈. 바꾸다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She's just changed jobs",
+      "sentenceMeaning": "그녀는 막 직장을 옮겼어요.",
       "unit": 27
     },
     {
       "serial": 672,
       "text": "department",
       "meaning": "부서. (백화점의)매장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the department of chemistry",
+      "sentenceMeaning": "화학과",
       "unit": 27
     },
     {
       "serial": 673,
       "text": "office",
       "meaning": "사무실. 회사",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I didn't leave the office until eight o'clock last night",
+      "sentenceMeaning": "나는 어젯밤 8시까지 사무실을 떠나지 않았다.",
       "unit": 27
     },
     {
       "serial": 674,
       "text": "ticket",
       "meaning": "표. 입장권",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "How much is a one-way ticket to New York?",
+      "sentenceMeaning": "뉴욕행 편도 티켓은 얼마입니까?",
       "unit": 27
     },
     {
       "serial": 675,
       "text": "energy",
       "meaning": "에너지. 힘",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I didn't even have the energy to get out of bed",
+      "sentenceMeaning": "나는 침대에서 일어날 힘조차 없었다.",
       "unit": 27
     },
     {
       "serial": 676,
       "text": "idea",
       "meaning": "생각. 아이디어",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She's full of good ideas",
+      "sentenceMeaning": "그녀는 좋은 아이디어로 가득 차 있다.",
       "unit": 28
     },
     {
       "serial": 677,
       "text": "hospital",
       "meaning": "병원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She spent a week in the hospital last year",
+      "sentenceMeaning": "그녀는 작년에 병원에서 일주일을 보냈다.",
       "unit": 28
     },
     {
       "serial": 678,
       "text": "noise",
       "meaning": "소음. 소리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The noise in the street was deafening",
+      "sentenceMeaning": "거리의 소음은 귀가 멍멍할 정도로 컸다.",
       "unit": 28
     },
     {
       "serial": 679,
       "text": "sample",
       "meaning": "견본. 샘플",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Please bring some samples of your work to the interview",
+      "sentenceMeaning": "인터뷰에 당신의 작품 샘플을 좀 가져와 주세요.",
       "unit": 28
     },
     {
       "serial": 680,
       "text": "example",
       "meaning": "예. 보기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "This painting is a marvelous example of her work",
+      "sentenceMeaning": "이 그림은 그녀의 작품의 훌륭한 예이다.",
       "unit": 28
     },
     {
       "serial": 681,
       "text": "plenty",
       "meaning": "풍부. 많은",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They've always had plenty of money",
+      "sentenceMeaning": "그들은 항상 많은 돈을 가지고 있었다.",
       "unit": 28
     },
     {
       "serial": 682,
       "text": "luck",
       "meaning": "행운",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Good luck with your exam!",
+      "sentenceMeaning": "시험에 행운을 빌어요!",
       "unit": 28
     },
     {
       "serial": 683,
       "text": "comedy",
       "meaning": "코미디",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I prefer Shakespeare's comedies to his tragedies",
+      "sentenceMeaning": "나는 셰익스피어의 희극이 비극보다 더 좋다.",
       "unit": 28
     },
     {
       "serial": 684,
       "text": "health",
       "meaning": "건강",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Regular exercise is good for your health",
+      "sentenceMeaning": "규칙적인 운동은 건강에 좋습니다.",
       "unit": 28
     },
     {
       "serial": 685,
       "text": "history",
       "meaning": "역사",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I studied modern European history at college",
+      "sentenceMeaning": "나는 대학에서 유럽 현대사를 공부했다.",
       "unit": 28
     },
     {
       "serial": 686,
       "text": "forest",
       "meaning": "숲",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The children got lost in the forest",
+      "sentenceMeaning": "아이들은 숲에서 길을 잃었다.",
       "unit": 28
     },
     {
       "serial": 687,
       "text": "stream",
       "meaning": "흐름. 시내. 흐르다.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There's a bubbling stream that flows through their property",
+      "sentenceMeaning": "거품이 이는 시냇물이 그들의 사유지를 흐른다.",
       "unit": 28
     },
     {
       "serial": 688,
       "text": "future",
       "meaning": "미래. 미래의",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The stream glinted in the moonlight",
+      "sentenceMeaning": "개울이 달빛에 반짝였다.",
       "unit": 28
     },
     {
       "serial": 689,
       "text": "state",
       "meaning": "상태. 국가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "After the accident, I was in a state of shock",
+      "sentenceMeaning": "사고가 난 후 나는 충격을 받았다.",
       "unit": 28
     },
     {
       "serial": 690,
       "text": "temple",
       "meaning": "절. 사원",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The temple is noted for its rich carvings",
+      "sentenceMeaning": "그 절은 풍부한 조각으로 유명하다.",
       "unit": 28
     },
     {
       "serial": 691,
       "text": "dictionary",
       "meaning": "사전",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "To check how a word is spelled, look it up in a dictionary",
+      "sentenceMeaning": "단어의 철자를 확인하려면 사전에서 찾아보십시오.",
       "unit": 28
     },
     {
       "serial": 692,
       "text": "grammar",
       "meaning": "문법",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "These books give perfect grammar coverage",
+      "sentenceMeaning": "이 책들은 완벽한 문법 범위를 제공한다.",
       "unit": 28
     },
     {
       "serial": 693,
       "text": "college",
       "meaning": "단과대학. 전문학교",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I met my husband when we were in college",
+      "sentenceMeaning": "나는 우리가 대학에 다닐 때 남편을 만났다.",
       "unit": 28
     },
     {
       "serial": 694,
       "text": "husband",
       "meaning": "남편",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've never met Fiona's husband",
+      "sentenceMeaning": "난 피오나의 남편을 만난 적이 없어.",
       "unit": 28
     },
     {
       "serial": 695,
       "text": "daughter",
       "meaning": "딸",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Liz and Phil have a daughter and three sons",
+      "sentenceMeaning": "리즈와 필은 딸 하나와 아들 셋이 있다.",
       "unit": 28
     },
     {
       "serial": 696,
       "text": "captain",
       "meaning": "우두머리. 선장. 주장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He is now the vice captain of the team",
+      "sentenceMeaning": "그는 현재 팀의 부주장이다.",
       "unit": 28
     },
     {
       "serial": 697,
       "text": "booth",
       "meaning": "작은 방. 점포.",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There was a line of people waiting for the phone booth",
+      "sentenceMeaning": "공중전화 부스를 기다리는 사람들이 줄을 서 있었다.",
       "unit": 28
     },
     {
       "serial": 698,
       "text": "iceberg",
       "meaning": "빙산",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "giant iceberg was on a collision course with the ship",
+      "sentenceMeaning": "?거대한 빙산은 배와 충돌하는 과정에 있었다.",
       "unit": 28
     },
     {
       "serial": 699,
       "text": "bubble",
       "meaning": "거품",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "As the water begins to boil, bubbles rise to the surface",
+      "sentenceMeaning": "물이 끓기 시작하면 거품이 수면 위로 떠오른다.",
       "unit": 28
     },
     {
       "serial": 700,
       "text": "bottom",
       "meaning": "밑바닥",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He stood at the bottom of the stairs",
+      "sentenceMeaning": "그는 계단 맨 아래에 서 있었다.",
       "unit": 28
     },
     {
       "serial": 701,
       "text": "prize",
       "meaning": "상. 상품",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Carlos was awarded first prize in the essay competition",
+      "sentenceMeaning": "카를로스는 에세이 대회에서 1등을 했다.",
       "unit": 29
     },
     {
       "serial": 702,
       "text": "bean",
       "meaning": "콩",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I'm having beans on toast for supper",
+      "sentenceMeaning": "나는 저녁으로 토스트에 콩을 얹고 있다.",
       "unit": 29
     },
     {
       "serial": 703,
       "text": "engineer",
       "meaning": "기사. 기술자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The engineer is coming to repair our phone tomorrow morning",
+      "sentenceMeaning": "엔지니어가 내일 아침에 우리 전화기를 수리하러 올 것이다.",
       "unit": 29
     },
     {
       "serial": 704,
       "text": "photographer",
       "meaning": "사진사",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She's a professional photographer",
+      "sentenceMeaning": "그녀는 전문 사진작가이다.",
       "unit": 29
     },
     {
       "serial": 705,
       "text": "subway",
       "meaning": "지하철",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A guy gave me his seat on the subway",
+      "sentenceMeaning": "지하철에서 어떤 남자가 나에게 자리를 양보했다.",
       "unit": 29
     },
     {
       "serial": 706,
       "text": "fog",
       "meaning": "안개",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It took several hours for the fog to clear",
+      "sentenceMeaning": "안개가 걷히는데 몇 시간이 걸렸다.",
       "unit": 29
     },
     {
       "serial": 707,
       "text": "answer",
       "meaning": "대답. 대답하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I've just called him but there was no answer",
+      "sentenceMeaning": "나는 방금 그에게 전화를 걸었지만 받지 않았다.",
       "unit": 29
     },
     {
       "serial": 708,
       "text": "dining room",
       "meaning": "식당",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Breakfast is served in the dining room from 8:30 to 10:00",
+      "sentenceMeaning": "아침식사는 8시 30분부터 10시까지 식당에서 제공됩니다.",
       "unit": 29
     },
     {
       "serial": 709,
       "text": "step",
       "meaning": "한 걸음. 걷다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Be careful not to step in the mud",
+      "sentenceMeaning": "진흙탕에 발을 들여놓지 않도록 조심해라.",
       "unit": 29
     },
     {
       "serial": 710,
       "text": "heat",
       "meaning": "열. 더위. 뜨겁게 하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She always wore a coat, even in the heat of summer",
+      "sentenceMeaning": "그녀는 심지어 여름의 더위에도 항상 코트를 입었다.",
       "unit": 29
     },
     {
       "serial": 711,
       "text": "bone",
       "meaning": "뼈",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The child was so thin that you could see her bones",
+      "sentenceMeaning": "그 아이는 뼈가 보일 정도로 말랐다",
       "unit": 29
     },
     {
       "serial": 712,
       "text": "lamb",
       "meaning": "새끼 양",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We saw a lamb being born",
+      "sentenceMeaning": "우리는 어린 양이 태어나는 것을 보았다.",
       "unit": 29
     },
     {
       "serial": 713,
       "text": "rate",
       "meaning": "비율. 속도. 요금",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The taxi was going at a tremendous rate",
+      "sentenceMeaning": "택시는 엄청난 속도로 달리고 있었다.",
       "unit": 29
     },
     {
       "serial": 714,
       "text": "report",
       "meaning": "보고서. 보고하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Most people walk at an average rate of 5km/h",
+      "sentenceMeaning": "대부분의 사람들은 평균 시속 5km로 걷는다.",
       "unit": 29
     },
     {
       "serial": 715,
       "text": "turtle",
       "meaning": "거북",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The sea turtle is an endangered species",
+      "sentenceMeaning": "바다거북은 멸종위기에 처한 종이다.",
       "unit": 29
     },
     {
       "serial": 716,
       "text": "bay",
       "meaning": "(바다의) 만",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We sailed into a beautiful, secluded bay",
+      "sentenceMeaning": "우리는 아름답고 외딴 만으로 항해했다.",
       "unit": 29
     },
     {
       "serial": 717,
       "text": "holiday",
       "meaning": "휴일. 휴가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Patricia is on holiday next week",
+      "sentenceMeaning": "패트리샤는 다음 주에 휴가입니다.",
       "unit": 29
     },
     {
       "serial": 718,
       "text": "center",
       "meaning": "중심. 중심지",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She stood in the center of the stage",
+      "sentenceMeaning": "그녀는 무대 중앙에 서 있었다.",
       "unit": 29
     },
     {
       "serial": 719,
       "text": "cash",
       "meaning": "현금. 현금으로 바꾸다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Do you have any cash on you?",
+      "sentenceMeaning": "현금이 있습니까?",
       "unit": 29
     },
     {
       "serial": 720,
       "text": "wolf",
       "meaning": "늑대",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We could hear wolves howling in the distance",
+      "sentenceMeaning": "우리는 멀리서 늑대들이 울부짖는 소리를 들을 수 있었다.",
       "unit": 29
     },
     {
       "serial": 721,
       "text": "operator",
       "meaning": "(장비)기사. 교환수",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Dial or press zero for the operator",
+      "sentenceMeaning": "다이얼을 돌리거나 0을 누릅니다.",
       "unit": 29
     },
     {
       "serial": 722,
       "text": "fur",
       "meaning": "털. 모피",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She stroked the rabbit's soft fur",
+      "sentenceMeaning": "그녀는 토끼의 부드러운 털을 쓰다듬었다.",
       "unit": 29
     },
     {
       "serial": 723,
       "text": "shore",
       "meaning": "물가. 해안",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You can walk for miles along the shore",
+      "sentenceMeaning": "당신은 해안을 따라 수 마일을 걸을 수 있습니다.",
       "unit": 29
     },
     {
       "serial": 724,
       "text": "owl",
       "meaning": "올빼미",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The owl is a predatory bird that kills its prey with its claws",
+      "sentenceMeaning": "올빼미는 발톱으로 먹이를 죽이는 포식성 새이다.",
       "unit": 29
     },
     {
       "serial": 725,
       "text": "hunter",
       "meaning": "사냥꾼",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Animals in the cat family are hunters",
+      "sentenceMeaning": "고양이과에 속하는 동물들은 사냥꾼이다.",
       "unit": 29
     },
     {
       "serial": 726,
       "text": "pumpkin",
       "meaning": "호박",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We will all turn into pumpkins",
+      "sentenceMeaning": "우리는 모두 호박으로 변할 것입니다.",
       "unit": 30
     },
     {
       "serial": 727,
       "text": "handshake",
       "meaning": "악수",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He welcomed me with a warm handshake",
+      "sentenceMeaning": "그는 따뜻한 악수로 나를 환영했다.",
       "unit": 30
     },
     {
       "serial": 728,
       "text": "bike",
       "meaning": "자전거",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "My youngest child is learning to ride a bike",
+      "sentenceMeaning": "내 막내아이는 자전거를 배우고 있다.",
       "unit": 30
     },
     {
       "serial": 729,
       "text": "beach",
       "meaning": "해변, 바닷가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We spent the day on the beach",
+      "sentenceMeaning": "우리는 해변에서 하루를 보냈다.",
       "unit": 30
     },
     {
       "serial": 730,
       "text": "God",
       "meaning": "신",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "the ancient Greek gods and goddesses",
+      "sentenceMeaning": "고대 그리스의 신들과 여신들",
       "unit": 30
     },
     {
       "serial": 731,
       "text": "cough",
       "meaning": "기침. 기침을 하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The smoke made me cough",
+      "sentenceMeaning": "연기 때문에 기침을 했다.",
       "unit": 30
     },
     {
       "serial": 732,
       "text": "shell",
       "meaning": "껍질. 조개",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Brazil nuts have very hard shells",
+      "sentenceMeaning": "브라질 견과류는 매우 단단한 껍질을 가지고 있습니다.",
       "unit": 30
     },
     {
       "serial": 733,
       "text": "business",
       "meaning": "사업. 일",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's in the frozen food business",
+      "sentenceMeaning": "그는 냉동식품 사업을 하고 있다.",
       "unit": 30
     },
     {
       "serial": 734,
       "text": "restaurant",
       "meaning": "식당",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Does the hotel have a restaurant?",
+      "sentenceMeaning": "그 호텔에 식당이 있나요?",
       "unit": 30
     },
     {
       "serial": 735,
       "text": "sheep",
       "meaning": "양",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Sheep were grazing in the fields",
+      "sentenceMeaning": "양들이 들판에서 풀을 뜯고 있었다.",
       "unit": 30
     },
     {
       "serial": 736,
       "text": "officer",
       "meaning": "공무원. 장교",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The officer commanded his men to shoot",
+      "sentenceMeaning": "장교는 부하들에게 총을 쏘라고 명령했다.",
       "unit": 30
     },
     {
       "serial": 737,
       "text": "hometown",
       "meaning": "고향",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I always miss my hometown",
+      "sentenceMeaning": "나는 항상 고향이 그립다.",
       "unit": 30
     },
     {
       "serial": 738,
       "text": "coil",
       "meaning": "감긴 것. 둘둘 감다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A coil of rope lay on the beach",
+      "sentenceMeaning": "밧줄 한 가닥이 해변에 놓여 있었다.",
       "unit": 30
     },
     {
       "serial": 739,
       "text": "ceiling",
       "meaning": "천장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I got a cramp in my neck by painting the ceiling",
+      "sentenceMeaning": "나는 천장에 페인트칠을 해서 목에 쥐가 났다.",
       "unit": 30
     },
     {
       "serial": 740,
       "text": "turkey",
       "meaning": "칠면조",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Who’s going to carve the turkey?",
+      "sentenceMeaning": "누가 칠면조를 자를 건가요?",
       "unit": 30
     },
     {
       "serial": 741,
       "text": "towel",
       "meaning": "수건. 타월",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I used a towel to rub the dog down after his bath",
+      "sentenceMeaning": "나는 개를 목욕시킨 후에 수건으로 닦았다.",
       "unit": 30
     },
     {
       "serial": 742,
       "text": "chopstick",
       "meaning": "젓가락",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They use chopsticks to eat rice",
+      "sentenceMeaning": "그들은 밥을 먹기 위해 젓가락을 사용한다.",
       "unit": 30
     },
     {
       "serial": 743,
       "text": "seat",
       "meaning": "앉히다. 앉다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Did I take your seat?",
+      "sentenceMeaning": "제가 당신 자리에 앉았나요?",
       "unit": 30
     },
     {
       "serial": 744,
       "text": "board",
       "meaning": "판자. 승선하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Today's specials are written on the board",
+      "sentenceMeaning": "오늘의 특별 요리는 칠판에 쓰여 있다.",
       "unit": 30
     },
     {
       "serial": 745,
       "text": "goal",
       "meaning": "목표. 골",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Only one goal was scored in the entire match",
+      "sentenceMeaning": "전체 경기에서 단 한 골만이 득점되었다.",
       "unit": 30
     },
     {
       "serial": 746,
       "text": "drugstore",
       "meaning": "약국. 편의점",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I bought some bandages from the drugstore",
+      "sentenceMeaning": "나는 약국에서 붕대를 좀 샀다.",
       "unit": 30
     },
     {
       "serial": 747,
       "text": "rat",
       "meaning": "큰 쥐",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Rats carry disease",
+      "sentenceMeaning": "쥐는 병을 옮긴다.",
       "unit": 30
     },
     {
       "serial": 748,
       "text": "butterfly",
       "meaning": "나비",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "A butterfly alighted gently on the flower",
+      "sentenceMeaning": "나비가 꽃 위에 살며시 내려앉았다",
       "unit": 30
     },
     {
       "serial": 749,
       "text": "flute",
       "meaning": "플루트",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She plays the flute in the school orchestra",
+      "sentenceMeaning": "그녀는 학교 오케스트라에서 플루트를 연주한다.",
       "unit": 30
     },
     {
       "serial": 750,
       "text": "couple",
       "meaning": "한 쌍. 부부",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She'll be retiring in a couple more years",
+      "sentenceMeaning": "그녀는 몇 년만 더 있으면 은퇴할 것이다.",
       "unit": 30
     },
     {
       "serial": 751,
       "text": "beer",
       "meaning": "맥주",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "After a hard day's work I enjoy a beer or two",
+      "sentenceMeaning": "하루 종일 힘들게 일한 후에 나는 맥주를 한두 잔 즐긴다.",
       "unit": 31
     },
     {
       "serial": 752,
       "text": "background",
       "meaning": "배경",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The book's cover has white lettering on a blue background",
+      "sentenceMeaning": "책의 표지는 파란색 바탕에 흰색 글씨로 되어 있다.",
       "unit": 31
     },
     {
       "serial": 753,
       "text": "bottle",
       "meaning": "병",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a bottle of beer",
+      "sentenceMeaning": "맥주 한 병",
       "unit": 31
     },
     {
       "serial": 754,
       "text": "body",
       "meaning": "몸. 신체",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She rubbed suncream over her entire body",
+      "sentenceMeaning": "그녀는 선크림을 온몸에 문질렀다.",
       "unit": 31
     },
     {
       "serial": 755,
       "text": "group",
       "meaning": "집단. 무리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I'm meeting a group of friends for dinner tonight",
+      "sentenceMeaning": "나는 오늘 저녁 식사를 위해 한 무리의 친구들을 만날 것이다.",
       "unit": 31
     },
     {
       "serial": 756,
       "text": "village",
       "meaning": "마을",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The village is campaigning for a by-pass to be built",
+      "sentenceMeaning": "그 마을은 우회도로 건설 운동을 벌이고 있다.",
       "unit": 31
     },
     {
       "serial": 757,
       "text": "beef",
       "meaning": "쇠고기",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The spaghetti sauce is made with ground beef",
+      "sentenceMeaning": "스파게티 소스는 다진 쇠고기로 만들어진다.",
       "unit": 31
     },
     {
       "serial": 758,
       "text": "load",
       "meaning": "짐. 부담. 짐을 싣다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The maximum load for this elevator is eight persons",
+      "sentenceMeaning": "이 엘리베이터의 최대 적재량은 8명입니다.",
       "unit": 31
     },
     {
       "serial": 759,
       "text": "coin",
       "meaning": "동전. 화폐",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He took a coin out of his pocket",
+      "sentenceMeaning": "그는 주머니에서 동전을 꺼냈다.",
       "unit": 31
     },
     {
       "serial": 760,
       "text": "bookstore",
       "meaning": "서점",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The only available copy of this book is in the local bookstore",
+      "sentenceMeaning": "이 책은 동네 서점에서 구할 수 있는 유일한 책이다.",
       "unit": 31
     },
     {
       "serial": 761,
       "text": "label",
       "meaning": "꼬리표. 라벨. 상표",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Washing instructions should be on the label",
+      "sentenceMeaning": "세탁 지침은 라벨에 표시되어야 한다.",
       "unit": 31
     },
     {
       "serial": 762,
       "text": "port",
       "meaning": "항구",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "container port",
+      "sentenceMeaning": "컨테이너 항구",
       "unit": 31
     },
     {
       "serial": 763,
       "text": "sunrise",
       "meaning": "해돋이. 일출",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They went out at sunrise to go bird-watching",
+      "sentenceMeaning": "그들은 해뜰 무렵에 조류 관찰을 하러 나갔다.",
       "unit": 31
     },
     {
       "serial": 764,
       "text": "sunshine",
       "meaning": "햇빛",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The children were out playing in the sunshine",
+      "sentenceMeaning": "아이들은 햇볕을 쬐며 밖에서 놀고 있었다.",
       "unit": 31
     },
     {
       "serial": 765,
       "text": "wedding",
       "meaning": "결혼식. 결혼",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "It was their 25th wedding anniversary last week",
+      "sentenceMeaning": "지난주에는 그들의 25번째 결혼기념일이었습니다.",
       "unit": 31
     },
     {
       "serial": 766,
       "text": "crown",
       "meaning": "왕관",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He plans to defend his Olympic crown",
+      "sentenceMeaning": "그는 올림픽 왕관을 지킬 계획이다.",
       "unit": 31
     },
     {
       "serial": 767,
       "text": "seed",
       "meaning": "씨. 씨를 뿌리다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Sow the seeds about three centimeters deep",
+      "sentenceMeaning": "씨앗을 약 3센티미터 깊이로 뿌린다.",
       "unit": 31
     },
     {
       "serial": 768,
       "text": "coal",
       "meaning": "석탄",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "How much coal was mined here?",
+      "sentenceMeaning": "여기서 석탄이 얼마나 채굴되었습니까?",
       "unit": 31
     },
     {
       "serial": 769,
       "text": "comb",
       "meaning": "빗. 빗질하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Can I borrow your comb?",
+      "sentenceMeaning": "빗 좀 빌릴 수 있을까요?",
       "unit": 31
     },
     {
       "serial": 770,
       "text": "dream",
       "meaning": "꿈",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I had a very strange dream about you last night",
+      "sentenceMeaning": "어젯밤에 당신에 대해 아주 이상한 꿈을 꿨어요.",
       "unit": 31
     },
     {
       "serial": 771,
       "text": "sugar",
       "meaning": "설탕",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I don't take sugar in my coffee, thanks",
+      "sentenceMeaning": "커피에 설탕을 넣지 않아요, 고마워요.",
       "unit": 31
     },
     {
       "serial": 772,
       "text": "mile",
       "meaning": "마일",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The nearest town is ten miles away",
+      "sentenceMeaning": "가장 가까운 도시는 10마일 떨어져 있다.",
       "unit": 31
     },
     {
       "serial": 773,
       "text": "flashlight",
       "meaning": "손전등. (카메라)플래시",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She shone the flashlight into the dark room",
+      "sentenceMeaning": "그녀는 손전등을 어두운 방으로 비췄다.",
       "unit": 31
     },
     {
       "serial": 774,
       "text": "vegetable",
       "meaning": "채소. 야채",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The potato is the most popular vegetable in this country",
+      "sentenceMeaning": "감자는 이 나라에서 가장 인기 있는 채소이다.",
       "unit": 31
     },
     {
       "serial": 775,
       "text": "mouse",
       "meaning": "생쥐",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The mouse looked around the room inquisitively",
+      "sentenceMeaning": "쥐가 방 안을 호기심있게 쳐다봤다.",
       "unit": 31
     },
     {
       "serial": 776,
       "text": "wood",
       "meaning": "나무. (~s)숲",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He gathered some wood to build a fire",
+      "sentenceMeaning": "그는 불을 피우기 위해 나무를 좀 모았다.",
       "unit": 32
     },
     {
       "serial": 777,
       "text": "war",
       "meaning": "전쟁",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They've been at war for the last five years",
+      "sentenceMeaning": "그들은 지난 5년간 전쟁을 해왔다.",
       "unit": 32
     },
     {
       "serial": 778,
       "text": "belt",
       "meaning": "허리띠. 띠",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She fastened her belt tightly around her waist",
+      "sentenceMeaning": "그녀는 허리띠를 졸라맸다",
       "unit": 32
     },
     {
       "serial": 779,
       "text": "tourist",
       "meaning": "관광객. 여행자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Millions of tourists visit Rome every year",
+      "sentenceMeaning": "매년 수백만 명의 관광객들이 로마를 방문한다.",
       "unit": 32
     },
     {
       "serial": 780,
       "text": "airport",
       "meaning": "공항",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "an international airport",
+      "sentenceMeaning": "국제공항",
       "unit": 32
     },
     {
       "serial": 781,
       "text": "passport",
       "meaning": "여권",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Many refugees have arrived at the border without passports",
+      "sentenceMeaning": "많은 난민들이 여권 없이 국경에 도착했다.",
       "unit": 32
     },
     {
       "serial": 782,
       "text": "plate",
       "meaning": "접시",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Stephen ate three plates of spaghetti",
+      "sentenceMeaning": "스티븐은 스파게티 세 접시를 먹었다.",
       "unit": 32
     },
     {
       "serial": 783,
       "text": "stone",
       "meaning": "돌",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a primitive stone ax",
+      "sentenceMeaning": "원시적인 돌도끼",
       "unit": 32
     },
     {
       "serial": 784,
       "text": "downtown",
       "meaning": "도심지. 번화가",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I work downtown, but I live in the suburbs",
+      "sentenceMeaning": "나는 시내에서 일하지만, 교외에 산다.",
       "unit": 32
     },
     {
       "serial": 785,
       "text": "cousin",
       "meaning": "사촌",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He’s a distant cousin of mine",
+      "sentenceMeaning": "그는 나의 먼 사촌이다.",
       "unit": 32
     },
     {
       "serial": 786,
       "text": "tooth",
       "meaning": "이. 치아",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Brush your teeth thoroughly morning and night",
+      "sentenceMeaning": "아침 저녁으로 이를 철저히 닦으세요.",
       "unit": 32
     },
     {
       "serial": 787,
       "text": "potato",
       "meaning": "감자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Could you peel the potatoes for me?",
+      "sentenceMeaning": "감자 껍질을 벗겨 주시겠어요?",
       "unit": 32
     },
     {
       "serial": 788,
       "text": "blanket",
       "meaning": "담요",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She covered him up with a blanket",
+      "sentenceMeaning": "그녀는 그를 담요로 덮었다.",
       "unit": 32
     },
     {
       "serial": 789,
       "text": "attention",
       "meaning": "주의. 주목",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Ladies and gentlemen, could I have your attention, please?",
+      "sentenceMeaning": "신사 숙녀 여러분, 주목해 주시겠습니까?",
       "unit": 32
     },
     {
       "serial": 790,
       "text": "nail",
-      "meaning": "손톱. 발톱",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "meaning": "못. 손톱. 발톱",
+      "sentence": "I got a flat tire after driving over a nail",
+      "sentenceMeaning": "못을 넘어 운전해서 타이어가 펑크났다.",
       "unit": 32
     },
     {
       "serial": 791,
       "text": "letter",
       "meaning": "편지. 문자",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I got a letter from the bank this morning",
+      "sentenceMeaning": "나는 오늘 아침에 은행에서 편지를 받았다.",
       "unit": 32
     },
     {
       "serial": 792,
       "text": "beggar",
       "meaning": "거지",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You've won again, you lucky beggar",
+      "sentenceMeaning": "또 이겼구나, 이 행운의 거지야.",
       "unit": 32
     },
     {
       "serial": 793,
       "text": "bedside",
       "meaning": "침대 곁",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I like to have my phone at my bedside",
+      "sentenceMeaning": "나는 내 전화를 침대옆에 두는 것을 좋아한다.",
       "unit": 32
     },
     {
       "serial": 794,
       "text": "deer",
       "meaning": "사슴",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a herd of deer",
+      "sentenceMeaning": "사슴 떼",
       "unit": 32
     },
     {
       "serial": 795,
       "text": "bill",
       "meaning": "계산서. 지폐",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They asked the waitress for the bill",
+      "sentenceMeaning": "그들은 웨이트리스에게 계산서를 요구했다.",
       "unit": 32
     },
     {
       "serial": 796,
       "text": "doll",
       "meaning": "인형",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She had a doll tucked under her arm",
+      "sentenceMeaning": "그녀는 인형을 겨드랑이에 끼고 있었다",
       "unit": 32
     },
     {
       "serial": 797,
       "text": "pepper",
       "meaning": "후추",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "freshly ground black pepper",
+      "sentenceMeaning": "갓 갈아낸 검은 후추",
       "unit": 32
     },
     {
       "serial": 798,
       "text": "frog",
       "meaning": "개구리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Frogs make a low noise called a croak",
+      "sentenceMeaning": "개구리는 크룩이라고 불리는 낮은 소리를 냅니다.",
       "unit": 32
     },
     {
       "serial": 799,
       "text": "tower",
       "meaning": "탑",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "There's a clock on the church tower",
+      "sentenceMeaning": "교회 탑 위에 시계가 있어요.",
       "unit": 32
     },
     {
       "serial": 800,
       "text": "bridge",
       "meaning": "(이어주는)다리. 가교",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We drove across the bridge",
+      "sentenceMeaning": "우리는 차를 몰고 다리를 건넜다.",
       "unit": 32
     },
     {
       "serial": 801,
       "text": "cloth",
       "meaning": "천. 직물",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Lay the cloth flat across the table",
+      "sentenceMeaning": "식탁을 가로질러 천을 평평하게 놓아라.",
       "unit": 33
     },
     {
       "serial": 802,
       "text": "post",
       "meaning": "우편물. 우체통에 넣다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Has the post arrived yet?",
+      "sentenceMeaning": "우편물이 벌써 도착했나요?",
       "unit": 33
     },
     {
       "serial": 803,
       "text": "snake",
       "meaning": "뱀",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's terrified of being bitten by a snake",
+      "sentenceMeaning": "그는 뱀에 물리는 것을 두려워한다.",
       "unit": 33
     },
     {
       "serial": 804,
       "text": "job",
       "meaning": "직업. 일",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She's applied for a job with an insurance company",
+      "sentenceMeaning": "그녀는 보험 회사에 지원했다.",
       "unit": 33
     },
     {
       "serial": 805,
       "text": "town",
       "meaning": "읍. 도시",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We stayed in the best hotel in town",
+      "sentenceMeaning": "우리는 시내에서 가장 좋은 호텔에 묵었다.",
       "unit": 33
     },
     {
       "serial": 806,
       "text": "fun",
       "meaning": "재미. 즐거움. 재미있는",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We had great fun at the beach",
+      "sentenceMeaning": "우리는 해변에서 아주 재미있게 놀았다.",
       "unit": 33
     },
     {
       "serial": 807,
       "text": "bathroom",
       "meaning": "욕실",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Where's the bathroom?",
+      "sentenceMeaning": "화장실이 어디죠?",
       "unit": 33
     },
     {
       "serial": 808,
       "text": "tail",
       "meaning": "꼬리",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The dog wagged its tail excitedly",
+      "sentenceMeaning": "개가 흥분해서 꼬리를 흔들었다.",
       "unit": 33
     },
     {
       "serial": 809,
       "text": "mayor",
       "meaning": "(시. 군 등의) 시장",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They were flattered to be invited to dinner by the mayor",
+      "sentenceMeaning": "그들은 시장으로부터 저녁 식사에 초대받아서 기뻐했다.",
       "unit": 33
     },
     {
       "serial": 810,
       "text": "piece",
       "meaning": "조각",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He cut the cake into six pieces",
+      "sentenceMeaning": "그는 케이크를 여섯 조각으로 잘랐다.",
       "unit": 33
     },
     {
       "serial": 811,
       "text": "fruit",
       "meaning": "과일",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Would you like some fruit for dessert?",
+      "sentenceMeaning": "후식으로 과일을 드시겠습니까?",
       "unit": 33
     },
     {
       "serial": 812,
       "text": "British",
       "meaning": "영국의. 영국인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He's got a British passport",
+      "sentenceMeaning": "그는 영국 여권을 가지고 있다.",
       "unit": 33
     },
     {
       "serial": 813,
       "text": "French",
       "meaning": "프랑스의. 프랑스인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We used to spend our holidays in a small French town",
+      "sentenceMeaning": "우리는 작은 프랑스 마을에서 휴가를 보내곤 했다.",
       "unit": 33
     },
     {
       "serial": 814,
       "text": "German",
       "meaning": "독일의. 독일인",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "We have a group of Germans staying at the hotel",
+      "sentenceMeaning": "우리는 호텔에 독일인 일행이 묵고 있다.",
       "unit": 33
     },
     {
       "serial": 815,
       "text": "sale",
       "meaning": "판매. 염가 판매",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The sale of alcohol is forbidden",
+      "sentenceMeaning": "술 판매는 금지되어 있다.",
       "unit": 33
     },
     {
       "serial": 816,
       "text": "rope",
       "meaning": "밧줄",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "The rope broke and she fell 50 metres onto the rocks",
+      "sentenceMeaning": "밧줄[로프]이 끊어져 그녀는 50미터 아래 바위 위로 추락했다.",
       "unit": 33
     },
     {
       "serial": 817,
       "text": "umbrella",
       "meaning": "우산",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "I left my umbrella on the bus yesterday",
+      "sentenceMeaning": "어제 버스에 우산을 두고 내렸어요.",
       "unit": 33
     },
     {
       "serial": 818,
       "text": "dollar",
       "meaning": "달러",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "You will be paid in American dollars",
+      "sentenceMeaning": "당신 급여는 미국 달러로 지불될 겁니다",
       "unit": 33
     },
     {
       "serial": 819,
       "text": "mistake",
       "meaning": "잘못. 착각",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "Why am I under arrest There must be some mistake",
+      "sentenceMeaning": "왜 내가 체포됐지? 뭔가 착오가 있는 게 틀림없어요.",
       "unit": 33
     },
     {
       "serial": 820,
       "text": "birth",
       "meaning": "출생",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He weighed eight pounds at birth",
+      "sentenceMeaning": "그는 태어났을 때 몸무게가 8파운드였다.",
       "unit": 33
     },
     {
       "serial": 821,
       "text": "pilot",
       "meaning": "조종사. 안내인. 안내하다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "a fighter pilot",
+      "sentenceMeaning": "전투기 조종사",
       "unit": 33
     },
     {
       "serial": 822,
       "text": "none",
       "meaning": "아무것도~않다. 결코~않다",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "None of my children have blonde hair",
+      "sentenceMeaning": "내 아이들 중 금발인 아이는 아무도 없다.",
       "unit": 33
     },
     {
       "serial": 823,
       "text": "front",
       "meaning": "앞부분. 정면",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "He spilled soup on the front of his shirt",
+      "sentenceMeaning": "그는 수프를 셔츠 앞자락에 쏟았다.",
       "unit": 33
     },
     {
       "serial": 824,
       "text": "present",
       "meaning": "현재. 선물. 출석한",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "They gave me theater tickets as a present",
+      "sentenceMeaning": "그들은 나에게 극장표를 선물로 주었다.",
       "unit": 33
     },
     {
       "serial": 825,
       "text": "nickname",
       "meaning": "별명",
-      "sentence": "",
-      "sentenceMeaning": "",
+      "sentence": "She was nicknamed ‘The Ice Queen’",
+      "sentenceMeaning": "그녀는 '얼음의 여왕'이라는 별명을 얻었다.",
       "unit": 33
     },
     {
@@ -6685,7 +6685,7 @@
       "serial": 836,
       "text": "watch",
       "meaning": "보다. 시청하다. 손목시계",
-      "sentence": "They watch TV every day.",
+      "sentence": "They watch TV every day",
       "sentenceMeaning": "그들은 매일 TV를 본다.",
       "unit": 34
     },
@@ -7381,7 +7381,7 @@
       "serial": 923,
       "text": "early",
       "meaning": "일찍. 이른",
-      "sentence": "She went to school early in the morning",
+      "sentence": "She went to school in the early morning",
       "sentenceMeaning": "그녀는 이른 아침에 학교에 갔다.",
       "unit": 37
     },
@@ -8613,7 +8613,7 @@
       "serial": 1077,
       "text": "bright",
       "meaning": "밝은 영리한",
-      "sentence": "The?rooms?were bright and?airy.",
+      "sentence": "The rooms were bright and airy.",
       "sentenceMeaning": "그 방들은 밝고 통풍이 잘되었다.",
       "unit": 44
     },
