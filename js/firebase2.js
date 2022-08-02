@@ -46,12 +46,8 @@ function resetData(){
   displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   // displayItems(items);
 //-----------firesbase에도 같은 조건문 있음.(시작할 때 판단용)
-  if (scoreValue >= 70000){
+  if (scoreValue >= 50000){
     quizType = "speaking"
-  } else if (scoreValue >= 65000){
-    quizType = "matching"
-  }else if (scoreValue >= 50000){
-    quizType = "speaking";
   } else if (scoreValue >= 45000){
     quizType = "matching";
   } else if (scoreValue >= 30000){
@@ -169,6 +165,7 @@ speakList.addEventListener('click',(e)=>{
     elem.style.opacity = "0";
     elem.classList.remove("onList");
     arrayLengthLeft -= 1;
+    wordLeft.textContent = arrayLengthLeft;
     // undo배열에 내가 몇번째 영어 단어를 선택했는지 기록.
     // undo 누를 때마다 하나씩 복원
     undo.push(engRandomArray.indexOf(text));
@@ -326,8 +323,10 @@ function afterClearQuiz(){
 
 //speak 퀴즈에서 정답을 맞혔을 때 사용    
 function checkAnswerYes(){
-       //정답이면 200점씩 증가.
-      scoreAdd(200); 
+  //7만점 미만일 때 정답이면 200점씩 증가.
+  //7만점 이상일 때 정답이면 250점씩 증가.
+  let add = (scoreValue < 70000) ? 200 : 250;
+      scoreAdd(add); 
       // answer.style.color = '#98d0d0';
       setTimeout(()=>{
         comboBox.classList.remove('combo-boxOn');

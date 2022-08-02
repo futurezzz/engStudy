@@ -63,29 +63,26 @@ subUnitList.addEventListener('click',(e)=>{
   setTimeout(() => {
     scoreValue = scoreValue ?? 0; //scoreValue가 null or undefined 이면 0을 사용하라
     elem.innerHTML = `${chapter} ${elem.dataset.unit} <br/> ${scoreValue}`;
-  }, 500);
+    if (scoreValue >= 50000){
+      quizType = "speaking"
+    } else if (scoreValue >= 45000){
+      quizType = "matching";
+    } else if (scoreValue >= 30000){
+      quizType = "speaking"
+    } else if (scoreValue >= 25000){
+      quizType = "matching";
+    } else if (scoreValue >= 6000){
+      quizType = "speaking"
+    } else {
+      quizType = "matching"
+    }
+    // quizType = scoreValue <=60000 ? "matching" : "speaking";
+    // url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
+    // console.log(elem, quizType);
+    SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
+  }, 300);
   
-  if (scoreValue >= 70000){
-    quizType = "speaking"
-  } else if (scoreValue >= 65000){
-    quizType = "matching"
-  }else if (scoreValue >= 50000){
-    quizType = "speaking";
-  } else if (scoreValue >= 45000){
-    quizType = "matching";
-  } else if (scoreValue >= 30000){
-    quizType = "speaking"
-  } else if (scoreValue >= 25000){
-    quizType = "matching";
-  } else if (scoreValue >= 6000){
-    quizType = "speaking"
-  } else {
-    quizType = "matching"
-  }
-  // quizType = scoreValue <=60000 ? "matching" : "speaking";
-  // url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
-  // console.log(elem, quizType);
-  SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
+
 })
 
 signIn.addEventListener('click',()=>{

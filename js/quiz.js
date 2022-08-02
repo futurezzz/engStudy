@@ -11,7 +11,8 @@ const bottom = document.querySelector('.bottom');
 const back = document.querySelector('.back');
 const check = document.querySelector('.check');
 const checkGrammer = document.querySelector('.check-grammer');
-let quizLeft = document.querySelector('.quiz-left'); //짝맞추기 문제를 풀지. speak문제를 풀지 선택
+let quizLeft = document.querySelector('.quiz-left'); 
+let wordLeft = document.querySelector('.word-left'); 
 let numOfQuiz = 10;
 const reset = document.querySelector('.reset');
 const score = document.querySelector('.score');
@@ -29,13 +30,17 @@ let removeSpecialCha = /[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\’\'\(\"]/gi  
 let today = new Date();
 let thisMonth = `${today.getFullYear()}/${today.getMonth()+1}`;
 let arrayLength;
+let noOfRepeat; //speak문제에서 문장 두개 섞어서 단어 배열할 때 사용
 let arrayLengthLeft;
 let chapter; //전역정보로 어떤 단원의 단어를 풀지 선택
 let quizType; //짝맞추기 문제를 풀지. speak문제를 풀지 선택
 const array = [];
 const undo = [];
 let itemArray = []; //해당 unit에 속하는 모든 문제들 담기
-let engArray = []; //해당 unit에 속하는 모든 문제들 담기
+let engArray = []; //speak퀴즈 낼 때, 한 문장에 있는 단어들을 분해해서 넣는 공간
+let engArray2 = []; //speak퀴즈 낼 때, 다음 문장까지 단어를 섞어 낼 때 사용
+let engArray3 = []; //speak퀴즈 낼 때, 다다음 문장까지 단어를 섞어 낼 때 사용
+let engArrayAll = []; //speak퀴즈 낼 때, 섞을 모든 문장의 단어 합칠 때 사용
 let engRandomArray = []; //해당 unit에 속하는 모든 문제들 담기
 const randomNum = []; //문제 10개 랜덤추출
 const randomDisplay = [];  // 추출한 문제와 뜻 총 20개 객체를 랜덤으로 화면에 표시
@@ -215,17 +220,35 @@ function displaySpeakWords(){
   const li1 = document.createElement('li')
   // li1.textContent = word[randomNum[matchedNo]].sentenceMeaning ? word[randomNum[matchedNo]].sentenceMeaning : word[randomNum[matchedNo]].meaning; 
   li1.textContent = word[matchedNo].sentenceMeaning ? word[matchedNo].sentenceMeaning : word[matchedNo].meaning; 
-  //json data에 담겨있는 단어글자를 li에 표시 (sentenceMeaning이 있으면 그걸 우선 쓰라)
+  //json data에 담겨있는 단어의미(또는 문장의미)를 li에 표시 (sentenceMeaning이 있으면 그걸 우선 쓰라)
   li1.classList.add('kor');
   kor.append(li1);
 
   // engArray = word[randomNum[matchedNo]].sentence ? word[randomNum[matchedNo]].sentence.split(' ') : word[randomNum[matchedNo]].text.split(' ');
   engArray = word[matchedNo].sentence ? word[matchedNo].sentence.split(' ') : word[matchedNo].text.split(' ');
-  arrayLength = engArray.length;
+  noOfRepeat = engArray.length; // randomSpeakArray 에서 섞을 단어의 개수. (고정되어야 해서 noOfRepaet에 할당하는 것임)
+  
   arrayLengthLeft = engArray.length; //단어를 선택할 때마다 하나씩 차감할 예정
+  
+  // ---------난이도 상승! -------------------------------------------------------
+  // scoreValue가 7만점을 넘으면 두 문장을 합쳐서 단어들 섞기
+  if(scoreValue >= 70000) {
+  let nextNo = matchedNo !== numOfQuiz-1 ? matchedNo+1 : 0; //두번째 문장에 쓰일 번호. 마지막 순번이면 다음 문장은 첫번째 문장
+  engArray2 = word[nextNo].sentence ? word[nextNo].sentence.split(' ') : word[nextNo].text.split(' ');
+  // engArray3 = word[nextNo+1].sentence ? word[nextNo+1].sentence.split(' ') : word[nextNo+1].text.split(' ');
+  engArrayAll = [...engArray,...engArray2]
+  // engArrayAll.length는 splice하면서 숫자가 계속 줄어들기 때문에 고정값으로 noOfRepeat에 할당해 줌.
+} else { 
+  // 점수가 7만점보다 작으면 한문장에서만 단어들 섞기
+  engArrayAll = [...engArray]
+}
+
+  noOfRepeat = engArrayAll.length; // randomSpeakArray 에서 섞을 단어의 개수.
+  wordLeft.textContent = arrayLengthLeft;
   randomSpeakArray();
-  for ( let i=0; i<arrayLength; i++){
+  for ( let i=0; i<noOfRepeat; i++){
     const li2 = document.createElement('li')
+    // engRandomArray는 단어를 섞은 배열
     li2.textContent = engRandomArray[i];
     li2.classList.add('eng')
     li2.classList.add('onList')
@@ -273,23 +296,26 @@ function resetSpeech(){
 
 function randomSpeakArray(){
   engRandomArray.length = 0; //random배열 초기화
-  array.length = 0;
-  for (let i = 0; i<arrayLength; i++){
-    array.push(i);
-  }
-  for (let j=0; j<arrayLength; j++){
-    let n = Math.floor(Math.random()*engArray.length);
+
+  // array.length = 0; 
+  // for (let i = 0; i<engArrayAll.length; i++){
+  //   array.push(i);
+  // }
+  // for (let j=0; j<arrayLength; j++){
+  for (let j=0; j<noOfRepeat; j++){
+    // let n = Math.floor(Math.random()*engArray.length);
+    let n = Math.floor(Math.random()*engArrayAll.length);
 
     // 인덱스 번호에 있는 값을 빼서 num 에 넣기
-    num = engArray.splice(n,1);
-
+    // num = engArray.splice(n,1);
+    num = engArrayAll.splice(n,1);
     // console.log(num)
     // 빼내온 num을 randomNum에 차례로 배열로 집어넣기
     // 여기서 빼온 num도 배열이기 때문에 []을 써서 값만 꺼내옴
     engRandomArray.push(num[0]);
   }
-
 }
+
 function randomArray(){
   randomNum.length = 0; //random배열 초기화
   array.length = 0;
