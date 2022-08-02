@@ -142,6 +142,11 @@
   opacity: 1;
 }
 
+.word-left {
+  color: #ccc;
+  line-height: 35px;
+}
+
 .words-list {
   display: grid;
   grid-template-columns: repeat(2,1fr);
