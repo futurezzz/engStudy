@@ -227,7 +227,7 @@ function displaySpeakWords(){
   // engArray = word[randomNum[matchedNo]].sentence ? word[randomNum[matchedNo]].sentence.split(' ') : word[randomNum[matchedNo]].text.split(' ');
   engArray = word[matchedNo].sentence ? word[matchedNo].sentence.split(' ') : word[matchedNo].text.split(' ');
   noOfRepeat = engArray.length; // randomSpeakArray 에서 섞을 단어의 개수. (고정되어야 해서 noOfRepaet에 할당하는 것임)
-  
+  arrayLength = engArray.length; //reset(clear)버튼을 누르면 초기화 값으로 넣어야할 고정값
   arrayLengthLeft = engArray.length; //단어를 선택할 때마다 하나씩 차감할 예정
   
   // ---------난이도 상승! -------------------------------------------------------
@@ -273,6 +273,7 @@ back.addEventListener('click',()=>{
     lis[undoNo].classList.add("onList");
     answer.textContent = answer.textContent.substring(0,textLength-undoLength-1);
     arrayLengthLeft += 1;
+    wordLeft.textContent = arrayLengthLeft;
     // console.log(undoLength)
     // console.log(answer.textContent.length)
   }
@@ -288,6 +289,7 @@ reset.addEventListener('click',()=>{
     li.classList.add('onList');
   })
   arrayLengthLeft = arrayLength;
+  wordLeft.textContent = arrayLengthLeft;
 })
 
 function resetSpeech(){
