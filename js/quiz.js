@@ -244,7 +244,7 @@ function displaySpeakWords(){
 }
 
   noOfRepeat = engArrayAll.length; // randomSpeakArray 에서 섞을 단어의 개수.
-  wordLeft.textContent = arrayLengthLeft;
+  wordLeft.textContent = `${arrayLengthLeft}`;
   randomSpeakArray();
   for ( let i=0; i<noOfRepeat; i++){
     const li2 = document.createElement('li')
