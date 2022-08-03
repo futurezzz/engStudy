@@ -176,7 +176,7 @@ speakList.addEventListener('click',(e)=>{
     //나열된 영어 단어를 문장으로 다 만들면 맞았나 틀렸나 확인
     if (arrayLengthLeft === 0){ 
        //정답이면
-      if (answer.textContent === (word[matchedNo].sentence ? word[matchedNo].sentence : word[matchedNo].text)){
+      if (answer.textContent.toLowerCase() === (word[matchedNo].sentence ? word[matchedNo].sentence.toLowerCase() : word[matchedNo].text.toLowerCase())){
         checkAnswerYes();
     }
 
