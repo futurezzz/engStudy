@@ -1,0 +1,4805 @@
+{
+  "items":
+  [
+    {
+      "serial": 1,
+      "text": "gather",
+      "meaning": "(동) 모으다, (자료·정보)를 모으다, 얻다",
+      "sentence": "gather up her courage",
+      "sentenceMeaning": "그녀의 용기를 모으다",
+      "unit": 1
+    },
+    {
+      "serial": 2,
+      "text": "material",
+      "meaning": "(형) 물질",
+      "sentence": "proper building materials",
+      "sentenceMeaning": "적절한 건축 자재",
+      "unit": 1
+    },
+    {
+      "serial": 3,
+      "text": "prescription",
+      "meaning": "(명) 처방, 처방전",
+      "sentence": "write a prescription",
+      "sentenceMeaning": "처방전을 쓰다",
+      "unit": 1
+    },
+    {
+      "serial": 4,
+      "text": "assign",
+      "meaning": "(동) 할당하다",
+      "sentence": "be assigned a personal adviser",
+      "sentenceMeaning": "개인 강사를 할당받다",
+      "unit": 1
+    },
+    {
+      "serial": 5,
+      "text": "skip",
+      "meaning": "(동) (일을) 거르다, 건너뛰다",
+      "sentence": "make him skip the day",
+      "sentenceMeaning": "그가 그 날을 거르게 하다",
+      "unit": 1
+    },
+    {
+      "serial": 6,
+      "text": "loneliness",
+      "meaning": "(명) 외로움",
+      "sentence": "feelings of longing and loneliness",
+      "sentenceMeaning": "그리움과 외로움",
+      "unit": 1
+    },
+    {
+      "serial": 7,
+      "text": "knowledgeable ",
+      "meaning": "(형) 지식이 있는",
+      "sentence": "knowledgeable people",
+      "sentenceMeaning": "지식이 있는 사람들",
+      "unit": 1
+    },
+    {
+      "serial": 8,
+      "text": "fundamental",
+      "meaning": "(형) 근본적인",
+      "sentence": "fundamental nature of causality",
+      "sentenceMeaning": "근본적인 인과 관계의 특징",
+      "unit": 1
+    },
+    {
+      "serial": 9,
+      "text": "force",
+      "meaning": "(명) 힘, 세력",
+      "sentence": "opposing forces",
+      "sentenceMeaning": "대립하는 힘",
+      "unit": 1
+    },
+    {
+      "serial": 10,
+      "text": "up to~",
+      "meaning": "~에 달려있는, ~까지",
+      "sentence": "the choice is up to you",
+      "sentenceMeaning": "선택은 당신에게 달려 있다",
+      "unit": 1
+    },
+    {
+      "serial": 11,
+      "text": "regular",
+      "meaning": "(형) 정규의, 정식의",
+      "sentence": "their regular jobs",
+      "sentenceMeaning": "그들의 정규적인 직업",
+      "unit": 1
+    },
+    {
+      "serial": 12,
+      "text": "attract",
+      "meaning": "(동) 끌어당기다",
+      "sentence": "attract insects",
+      "sentenceMeaning": "곤충을 유인하다",
+      "unit": 1
+    },
+    {
+      "serial": 13,
+      "text": "irrelevant",
+      "meaning": "(형) 부적절한, 무관계한",
+      "sentence": "irrelevant data",
+      "sentenceMeaning": "관련 없는 자료",
+      "unit": 1
+    },
+    {
+      "serial": 14,
+      "text": "include",
+      "meaning": "(동) 포함하다",
+      "sentence": "include smell, touch, and hearing",
+      "sentenceMeaning": "후각, 촉각, 청각을 포함하다",
+      "unit": 1
+    },
+    {
+      "serial": 15,
+      "text": "firm",
+      "meaning": "(형) 굳은, 변치 않는, (명) 회사",
+      "sentence": "firm determination",
+      "sentenceMeaning": "확고한 결심",
+      "unit": 1
+    },
+    {
+      "serial": 16,
+      "text": "ecological",
+      "meaning": "(형) 생태학의",
+      "sentence": "ecological diversity",
+      "sentenceMeaning": "생태학적 다양성",
+      "unit": 1
+    },
+    {
+      "serial": 17,
+      "text": "solution",
+      "meaning": "(명) 용해, 해결",
+      "sentence": "a very simple solution",
+      "sentenceMeaning": "매우 간단한 해결책",
+      "unit": 1
+    },
+    {
+      "serial": 18,
+      "text": "still",
+      "meaning": "(형) 정지한, 조용한, 잔잔한 (부) 여전히, 아직도",
+      "sentence": "still waters",
+      "sentenceMeaning": "잔잔한 물들",
+      "unit": 1
+    },
+    {
+      "serial": 19,
+      "text": "responsibility",
+      "meaning": "(명) 책임, 의무",
+      "sentence": "take responsibility",
+      "sentenceMeaning": "책임지다",
+      "unit": 1
+    },
+    {
+      "serial": 20,
+      "text": "comprehension",
+      "meaning": "(명) 이해",
+      "sentence": "factual comprehension",
+      "sentenceMeaning": "사실 이해",
+      "unit": 1
+    },
+    {
+      "serial": 21,
+      "text": "reconciliation",
+      "meaning": "(명) 조정, 화해",
+      "sentence": "a spirit of reconciliation",
+      "sentenceMeaning": "화해 정신",
+      "unit": 1
+    },
+    {
+      "serial": 22,
+      "text": "resume",
+      "meaning": "(동) 다시 시작하다",
+      "sentence": "resume delivery",
+      "sentenceMeaning": "배달을 다시 시작하다",
+      "unit": 1
+    },
+    {
+      "serial": 23,
+      "text": "assemble",
+      "meaning": "(동) 모으다, 집합시키다",
+      "sentence": "assemble groups of students",
+      "sentenceMeaning": "학생 무리들을 모으다",
+      "unit": 1
+    },
+    {
+      "serial": 24,
+      "text": "abundance",
+      "meaning": "(명) 풍부, 많음",
+      "sentence": "an abundance of resources",
+      "sentenceMeaning": "자원의 풍부함",
+      "unit": 1
+    },
+    {
+      "serial": 25,
+      "text": "compensate",
+      "meaning": "(동) 보상하다",
+      "sentence": "compensate for this rather obvious defect",
+      "sentenceMeaning": "이러한 오히려 명백한 결점을 보상하다",
+      "unit": 1
+    },
+    {
+      "serial": 26,
+      "text": "suburb",
+      "meaning": "(명) 교외, 근교, (the ~s) 도시 주변의 지역",
+      "sentence": "an block of homes in the suburbs",
+      "sentenceMeaning": "교외 부근 집들의 블록",
+      "unit": 1
+    },
+    {
+      "serial": 27,
+      "text": "pierce",
+      "meaning": "(동) 꿰뚫다, 관통하다",
+      "sentence": "pierce their membranes",
+      "sentenceMeaning": "그것들의 세포막을 뚫다",
+      "unit": 1
+    },
+    {
+      "serial": 28,
+      "text": "anatomy",
+      "meaning": "(명) 해부학, 해부",
+      "sentence": "the anatomy of a frog",
+      "sentenceMeaning": "개구리의 해부",
+      "unit": 1
+    },
+    {
+      "serial": 29,
+      "text": "sabotage",
+      "meaning": "(동) 고의로 방해하다",
+      "sentence": "sabotage academic performance",
+      "sentenceMeaning": "학업을 방해하다",
+      "unit": 1
+    },
+    {
+      "serial": 30,
+      "text": "ambiguity",
+      "meaning": "(명) 모호성",
+      "sentence": "without any distortion or ambiguity",
+      "sentenceMeaning": "어떤 왜곡 또는 모호성 없이",
+      "unit": 2
+    },
+    {
+      "serial": 31,
+      "text": "population",
+      "meaning": "(명) 인구, 주민",
+      "sentence": "the local human population",
+      "sentenceMeaning": "지역의 인구",
+      "unit": 2
+    },
+    {
+      "serial": 32,
+      "text": "probability",
+      "meaning": "(명) 있음직함, 확률",
+      "sentence": "a high probability of selling",
+      "sentenceMeaning": "팔릴 가능성이 아주 높음",
+      "unit": 2
+    },
+    {
+      "serial": 33,
+      "text": "descent",
+      "meaning": "(명) 하강, 가계, 혈통, 출신",
+      "sentence": "East African descent",
+      "sentenceMeaning": "동아프리카계 혈통",
+      "unit": 2
+    },
+    {
+      "serial": 34,
+      "text": "contend",
+      "meaning": "(동) 논쟁하다, 주장하다",
+      "sentence": "contend with differences",
+      "sentenceMeaning": "차이점에 대해 논쟁하다",
+      "unit": 2
+    },
+    {
+      "serial": 35,
+      "text": "insightful",
+      "meaning": "(형) 통찰력이 있는",
+      "sentence": "receive insightful suggestions",
+      "sentenceMeaning": "통찰력 있는 조언을 얻다",
+      "unit": 2
+    },
+    {
+      "serial": 36,
+      "text": "entail",
+      "meaning": "(동) 일으키다, 수반하다",
+      "sentence": "what perception entails",
+      "sentenceMeaning": "인식이 수반하는 것",
+      "unit": 2
+    },
+    {
+      "serial": 37,
+      "text": "involve",
+      "meaning": "(동) 포함하다",
+      "sentence": "involve interpretation",
+      "sentenceMeaning": "해석을 포함하다",
+      "unit": 2
+    },
+    {
+      "serial": 38,
+      "text": "manipulation",
+      "meaning": "(명) 조작, 속임",
+      "sentence": "carry out a successful manipulation",
+      "sentenceMeaning": "성공적으로 속임수를 걸다",
+      "unit": 2
+    },
+    {
+      "serial": 39,
+      "text": "heritage",
+      "meaning": "(명) 상속 재산, 유산",
+      "sentence": "the heritage of his culture",
+      "sentenceMeaning": "그의 문화의 유산",
+      "unit": 2
+    },
+    {
+      "serial": 40,
+      "text": "intent",
+      "meaning": "(명) 의향, 목적, 의도",
+      "sentence": "artist's original intent",
+      "sentenceMeaning": "예술가의 원래 의도",
+      "unit": 2
+    },
+    {
+      "serial": 41,
+      "text": "tragedy",
+      "meaning": "(명) 비극(적인 사건)",
+      "sentence": "after this tragedy",
+      "sentenceMeaning": "이러한 비극이 있고 난 후",
+      "unit": 2
+    },
+    {
+      "serial": 42,
+      "text": "strict",
+      "meaning": "(형) 엄격한, 엄한",
+      "sentence": "strict limit",
+      "sentenceMeaning": "엄격한 제한",
+      "unit": 2
+    },
+    {
+      "serial": 43,
+      "text": "severe",
+      "meaning": "(형) 심각한, 엄한",
+      "sentence": "a severe disease",
+      "sentenceMeaning": "심각한 질병",
+      "unit": 2
+    },
+    {
+      "serial": 44,
+      "text": "therapy",
+      "meaning": "(명) 치료",
+      "sentence": "musical therapy",
+      "sentenceMeaning": "음악 치료",
+      "unit": 2
+    },
+    {
+      "serial": 45,
+      "text": "racial",
+      "meaning": "(형) 인종의, 민족의",
+      "sentence": "racial group",
+      "sentenceMeaning": "인종적 집단",
+      "unit": 2
+    },
+    {
+      "serial": 46,
+      "text": "typical",
+      "meaning": "(형) 전형적인",
+      "sentence": "a typical role for young men",
+      "sentenceMeaning": "젊은이들의 전형적인 역할",
+      "unit": 2
+    },
+    {
+      "serial": 47,
+      "text": "cue",
+      "meaning": "(명) 신호, 단서",
+      "sentence": "use an external cue",
+      "sentenceMeaning": "외부의 신호를 사용하다",
+      "unit": 2
+    },
+    {
+      "serial": 48,
+      "text": "specific",
+      "meaning": "(형) 구체적인, 특정한",
+      "sentence": "have specific rules",
+      "sentenceMeaning": "구체적인 규칙들을 가지다",
+      "unit": 2
+    },
+    {
+      "serial": 49,
+      "text": "immediate",
+      "meaning": "(형) 즉시의, 당면한",
+      "sentence": "his immediate problem",
+      "sentenceMeaning": "그가 당면한 문제",
+      "unit": 2
+    },
+    {
+      "serial": 50,
+      "text": "neglect",
+      "meaning": "(동) 방치하다, 소홀히 하다",
+      "sentence": "neglect his duties",
+      "sentenceMeaning": "그의 의무를 소홀히 하다",
+      "unit": 2
+    },
+    {
+      "serial": 51,
+      "text": "character",
+      "meaning": "(명) 특성, 인격, 성격",
+      "sentence": "a man of sound character",
+      "sentenceMeaning": "건전한 성격을 가진 남자",
+      "unit": 2
+    },
+    {
+      "serial": 52,
+      "text": "boredom",
+      "meaning": "(명) 권태, 지루함",
+      "sentence": "the boredom of long trips",
+      "sentenceMeaning": "긴 항해의 지루함",
+      "unit": 2
+    },
+    {
+      "serial": 53,
+      "text": "vertical",
+      "meaning": "(형) 수직의",
+      "sentence": "vertical line",
+      "sentenceMeaning": "수직선",
+      "unit": 2
+    },
+    {
+      "serial": 54,
+      "text": "rough",
+      "meaning": "(형) 거친",
+      "sentence": "travel through rough seas",
+      "sentenceMeaning": "거친 바다를 항해하다",
+      "unit": 2
+    },
+    {
+      "serial": 55,
+      "text": "path",
+      "meaning": "(명) 길, 진로",
+      "sentence": "children's career path",
+      "sentenceMeaning": "아이들의 진로",
+      "unit": 2
+    },
+    {
+      "serial": 56,
+      "text": "numerous",
+      "meaning": "(형) 수많은",
+      "sentence": "numerous colorful butterflies",
+      "sentenceMeaning": "수많은 화려한 나비들",
+      "unit": 2
+    },
+    {
+      "serial": 57,
+      "text": "steep",
+      "meaning": "(형) 가파른, 깎아지른 듯한",
+      "sentence": "the slope is too steep",
+      "sentenceMeaning": "경사면이 너무 가파르다",
+      "unit": 2
+    },
+    {
+      "serial": 58,
+      "text": "limit",
+      "meaning": "(명) 한계(선), 한도",
+      "sentence": "a speed limit",
+      "sentenceMeaning": "속도제한",
+      "unit": 2
+    },
+    {
+      "serial": 59,
+      "text": "humid",
+      "meaning": "(형) 습기 있는",
+      "sentence": "humid environment",
+      "sentenceMeaning": "습기 찬 환경",
+      "unit": 2
+    },
+    {
+      "serial": 60,
+      "text": "distinguish",
+      "meaning": "(동) 구별하다",
+      "sentence": "observe and distinguish these changes",
+      "sentenceMeaning": "이 변화들을 관찰하고 구별하다",
+      "unit": 3
+    },
+    {
+      "serial": 61,
+      "text": "metaphor",
+      "meaning": "(명) 은유",
+      "sentence": "rhetorical vagueness and metaphor",
+      "sentenceMeaning": "화려하면서 애매모호한 표현과 은유적 표현",
+      "unit": 3
+    },
+    {
+      "serial": 62,
+      "text": "fatality",
+      "meaning": "(명) 불운, 재난, 사망자(수)",
+      "sentence": "road accident fatalities",
+      "sentenceMeaning": "도로상의 사고로 인한 사망자 수",
+      "unit": 3
+    },
+    {
+      "serial": 63,
+      "text": "integrated",
+      "meaning": "(형) 통합된",
+      "sentence": "the integrated and interactive media",
+      "sentenceMeaning": "통합적이고 쌍방향의 매체",
+      "unit": 3
+    },
+    {
+      "serial": 64,
+      "text": "competence",
+      "meaning": "(명) 적성, 능력",
+      "sentence": "key social competence",
+      "sentenceMeaning": "중요한 사교 능력",
+      "unit": 3
+    },
+    {
+      "serial": 65,
+      "text": "incorporate",
+      "meaning": "(동) 통합하다, 포함하다",
+      "sentence": "incorporate their ideas",
+      "sentenceMeaning": "그들의 아이디어들을 통합하다",
+      "unit": 3
+    },
+    {
+      "serial": 66,
+      "text": "verdict",
+      "meaning": "(명) (배심원의) 평결, 결정",
+      "sentence": "generate its verdict automatically",
+      "sentenceMeaning": "무의식적으로 결정을 내리다",
+      "unit": 3
+    },
+    {
+      "serial": 67,
+      "text": "pledge",
+      "meaning": "(명) 서약, 언질",
+      "sentence": "pledges of money",
+      "sentenceMeaning": "돈을 기부하는 서약",
+      "unit": 3
+    },
+    {
+      "serial": 68,
+      "text": "resent",
+      "meaning": "(동) 분개하다",
+      "sentence": "resent constant interruptions",
+      "sentenceMeaning": "자꾸 방해받는 것에 분개하다",
+      "unit": 3
+    },
+    {
+      "serial": 69,
+      "text": "existence",
+      "meaning": "(명) 존재, 실재",
+      "sentence": "the continued existence of normal life",
+      "sentenceMeaning": "정상적인 생활의 지속적 존재",
+      "unit": 3
+    },
+    {
+      "serial": 70,
+      "text": "passionate",
+      "meaning": "(형) 열정적인",
+      "sentence": "his passionate performance",
+      "sentenceMeaning": "그의 열정적인 연주",
+      "unit": 3
+    },
+    {
+      "serial": 71,
+      "text": "cohesion",
+      "meaning": "(명) 결합, 응집(력)",
+      "sentence": "build social cohesion",
+      "sentenceMeaning": "사회적 응집력을 구축하다",
+      "unit": 3
+    },
+    {
+      "serial": 72,
+      "text": "accommodation",
+      "meaning": "(명) 거처, 숙소, 숙박 시설",
+      "sentence": "accommodation expenses",
+      "sentenceMeaning": "숙박비용",
+      "unit": 3
+    },
+    {
+      "serial": 73,
+      "text": "worship",
+      "meaning": "(명) 숭배 (동) 숭배하다",
+      "sentence": "worship youth",
+      "sentenceMeaning": "젊음을 숭배하다",
+      "unit": 3
+    },
+    {
+      "serial": 74,
+      "text": "constitute",
+      "meaning": "(동) 구성하다",
+      "sentence": "constitute very different versions",
+      "sentenceMeaning": "아주 다른 견해를 구성하다",
+      "unit": 3
+    },
+    {
+      "serial": 75,
+      "text": "livestock",
+      "meaning": "(명) 가축",
+      "sentence": "tend livestock",
+      "sentenceMeaning": "가축을 돌보다",
+      "unit": 3
+    },
+    {
+      "serial": 76,
+      "text": "greed",
+      "meaning": "(명) 탐욕, 욕심",
+      "sentence": "materialism and greed",
+      "sentenceMeaning": "물질주의와 탐욕",
+      "unit": 3
+    },
+    {
+      "serial": 77,
+      "text": "outlet",
+      "meaning": "(명) 배출구, 출구",
+      "sentence": "have no outlet",
+      "sentenceMeaning": "출구가 없다",
+      "unit": 3
+    },
+    {
+      "serial": 78,
+      "text": "evolution",
+      "meaning": "(명) 발전, 진화(론)",
+      "sentence": "the evolution of science",
+      "sentenceMeaning": "과학의 발전",
+      "unit": 3
+    },
+    {
+      "serial": 79,
+      "text": "outbreak",
+      "meaning": "(명) 발발, 갑작스러운 분출",
+      "sentence": "outbreaks of infectious diseases",
+      "sentenceMeaning": "전염성 질병의 발발",
+      "unit": 3
+    },
+    {
+      "serial": 80,
+      "text": "bias",
+      "meaning": "(명) 편견, 편향",
+      "sentence": "reduce bias in their experiments",
+      "sentenceMeaning": "그들의 실험에서 편견을 줄이다",
+      "unit": 3
+    },
+    {
+      "serial": 81,
+      "text": "arbitrary",
+      "meaning": "(형) 임의의, 멋대로의",
+      "sentence": "this is entirely arbitrary",
+      "sentenceMeaning": "이것은 전적으로 자의적이다",
+      "unit": 3
+    },
+    {
+      "serial": 82,
+      "text": "shortage",
+      "meaning": "(명) 부족, 결핍",
+      "sentence": "labor shortage",
+      "sentenceMeaning": "노동력 부족",
+      "unit": 3
+    },
+    {
+      "serial": 83,
+      "text": "colonize",
+      "meaning": "(동) 식민지로 만들다",
+      "sentence": "be colonized 45,000 years ago",
+      "sentenceMeaning": "45,000년 전에 식민지로 개척되다",
+      "unit": 3
+    },
+    {
+      "serial": 84,
+      "text": "absence",
+      "meaning": "(명) 결석, 부재, 결핍",
+      "sentence": "the absence of other information",
+      "sentenceMeaning": "다른 정보의 부재",
+      "unit": 3
+    },
+    {
+      "serial": 85,
+      "text": "edible",
+      "meaning": "(형) 먹을 수 있는",
+      "sentence": "edible produce",
+      "sentenceMeaning": "먹을 수 있는 농산물",
+      "unit": 3
+    },
+    {
+      "serial": 86,
+      "text": "eyesight",
+      "meaning": "(명) 시력, 시각",
+      "sentence": "poor eyesight",
+      "sentenceMeaning": "나쁜 시력",
+      "unit": 3
+    },
+    {
+      "serial": 87,
+      "text": "structure",
+      "meaning": "(명) 구조, 건축",
+      "sentence": "the twenty-by-thirty-foot structure",
+      "sentenceMeaning": "가로 20피트, 세로 30피트의 구조물",
+      "unit": 3
+    },
+    {
+      "serial": 88,
+      "text": "physical",
+      "meaning": "(형) 육체의, 신체의",
+      "sentence": "children's physical development",
+      "sentenceMeaning": "아이들의 신체적 발달",
+      "unit": 3
+    },
+    {
+      "serial": 89,
+      "text": "rate",
+      "meaning": "(명) 속도, 비율",
+      "sentence": "at different rates",
+      "sentenceMeaning": "다른 비율로",
+      "unit": 3
+    },
+    {
+      "serial": 90,
+      "text": "measure",
+      "meaning": "(명) 조치, 척도, 단위, (동) 재다, 측정하다",
+      "sentence": "preventive measure",
+      "sentenceMeaning": "예방 조치",
+      "unit": 3
+    },
+    {
+      "serial": 91,
+      "text": "potential",
+      "meaning": "(명) 잠재력, 가능성",
+      "sentence": "a small part of their potential",
+      "sentenceMeaning": "그들의 잠재능력의 작은 부분",
+      "unit": 4
+    },
+    {
+      "serial": 92,
+      "text": "considerable",
+      "meaning": "(형) 중요한, 상당한",
+      "sentence": "considerable success",
+      "sentenceMeaning": "상당한 성공",
+      "unit": 4
+    },
+    {
+      "serial": 93,
+      "text": "analysis",
+      "meaning": "(명) 분석, 분해",
+      "sentence": "closer analysis",
+      "sentenceMeaning": "더 상세한 분석",
+      "unit": 4
+    },
+    {
+      "serial": 94,
+      "text": "notably",
+      "meaning": "(부) 뚜렷하게, 특히",
+      "sentence": "most notably",
+      "sentenceMeaning": "가장 뚜렷하게",
+      "unit": 4
+    },
+    {
+      "serial": 95,
+      "text": "defense",
+      "meaning": "(명) 방위, 방어, 수비",
+      "sentence": "nation’s defense",
+      "sentenceMeaning": "국가 방어",
+      "unit": 4
+    },
+    {
+      "serial": 96,
+      "text": "function",
+      "meaning": "(명) 가능 (동) 작용하다",
+      "sentence": "impact product or service functions",
+      "sentenceMeaning": "상품이나 서비스 기능에 영향을 미치다",
+      "unit": 4
+    },
+    {
+      "serial": 97,
+      "text": "arrangement",
+      "meaning": "(명) 배열, 배치",
+      "sentence": "flower arrangement",
+      "sentenceMeaning": "꽃꽂이",
+      "unit": 4
+    },
+    {
+      "serial": 98,
+      "text": "invisible",
+      "meaning": "(형) 눈에 보이지 않는",
+      "sentence": "the invisible wall",
+      "sentenceMeaning": "보이지 않는 벽",
+      "unit": 4
+    },
+    {
+      "serial": 99,
+      "text": "alienation",
+      "meaning": "(명) 멀리함, 소외",
+      "sentence": "a sense of alienation from the society",
+      "sentenceMeaning": "사회와의 단절감",
+      "unit": 4
+    },
+    {
+      "serial": 100,
+      "text": "anecdote",
+      "meaning": "(명) 일화",
+      "sentence": "biographical anecdotes",
+      "sentenceMeaning": "전기적 일화",
+      "unit": 4
+    },
+    {
+      "serial": 101,
+      "text": "simultaneously",
+      "meaning": "(부) 동시에",
+      "sentence": "simultaneously all over the world",
+      "sentenceMeaning": "전 세계적으로 동시에",
+      "unit": 4
+    },
+    {
+      "serial": 102,
+      "text": "variance",
+      "meaning": "(명) 변화, 변동, 불일치",
+      "sentence": "at variance with the truth",
+      "sentenceMeaning": "진실과 일치하지 않는",
+      "unit": 4
+    },
+    {
+      "serial": 103,
+      "text": "imitate",
+      "meaning": "(동) 모방하다, 흉내 내다",
+      "sentence": "observe and imitate adults",
+      "sentenceMeaning": "성인을 관찰하고 모방하다",
+      "unit": 4
+    },
+    {
+      "serial": 104,
+      "text": "competent",
+      "meaning": "(형) 유능한, 능력 있는",
+      "sentence": "the most normal and competent child",
+      "sentenceMeaning": "가장 정상적이고 유능한 아이",
+      "unit": 4
+    },
+    {
+      "serial": 105,
+      "text": "resist",
+      "meaning": "(동) 저항하다",
+      "sentence": "resist easy measurement",
+      "sentenceMeaning": "쉬운 측정에 저항하다",
+      "unit": 4
+    },
+    {
+      "serial": 106,
+      "text": "myriad",
+      "meaning": "(형) 무수한, 가지각색의",
+      "sentence": "the complex and myriad differences",
+      "sentenceMeaning": "복잡하고 무수한 차이점들",
+      "unit": 4
+    },
+    {
+      "serial": 107,
+      "text": "requirement",
+      "meaning": "(명) 필요조건, 자격",
+      "sentence": "salary requirement",
+      "sentenceMeaning": "급여 요구조건",
+      "unit": 4
+    },
+    {
+      "serial": 108,
+      "text": "emerge",
+      "meaning": "(동) 나타나다",
+      "sentence": "gradually emerge through the mist",
+      "sentenceMeaning": "안개를 뚫고 점차 모습을 드러내다",
+      "unit": 4
+    },
+    {
+      "serial": 109,
+      "text": "subscription",
+      "meaning": "(명) 기부금, 구독료",
+      "sentence": "membership subscription",
+      "sentenceMeaning": "회원 기부금",
+      "unit": 4
+    },
+    {
+      "serial": 110,
+      "text": "comparison",
+      "meaning": "(명) 비교, 대조",
+      "sentence": "price comparison site",
+      "sentenceMeaning": "가격 비교 사이트",
+      "unit": 4
+    },
+    {
+      "serial": 111,
+      "text": "surpass",
+      "meaning": "(동) 능가하다",
+      "sentence": "surpass their expectation",
+      "sentenceMeaning": "그들의 기대를 능가하다",
+      "unit": 4
+    },
+    {
+      "serial": 112,
+      "text": "enhance",
+      "meaning": "(동) 향상하다, 높이다",
+      "sentence": "enhance subtle information",
+      "sentenceMeaning": "미묘한 정보를 부각시키다",
+      "unit": 4
+    },
+    {
+      "serial": 113,
+      "text": "feminine",
+      "meaning": "(형) 여자의, 여성의",
+      "sentence": "feminine gender",
+      "sentenceMeaning": "여성",
+      "unit": 4
+    },
+    {
+      "serial": 114,
+      "text": "nervous",
+      "meaning": "(형) 불안해(초조해/두려워)하는, 신경의",
+      "sentence": "nervous and trembling",
+      "sentenceMeaning": "불안하고 떨리는",
+      "unit": 4
+    },
+    {
+      "serial": 115,
+      "text": "suspicion",
+      "meaning": "(명) 혐의, 의심",
+      "sentence": "suspicion or tension",
+      "sentenceMeaning": "의심 또는 긴장",
+      "unit": 4
+    },
+    {
+      "serial": 116,
+      "text": "awareness",
+      "meaning": "(명) 인식",
+      "sentence": "awareness of choice",
+      "sentenceMeaning": "선택의 인식",
+      "unit": 4
+    },
+    {
+      "serial": 117,
+      "text": "inspire",
+      "meaning": "(동) (고무)격려하다, 영감을 주다",
+      "sentence": "inspire a whole range of questions",
+      "sentenceMeaning": "온갖 질문이 떠오르게 하다",
+      "unit": 4
+    },
+    {
+      "serial": 118,
+      "text": "compensation",
+      "meaning": "(명) 배상, 보상",
+      "sentence": "pay compensation",
+      "sentenceMeaning": "배상하다",
+      "unit": 4
+    },
+    {
+      "serial": 119,
+      "text": "cherish",
+      "meaning": "(동) 소중히 하다",
+      "sentence": "evoke both cherished memories and",
+      "sentenceMeaning": "소중한 기억과 아픈 기억을 모두 불러일으키다",
+      "unit": 4
+    },
+    {
+      "serial": 120,
+      "text": "geological",
+      "meaning": "(형) 지질학의",
+      "sentence": "are geologically trapped",
+      "sentenceMeaning": "지질학적으로 갇혀 있다",
+      "unit": 4
+    },
+    {
+      "serial": 121,
+      "text": "desperate ",
+      "meaning": "(형) 필사적인, 절박한",
+      "sentence": "desperate struggle",
+      "sentenceMeaning": "필사적인 투쟁",
+      "unit": 5
+    },
+    {
+      "serial": 122,
+      "text": "urban",
+      "meaning": "(형) 도시의",
+      "sentence": "urban civil life",
+      "sentenceMeaning": "도시 시민 생활",
+      "unit": 5
+    },
+    {
+      "serial": 123,
+      "text": "annoy",
+      "meaning": "(동) 짜증나게 하다, 귀찮게 하다",
+      "sentence": "annoy mother",
+      "sentenceMeaning": "엄마를 성가시게 하다",
+      "unit": 5
+    },
+    {
+      "serial": 124,
+      "text": "depression",
+      "meaning": "(명) 침울, 우울, 불경기",
+      "sentence": "combat depression",
+      "sentenceMeaning": "우울증과 맞서 싸우다",
+      "unit": 5
+    },
+    {
+      "serial": 125,
+      "text": "degree",
+      "meaning": "(명) 지위, 학위, 도, 정도",
+      "sentence": "the degrees and forms of people's actual responses",
+      "sentenceMeaning": "사람들의 실제 반응의 정도와 형식",
+      "unit": 5
+    },
+    {
+      "serial": 126,
+      "text": "innocent",
+      "meaning": "(형) 악의 없는, 순수한",
+      "sentence": "innocent habit",
+      "sentenceMeaning": "악의 없는 습관",
+      "unit": 5
+    },
+    {
+      "serial": 127,
+      "text": "muscle",
+      "meaning": "(명) 근육, 힘줄",
+      "sentence": "relax muscles",
+      "sentenceMeaning": "근육을 풀어주다",
+      "unit": 5
+    },
+    {
+      "serial": 128,
+      "text": "shelter",
+      "meaning": "(명) 주거지, 피난 장소",
+      "sentence": "provide some shelter",
+      "sentenceMeaning": "몇몇 주거지를 제공하다",
+      "unit": 5
+    },
+    {
+      "serial": 129,
+      "text": "intentional",
+      "meaning": "(형) 계획적인, 고의의",
+      "sentence": "this intentional error",
+      "sentenceMeaning": "이러한 고의적인 오류",
+      "unit": 5
+    },
+    {
+      "serial": 130,
+      "text": "subject",
+      "meaning": "(명) 주제, 제목, 과목",
+      "sentence": "a particular subject",
+      "sentenceMeaning": "특정한 과목",
+      "unit": 5
+    },
+    {
+      "serial": 131,
+      "text": "advance",
+      "meaning": "(명) 전진, 진전, 발전 (형) 사전의 (동) 증진되다",
+      "sentence": "an advance warning system",
+      "sentenceMeaning": "조기경보체제",
+      "unit": 5
+    },
+    {
+      "serial": 132,
+      "text": "location",
+      "meaning": "(명) 장소, 위치",
+      "sentence": "location of discount store",
+      "sentenceMeaning": "할인점의 위치",
+      "unit": 5
+    },
+    {
+      "serial": 133,
+      "text": "breathe",
+      "meaning": "(동) 호흡하다",
+      "sentence": "burn all the oxygen we breathe in",
+      "sentenceMeaning": "우리가 들이쉬는 모든 산소를 태우다",
+      "unit": 5
+    },
+    {
+      "serial": 134,
+      "text": "stripe",
+      "meaning": "(명) 줄무늬, 줄",
+      "sentence": "stripe pattern",
+      "sentenceMeaning": "줄무늬",
+      "unit": 5
+    },
+    {
+      "serial": 135,
+      "text": "persistent",
+      "meaning": "(형) 고집하는, 끊임없는",
+      "sentence": "try persistently to follow me",
+      "sentenceMeaning": "나를 끈덕지게 따라오려 하다",
+      "unit": 5
+    },
+    {
+      "serial": 136,
+      "text": "age",
+      "meaning": "(명) 나이, 시기, 시대 (동) 나이가 들다",
+      "sentence": "age biologically",
+      "sentenceMeaning": "생물학적으로 나이가 들다",
+      "unit": 5
+    },
+    {
+      "serial": 137,
+      "text": "attend",
+      "meaning": "(동) ~에 출석하다",
+      "sentence": "attend the school festivals",
+      "sentenceMeaning": "학교 축제에 참여하다",
+      "unit": 5
+    },
+    {
+      "serial": 138,
+      "text": "appointment",
+      "meaning": "(명) 임명, 지명, 약속",
+      "sentence": "business appointments",
+      "sentenceMeaning": "사업 약속",
+      "unit": 5
+    },
+    {
+      "serial": 139,
+      "text": "document",
+      "meaning": "(명) 서류 ,문서 (동) 증명하다, 기록하다",
+      "sentence": "document personal history",
+      "sentenceMeaning": "개인의 역사를 기록하다",
+      "unit": 5
+    },
+    {
+      "serial": 140,
+      "text": "share",
+      "meaning": "(명) 몫, 배당 (동) 공유하다",
+      "sentence": "share what we did well",
+      "sentenceMeaning": "우리가 잘 한 것을 공유하다",
+      "unit": 5
+    },
+    {
+      "serial": 141,
+      "text": "donation",
+      "meaning": "(명) 기증, 기증품",
+      "sentence": "public donation",
+      "sentenceMeaning": "공공 기부금",
+      "unit": 5
+    },
+    {
+      "serial": 142,
+      "text": "graze",
+      "meaning": "(동) 풀을 뜯어먹게 하다, 방목하다",
+      "sentence": "graze their animals free of charge",
+      "sentenceMeaning": "무료로 가축들을 방목하다",
+      "unit": 5
+    },
+    {
+      "serial": 143,
+      "text": "fierce",
+      "meaning": "(형) 맹렬한, 격심한",
+      "sentence": "the fierce competition",
+      "sentenceMeaning": "격렬한 경쟁",
+      "unit": 5
+    },
+    {
+      "serial": 144,
+      "text": "impose",
+      "meaning": "(동) 부과하다, 강요하다",
+      "sentence": "impose religion",
+      "sentenceMeaning": "종교를 강제하다",
+      "unit": 5
+    },
+    {
+      "serial": 145,
+      "text": "patron",
+      "meaning": "(명) 후원자",
+      "sentence": "the commissions from wealthy patrons",
+      "sentenceMeaning": "부유한 후원자로부터 받는 많은 위탁일",
+      "unit": 5
+    },
+    {
+      "serial": 146,
+      "text": "enrollment",
+      "meaning": "(명) 등록",
+      "sentence": "school enrollment",
+      "sentenceMeaning": "취학(학교 등록)",
+      "unit": 5
+    },
+    {
+      "serial": 147,
+      "text": "combustion",
+      "meaning": "(명) 연소",
+      "sentence": "the internal combustion engine",
+      "sentenceMeaning": "내연기관",
+      "unit": 5
+    },
+    {
+      "serial": 148,
+      "text": "complain",
+      "meaning": "(동) 불평하다, 항의하다",
+      "sentence": "complain about a lack of time",
+      "sentenceMeaning": "시간이 부족한 것에 대해 불평하다",
+      "unit": 5
+    },
+    {
+      "serial": 149,
+      "text": "modify",
+      "meaning": "(동) 수정(변경)하다",
+      "sentence": "genetically modified crops",
+      "sentenceMeaning": "유전자 변형곡물",
+      "unit": 5
+    },
+    {
+      "serial": 150,
+      "text": "withdraw",
+      "meaning": "(동) 물러나다, 철수하다, (취소)철회하다",
+      "sentence": "withdraw from the deal",
+      "sentenceMeaning": "거래를 철회하다",
+      "unit": 5
+    },
+    {
+      "serial": 151,
+      "text": "reputation",
+      "meaning": "(명) 명성, 신망",
+      "sentence": "his medical reputation",
+      "sentenceMeaning": "그의 의학적 명성",
+      "unit": 6
+    },
+    {
+      "serial": 152,
+      "text": "sanitation",
+      "meaning": "(명) (공중) 위생",
+      "sentence": "worsening sanitation",
+      "sentenceMeaning": "악화하는 위생",
+      "unit": 6
+    },
+    {
+      "serial": 153,
+      "text": "aboriginal",
+      "meaning": "(형) 호주 원주민의, 원주민의",
+      "sentence": "Australian aboriginal technology",
+      "sentenceMeaning": "호주 원주민들의 기술",
+      "unit": 6
+    },
+    {
+      "serial": 154,
+      "text": "impression",
+      "meaning": "(명) 인상, 감명",
+      "sentence": "a first impression",
+      "sentenceMeaning": "첫 인상",
+      "unit": 6
+    },
+    {
+      "serial": 155,
+      "text": "deny",
+      "meaning": "(동) 부정하다",
+      "sentence": "deny all previous value",
+      "sentenceMeaning": "이전의 모든 가치를 부정하다",
+      "unit": 6
+    },
+    {
+      "serial": 156,
+      "text": "evidence",
+      "meaning": "(명) 증거, 증언",
+      "sentence": "lack of evidence",
+      "sentenceMeaning": "증거 부족",
+      "unit": 6
+    },
+    {
+      "serial": 157,
+      "text": "proactive",
+      "meaning": "(형) 사전예방적인",
+      "sentence": "a proactive effort",
+      "sentenceMeaning": "사전예방적인 노력",
+      "unit": 6
+    },
+    {
+      "serial": 158,
+      "text": "optimistic",
+      "meaning": "(형) 낙관적인, 낙천적인",
+      "sentence": "the students' optimistic attitudes",
+      "sentenceMeaning": "낙관적인 학생들의 태도",
+      "unit": 6
+    },
+    {
+      "serial": 159,
+      "text": "conducive",
+      "meaning": "(형) 도움이 되는",
+      "sentence": "be conducive to health",
+      "sentenceMeaning": "건강에 도움 되다",
+      "unit": 6
+    },
+    {
+      "serial": 160,
+      "text": "reunion",
+      "meaning": "(명) 재결합, 재합동, 재회",
+      "sentence": "this joyful reunion",
+      "sentenceMeaning": "이런 즐거운 재회",
+      "unit": 6
+    },
+    {
+      "serial": 161,
+      "text": "reasonable",
+      "meaning": "(형) 합리적인, 분별 있는",
+      "sentence": "seemingly reasonable",
+      "sentenceMeaning": "겉보기에는 합리적인",
+      "unit": 6
+    },
+    {
+      "serial": 162,
+      "text": "object",
+      "meaning": "(명) 물건, 물체, 목적, 목표 (동) 반대하다",
+      "sentence": "natural objects",
+      "sentenceMeaning": "자연 물질",
+      "unit": 6
+    },
+    {
+      "serial": 163,
+      "text": "beverage",
+      "meaning": "(명) 마실 것, 음료",
+      "sentence": "popular beverages",
+      "sentenceMeaning": "대중적인 음료",
+      "unit": 6
+    },
+    {
+      "serial": 164,
+      "text": "appliance",
+      "meaning": "(명) 가전 기구",
+      "sentence": "home appliances",
+      "sentenceMeaning": "가전제품",
+      "unit": 6
+    },
+    {
+      "serial": 165,
+      "text": "rest",
+      "meaning": "(명) 휴식, 나머지 (동) 쉬다, 휴식하다",
+      "sentence": "the rest of the world",
+      "sentenceMeaning": "세계의 나머지",
+      "unit": 6
+    },
+    {
+      "serial": 166,
+      "text": "empirical",
+      "meaning": "(형) 경험의, 경험적인",
+      "sentence": "claim positive empirical evidence",
+      "sentenceMeaning": "긍정적인 경험상의 증거를 내세우다",
+      "unit": 6
+    },
+    {
+      "serial": 167,
+      "text": "trace",
+      "meaning": "(명) 발자국, 자취, 흔적 (동) 추적하다, 찾아내다",
+      "sentence": "the traces of dissolved salts",
+      "sentenceMeaning": "용해된 소금의 잔존물",
+      "unit": 6
+    },
+    {
+      "serial": 168,
+      "text": "flexible",
+      "meaning": "(형) 잘 구부러지는, 유연한",
+      "sentence": "flexible paper",
+      "sentenceMeaning": "잘 구부러지는 종이",
+      "unit": 6
+    },
+    {
+      "serial": 169,
+      "text": "wilderness",
+      "meaning": "(명) 황야, 황무지",
+      "sentence": "wilderness dining",
+      "sentenceMeaning": "야생에서의 식사",
+      "unit": 6
+    },
+    {
+      "serial": 170,
+      "text": "achievement",
+      "meaning": "(명) 성취, 달성",
+      "sentence": "a key factor in high achievement",
+      "sentenceMeaning": "대성공에서 중요한 요인",
+      "unit": 6
+    },
+    {
+      "serial": 171,
+      "text": "article",
+      "meaning": "(명) (신문?잡지의) 글, 기사, 물품(물건)",
+      "sentence": "newspaper articles",
+      "sentenceMeaning": "신문기사",
+      "unit": 6
+    },
+    {
+      "serial": 172,
+      "text": "portion",
+      "meaning": "(명) 부분, 몫",
+      "sentence": "a large portion",
+      "sentenceMeaning": "많은 부분",
+      "unit": 6
+    },
+    {
+      "serial": 173,
+      "text": "handicapped",
+      "meaning": "(형) 장애가 있는, 불구의",
+      "sentence": "handicapped people",
+      "sentenceMeaning": "장애인",
+      "unit": 6
+    },
+    {
+      "serial": 174,
+      "text": "universal",
+      "meaning": "(형) 우주의, 보편적인",
+      "sentence": "universal truths",
+      "sentenceMeaning": "보편적인 진리",
+      "unit": 6
+    },
+    {
+      "serial": 175,
+      "text": "admission",
+      "meaning": "(명) 입장, 인정, 입장료",
+      "sentence": "pay admission",
+      "sentenceMeaning": "입장료를 지불하다",
+      "unit": 6
+    },
+    {
+      "serial": 176,
+      "text": "despair",
+      "meaning": "(명) 절망, 자포자기",
+      "sentence": "sources of despair and anger",
+      "sentenceMeaning": "좌절과 분노의 원천",
+      "unit": 6
+    },
+    {
+      "serial": 177,
+      "text": "telescope",
+      "meaning": "(명) 망원경",
+      "sentence": "a giant telescope",
+      "sentenceMeaning": "거대한 망원경",
+      "unit": 6
+    },
+    {
+      "serial": 178,
+      "text": "unjust",
+      "meaning": "(형) 부정한, 부당한",
+      "sentence": "unjust criticism",
+      "sentenceMeaning": "부당한 비판",
+      "unit": 6
+    },
+    {
+      "serial": 179,
+      "text": "tempting",
+      "meaning": "(형) 유혹하는",
+      "sentence": "it’s tempting to stretch one’s finances",
+      "sentenceMeaning": "자금 조달을 늘리고 싶어 하다",
+      "unit": 6
+    },
+    {
+      "serial": 180,
+      "text": "circumstance",
+      "meaning": "(명) 환경, 상",
+      "sentence": "the immediate circumstances",
+      "sentenceMeaning": "즉각적인 환경",
+      "unit": 6
+    },
+    {
+      "serial": 181,
+      "text": "intrigue",
+      "meaning": "(동) 강한 흥미(호기심)를 불러일으키다",
+      "sentence": "always intrigue researchers",
+      "sentenceMeaning": "항상 연구자들의 호기심을 자아내다",
+      "unit": 7
+    },
+    {
+      "serial": 182,
+      "text": "subconscious",
+      "meaning": "(형) 잠재의식의",
+      "sentence": "subconscious thought",
+      "sentenceMeaning": "잠재의식적인 생각",
+      "unit": 7
+    },
+    {
+      "serial": 183,
+      "text": "defect",
+      "meaning": "(명) 결점, 결함",
+      "sentence": "a defect in products",
+      "sentenceMeaning": "상품들의 결함",
+      "unit": 7
+    },
+    {
+      "serial": 184,
+      "text": "instinct",
+      "meaning": "(명) 본능",
+      "sentence": "follow instincts",
+      "sentenceMeaning": "본능을 따르다",
+      "unit": 7
+    },
+    {
+      "serial": 185,
+      "text": "attain",
+      "meaning": "(동) 이루다, 성취하다",
+      "sentence": "attain some extrinsic reward",
+      "sentenceMeaning": "외적인 보상을 성취하다",
+      "unit": 7
+    },
+    {
+      "serial": 186,
+      "text": "pitfall",
+      "meaning": "(명) 함정",
+      "sentence": "a transcendence of the pitfalls",
+      "sentenceMeaning": "함정의 초월",
+      "unit": 7
+    },
+    {
+      "serial": 187,
+      "text": "subtract",
+      "meaning": "(동) 빼다, 감하다",
+      "sentence": "subtract a few subjects",
+      "sentenceMeaning": "몇몇 주제를 빼다.",
+      "unit": 7
+    },
+    {
+      "serial": 188,
+      "text": "divert",
+      "meaning": "(동) (관심을)돌리다, 전환하다",
+      "sentence": "divert him from finding the solution",
+      "sentenceMeaning": "그가 해결책을 찾아내는 것을 방해하다",
+      "unit": 7
+    },
+    {
+      "serial": 189,
+      "text": "literacy",
+      "meaning": "(명) 글을 읽고 쓸 줄 아는 능력",
+      "sentence": "information literacy",
+      "sentenceMeaning": "정보 처리 능력",
+      "unit": 7
+    },
+    {
+      "serial": 190,
+      "text": "embed",
+      "meaning": "(동) (단단히) 박다, 끼워 넣다",
+      "sentence": "embed stones in the earth",
+      "sentenceMeaning": "땅에 돌을 박아 놓다",
+      "unit": 7
+    },
+    {
+      "serial": 191,
+      "text": "encounter",
+      "meaning": "(명) 접촉, 만남(동) 우연히 만나다",
+      "sentence": "the close encounter",
+      "sentenceMeaning": "근접한 조우",
+      "unit": 7
+    },
+    {
+      "serial": 192,
+      "text": "hue",
+      "meaning": "(명) 색조, 빛깔",
+      "sentence": "warm and cool hues",
+      "sentenceMeaning": "따뜻하고 시원한 색조",
+      "unit": 7
+    },
+    {
+      "serial": 193,
+      "text": "recognition",
+      "meaning": "(명) 인지, 승인, 인정",
+      "sentence": "win recognition as the swimming stroke",
+      "sentenceMeaning": "수영 영법으로 인정받다",
+      "unit": 7
+    },
+    {
+      "serial": 194,
+      "text": "shrink",
+      "meaning": "(동) 오그라들다, 움츠리다",
+      "sentence": "shrink rather than grow",
+      "sentenceMeaning": "성장하기보다는 위축되다",
+      "unit": 7
+    },
+    {
+      "serial": 195,
+      "text": "conflict",
+      "meaning": "(명) 충돌, 대립, 갈등",
+      "sentence": "heated conflicts",
+      "sentenceMeaning": "가열되는 갈등",
+      "unit": 7
+    },
+    {
+      "serial": 196,
+      "text": "prejudice",
+      "meaning": "(명) 편견, 선입관",
+      "sentence": "the prejudice of his times",
+      "sentenceMeaning": "그의 시대의 편견",
+      "unit": 7
+    },
+    {
+      "serial": 197,
+      "text": "identify",
+      "meaning": "(동) 확인하다, 식별하다,  동일시하다",
+      "sentence": "identify and relate to a new architectural",
+      "sentenceMeaning": "trend 확인하여 새로운 건축학의 동향과 관련 짓다",
+      "unit": 7
+    },
+    {
+      "serial": 198,
+      "text": "implication",
+      "meaning": "(명) 영향, 함축, 암시",
+      "sentence": "the implication in his article",
+      "sentenceMeaning": "그의 글에 함축된 내용",
+      "unit": 7
+    },
+    {
+      "serial": 199,
+      "text": "molecule",
+      "meaning": "(명) 분자",
+      "sentence": "unlock secrets of the DNA molecule",
+      "sentenceMeaning": "DNA 분자의 비밀을 풀다",
+      "unit": 7
+    },
+    {
+      "serial": 200,
+      "text": "restrain",
+      "meaning": "(동) 제지하다, 억제하다",
+      "sentence": "restrain himself",
+      "sentenceMeaning": "그 스스로 자제하다",
+      "unit": 7
+    },
+    {
+      "serial": 201,
+      "text": "grain",
+      "meaning": "(명) 곡물, 곡류",
+      "sentence": "world grain production",
+      "sentenceMeaning": "세계 곡식생산",
+      "unit": 7
+    },
+    {
+      "serial": 202,
+      "text": "avenger",
+      "meaning": "(명) 복수하는 사람, 원수를 갚는 사람",
+      "sentence": "both protectors and avengers",
+      "sentenceMeaning": "보호자인 동시에 보복자",
+      "unit": 7
+    },
+    {
+      "serial": 203,
+      "text": "exaggerate",
+      "meaning": "(동) 과장하다",
+      "sentence": "exaggerate differences",
+      "sentenceMeaning": "차이점을 과장하다",
+      "unit": 7
+    },
+    {
+      "serial": 204,
+      "text": "hesitate",
+      "meaning": "(동) 주저하다",
+      "sentence": "hesitate to sign up",
+      "sentenceMeaning": "등록을 주저하다",
+      "unit": 7
+    },
+    {
+      "serial": 205,
+      "text": "status",
+      "meaning": "(명) 상태, 지위",
+      "sentence": "a status symbol",
+      "sentenceMeaning": "지위의 상징",
+      "unit": 7
+    },
+    {
+      "serial": 206,
+      "text": "accompany",
+      "meaning": "(동) 동반하다, 동행하다",
+      "sentence": "accompany the expedition",
+      "sentenceMeaning": "그 원정에 함께 동반하다",
+      "unit": 7
+    },
+    {
+      "serial": 207,
+      "text": "intrude",
+      "meaning": "(동) 무리하게 강요하다, 방해하다",
+      "sentence": "intrude on all other attempts",
+      "sentenceMeaning": "온갖 다른 시도를 방해하다",
+      "unit": 7
+    },
+    {
+      "serial": 208,
+      "text": "prevalent",
+      "meaning": "(형) (널리)보급된, 널리 행해지는",
+      "sentence": "the prevalent belief",
+      "sentenceMeaning": "널리 유행하는 믿음",
+      "unit": 7
+    },
+    {
+      "serial": 209,
+      "text": "impulsive",
+      "meaning": "(형) 충동적인",
+      "sentence": "impulsive decision",
+      "sentenceMeaning": "충동적 결정",
+      "unit": 7
+    },
+    {
+      "serial": 210,
+      "text": "mandate",
+      "meaning": "(명) 권한(동) 명령하다, 요구하다",
+      "sentence": "mandate seat belts",
+      "sentenceMeaning": "안전벨트를 의무화하다",
+      "unit": 7
+    },
+    {
+      "serial": 211,
+      "text": "deprivation",
+      "meaning": "(명) 박탈, 궁핍",
+      "sentence": "a life of self-deprivation",
+      "sentenceMeaning": "스스로 궁핍해지는 삶",
+      "unit": 8
+    },
+    {
+      "serial": 212,
+      "text": "discipline",
+      "meaning": "(명) 교과, 규율",
+      "sentence": "the seemingly practical disciplines",
+      "sentenceMeaning": "표면적으로 실용적인 교과",
+      "unit": 8
+    },
+    {
+      "serial": 213,
+      "text": "process",
+      "meaning": "(명) 과정, 절차, (동) 처리하다",
+      "sentence": "process only one piece of code",
+      "sentenceMeaning": "단 한 개의 부호만을 처리하다",
+      "unit": 8
+    },
+    {
+      "serial": 214,
+      "text": "criticism ",
+      "meaning": "(명) 비판, 비난",
+      "sentence": "unjustified criticisms",
+      "sentenceMeaning": "정당화되지 않은 비판",
+      "unit": 8
+    },
+    {
+      "serial": 215,
+      "text": "transfer",
+      "meaning": "(동) 옮기다, 이동하다",
+      "sentence": "transfer the information",
+      "sentenceMeaning": "정보를 전달하다",
+      "unit": 8
+    },
+    {
+      "serial": 216,
+      "text": "deem",
+      "meaning": "(동) 생각하다, 간주하다",
+      "sentence": "something that purists deem important",
+      "sentenceMeaning": "순수주의자들이 중요하다고 여기는 것",
+      "unit": 8
+    },
+    {
+      "serial": 217,
+      "text": "endow",
+      "meaning": "(동) 부여하다",
+      "sentence": "endow other mammals with brains",
+      "sentenceMeaning": "다른 포유류에게 두뇌를 부여하다",
+      "unit": 8
+    },
+    {
+      "serial": 218,
+      "text": "futile",
+      "meaning": "(형) 쓸데없는, 무익한",
+      "sentence": "after several futile attempts",
+      "sentenceMeaning": "몇 번 시도가 실패한 뒤",
+      "unit": 8
+    },
+    {
+      "serial": 219,
+      "text": "shiver",
+      "meaning": "(동) (몸을) 떨다",
+      "sentence": "shiver behind the rock",
+      "sentenceMeaning": "바위 뒤에서 떨다",
+      "unit": 8
+    },
+    {
+      "serial": 220,
+      "text": "revenue",
+      "meaning": "(명) 소득, 수입",
+      "sentence": "the company’s dwindling revenue",
+      "sentenceMeaning": "회사의 감소되는 수익",
+      "unit": 8
+    },
+    {
+      "serial": 221,
+      "text": "quantity",
+      "meaning": "(명) 양, 분량",
+      "sentence": "the quality and quantity",
+      "sentenceMeaning": "질과 양",
+      "unit": 8
+    },
+    {
+      "serial": 222,
+      "text": "appreciation",
+      "meaning": "(명) 감사, 감상, 이해",
+      "sentence": "true appreciation",
+      "sentenceMeaning": "진정한 감사",
+      "unit": 8
+    },
+    {
+      "serial": 223,
+      "text": "reduction",
+      "meaning": "(명) 감소, 절감",
+      "sentence": "see the promised reduction",
+      "sentenceMeaning": "기대한 만큼 감소하는 것을 보다",
+      "unit": 8
+    },
+    {
+      "serial": 224,
+      "text": "suitable",
+      "meaning": "(형) 적합한, 적절한",
+      "sentence": "a suitable action",
+      "sentenceMeaning": "적절한 행동",
+      "unit": 8
+    },
+    {
+      "serial": 225,
+      "text": "moderation",
+      "meaning": "(명) 적당, 중용",
+      "sentence": "all things in moderation",
+      "sentenceMeaning": "모든 일은 중용 안에서",
+      "unit": 8
+    },
+    {
+      "serial": 226,
+      "text": "suggestion",
+      "meaning": "(명) 암시, 시사, 제안, 제의",
+      "sentence": "the suggestion of life",
+      "sentenceMeaning": "인생의 암시",
+      "unit": 8
+    },
+    {
+      "serial": 227,
+      "text": "reliance",
+      "meaning": "(명) 믿음, 의지",
+      "sentence": "heavy reliance",
+      "sentenceMeaning": "과도한 의존",
+      "unit": 8
+    },
+    {
+      "serial": 228,
+      "text": "gender",
+      "meaning": "(명) 성, 성별",
+      "sentence": "gender equality",
+      "sentenceMeaning": "양성 평등",
+      "unit": 8
+    },
+    {
+      "serial": 229,
+      "text": "medical",
+      "meaning": "(형) 의학의, 의술의",
+      "sentence": "open a medical clinic",
+      "sentenceMeaning": "병원을 개원하다",
+      "unit": 8
+    },
+    {
+      "serial": 230,
+      "text": "manual",
+      "meaning": "(명) 소책자, 입문서",
+      "sentence": "instruction manual",
+      "sentenceMeaning": "지침서",
+      "unit": 8
+    },
+    {
+      "serial": 231,
+      "text": "emit",
+      "meaning": "(동) (빛·열·냄새·소리를) 발하다, 방출하다",
+      "sentence": "by emitting alarm calls",
+      "sentenceMeaning": "경고음을 냄으로써",
+      "unit": 8
+    },
+    {
+      "serial": 232,
+      "text": "retailer",
+      "meaning": "(명) 소매상인",
+      "sentence": "the largest retailer",
+      "sentenceMeaning": "가장 큰 소매점",
+      "unit": 8
+    },
+    {
+      "serial": 233,
+      "text": "conventional",
+      "meaning": "(형) 전통적인, 관습적인",
+      "sentence": "conventional ways",
+      "sentenceMeaning": "전통적인 방식들",
+      "unit": 8
+    },
+    {
+      "serial": 234,
+      "text": "relative",
+      "meaning": "(명) 친척, 친족",
+      "sentence": "the victim's relative",
+      "sentenceMeaning": "희생자의 친척",
+      "unit": 8
+    },
+    {
+      "serial": 235,
+      "text": "sprout",
+      "meaning": "(동) 싹이 트다, 발아하다",
+      "sentence": "sprout quickly",
+      "sentenceMeaning": "빠르게 싹이 트다",
+      "unit": 8
+    },
+    {
+      "serial": 236,
+      "text": "nurture",
+      "meaning": "(동) 육성하다, 양육하다",
+      "sentence": "the nurturing and flowering of science",
+      "sentenceMeaning": "과학을 육성하고 꽃피우는 것",
+      "unit": 8
+    },
+    {
+      "serial": 237,
+      "text": "plot",
+      "meaning": "(명) 음모, 줄거리",
+      "sentence": "the general plot",
+      "sentenceMeaning": "전체적인 줄거리",
+      "unit": 8
+    },
+    {
+      "serial": 238,
+      "text": "distract",
+      "meaning": "(동) (주의를) 산만하게 하다",
+      "sentence": "distract her attention",
+      "sentenceMeaning": "그녀의 주의를 산만하게 하다",
+      "unit": 8
+    },
+    {
+      "serial": 239,
+      "text": "discern",
+      "meaning": "(동) 분별하다, 식별하다",
+      "sentence": "discern different colours",
+      "sentenceMeaning": "서로 다른 색깔을 분간하다",
+      "unit": 8
+    },
+    {
+      "serial": 240,
+      "text": "confidence",
+      "meaning": "(명) 신뢰, 자신, 확신",
+      "sentence": "confidence in the claim",
+      "sentenceMeaning": "주장에 대한 자신감",
+      "unit": 8
+    },
+    {
+      "serial": 241,
+      "text": "distort",
+      "meaning": "(동) 왜곡하다",
+      "sentence": "distort the truth",
+      "sentenceMeaning": "진실을 왜곡하다",
+      "unit": 9
+    },
+    {
+      "serial": 242,
+      "text": "exposure",
+      "meaning": "(명) 노출",
+      "sentence": "regular exposure",
+      "sentenceMeaning": "정기적인 노출",
+      "unit": 9
+    },
+    {
+      "serial": 243,
+      "text": "reinforce",
+      "meaning": "(동) 강화하다, 보강하다",
+      "sentence": "reinforce a wall with mud",
+      "sentenceMeaning": "진흙으로 벽을 보강하다",
+      "unit": 9
+    },
+    {
+      "serial": 244,
+      "text": "merge",
+      "meaning": "(동) 합병하다, 융합되다",
+      "sentence": "merge into harmonious relationships",
+      "sentenceMeaning": "조화로운 관계로 융합되다.",
+      "unit": 9
+    },
+    {
+      "serial": 245,
+      "text": "devour",
+      "meaning": "(동) 게걸스럽게 먹다",
+      "sentence": "devour the cookies",
+      "sentenceMeaning": "쿠키를 게걸스럽게 먹다",
+      "unit": 9
+    },
+    {
+      "serial": 246,
+      "text": "yield",
+      "meaning": "(명) 산출량, 총수익(동) 생산하다,항복하다,넘겨주다",
+      "sentence": "the decrease in agricultural yields",
+      "sentenceMeaning": "농작물 수확의 감소",
+      "unit": 9
+    },
+    {
+      "serial": 247,
+      "text": "vulnerable",
+      "meaning": "(형) 상처 입기 쉬운, 취약한, 연약한",
+      "sentence": "the most vulnerable, pedestrians",
+      "sentenceMeaning": "가장 취약한 보행자들",
+      "unit": 9
+    },
+    {
+      "serial": 248,
+      "text": "scrutiny",
+      "meaning": "(명) (면밀한) 조사, 감독",
+      "sentence": "a different critical scrutiny",
+      "sentenceMeaning": "다른 비평적 감시",
+      "unit": 9
+    },
+    {
+      "serial": 249,
+      "text": "nimble",
+      "meaning": "(형) 날렵한, 민첩한",
+      "sentence": "a nimble b-boy",
+      "sentenceMeaning": "날렵한 비보이",
+      "unit": 9
+    },
+    {
+      "serial": 250,
+      "text": "equilibrate",
+      "meaning": "(동) 평형하게 하다",
+      "sentence": "the equilibrating process",
+      "sentenceMeaning": "평형을 유지하는 과정",
+      "unit": 9
+    },
+    {
+      "serial": 251,
+      "text": "odd",
+      "meaning": "(형) 기묘한, 이상한",
+      "sentence": "something odd",
+      "sentenceMeaning": "이상한 점",
+      "unit": 9
+    },
+    {
+      "serial": 252,
+      "text": "indulge",
+      "meaning": "(동) 만족시키다, 충족시키다",
+      "sentence": "indulge fantasies of violence",
+      "sentenceMeaning": "폭력에 대한 공상을 충족시키다",
+      "unit": 9
+    },
+    {
+      "serial": 253,
+      "text": "prevail",
+      "meaning": "(동) 널리 보급되다, 유행하다",
+      "sentence": "a prevailing method of interpretation",
+      "sentenceMeaning": "유행하는 해석방법",
+      "unit": 9
+    },
+    {
+      "serial": 254,
+      "text": "특정한 진동 값과 관련 있다",
+      "meaning": "be associated with ~와 관련 있다",
+      "sentence": "be associated with particular frequency",
+      "sentenceMeaning": "values",
+      "unit": 9
+    },
+    {
+      "serial": 255,
+      "text": "compliment",
+      "meaning": "(명) 경의, 칭찬",
+      "sentence": "a heartfelt compliment",
+      "sentenceMeaning": "마음에서 우러난 찬사",
+      "unit": 9
+    },
+    {
+      "serial": 256,
+      "text": "intricate",
+      "meaning": "(형) 뒤얽힌, 복잡한",
+      "sentence": "master intricate question",
+      "sentenceMeaning": "복잡한 문제를 정복하다",
+      "unit": 9
+    },
+    {
+      "serial": 257,
+      "text": "dilute",
+      "meaning": "(동) 묽게 하다, 희석하다",
+      "sentence": "dilute the exactness of mathematics",
+      "sentenceMeaning": "수학의 정확성을 약화시키다",
+      "unit": 9
+    },
+    {
+      "serial": 258,
+      "text": "expedition",
+      "meaning": "(명) 탐험, 원정",
+      "sentence": "the first expeditions to Everest",
+      "sentenceMeaning": "첫 에베레스트 등반대",
+      "unit": 9
+    },
+    {
+      "serial": 259,
+      "text": "term",
+      "meaning": "(명) 기간, 조건, 용어",
+      "sentence": "the term euphemism",
+      "sentenceMeaning": "완곡어법이라는 용어",
+      "unit": 9
+    },
+    {
+      "serial": 260,
+      "text": "irrigation",
+      "meaning": "(명) 물을 댐, 관개",
+      "sentence": "water for irrigation",
+      "sentenceMeaning": "관개를 위한 물",
+      "unit": 9
+    },
+    {
+      "serial": 261,
+      "text": "marine",
+      "meaning": "(형) 바다의",
+      "sentence": "marine life",
+      "sentenceMeaning": "바다 속 생활",
+      "unit": 9
+    },
+    {
+      "serial": 262,
+      "text": "vary",
+      "meaning": "(동) 변화를 주다, 다양화하다",
+      "sentence": "constantly vary your diet",
+      "sentenceMeaning": "끊임없이 너의 식단을 다양화하다",
+      "unit": 9
+    },
+    {
+      "serial": 263,
+      "text": "barter",
+      "meaning": "(동) 물물교환하다",
+      "sentence": "barter system",
+      "sentenceMeaning": "물물교환 시스템",
+      "unit": 9
+    },
+    {
+      "serial": 264,
+      "text": "barren",
+      "meaning": "(형) (땅이) 불모의, 메마른",
+      "sentence": "the barren landscapes",
+      "sentenceMeaning": "황량한 풍경",
+      "unit": 9
+    },
+    {
+      "serial": 265,
+      "text": "artificial",
+      "meaning": "(형) 인공적인, 인위적인",
+      "sentence": "artificial mothers",
+      "sentenceMeaning": "가짜의(인공의) 어미",
+      "unit": 9
+    },
+    {
+      "serial": 266,
+      "text": "classify",
+      "meaning": "(동) 분류하다",
+      "sentence": "name and classify plants",
+      "sentenceMeaning": "식물을 명명하고 분류하다",
+      "unit": 9
+    },
+    {
+      "serial": 267,
+      "text": "gratitude",
+      "meaning": "(명) 감사",
+      "sentence": "express gratitude",
+      "sentenceMeaning": "감사를 표현하다",
+      "unit": 9
+    },
+    {
+      "serial": 268,
+      "text": "terrify",
+      "meaning": "(동) 겁나게 하다, 놀래다",
+      "sentence": "the most terrifying experiences",
+      "sentenceMeaning": "가장 무시무시한 경험",
+      "unit": 9
+    },
+    {
+      "serial": 269,
+      "text": "contraction",
+      "meaning": "(명) 수축, 위축",
+      "sentence": "sustain repeated contractions",
+      "sentenceMeaning": "반복적인 수축을 견디다",
+      "unit": 9
+    },
+    {
+      "serial": 270,
+      "text": "possess ",
+      "meaning": "(동) 소유하다, 보유하다",
+      "sentence": "the creativity that children possess",
+      "sentenceMeaning": "아이들이 지닌 창의력",
+      "unit": 9
+    },
+    {
+      "serial": 271,
+      "text": "triumph",
+      "meaning": "(명) 승리",
+      "sentence": "triumph and failure",
+      "sentenceMeaning": "승리와 실패",
+      "unit": 10
+    },
+    {
+      "serial": 272,
+      "text": "liken",
+      "meaning": "(동) 비유하다, 견주다",
+      "sentence": "liken the eye to a camera",
+      "sentenceMeaning": "눈을 카메라에 비유하다",
+      "unit": 10
+    },
+    {
+      "serial": 273,
+      "text": "distress",
+      "meaning": "(명) 고통, 괴로움, 고충, 곤경",
+      "sentence": "cause distress in our relationships",
+      "sentenceMeaning": "우리 관계에 고통을 야기하다",
+      "unit": 10
+    },
+    {
+      "serial": 274,
+      "text": "likelihood",
+      "meaning": "(명) 있음직한 일, 가능성",
+      "sentence": "the great likelihood",
+      "sentenceMeaning": "큰 가능성",
+      "unit": 10
+    },
+    {
+      "serial": 275,
+      "text": "empower",
+      "meaning": "(동) 권한을 주다",
+      "sentence": "feel empowered",
+      "sentenceMeaning": "권한을 부여받았다고 느끼다",
+      "unit": 10
+    },
+    {
+      "serial": 276,
+      "text": "faulty",
+      "meaning": "(형) 결함 있는, 잘못된",
+      "sentence": "faulty electrical wiring",
+      "sentenceMeaning": "결함 있는 전선",
+      "unit": 10
+    },
+    {
+      "serial": 277,
+      "text": "alternative",
+      "meaning": "(명) 대안",
+      "sentence": "genuine alternative",
+      "sentenceMeaning": "진정한 선택",
+      "unit": 10
+    },
+    {
+      "serial": 278,
+      "text": "initiative",
+      "meaning": "(명) 계획, 주도권",
+      "sentence": "embrace fish welfare initiatives",
+      "sentenceMeaning": "물고기 후생사업 계획을 수용하다",
+      "unit": 10
+    },
+    {
+      "serial": 279,
+      "text": "resort",
+      "meaning": "(동) 의지하다, 호소하다",
+      "sentence": "resort to salesmanship",
+      "sentenceMeaning": "판매술에 의지하다",
+      "unit": 10
+    },
+    {
+      "serial": 280,
+      "text": "exert",
+      "meaning": "(동) 발휘하다, 행사하다",
+      "sentence": "by exerting a force",
+      "sentenceMeaning": "힘을 발휘함으로써",
+      "unit": 10
+    },
+    {
+      "serial": 281,
+      "text": "context",
+      "meaning": "(명) 문맥, 맥락, 상황",
+      "sentence": "in two social contexts",
+      "sentenceMeaning": "두 가지 사회적 맥락 속에서",
+      "unit": 10
+    },
+    {
+      "serial": 282,
+      "text": "local",
+      "meaning": "(형) 지방의, 고장의",
+      "sentence": "local conflict",
+      "sentenceMeaning": "지역적 갈등",
+      "unit": 10
+    },
+    {
+      "serial": 283,
+      "text": "abstract",
+      "meaning": "(형) 추상적인",
+      "sentence": "abstract subjects",
+      "sentenceMeaning": "추상적인 주제",
+      "unit": 10
+    },
+    {
+      "serial": 284,
+      "text": "biological",
+      "meaning": "(형) 생물학의",
+      "sentence": "the modern system of biological classification",
+      "sentenceMeaning": "생물학적 분류의 현대적 체계",
+      "unit": 10
+    },
+    {
+      "serial": 285,
+      "text": "bankrupt",
+      "meaning": "(동) 지급 불능으로 만들다, 파산시키다",
+      "sentence": "bankrupt the accounts",
+      "sentenceMeaning": "계좌를 지급 불능으로 만들다",
+      "unit": 10
+    },
+    {
+      "serial": 286,
+      "text": "stable",
+      "meaning": "(형) 안정된, 견고한",
+      "sentence": "a stable condition",
+      "sentenceMeaning": "안정된 환경",
+      "unit": 10
+    },
+    {
+      "serial": 287,
+      "text": "ancient",
+      "meaning": "(형) 고대의",
+      "sentence": "ancient Greek painter",
+      "sentenceMeaning": "고대 그리스 화가",
+      "unit": 10
+    },
+    {
+      "serial": 288,
+      "text": "ordinary",
+      "meaning": "(형) 보통의",
+      "sentence": "ordinary consumers",
+      "sentenceMeaning": "일반 소비자",
+      "unit": 10
+    },
+    {
+      "serial": 289,
+      "text": "coordinate",
+      "meaning": "(동) 조정하다, 조화시키다",
+      "sentence": "coordinate their actions",
+      "sentenceMeaning": "그들의 행동을 조정하다",
+      "unit": 10
+    },
+    {
+      "serial": 290,
+      "text": "summit",
+      "meaning": "(명) 정상, 꼭대기",
+      "sentence": "steepest at the summit",
+      "sentenceMeaning": "정상에서 가장 가파른",
+      "unit": 10
+    },
+    {
+      "serial": 291,
+      "text": "cooperation",
+      "meaning": "(명) 협력, 협동",
+      "sentence": "the minimal cooperation of children",
+      "sentenceMeaning": "아이들의 최소한의 협력",
+      "unit": 10
+    },
+    {
+      "serial": 292,
+      "text": "absent",
+      "meaning": "(형) 부재의, 결석의",
+      "sentence": "absent-mindedness",
+      "sentenceMeaning": "정신없는 상태",
+      "unit": 10
+    },
+    {
+      "serial": 293,
+      "text": "identical",
+      "meaning": "(형) 아주 동일한, 일치하는",
+      "sentence": "the identical claim",
+      "sentenceMeaning": "동일한 주장",
+      "unit": 10
+    },
+    {
+      "serial": 294,
+      "text": "legal",
+      "meaning": "(형) 법률상의",
+      "sentence": "legal authority",
+      "sentenceMeaning": "법적 권위",
+      "unit": 10
+    },
+    {
+      "serial": 295,
+      "text": "role",
+      "meaning": "(명) 역할, 임무",
+      "sentence": "their role models",
+      "sentenceMeaning": "그들의 역할 대상",
+      "unit": 10
+    },
+    {
+      "serial": 296,
+      "text": "electronic",
+      "meaning": "(형) 전자의",
+      "sentence": "electronic media",
+      "sentenceMeaning": "전자 매체",
+      "unit": 10
+    },
+    {
+      "serial": 297,
+      "text": "transmit",
+      "meaning": "(동) 보내다, 발송하다",
+      "sentence": "transmit speech and sounds",
+      "sentenceMeaning": "말과 소리를 전송하다",
+      "unit": 10
+    },
+    {
+      "serial": 298,
+      "text": "tragic",
+      "meaning": "(형) 비극의",
+      "sentence": "provide an extreme and tragic example",
+      "sentenceMeaning": "극단적이고 비극적인 사례를 제시하다",
+      "unit": 10
+    },
+    {
+      "serial": 299,
+      "text": "concentration",
+      "meaning": "(명) 집중",
+      "sentence": "poor concentration",
+      "sentenceMeaning": "약한 집중력",
+      "unit": 10
+    },
+    {
+      "serial": 300,
+      "text": "promise",
+      "meaning": "(명) 가능성, 전망",
+      "sentence": "with endless promises",
+      "sentenceMeaning": "끝없는 가능성과 함께",
+      "unit": 10
+    },
+    {
+      "serial": 301,
+      "text": "fuss",
+      "meaning": "(명) 공연한 소란",
+      "sentence": "make a fuss about trifles",
+      "sentenceMeaning": "하찮은 일에 소란을 떨다",
+      "unit": 11
+    },
+    {
+      "serial": 302,
+      "text": "facility",
+      "meaning": "(명) 편리함, 시설, 설비",
+      "sentence": "the quality ofthe roads and public facilities",
+      "sentenceMeaning": "도로와 공공 시설의 질",
+      "unit": 11
+    },
+    {
+      "serial": 303,
+      "text": "terminal",
+      "meaning": "(형) 말기의, 불치의, 더 이상 손을 쓸 수 없는",
+      "sentence": "seemingly terminal decline",
+      "sentenceMeaning": "외관상 가망 없는, 쇠퇴기",
+      "unit": 11
+    },
+    {
+      "serial": 304,
+      "text": "fragment",
+      "meaning": "(명) 파편, 조각",
+      "sentence": "fragments from old songs",
+      "sentenceMeaning": "오랜 된 노래의 부분들",
+      "unit": 11
+    },
+    {
+      "serial": 305,
+      "text": "detached",
+      "meaning": "(형) 떨어진, 분리한",
+      "sentence": "connected yet detached in virtuality",
+      "sentenceMeaning": "가상에서 관계를 맺었지만 분리된",
+      "unit": 11
+    },
+    {
+      "serial": 306,
+      "text": "soak",
+      "meaning": "(동) 담그다, 흠뻑 적시다",
+      "sentence": "your clothes soaked",
+      "sentenceMeaning": "흠뻑 젖은 너의 옷",
+      "unit": 11
+    },
+    {
+      "serial": 307,
+      "text": "expertise",
+      "meaning": "(명) 전문 지식",
+      "sentence": "expertise in multiple area",
+      "sentenceMeaning": "여러 분야에서 전문지식",
+      "unit": 11
+    },
+    {
+      "serial": 308,
+      "text": "intolerable",
+      "meaning": "(형) 견딜 수 없는",
+      "sentence": "an intolerable state",
+      "sentenceMeaning": "참을 수 없는 상태",
+      "unit": 11
+    },
+    {
+      "serial": 309,
+      "text": "superstition",
+      "meaning": "(명) 미신",
+      "sentence": "ancient superstition",
+      "sentenceMeaning": "고대의 미신",
+      "unit": 11
+    },
+    {
+      "serial": 310,
+      "text": "commitment",
+      "meaning": "(명) 약속, 전념, 헌신",
+      "sentence": "their commitment to positive behavior",
+      "sentenceMeaning": "바람직한 행동에 대한 그들의 몰두",
+      "unit": 11
+    },
+    {
+      "serial": 311,
+      "text": "compensate",
+      "meaning": "(동) 보상하다",
+      "sentence": "compensate her for the damage",
+      "sentenceMeaning": "손상에 대해 그녀에게 보상하다",
+      "unit": 11
+    },
+    {
+      "serial": 312,
+      "text": "dismiss",
+      "meaning": "(동) 묵살하다, 해고하다",
+      "sentence": "dismiss the argument",
+      "sentenceMeaning": "주장을 묵살하다",
+      "unit": 11
+    },
+    {
+      "serial": 313,
+      "text": "diffusion",
+      "meaning": "(명) 확산, 전파",
+      "sentence": "the extent of diffusion",
+      "sentenceMeaning": "확산의 범위",
+      "unit": 11
+    },
+    {
+      "serial": 314,
+      "text": "enthusiastic ",
+      "meaning": "(형) 열정적인",
+      "sentence": "enthusiastic support",
+      "sentenceMeaning": "열정적인 후원",
+      "unit": 11
+    },
+    {
+      "serial": 315,
+      "text": "negotiation",
+      "meaning": "(명) 협상, 교섭",
+      "sentence": "during the Kyoto negotiation",
+      "sentenceMeaning": "교토 협약 기간 중",
+      "unit": 11
+    },
+    {
+      "serial": 316,
+      "text": "monotonous",
+      "meaning": "(형) 단조로운",
+      "sentence": "monotonous experience",
+      "sentenceMeaning": "단조로운 경험",
+      "unit": 11
+    },
+    {
+      "serial": 317,
+      "text": "currency",
+      "meaning": "(명) 통화, 화폐",
+      "sentence": "currency: coins and bills",
+      "sentenceMeaning": "현금인 동전이나 지폐",
+      "unit": 11
+    },
+    {
+      "serial": 318,
+      "text": "reflection",
+      "meaning": "(명) 반사, 반영, 반성",
+      "sentence": "a reflection of its powerful strength",
+      "sentenceMeaning": "그것의 강력한 힘의 반영",
+      "unit": 11
+    },
+    {
+      "serial": 319,
+      "text": "omit",
+      "meaning": "(동) 빼다, 빠뜨리다, 생략하다",
+      "sentence": "omit a word",
+      "sentenceMeaning": "한 단어를 생략하다",
+      "unit": 11
+    },
+    {
+      "serial": 320,
+      "text": "artifact",
+      "meaning": "(명) 인공물, 가공품",
+      "sentence": "physical artifacts",
+      "sentenceMeaning": "물리적인 인공물",
+      "unit": 11
+    },
+    {
+      "serial": 321,
+      "text": "community",
+      "meaning": "(명) 지역사회",
+      "sentence": "community baseball team",
+      "sentenceMeaning": "지역사회 야구팀",
+      "unit": 11
+    },
+    {
+      "serial": 322,
+      "text": "sequence",
+      "meaning": "(명) 연속적인 사건들, 순서",
+      "sentence": "have connection and sequence",
+      "sentenceMeaning": "연관성과 순서를 가지다",
+      "unit": 11
+    },
+    {
+      "serial": 323,
+      "text": "evolve",
+      "meaning": "(동) 발전하다, 진화하다",
+      "sentence": "evolved form of humanity",
+      "sentenceMeaning": "인류의 진화된 형태",
+      "unit": 11
+    },
+    {
+      "serial": 324,
+      "text": "account",
+      "meaning": "(명) 계좌, 장부, 설명",
+      "sentence": "open a bank account",
+      "sentenceMeaning": "은행 계좌를 개설하다",
+      "unit": 11
+    },
+    {
+      "serial": 325,
+      "text": "annual",
+      "meaning": "(형) 매의, 연례의",
+      "sentence": "annual change",
+      "sentenceMeaning": "해마다의 변화",
+      "unit": 11
+    },
+    {
+      "serial": 326,
+      "text": "narrow",
+      "meaning": "(형) 폭이 좁은",
+      "sentence": "a narrow range",
+      "sentenceMeaning": "좁은 범위",
+      "unit": 11
+    },
+    {
+      "serial": 327,
+      "text": "breakdown",
+      "meaning": "(명) 고장, 파손",
+      "sentence": "breakdown of a bus",
+      "sentenceMeaning": "버스의 고장",
+      "unit": 11
+    },
+    {
+      "serial": 328,
+      "text": "drought",
+      "meaning": "(명) 가뭄",
+      "sentence": "the drought victims",
+      "sentenceMeaning": "가뭄의 희생자",
+      "unit": 11
+    },
+    {
+      "serial": 329,
+      "text": "removal",
+      "meaning": "(명) 제거, 철수",
+      "sentence": "dirt removal",
+      "sentenceMeaning": "먼지 제거",
+      "unit": 11
+    },
+    {
+      "serial": 330,
+      "text": "modest",
+      "meaning": "(형) 겸손한, 알맞은",
+      "sentence": "modest house",
+      "sentenceMeaning": "적당한 집",
+      "unit": 12
+    },
+    {
+      "serial": 331,
+      "text": "solve",
+      "meaning": "(동) 해결하다",
+      "sentence": "solve problems",
+      "sentenceMeaning": "문제를 해결하다",
+      "unit": 12
+    },
+    {
+      "serial": 332,
+      "text": "navigate",
+      "meaning": "(동) 길을 찾다, 항해하다",
+      "sentence": "navigate while driving",
+      "sentenceMeaning": "운전하는 동안 길을 찾다",
+      "unit": 12
+    },
+    {
+      "serial": 333,
+      "text": "device",
+      "meaning": "(명) 장치, 설비",
+      "sentence": "electric device",
+      "sentenceMeaning": "전자 장치",
+      "unit": 12
+    },
+    {
+      "serial": 334,
+      "text": "awesome",
+      "meaning": "(형) 엄청난, 굉장한",
+      "sentence": "the awesome feeling",
+      "sentenceMeaning": "굉장한 느낌",
+      "unit": 12
+    },
+    {
+      "serial": 335,
+      "text": "trigger",
+      "meaning": "(동) 일으키다, 유발하다",
+      "sentence": "trigger the problems",
+      "sentenceMeaning": "문제들을 일으키다",
+      "unit": 12
+    },
+    {
+      "serial": 336,
+      "text": "command",
+      "meaning": "(명) 지휘(권), 지배(권)",
+      "sentence": "someone in command",
+      "sentenceMeaning": "지휘하는 누군가",
+      "unit": 12
+    },
+    {
+      "serial": 337,
+      "text": "profound",
+      "meaning": "(형) 뜻 깊은, 심오한",
+      "sentence": "profound knowledge",
+      "sentenceMeaning": "심오한 지식",
+      "unit": 12
+    },
+    {
+      "serial": 338,
+      "text": "input",
+      "meaning": "(명) 투입, 참여",
+      "sentence": "local citizen input and knowledge",
+      "sentenceMeaning": "지역 주민의 참여나 지식",
+      "unit": 12
+    },
+    {
+      "serial": 339,
+      "text": "property",
+      "meaning": "(명) 재산",
+      "sentence": "property crime",
+      "sentenceMeaning": "재산 범죄",
+      "unit": 12
+    },
+    {
+      "serial": 340,
+      "text": "virtually",
+      "meaning": "(부) 사실상, 실질적으로",
+      "sentence": "virtually impossible plan",
+      "sentenceMeaning": "사실상 불가능한 계획",
+      "unit": 12
+    },
+    {
+      "serial": 341,
+      "text": "identity",
+      "meaning": "(명) 신원, 신분, 정체, 일체성",
+      "sentence": "ethnic identity",
+      "sentenceMeaning": "인종적 정체성",
+      "unit": 12
+    },
+    {
+      "serial": 342,
+      "text": "extend ",
+      "meaning": "(동) 연장하다",
+      "sentence": "extend his arm",
+      "sentenceMeaning": "그의 팔을 늘리다",
+      "unit": 12
+    },
+    {
+      "serial": 343,
+      "text": "geometry",
+      "meaning": "(명) 기하학",
+      "sentence": "geometry problems",
+      "sentenceMeaning": "기하학 문제",
+      "unit": 12
+    },
+    {
+      "serial": 344,
+      "text": "adversity",
+      "meaning": "(명) 역경, 불행",
+      "sentence": "great adversity",
+      "sentenceMeaning": "커다란 역경",
+      "unit": 12
+    },
+    {
+      "serial": 345,
+      "text": "transaction",
+      "meaning": "(명) (업무) 처리, 거래",
+      "sentence": "transaction between companies",
+      "sentenceMeaning": "기업 간의 거래",
+      "unit": 12
+    },
+    {
+      "serial": 346,
+      "text": "occasion",
+      "meaning": "(명) (특정한) 경우, 때",
+      "sentence": "special occasion",
+      "sentenceMeaning": "특별한 행사",
+      "unit": 12
+    },
+    {
+      "serial": 347,
+      "text": " look forward to",
+      "meaning": "~를 고대하다",
+      "sentence": "look forward to your response",
+      "sentenceMeaning": "당신의 답변을 고대하다 look forward to ~를 고대하다",
+      "unit": 12
+    },
+    {
+      "serial": 348,
+      "text": "dominate",
+      "meaning": "(동) 지배하다, 통치하다",
+      "sentence": "dominate their awareness",
+      "sentenceMeaning": "그들의 의식을 지배하다",
+      "unit": 12
+    },
+    {
+      "serial": 349,
+      "text": "precise",
+      "meaning": "(형) 정밀한, 정확한",
+      "sentence": "the precise frequencies",
+      "sentenceMeaning": "정확한 진동수",
+      "unit": 12
+    },
+    {
+      "serial": 350,
+      "text": "supposedly",
+      "meaning": "(부) 추측건데, 아마도",
+      "sentence": "is supposedly diminished",
+      "sentenceMeaning": "추측건데 감소되다",
+      "unit": 12
+    },
+    {
+      "serial": 351,
+      "text": "crucially",
+      "meaning": "(부) 결정적으로",
+      "sentence": "becomes crucially important",
+      "sentenceMeaning": "매우 중요해지다",
+      "unit": 12
+    },
+    {
+      "serial": 352,
+      "text": "determination",
+      "meaning": "(명) 결심, 결단력",
+      "sentence": "firm determination",
+      "sentenceMeaning": "확고한 결심",
+      "unit": 12
+    },
+    {
+      "serial": 353,
+      "text": "glance",
+      "meaning": "(명) 흘긋 봄, 한 번 봄",
+      "sentence": "a glance at the shelves",
+      "sentenceMeaning": "선반을 슬쩍 보기만 함",
+      "unit": 12
+    },
+    {
+      "serial": 354,
+      "text": "uphold",
+      "meaning": "(동) 떠받치다, (들어)올리다",
+      "sentence": "the positive instances that uphold it",
+      "sentenceMeaning": "그것을 뒷받침하는 긍정적인 예",
+      "unit": 12
+    },
+    {
+      "serial": 355,
+      "text": "inherent ",
+      "meaning": "(형) 내재하는, 고유한",
+      "sentence": "the inherent ambiguity and adaptability of language",
+      "sentenceMeaning": "언어의 고유한 모호성과 적응성",
+      "unit": 12
+    },
+    {
+      "serial": 356,
+      "text": "reflect",
+      "meaning": "(동) 반영하다, 나타내다",
+      "sentence": "reflect human achievements",
+      "sentenceMeaning": "인간의 업적을 반영하다",
+      "unit": 12
+    },
+    {
+      "serial": 357,
+      "text": "resilience",
+      "meaning": "(명) 회복력, 복원력",
+      "sentence": "build positive resilience",
+      "sentenceMeaning": "긍정적인 회복력을 키우다",
+      "unit": 12
+    },
+    {
+      "serial": 358,
+      "text": "physiology",
+      "meaning": "(명) 생리학, 생리 기능",
+      "sentence": "the systems in animal physiology",
+      "sentenceMeaning": "동물의 생리 체계",
+      "unit": 12
+    },
+    {
+      "serial": 359,
+      "text": "outcome",
+      "meaning": "(명) 결과",
+      "sentence": "have control of the outcome",
+      "sentenceMeaning": "결과를 통제하다",
+      "unit": 12
+    },
+    {
+      "serial": 360,
+      "text": "take ~ for granted",
+      "meaning": "~을 당연시하다",
+      "sentence": "take it for granted that~",
+      "sentenceMeaning": "~를 당연시하다 take ~ for granted ~을 당연시하다",
+      "unit": 13
+    },
+    {
+      "serial": 361,
+      "text": "masterpiece",
+      "meaning": "(명) 걸작",
+      "sentence": "the public's opinions of the masterpiece",
+      "sentenceMeaning": "걸작에 대한 대중의 의견",
+      "unit": 13
+    },
+    {
+      "serial": 362,
+      "text": "retrospect",
+      "meaning": "(명) 회고, 회상",
+      "sentence": "in retrospect",
+      "sentenceMeaning": "돌이켜 생각해보면",
+      "unit": 13
+    },
+    {
+      "serial": 363,
+      "text": "faint",
+      "meaning": "(형) 어렴풋한, (빛이) 희미한",
+      "sentence": "the faint scent of pine",
+      "sentenceMeaning": "옅은 소나무 향",
+      "unit": 13
+    },
+    {
+      "serial": 364,
+      "text": "refute",
+      "meaning": "(동) 반박하다, 이의를 제기하다",
+      "sentence": "the evidence that refutes it",
+      "sentenceMeaning": "그것에 반대되는 증거",
+      "unit": 13
+    },
+    {
+      "serial": 365,
+      "text": "put off",
+      "meaning": "연기하다",
+      "sentence": "put off doing his report",
+      "sentenceMeaning": "그의 과제 작성을 연기하다 put off 연기하다",
+      "unit": 13
+    },
+    {
+      "serial": 366,
+      "text": "crucial",
+      "meaning": "(형) 결정적인, 중대한",
+      "sentence": "crucial decisions",
+      "sentenceMeaning": "중요한 결정",
+      "unit": 13
+    },
+    {
+      "serial": 367,
+      "text": "permanent",
+      "meaning": "(형) 영구적인, 영속적인",
+      "sentence": "jobs may not be permanent",
+      "sentenceMeaning": "직업들은 영원하지 않을 것이다",
+      "unit": 13
+    },
+    {
+      "serial": 368,
+      "text": "remark",
+      "meaning": "(명) 발언, 말, 언급(동) 말하다, 언급하다",
+      "sentence": "witty remarks",
+      "sentenceMeaning": "재치 있는 말",
+      "unit": 13
+    },
+    {
+      "serial": 369,
+      "text": "duration",
+      "meaning": "(명) 내구, 지속",
+      "sentence": "the duration of the flight",
+      "sentenceMeaning": "비행의 지속",
+      "unit": 13
+    },
+    {
+      "serial": 370,
+      "text": "serious",
+      "meaning": "(형) 진지한, 심각한",
+      "sentence": "serious environmental changes",
+      "sentenceMeaning": "심각한 환경의 변화들",
+      "unit": 13
+    },
+    {
+      "serial": 371,
+      "text": "fund",
+      "meaning": "(명) 자금, 기금",
+      "sentence": "a fund-raising party",
+      "sentenceMeaning": "기금모금 파티",
+      "unit": 13
+    },
+    {
+      "serial": 372,
+      "text": "ease",
+      "meaning": "(동) (아픔을) 덜다, 완화하다",
+      "sentence": "ease the tension",
+      "sentenceMeaning": "긴장을 풀다",
+      "unit": 13
+    },
+    {
+      "serial": 373,
+      "text": "vegetarian",
+      "meaning": "(명) 채식주의자",
+      "sentence": "a vegetarian meal",
+      "sentenceMeaning": "채식주의자용 식사",
+      "unit": 13
+    },
+    {
+      "serial": 374,
+      "text": "sensible",
+      "meaning": "(형) 분별력 있는",
+      "sentence": "sensible investment",
+      "sentenceMeaning": "분별력 있는 투자",
+      "unit": 13
+    },
+    {
+      "serial": 375,
+      "text": "consistent ",
+      "meaning": "(형) 일관된, 지속적인",
+      "sentence": "consistent research finding",
+      "sentenceMeaning": "일관된 연구 발견",
+      "unit": 13
+    },
+    {
+      "serial": 376,
+      "text": "temporary",
+      "meaning": "(형) 일시의",
+      "sentence": "a temporary remedy",
+      "sentenceMeaning": "일시적 치료",
+      "unit": 13
+    },
+    {
+      "serial": 377,
+      "text": "neutral",
+      "meaning": "(형) 중립의",
+      "sentence": "neutral territory",
+      "sentenceMeaning": "중립 지역",
+      "unit": 13
+    },
+    {
+      "serial": 378,
+      "text": "polar",
+      "meaning": "(형) 북극[남극]의, 극지의",
+      "sentence": "polar bears",
+      "sentenceMeaning": "북극곰",
+      "unit": 13
+    },
+    {
+      "serial": 379,
+      "text": "ray",
+      "meaning": "(명) 광선",
+      "sentence": "focus light rays",
+      "sentenceMeaning": "광선을 집중시키다",
+      "unit": 13
+    },
+    {
+      "serial": 380,
+      "text": "stick to",
+      "meaning": "(동) 충실하다, 고집하다",
+      "sentence": "stick to academics",
+      "sentenceMeaning": "학문을 고집하다 stick to (동) 충실하다, 고집하다",
+      "unit": 13
+    },
+    {
+      "serial": 381,
+      "text": "ritual",
+      "meaning": "(명) (종교적)의식, 예배식",
+      "sentence": "the physical environment and setting for a particular social ritual",
+      "sentenceMeaning": "특정한 사회 의식을 위한 물리적 환경과 장소",
+      "unit": 13
+    },
+    {
+      "serial": 382,
+      "text": "dread",
+      "meaning": "(동) 두려워하다, 무서워하다",
+      "sentence": "dread going into his classroom",
+      "sentenceMeaning": "그의 교실에 들어가는 것을 두려워하다",
+      "unit": 13
+    },
+    {
+      "serial": 383,
+      "text": "interfere",
+      "meaning": "(동) 간섭하다, 방해하다",
+      "sentence": "approve of the child's play without interfering",
+      "sentenceMeaning": "간섭하지 말고 아이의 놀이를 인정하다",
+      "unit": 13
+    },
+    {
+      "serial": 384,
+      "text": "rigid",
+      "meaning": "(형) 엄격한",
+      "sentence": "the rigid social control",
+      "sentenceMeaning": "엄격한 사회적 통제",
+      "unit": 13
+    },
+    {
+      "serial": 385,
+      "text": "hypothesis",
+      "meaning": "(명) 가설, 가정",
+      "sentence": "the kinship-based alarm-calling hypothesis",
+      "sentenceMeaning": "친족에 근거한 경고음 가설",
+      "unit": 13
+    },
+    {
+      "serial": 386,
+      "text": "seek",
+      "meaning": "(동) 구하다, 추구하다",
+      "sentence": "seek to understand",
+      "sentenceMeaning": "이해하려고 추구하다",
+      "unit": 13
+    },
+    {
+      "serial": 387,
+      "text": "sacrifice",
+      "meaning": "(명) 희생 (동) 희생하다",
+      "sentence": "sacrifice happiness for money",
+      "sentenceMeaning": "돈을 위해 행복을 희생하다",
+      "unit": 13
+    },
+    {
+      "serial": 388,
+      "text": "phenomenon",
+      "meaning": "(명) 현상",
+      "sentence": "a phenomenon of global warming",
+      "sentenceMeaning": "지구 온난화 현상",
+      "unit": 13
+    },
+    {
+      "serial": 389,
+      "text": "composer",
+      "meaning": "(명) 작곡가, 구성자",
+      "sentence": "a modern music composer",
+      "sentenceMeaning": "현대 음악 작곡가",
+      "unit": 13
+    },
+    {
+      "serial": 390,
+      "text": "perspective",
+      "meaning": "(명) 관점, 시각, 균형감, 원근법",
+      "sentence": "perspective using geometry",
+      "sentenceMeaning": "기하학을 사용한 원근법",
+      "unit": 13
+    },
+    {
+      "serial": 391,
+      "text": "dormant",
+      "meaning": "(형) 잠자는, 정지한",
+      "sentence": "remain dormant for months",
+      "sentenceMeaning": "여러 달을 휴면 상태로 남아 있다",
+      "unit": 14
+    },
+    {
+      "serial": 392,
+      "text": "reference",
+      "meaning": "(명) 언급, 참조, 참고",
+      "sentence": "reference to the passage of time",
+      "sentenceMeaning": "시간의 경과에 대한 언급",
+      "unit": 14
+    },
+    {
+      "serial": 393,
+      "text": "parasitic",
+      "meaning": "(형) 기생하는, 기생충의",
+      "sentence": "parasitic relationship",
+      "sentenceMeaning": "기생관계",
+      "unit": 14
+    },
+    {
+      "serial": 394,
+      "text": "mutual",
+      "meaning": "(형) 서로의, 상호간의",
+      "sentence": "mutual agreement",
+      "sentenceMeaning": "상호 동의",
+      "unit": 14
+    },
+    {
+      "serial": 395,
+      "text": "welfare",
+      "meaning": "(명) 복지, 후생",
+      "sentence": "social welfare",
+      "sentenceMeaning": "사회 복지",
+      "unit": 14
+    },
+    {
+      "serial": 396,
+      "text": "be charged with ~",
+      "meaning": " ~로 가득 채워지다, ~한 책임을 맡고 있다",
+      "sentence": "be charged with a task",
+      "sentenceMeaning": "일의 책임을 맡고 있다 be charged with ~로 가득 채워지다,",
+      "unit": 14
+    },
+    {
+      "serial": 397,
+      "text": "dispersal",
+      "meaning": "(명) 분산, 확산",
+      "sentence": "this male-biased dispersal",
+      "sentenceMeaning": "이러한 수컷에 편향된 분산",
+      "unit": 14
+    },
+    {
+      "serial": 398,
+      "text": "outlook",
+      "meaning": "(명) 관점, 세계관, 전망",
+      "sentence": "his mental outlook",
+      "sentenceMeaning": "그의 정신적 세계관",
+      "unit": 14
+    },
+    {
+      "serial": 399,
+      "text": "testimony",
+      "meaning": "(명) 증언",
+      "sentence": "testimony from members",
+      "sentenceMeaning": "구성원들의 증언",
+      "unit": 14
+    },
+    {
+      "serial": 400,
+      "text": "literally",
+      "meaning": "(부) 문자(말) 그대로",
+      "sentence": "both symbolically and literally",
+      "sentenceMeaning": "상징적으로 그리고 말 그대로",
+      "unit": 14
+    },
+    {
+      "serial": 401,
+      "text": "adjust",
+      "meaning": "(동) 맞추다, 조정하다",
+      "sentence": "a means of adjusting the focus",
+      "sentenceMeaning": "초점을 조절할 수 있는 수단",
+      "unit": 14
+    },
+    {
+      "serial": 402,
+      "text": "diverse ",
+      "meaning": "(형) 다양한",
+      "sentence": "culturally diverse students",
+      "sentenceMeaning": "문화적으로 다양한 학생들",
+      "unit": 14
+    },
+    {
+      "serial": 403,
+      "text": "absorb",
+      "meaning": "(동) 흡수하다",
+      "sentence": "absorb heat",
+      "sentenceMeaning": "열기를 흡수하다",
+      "unit": 14
+    },
+    {
+      "serial": 404,
+      "text": "account for",
+      "meaning": "설명하다, 차지하다",
+      "sentence": "account for over 40%",
+      "sentenceMeaning": "40% 이상을 차지하다 account for 설명하다, 차지하다",
+      "unit": 14
+    },
+    {
+      "serial": 405,
+      "text": "mature",
+      "meaning": "(형) 어른스러운, 숙성된(동) 성숙하다",
+      "sentence": "mature in their natal area",
+      "sentenceMeaning": "그들이 태어난 곳에서 자라다",
+      "unit": 14
+    },
+    {
+      "serial": 406,
+      "text": "prone",
+      "meaning": "(형) ~하기 쉬운, ~의 경향이 있는",
+      "sentence": "be prone to anxieties",
+      "sentenceMeaning": "걱정에 빠지기 쉽다",
+      "unit": 14
+    },
+    {
+      "serial": 407,
+      "text": "asset",
+      "meaning": "(명) 자산, 재산",
+      "sentence": "abundant assets",
+      "sentenceMeaning": "풍부한 자산",
+      "unit": 14
+    },
+    {
+      "serial": 408,
+      "text": "tropical",
+      "meaning": "(형) 열대지방의",
+      "sentence": "the tropical island",
+      "sentenceMeaning": "열대지역 섬",
+      "unit": 14
+    },
+    {
+      "serial": 409,
+      "text": "obscure",
+      "meaning": "(동) 보기 어렵게 하다, 모호하게 하다",
+      "sentence": "obscure the fundamental difference",
+      "sentenceMeaning": "근본적인 차이를 모호하게 하다",
+      "unit": 14
+    },
+    {
+      "serial": 410,
+      "text": "offend ",
+      "meaning": "(동) 기분 상하게 하다",
+      "sentence": "offend the hearer",
+      "sentenceMeaning": "듣는 사람을 기분 상하게 하다",
+      "unit": 14
+    },
+    {
+      "serial": 411,
+      "text": "conference",
+      "meaning": "(명) 회담, 협의",
+      "sentence": "international Tourism Conference",
+      "sentenceMeaning": "국제 관광사업 회의",
+      "unit": 14
+    },
+    {
+      "serial": 412,
+      "text": "nuclear",
+      "meaning": "(형) 핵의",
+      "sentence": "nuclear-explosion test",
+      "sentenceMeaning": "핵폭발 실험",
+      "unit": 14
+    },
+    {
+      "serial": 413,
+      "text": "scheme ",
+      "meaning": "(명) 계획, 제도",
+      "sentence": "scheme of nature",
+      "sentenceMeaning": "자연의 계획",
+      "unit": 14
+    },
+    {
+      "serial": 414,
+      "text": "competitive",
+      "meaning": "(형) 경쟁의",
+      "sentence": "competitive swimming strokes",
+      "sentenceMeaning": "경쟁을 벌이는 수영 영법",
+      "unit": 14
+    },
+    {
+      "serial": 415,
+      "text": "deterioration",
+      "meaning": "(명) 악화, 하락, 저하",
+      "sentence": "further deterioration of the soil",
+      "sentenceMeaning": "토양 질의 추가적인 악화",
+      "unit": 14
+    },
+    {
+      "serial": 416,
+      "text": "proper",
+      "meaning": "(형) 적당한",
+      "sentence": "proper understanding",
+      "sentenceMeaning": "적절한 이해",
+      "unit": 14
+    },
+    {
+      "serial": 417,
+      "text": "successive",
+      "meaning": "(형) 잇따른, 연속하는",
+      "sentence": "four successive marriages",
+      "sentenceMeaning": "네 번의 연속된 결혼",
+      "unit": 14
+    },
+    {
+      "serial": 418,
+      "text": "private",
+      "meaning": "(형) 사적인, 개인에 속하는",
+      "sentence": "about the public and private self",
+      "sentenceMeaning": "공적 자아와 사적 자아에 관해",
+      "unit": 14
+    },
+    {
+      "serial": 419,
+      "text": "valid",
+      "meaning": "(형) 유효한, 근거가 확실한",
+      "sentence": "university students with a valid ID",
+      "sentenceMeaning": "유효한 신분증이 있는 대학생",
+      "unit": 14
+    },
+    {
+      "serial": 420,
+      "text": "pupil",
+      "meaning": "(명) 학생, 문하생",
+      "sentence": "the parents of the pupils",
+      "sentenceMeaning": "학부모",
+      "unit": 14
+    },
+    {
+      "serial": 421,
+      "text": "attachment",
+      "meaning": "(명) 접착, 애정, 애착",
+      "sentence": "form attachments to certain clothes",
+      "sentenceMeaning": "특정 옷에 대한 애정을 형성하다",
+      "unit": 15
+    },
+    {
+      "serial": 422,
+      "text": "paradox",
+      "meaning": "(명) 역설",
+      "sentence": "incomprehensible paradox",
+      "sentenceMeaning": "이해할 수 없는 역설",
+      "unit": 15
+    },
+    {
+      "serial": 423,
+      "text": "intervention",
+      "meaning": "(명) 중재, 간섭",
+      "sentence": "the intervention of the camera",
+      "sentenceMeaning": "카메라의 개입",
+      "unit": 15
+    },
+    {
+      "serial": 424,
+      "text": "salient ",
+      "meaning": "(형) 가장 중요한, 핵심적인",
+      "sentence": "the salient object",
+      "sentenceMeaning": "중요한 물체",
+      "unit": 15
+    },
+    {
+      "serial": 425,
+      "text": "execute",
+      "meaning": "(동) (계획 따위를) 실행하다, 실시하다",
+      "sentence": "execute a plan",
+      "sentenceMeaning": "계획을 실행하다",
+      "unit": 15
+    },
+    {
+      "serial": 426,
+      "text": "expand",
+      "meaning": "(동) 넓히다, 확장하다",
+      "sentence": "expand the production frontier",
+      "sentenceMeaning": "생산의 경계를 확장하다",
+      "unit": 15
+    },
+    {
+      "serial": 427,
+      "text": "maintain",
+      "meaning": "(동) 유지하다",
+      "sentence": "maintain human progress",
+      "sentenceMeaning": "인간의 발전을 유지하다",
+      "unit": 15
+    },
+    {
+      "serial": 428,
+      "text": "precipitation",
+      "meaning": "(명) 낙하, 강수량",
+      "sentence": "slight precipitation",
+      "sentenceMeaning": "적은 강수량",
+      "unit": 15
+    },
+    {
+      "serial": 429,
+      "text": "fulfill",
+      "meaning": "(동) 이행하다, 완수하다",
+      "sentence": "fulfill roles",
+      "sentenceMeaning": "역할을 이행하다",
+      "unit": 15
+    },
+    {
+      "serial": 430,
+      "text": "regardless of",
+      "meaning": "~에 관계없이",
+      "sentence": "regardless of your age",
+      "sentenceMeaning": "나이와 상관없이 regardless of ~에 관계없이",
+      "unit": 15
+    },
+    {
+      "serial": 431,
+      "text": "sophisticated",
+      "meaning": "(형) 정교한, 세련된, 고급의",
+      "sentence": "use pretty sophisticated language",
+      "sentenceMeaning": "꽤 정교한 언어를 사용하다",
+      "unit": 15
+    },
+    {
+      "serial": 432,
+      "text": "beneficial",
+      "meaning": "(형) 유익한, 수익을 얻는",
+      "sentence": "not beneficial to science",
+      "sentenceMeaning": "과학에는 이롭지 못한",
+      "unit": 15
+    },
+    {
+      "serial": 433,
+      "text": "verbal",
+      "meaning": "(형) 말의, 구두의",
+      "sentence": "verbal contract",
+      "sentenceMeaning": "구두 계약",
+      "unit": 15
+    },
+    {
+      "serial": 434,
+      "text": "exceed",
+      "meaning": "(동) (수량·정도를) 넘다, 초과하다",
+      "sentence": "exceed supply",
+      "sentenceMeaning": "공급을 초과하다",
+      "unit": 15
+    },
+    {
+      "serial": 435,
+      "text": "dwindle",
+      "meaning": "(동) 줄다, 작아지다",
+      "sentence": "the company’s dwindling revenue",
+      "sentenceMeaning": "회사의 감소되는 수익",
+      "unit": 15
+    },
+    {
+      "serial": 436,
+      "text": "intense",
+      "meaning": "(형) 맹렬한, 강렬한",
+      "sentence": "intense programs of strength training",
+      "sentenceMeaning": "체력 훈련 집중 프로그램",
+      "unit": 15
+    },
+    {
+      "serial": 437,
+      "text": "evaluate",
+      "meaning": "(동) 평가하다",
+      "sentence": "have your work evaluated",
+      "sentenceMeaning": "당신의 작품을 평가받다",
+      "unit": 15
+    },
+    {
+      "serial": 438,
+      "text": "vice versa",
+      "meaning": "반대로, 거꾸로, 반대로도또한 같음",
+      "sentence": "rather than vice versa",
+      "sentenceMeaning": "그 반대의 경우보다는",
+      "unit": 15
+    },
+    {
+      "serial": 439,
+      "text": "astronomical",
+      "meaning": "(형) 천문학의",
+      "sentence": "astronomical show",
+      "sentenceMeaning": "천문학의 구경거리",
+      "unit": 15
+    },
+    {
+      "serial": 440,
+      "text": "starve",
+      "meaning": "(동) 굶주리다, 굶어죽다",
+      "sentence": "starving children",
+      "sentenceMeaning": "굶주리는 아이들",
+      "unit": 15
+    },
+    {
+      "serial": 441,
+      "text": "candidate",
+      "meaning": "(명) 후보자, 지원자",
+      "sentence": "attractive candidates",
+      "sentenceMeaning": "매력적인 후보자들",
+      "unit": 15
+    },
+    {
+      "serial": 442,
+      "text": "anticipate",
+      "meaning": "(동) 예상하다",
+      "sentence": "for an anticipated threat",
+      "sentenceMeaning": "예상된 위협에 대해",
+      "unit": 15
+    },
+    {
+      "serial": 443,
+      "text": "essential",
+      "meaning": "(형) 근본적인, 필수의",
+      "sentence": "essential skill",
+      "sentenceMeaning": "꼭 필요한 기술",
+      "unit": 15
+    },
+    {
+      "serial": 444,
+      "text": "financial",
+      "meaning": "(형) 재정상의",
+      "sentence": "financial crisis",
+      "sentenceMeaning": "재정적 위기",
+      "unit": 15
+    },
+    {
+      "serial": 445,
+      "text": "elaborate",
+      "meaning": "(형) 공들인, 정교한",
+      "sentence": "an elaborate design",
+      "sentenceMeaning": "정교한 디자인",
+      "unit": 15
+    },
+    {
+      "serial": 446,
+      "text": "nutrient",
+      "meaning": "(명) 영양소, 영양제",
+      "sentence": "rich in minerals and nutrients",
+      "sentenceMeaning": "광물과 양분이 풍부한",
+      "unit": 15
+    },
+    {
+      "serial": 447,
+      "text": "consumption",
+      "meaning": "(명) 소비, 소모",
+      "sentence": "the consumption of rice",
+      "sentenceMeaning": "쌀의 소비",
+      "unit": 15
+    },
+    {
+      "serial": 448,
+      "text": "apology",
+      "meaning": "(명) 사과, 변명",
+      "sentence": "one reason apologies fail",
+      "sentenceMeaning": "사과가 실패한 하나의 이유",
+      "unit": 15
+    },
+    {
+      "serial": 449,
+      "text": "interaction",
+      "meaning": "(명) 상호 작용",
+      "sentence": "your daily interaction",
+      "sentenceMeaning": "너의 매일의 상호 작용",
+      "unit": 15
+    },
+    {
+      "serial": 450,
+      "text": "output",
+      "meaning": "(명) 산출, 생산",
+      "sentence": "total output",
+      "sentenceMeaning": "전체 생산",
+      "unit": 15
+    },
+    {
+      "serial": 451,
+      "text": "reaction",
+      "meaning": "(명) 반응, 반작용",
+      "sentence": "negative reaction",
+      "sentenceMeaning": "부정적인 반응",
+      "unit": 16
+    },
+    {
+      "serial": 452,
+      "text": "volunteer",
+      "meaning": "(명) 자원자",
+      "sentence": "coworkers and volunteers",
+      "sentenceMeaning": "동료노동자와 자원봉사자",
+      "unit": 16
+    },
+    {
+      "serial": 453,
+      "text": "primitive",
+      "meaning": "(형) 원시의, 원시시대의",
+      "sentence": "in primitive times",
+      "sentenceMeaning": "원시 시대에",
+      "unit": 16
+    },
+    {
+      "serial": 454,
+      "text": "indicate",
+      "meaning": "(동) 나타내다, 가리키다",
+      "sentence": "indicate the direction",
+      "sentenceMeaning": "방향을 가리키다",
+      "unit": 16
+    },
+    {
+      "serial": 455,
+      "text": "perceive",
+      "meaning": "(동) 인식하다, 이해하다",
+      "sentence": "perceived age",
+      "sentenceMeaning": "체감 나이",
+      "unit": 16
+    },
+    {
+      "serial": 456,
+      "text": "faith",
+      "meaning": "(명) 믿음, 신뢰",
+      "sentence": "a similar faith",
+      "sentenceMeaning": "유사한 믿음",
+      "unit": 16
+    },
+    {
+      "serial": 457,
+      "text": "devotion",
+      "meaning": "(명) 헌신, 몰두, 전념",
+      "sentence": "devotion to each of his paintings",
+      "sentenceMeaning": "그의 각각의 작품에 대한 헌신",
+      "unit": 16
+    },
+    {
+      "serial": 458,
+      "text": "warehouse",
+      "meaning": "(명) 창고, 저장소",
+      "sentence": "his company's warehouse",
+      "sentenceMeaning": "그의 회사 창고",
+      "unit": 16
+    },
+    {
+      "serial": 459,
+      "text": "objective",
+      "meaning": "(명) 목적, 목표(형) 객관적인",
+      "sentence": "objective of our committee",
+      "sentenceMeaning": "우리 위원회의 목적",
+      "unit": 16
+    },
+    {
+      "serial": 460,
+      "text": "consciousness",
+      "meaning": "(명) 의식, 자각",
+      "sentence": "lose consciousness",
+      "sentenceMeaning": "의식을 잃다",
+      "unit": 16
+    },
+    {
+      "serial": 461,
+      "text": "absurd",
+      "meaning": "(형) 불합리한, 터무니없는",
+      "sentence": "absurd situation",
+      "sentenceMeaning": "터무니없는 상황",
+      "unit": 16
+    },
+    {
+      "serial": 462,
+      "text": "bury",
+      "meaning": "(동) 묻다, 덮다",
+      "sentence": "buried sunshine",
+      "sentenceMeaning": "매장된 햇빛",
+      "unit": 16
+    },
+    {
+      "serial": 463,
+      "text": "inevitable",
+      "meaning": "(형) 불가피한, 필연적인",
+      "sentence": "inevitable social and mental trauma",
+      "sentenceMeaning": "피할 수 없는 사회적, 정신적 외상",
+      "unit": 16
+    },
+    {
+      "serial": 464,
+      "text": "elevation",
+      "meaning": "(명) 승진, 해발높이, 고도",
+      "sentence": "elevation of 1,350m",
+      "sentenceMeaning": "해발 1,350미터",
+      "unit": 16
+    },
+    {
+      "serial": 465,
+      "text": "vigor",
+      "meaning": "(명) 활기, 활력, 생기",
+      "sentence": "set the stage for more vigor",
+      "sentenceMeaning": "좀 더 활력을 얻는 사전준비를 하다",
+      "unit": 16
+    },
+    {
+      "serial": 466,
+      "text": "diminish ",
+      "meaning": "(동) 감소시키다",
+      "sentence": "diminish learning",
+      "sentenceMeaning": "학습을 감소시키다",
+      "unit": 16
+    },
+    {
+      "serial": 467,
+      "text": "determine",
+      "meaning": "(동) 결정하다",
+      "sentence": "determine the fact of given policy situation",
+      "sentenceMeaning": "주어진 정책 상황의 사실을 결정하다",
+      "unit": 16
+    },
+    {
+      "serial": 468,
+      "text": "contribution",
+      "meaning": "(명) 기여, 공헌",
+      "sentence": "a positive contribution",
+      "sentenceMeaning": "긍정적인 공헌",
+      "unit": 16
+    },
+    {
+      "serial": 469,
+      "text": "authentic",
+      "meaning": "(형) 믿을만한, 진짜의",
+      "sentence": "develop authentic self-esteem",
+      "sentenceMeaning": "진정한 자존감을 키우다",
+      "unit": 16
+    },
+    {
+      "serial": 470,
+      "text": "delivery",
+      "meaning": "(명) 배달, 전달",
+      "sentence": "stop delivery to his home",
+      "sentenceMeaning": "그의 집으로 배달을 중단하다",
+      "unit": 16
+    },
+    {
+      "serial": 471,
+      "text": "mimic",
+      "meaning": "(동) 흉내 내다",
+      "sentence": "mimic an accent",
+      "sentenceMeaning": "말씨를 흉내 내다",
+      "unit": 16
+    },
+    {
+      "serial": 472,
+      "text": "chronically",
+      "meaning": "(부) 만성적으로",
+      "sentence": "have chronically high anxiety",
+      "sentenceMeaning": "만성적으로 많은 걱정을 하다",
+      "unit": 16
+    },
+    {
+      "serial": 473,
+      "text": "paralyze",
+      "meaning": "(동) 마비시키다",
+      "sentence": "paralyzed legs",
+      "sentenceMeaning": "마비된 다리",
+      "unit": 16
+    },
+    {
+      "serial": 474,
+      "text": "guarantee",
+      "meaning": "(동) 보장하다",
+      "sentence": "guarantee their safety",
+      "sentenceMeaning": "그들의 안전을 보장하다",
+      "unit": 16
+    },
+    {
+      "serial": 475,
+      "text": "invariable",
+      "meaning": "(형) 변함없는, 변치 않는",
+      "sentence": "laws of space and time invariable",
+      "sentenceMeaning": "변함없는 공간과 시간의 법칙들",
+      "unit": 16
+    },
+    {
+      "serial": 476,
+      "text": "regarding",
+      "meaning": "(전) ~에 관하여",
+      "sentence": "regarding posted email addresses",
+      "sentenceMeaning": "전자 우편 주소를 올린 것에 관해",
+      "unit": 16
+    },
+    {
+      "serial": 477,
+      "text": "organism",
+      "meaning": "(명) 생물체",
+      "sentence": "dead bodies of organisms",
+      "sentenceMeaning": "생물체의 죽은 본체",
+      "unit": 16
+    },
+    {
+      "serial": 478,
+      "text": "justify",
+      "meaning": "(동) 옳음을 보여주다, 정당화하다",
+      "sentence": "justify the efforts",
+      "sentenceMeaning": "노력을 정당화하다",
+      "unit": 16
+    },
+    {
+      "serial": 479,
+      "text": "accumulation ",
+      "meaning": "(명) 축적, 누적",
+      "sentence": "accumulation and production of material",
+      "sentenceMeaning": "물질적 부의 축적과 생산",
+      "unit": 16
+    },
+    {
+      "serial": 480,
+      "text": "magnitude",
+      "meaning": "(명) 크기, 양",
+      "sentence": "equal magnitudes",
+      "sentenceMeaning": "동일한 크기",
+      "unit": 16
+    },
+    {
+      "serial": 481,
+      "text": "productive",
+      "meaning": "(형) 생산적인",
+      "sentence": "productive composer",
+      "sentenceMeaning": "많은 작곡을 하는 사람",
+      "unit": 17
+    },
+    {
+      "serial": 482,
+      "text": "substitute",
+      "meaning": "(동) 대신하다, 대치되다",
+      "sentence": "substitute A for B",
+      "sentenceMeaning": "B를 A로 대신하다",
+      "unit": 17
+    },
+    {
+      "serial": 483,
+      "text": "general",
+      "meaning": "(형) 일반의, 보통의",
+      "sentence": "general shape of body",
+      "sentenceMeaning": "신체의 일반적 모양",
+      "unit": 17
+    },
+    {
+      "serial": 484,
+      "text": "capital",
+      "meaning": "(명) 수도, 자본, 대문자",
+      "sentence": "venture capital",
+      "sentenceMeaning": "벤처 자본",
+      "unit": 17
+    },
+    {
+      "serial": 485,
+      "text": "practical",
+      "meaning": "(형) 실제의, 실용적인",
+      "sentence": "practical situation",
+      "sentenceMeaning": "실제 상황",
+      "unit": 17
+    },
+    {
+      "serial": 486,
+      "text": "announcement",
+      "meaning": "(명) 알림, 공고",
+      "sentence": "continued announcement",
+      "sentenceMeaning": "계속되는 안내방송",
+      "unit": 17
+    },
+    {
+      "serial": 487,
+      "text": "cellular",
+      "meaning": "(형) 세포로 된",
+      "sentence": "tiny cellular factories of energy",
+      "sentenceMeaning": "아주 작은 에너지 세포 공장",
+      "unit": 17
+    },
+    {
+      "serial": 488,
+      "text": "stem",
+      "meaning": "(명) 줄기, 대(동) 생기다, 유래하다",
+      "sentence": "the rotting tree stems",
+      "sentenceMeaning": "썩고 있는 나무 줄기",
+      "unit": 17
+    },
+    {
+      "serial": 489,
+      "text": "accuracy",
+      "meaning": "(명) 정확, 정밀",
+      "sentence": "with great accuracy",
+      "sentenceMeaning": "아주 정확하게",
+      "unit": 17
+    },
+    {
+      "serial": 490,
+      "text": "recruit",
+      "meaning": "(동) 모집하다",
+      "sentence": "recruit future leaders",
+      "sentenceMeaning": "미래의 지도자들을 모집하다",
+      "unit": 17
+    },
+    {
+      "serial": 491,
+      "text": "vivid",
+      "meaning": "(형) 생생한, 생기에 찬",
+      "sentence": "vivid imagination",
+      "sentenceMeaning": "생생한 상상",
+      "unit": 17
+    },
+    {
+      "serial": 492,
+      "text": "thoughtful",
+      "meaning": "(형) 생각이 깊은",
+      "sentence": "thoughtful behavior",
+      "sentenceMeaning": "생각 깊은 행동",
+      "unit": 17
+    },
+    {
+      "serial": 493,
+      "text": "frustration",
+      "meaning": "(명) 좌절",
+      "sentence": "frustrations in the class",
+      "sentenceMeaning": "수업시간의 좌절감",
+      "unit": 17
+    },
+    {
+      "serial": 494,
+      "text": "urge",
+      "meaning": "(명) 강한 충동, 몰아댐(동) 재촉하다, 강요하다",
+      "sentence": "an irresistible urge",
+      "sentenceMeaning": "저항할 수 없는 충동",
+      "unit": 17
+    },
+    {
+      "serial": 495,
+      "text": "aim",
+      "meaning": "(명) 목적, 목표(동) 겨누다, 목표삼다",
+      "sentence": "aim at the target",
+      "sentenceMeaning": "과녁에 조준하다",
+      "unit": 17
+    },
+    {
+      "serial": 496,
+      "text": "confident",
+      "meaning": "(형) 자신감 있는",
+      "sentence": "a confident young woman",
+      "sentenceMeaning": "당당한 젊은 여성",
+      "unit": 17
+    },
+    {
+      "serial": 497,
+      "text": "optical",
+      "meaning": "(형) 눈의, 시각의",
+      "sentence": "many optical illusions",
+      "sentenceMeaning": "많은 시각적 착각",
+      "unit": 17
+    },
+    {
+      "serial": 498,
+      "text": "workforce",
+      "meaning": "(명) 노동력",
+      "sentence": "the required workforce",
+      "sentenceMeaning": "필요한 인력",
+      "unit": 17
+    },
+    {
+      "serial": 499,
+      "text": "witness",
+      "meaning": "(명) 증언, 목격자(동) 목격하다",
+      "sentence": "witness their struggles",
+      "sentenceMeaning": "그들의 투쟁을 목격하다",
+      "unit": 17
+    },
+    {
+      "serial": 500,
+      "text": "astonished",
+      "meaning": "(형) 깜짝 놀란",
+      "sentence": "astonished child",
+      "sentenceMeaning": "깜짝 놀란 아이",
+      "unit": 17
+    },
+    {
+      "serial": 501,
+      "text": "humble",
+      "meaning": "(형) 겸손한, 겸허한",
+      "sentence": "humble feeling",
+      "sentenceMeaning": "소박한 느낌",
+      "unit": 17
+    },
+    {
+      "serial": 502,
+      "text": "motivate",
+      "meaning": "(동) 동기를 주다, 자극하다",
+      "sentence": "motivate you to jump out of the way",
+      "sentenceMeaning": "네가 빨리 뛰쳐나오는 동기를 부여하다",
+      "unit": 17
+    },
+    {
+      "serial": 503,
+      "text": "interpret",
+      "meaning": "(동) 해석하다",
+      "sentence": "interpret the events and motives",
+      "sentenceMeaning": "사건들과 동기를 해석하다",
+      "unit": 17
+    },
+    {
+      "serial": 504,
+      "text": "capacity",
+      "meaning": "(명) 용량, 수용력, 능력",
+      "sentence": "a large amount of their mental capacity",
+      "sentenceMeaning": "막대한 양의 정신 능력",
+      "unit": 17
+    },
+    {
+      "serial": 505,
+      "text": "experiment ",
+      "meaning": "(명) 실험, 시험  (동) 실험하다",
+      "sentence": "his experiments with electricity and magnetism",
+      "sentenceMeaning": "그의 전기와 자성에 관한 실험",
+      "unit": 17
+    },
+    {
+      "serial": 506,
+      "text": "criteria",
+      "meaning": "(명) 표준, 기준",
+      "sentence": "vague criteria",
+      "sentenceMeaning": "애매한 기준",
+      "unit": 17
+    },
+    {
+      "serial": 507,
+      "text": "genuine",
+      "meaning": "(형) 진짜의",
+      "sentence": "a genuine opportunity",
+      "sentenceMeaning": "진정한 기회",
+      "unit": 17
+    },
+    {
+      "serial": 508,
+      "text": "consistency",
+      "meaning": "(명) 일관성",
+      "sentence": "the consistency with which symbols are used",
+      "sentenceMeaning": "상징들이 사용되는 일관성",
+      "unit": 17
+    },
+    {
+      "serial": 509,
+      "text": "advocate",
+      "meaning": "(명) 옹호자(동) 옹호/지지하다",
+      "sentence": "advocates of freewriting",
+      "sentenceMeaning": "자유 작문 옹호론자들",
+      "unit": 17
+    },
+    {
+      "serial": 510,
+      "text": "fury",
+      "meaning": "(명) 분노, (전쟁·폭풍우 등의) 격렬, 맹위",
+      "sentence": "the fury of the elements",
+      "sentenceMeaning": "맹렬한 폭풍우",
+      "unit": 17
+    },
+    {
+      "serial": 511,
+      "text": "evaporation",
+      "meaning": "(명) 증발",
+      "sentence": "the continued evaporation",
+      "sentenceMeaning": "계속된 증발",
+      "unit": 18
+    },
+    {
+      "serial": 512,
+      "text": "transition",
+      "meaning": "(명) 과도기, 변이",
+      "sentence": "at least during the transition",
+      "sentenceMeaning": "적어도 과도기 동안에는",
+      "unit": 18
+    },
+    {
+      "serial": 513,
+      "text": "underlying",
+      "meaning": "(형) 밑에 있는, 기초가 되는, 근원적인",
+      "sentence": "the invisible, underlying order",
+      "sentenceMeaning": "보이지 않고 내재하는 질서",
+      "unit": 18
+    },
+    {
+      "serial": 514,
+      "text": "extent",
+      "meaning": "(명) 정도, 범위, 넓이",
+      "sentence": "to a large extent",
+      "sentenceMeaning": "상당 부분까지",
+      "unit": 18
+    },
+    {
+      "serial": 515,
+      "text": "pedestrian",
+      "meaning": "(명) 보행자",
+      "sentence": "the careless pedestrian",
+      "sentenceMeaning": "부주의한 보행자",
+      "unit": 18
+    },
+    {
+      "serial": 516,
+      "text": "improvement",
+      "meaning": "(명) 개량, 개선",
+      "sentence": "significant improvement of circumstances",
+      "sentenceMeaning": "상당한 환경의 개선",
+      "unit": 18
+    },
+    {
+      "serial": 517,
+      "text": "allocate",
+      "meaning": "(동) 할당하다",
+      "sentence": "allocate emissions cuts",
+      "sentenceMeaning": "온실가스 감축을 할당하다",
+      "unit": 18
+    },
+    {
+      "serial": 518,
+      "text": "applaud",
+      "meaning": "(동) 박수갈채하다, 성원하다",
+      "sentence": "applaud the performance",
+      "sentenceMeaning": "연기에 박수를 치다",
+      "unit": 18
+    },
+    {
+      "serial": 519,
+      "text": "extinct",
+      "meaning": "(형) 멸종된",
+      "sentence": "extinct species",
+      "sentenceMeaning": "멸종된 종",
+      "unit": 18
+    },
+    {
+      "serial": 520,
+      "text": "element",
+      "meaning": "(명) 요소, 성분",
+      "sentence": "non-living elements",
+      "sentenceMeaning": "무생물 요소",
+      "unit": 18
+    },
+    {
+      "serial": 521,
+      "text": "avoidable",
+      "meaning": "(형) 피할 수 있는",
+      "sentence": "avoidable accident",
+      "sentenceMeaning": "피할 수 있는 사고",
+      "unit": 18
+    },
+    {
+      "serial": 522,
+      "text": "merciful",
+      "meaning": "(형) 자비로운",
+      "sentence": "the merciful god",
+      "sentenceMeaning": "자비로운 신",
+      "unit": 18
+    },
+    {
+      "serial": 523,
+      "text": "confirm",
+      "meaning": "(동) 확인하다",
+      "sentence": "confirm my reservation",
+      "sentenceMeaning": "예약을 확인하다",
+      "unit": 18
+    },
+    {
+      "serial": 524,
+      "text": "adapt",
+      "meaning": "(동) 맞추다, 적응하다, 각색하다",
+      "sentence": "adapt novels",
+      "sentenceMeaning": "소설을 각색하다",
+      "unit": 18
+    },
+    {
+      "serial": 525,
+      "text": "insist",
+      "meaning": "(동) 주장하다, 고집하다",
+      "sentence": "insist on hearing baroque music",
+      "sentenceMeaning": "바로크 음악을 들어야 한다고 주장하다",
+      "unit": 18
+    },
+    {
+      "serial": 526,
+      "text": "qualification",
+      "meaning": "(명) 자격, 조건",
+      "sentence": "doctor's qualification",
+      "sentenceMeaning": "의사의 자격",
+      "unit": 18
+    },
+    {
+      "serial": 527,
+      "text": "revolution",
+      "meaning": "(명) 혁명, 변혁",
+      "sentence": "the greatest revolution",
+      "sentenceMeaning": "가장 큰 대변혁",
+      "unit": 18
+    },
+    {
+      "serial": 528,
+      "text": "characteristic",
+      "meaning": "(명) 특징",
+      "sentence": "select for other characteristics",
+      "sentenceMeaning": "다른 특징들을 선택하다",
+      "unit": 18
+    },
+    {
+      "serial": 529,
+      "text": "bite",
+      "meaning": "(명) 물기, 한 입(동) 물다, 물어뜯다",
+      "sentence": "at first bite",
+      "sentenceMeaning": "처음 한 입에는",
+      "unit": 18
+    },
+    {
+      "serial": 530,
+      "text": "celebration",
+      "meaning": "(명) 기념(축하)행사, 기념(축하)",
+      "sentence": "during significant celebration",
+      "sentenceMeaning": "중요한 축하를 하는 동안",
+      "unit": 18
+    },
+    {
+      "serial": 531,
+      "text": "shore",
+      "meaning": "(명) 바닷가, 해안",
+      "sentence": "the opposite shore",
+      "sentenceMeaning": "건너편 해안",
+      "unit": 18
+    },
+    {
+      "serial": 532,
+      "text": "transportation",
+      "meaning": "(명) 운송, 수송",
+      "sentence": "the fittest technology for transportation",
+      "sentenceMeaning": "가장 적합한 운송기술",
+      "unit": 18
+    },
+    {
+      "serial": 533,
+      "text": "substantial",
+      "meaning": "(형) 실질적인, 상당한",
+      "sentence": "provide substantial production yields",
+      "sentenceMeaning": "상당한 생산 산출물을 제공하다",
+      "unit": 18
+    },
+    {
+      "serial": 534,
+      "text": "anniversary",
+      "meaning": "(명) 기념일",
+      "sentence": "wedding anniversary",
+      "sentenceMeaning": "결혼기념일",
+      "unit": 18
+    },
+    {
+      "serial": 535,
+      "text": "silent",
+      "meaning": "(형) 침묵하는",
+      "sentence": "in the early silent period",
+      "sentenceMeaning": "초창기 무성 영화기에",
+      "unit": 18
+    },
+    {
+      "serial": 536,
+      "text": "cognitive",
+      "meaning": "(형) 인식의, 인지적인",
+      "sentence": "disastrous cognitive static",
+      "sentenceMeaning": "파멸적인 인지적 정지 상태",
+      "unit": 18
+    },
+    {
+      "serial": 537,
+      "text": "extinction",
+      "meaning": "(명) 멸종, 소멸",
+      "sentence": "danger of extinction",
+      "sentenceMeaning": "멸종의 위기",
+      "unit": 18
+    },
+    {
+      "serial": 538,
+      "text": "facilitate",
+      "meaning": "(동) 촉진하다, 쉽게 하다",
+      "sentence": "facilitate interpretation",
+      "sentenceMeaning": "해석을 촉진하다",
+      "unit": 18
+    },
+    {
+      "serial": 539,
+      "text": "career",
+      "meaning": "(명) 경력, 이력",
+      "sentence": "successful career",
+      "sentenceMeaning": "성공적인 경력(직업)",
+      "unit": 18
+    },
+    {
+      "serial": 540,
+      "text": "appropriate",
+      "meaning": "(형) 적합한, 적절한",
+      "sentence": "an appropriate position",
+      "sentenceMeaning": "적절한 위치",
+      "unit": 18
+    },
+    {
+      "serial": 541,
+      "text": "be due to",
+      "meaning": "~할 예정이다",
+      "sentence": "was due to present my new idea",
+      "sentenceMeaning": "나의 새로운 아이디어를 발표할 예정이었다 be due to ~할 예정이다",
+      "unit": 19
+    },
+    {
+      "serial": 542,
+      "text": "reverse",
+      "meaning": "(형) 반대의, 거꾸로의",
+      "sentence": "a reverse image",
+      "sentenceMeaning": "거꾸로의 영상",
+      "unit": 19
+    },
+    {
+      "serial": 543,
+      "text": "persuasive",
+      "meaning": "(형) 설득력 있는",
+      "sentence": "persuasive argument",
+      "sentenceMeaning": "설득력 있는 주장",
+      "unit": 19
+    },
+    {
+      "serial": 544,
+      "text": "raw",
+      "meaning": "(형) 가공하지 않은",
+      "sentence": "raw material",
+      "sentenceMeaning": "가공하지 않은 재료",
+      "unit": 19
+    },
+    {
+      "serial": 545,
+      "text": "diabetes",
+      "meaning": "(명) 당뇨병",
+      "sentence": "the risk of diabetes",
+      "sentenceMeaning": "당뇨병에 대한 위험",
+      "unit": 19
+    },
+    {
+      "serial": 546,
+      "text": "insult ",
+      "meaning": "(명) 모욕(동) 모욕하다",
+      "sentence": "seem an insult",
+      "sentenceMeaning": "모욕으로 보이다",
+      "unit": 19
+    },
+    {
+      "serial": 547,
+      "text": "permission",
+      "meaning": "(명) 허가, 면허",
+      "sentence": "special permission",
+      "sentenceMeaning": "특별 허가",
+      "unit": 19
+    },
+    {
+      "serial": 548,
+      "text": "definition",
+      "meaning": "(명) 정의, 설명",
+      "sentence": "the simple definition",
+      "sentenceMeaning": "단순한 정의",
+      "unit": 19
+    },
+    {
+      "serial": 549,
+      "text": "engage in",
+      "meaning": "~에 종사하다,",
+      "sentence": "voluntarily engage in an activity",
+      "sentenceMeaning": "자발적으로 활동에 참여하다",
+      "unit": 19
+    },
+    {
+      "serial": 550,
+      "text": "reproduction",
+      "meaning": "(명) 재생, 복제, 번식",
+      "sentence": "effective reproduction process",
+      "sentenceMeaning": "효과적인 번식과정",
+      "unit": 19
+    },
+    {
+      "serial": 551,
+      "text": "magnificent",
+      "meaning": "(형) 장대한, 장엄한",
+      "sentence": "magnificent sight",
+      "sentenceMeaning": "장엄한 광경",
+      "unit": 19
+    },
+    {
+      "serial": 552,
+      "text": "retiree",
+      "meaning": "(명) 퇴직자, 은퇴자",
+      "sentence": "consist of retirees",
+      "sentenceMeaning": "퇴직자들로 구성되어 있다",
+      "unit": 19
+    },
+    {
+      "serial": 553,
+      "text": "take part in",
+      "meaning": "참여하다",
+      "sentence": "take part equally in discussions",
+      "sentenceMeaning": "동등하게 논의에 참여하다",
+      "unit": 19
+    },
+    {
+      "serial": 554,
+      "text": "tendency",
+      "meaning": "(명) 경향, 추세",
+      "sentence": "our tendency to focus on the end result",
+      "sentenceMeaning": "마지막 결과에 초점을 맞추는 우리의 경향",
+      "unit": 19
+    },
+    {
+      "serial": 555,
+      "text": "agricultural",
+      "meaning": "(형) 농업의",
+      "sentence": " agricultural product",
+      "sentenceMeaning": "농업 생산품",
+      "unit": 19
+    },
+    {
+      "serial": 556,
+      "text": "texture",
+      "meaning": "(명) 직물, 질감",
+      "sentence": "the smooth-textured strawberry jam",
+      "sentenceMeaning": "부드러운 질감의 딸기 잼",
+      "unit": 19
+    },
+    {
+      "serial": 557,
+      "text": "components",
+      "meaning": "(명) 성분, 구성요소",
+      "sentence": "electrical components",
+      "sentenceMeaning": "전기구성분자",
+      "unit": 19
+    },
+    {
+      "serial": 558,
+      "text": "unfit",
+      "meaning": "(형) 부적당한,어울리지 않는",
+      "sentence": "are unfit for any conversation",
+      "sentenceMeaning": "어떤 대화에도 어울리지 않다",
+      "unit": 19
+    },
+    {
+      "serial": 559,
+      "text": "habitat",
+      "meaning": "(명) 서식지",
+      "sentence": "natural habitat",
+      "sentenceMeaning": "자연 서식지",
+      "unit": 19
+    },
+    {
+      "serial": 560,
+      "text": "contradiction",
+      "meaning": "(명) 반박, 모순",
+      "sentence": "avoid confronting contradiction",
+      "sentenceMeaning": "모순된 사실에 직면하는 것을 피하다",
+      "unit": 19
+    },
+    {
+      "serial": 561,
+      "text": "misperception",
+      "meaning": "(명) 오인, 오해",
+      "sentence": "misperceptions of important issues",
+      "sentenceMeaning": "중요한 문제에 대한 오해",
+      "unit": 19
+    },
+    {
+      "serial": 562,
+      "text": "creativity",
+      "meaning": "(명) 창조성, 독창력",
+      "sentence": "creativity of the writer",
+      "sentenceMeaning": "작가의 독창성",
+      "unit": 19
+    },
+    {
+      "serial": 563,
+      "text": "species",
+      "meaning": "(명) 종",
+      "sentence": "a specially selected species of fish",
+      "sentenceMeaning": "특별히 선택된 물고기 종류",
+      "unit": 19
+    },
+    {
+      "serial": 564,
+      "text": "physics",
+      "meaning": "(명) 물리학",
+      "sentence": "their physics experiment",
+      "sentenceMeaning": "그들의 물리학 실험",
+      "unit": 19
+    },
+    {
+      "serial": 565,
+      "text": "swell",
+      "meaning": "(동) 부풀다",
+      "sentence": "swells as much as my chubby bags",
+      "sentenceMeaning": "나의 불룩한 가방만큼 부풀다",
+      "unit": 19
+    },
+    {
+      "serial": 566,
+      "text": "rational",
+      "meaning": "(형) 이성적인, 합리적인",
+      "sentence": "rational judgement",
+      "sentenceMeaning": "합리적인 판단",
+      "unit": 19
+    },
+    {
+      "serial": 567,
+      "text": "stimulate",
+      "meaning": "(동) 자극하다",
+      "sentence": "stimulate further discussion",
+      "sentenceMeaning": "추가 논의를 자극하다",
+      "unit": 19
+    },
+    {
+      "serial": 568,
+      "text": "quotation",
+      "meaning": "(명) 인용, 인용구",
+      "sentence": "a framed quotation",
+      "sentenceMeaning": "틀에 끼워둔 인용문",
+      "unit": 19
+    },
+    {
+      "serial": 569,
+      "text": "reveal",
+      "meaning": "(동) 드러내다, 알리다",
+      "sentence": "reveal their anger",
+      "sentenceMeaning": "그들의 분노를 드러내다",
+      "unit": 19
+    },
+    {
+      "serial": 570,
+      "text": "adolescence",
+      "meaning": "(명) 청소년기, 사춘기",
+      "sentence": "early adolescence",
+      "sentenceMeaning": "청소년 초기",
+      "unit": 19
+    },
+    {
+      "serial": 571,
+      "text": "inherit",
+      "meaning": "(동) 물려 받다",
+      "sentence": "inherit the losses",
+      "sentenceMeaning": "손실을 물려받다",
+      "unit": 20
+    },
+    {
+      "serial": 572,
+      "text": "organic",
+      "meaning": "(형) 유기체의, 유기의",
+      "sentence": "organic food",
+      "sentenceMeaning": "유기농 식품",
+      "unit": 20
+    },
+    {
+      "serial": 573,
+      "text": "realm",
+      "meaning": "(명) 범위, 영역",
+      "sentence": "different realm",
+      "sentenceMeaning": "다른 영역",
+      "unit": 20
+    },
+    {
+      "serial": 574,
+      "text": "trait",
+      "meaning": "(명) 특색, 특징",
+      "sentence": "a human trait",
+      "sentenceMeaning": "인간의 특성",
+      "unit": 20
+    },
+    {
+      "serial": 575,
+      "text": "ensure",
+      "meaning": "(동) 보장하다",
+      "sentence": "ensure the reward",
+      "sentenceMeaning": "보상을 보장하다",
+      "unit": 20
+    },
+    {
+      "serial": 576,
+      "text": "extreme",
+      "meaning": "(명) 극단, 극도(형) 극도의, 심한",
+      "sentence": "wilderness dining has two extremes",
+      "sentenceMeaning": "야생의 식사에는 양극단이 있다",
+      "unit": 20
+    },
+    {
+      "serial": 577,
+      "text": "separate",
+      "meaning": "(형) 갈라진, 분리된",
+      "sentence": "a separate institution of education",
+      "sentenceMeaning": "분리된 교육기관",
+      "unit": 20
+    },
+    {
+      "serial": 578,
+      "text": "generate ",
+      "meaning": "(동) 발생시키다, 만들어내다",
+      "sentence": "generate meaning",
+      "sentenceMeaning": "의미를 생성하다",
+      "unit": 20
+    },
+    {
+      "serial": 579,
+      "text": "contribute",
+      "meaning": "(동) ~의 원인이 되다, 기여하다",
+      "sentence": "contribute to stress",
+      "sentenceMeaning": "스트레스의 원인이 되다",
+      "unit": 20
+    },
+    {
+      "serial": 580,
+      "text": "potent",
+      "meaning": "(형) 세력 있는, 유력한",
+      "sentence": "a potent kind of illusionist theatre",
+      "sentenceMeaning": "유력한 일종의 마술 공연장",
+      "unit": 20
+    },
+    {
+      "serial": 581,
+      "text": "conform",
+      "meaning": "(동) 적합하게 하다, ??순응하다",
+      "sentence": "conform to our way of thinking",
+      "sentenceMeaning": "우리의 사고방식에 따르다",
+      "unit": 20
+    },
+    {
+      "serial": 582,
+      "text": "tension",
+      "meaning": "(명) 긴장",
+      "sentence": "force for calming tension",
+      "sentenceMeaning": "긴장을 풀어주는 힘",
+      "unit": 20
+    },
+    {
+      "serial": 583,
+      "text": "mass",
+      "meaning": "(명) 덩어리, 다량",
+      "sentence": "mass production",
+      "sentenceMeaning": "대량 생산",
+      "unit": 20
+    },
+    {
+      "serial": 584,
+      "text": "adequate",
+      "meaning": "(형) 어울리는, 적당한",
+      "sentence": "for adequate scientific testing",
+      "sentenceMeaning": "적절한 과학적 검증을 위해",
+      "unit": 20
+    },
+    {
+      "serial": 585,
+      "text": "derive",
+      "meaning": "(동) 끌어내다, 얻다, ~에서 비롯되다",
+      "sentence": "derive from a Greek",
+      "sentenceMeaning": "그리스 단어에서 유래하다",
+      "unit": 20
+    },
+    {
+      "serial": 586,
+      "text": "excess",
+      "meaning": "(명) 잉여, 초과",
+      "sentence": "pollution from excess feed",
+      "sentenceMeaning": "잉여 사료로부터 발생하는 오염",
+      "unit": 20
+    },
+    {
+      "serial": 587,
+      "text": "intervene",
+      "meaning": "(동) 개입하다",
+      "sentence": "find ways to intervene",
+      "sentenceMeaning": "개입하는 방법을 알아내다",
+      "unit": 20
+    },
+    {
+      "serial": 588,
+      "text": "figuratively",
+      "meaning": "(부) 비유적으로",
+      "sentence": "both literally and figuratively",
+      "sentenceMeaning": "말 그대로 또 비유적으로",
+      "unit": 20
+    },
+    {
+      "serial": 589,
+      "text": "democracy",
+      "meaning": "(명) 민주주의",
+      "sentence": "the Greek democracy",
+      "sentenceMeaning": "그리스의 민주주의",
+      "unit": 20
+    },
+    {
+      "serial": 590,
+      "text": "restrict",
+      "meaning": "(동) 제한하다, 한정하다",
+      "sentence": "restrict the extent",
+      "sentenceMeaning": "범위를 제한하다",
+      "unit": 20
+    },
+    {
+      "serial": 591,
+      "text": "primary",
+      "meaning": "(형) 첫째의, 주요한",
+      "sentence": "the primary source of electricity generation",
+      "sentenceMeaning": "전력 생산의 주된 에너지원",
+      "unit": 20
+    },
+    {
+      "serial": 592,
+      "text": "suppress",
+      "meaning": "(동) 억압하다, 억누르다",
+      "sentence": "suppress emotions",
+      "sentenceMeaning": "감정을 억누르다",
+      "unit": 20
+    },
+    {
+      "serial": 593,
+      "text": "assimilation",
+      "meaning": "(명) 동화(작용)",
+      "sentence": "force their assimilation",
+      "sentenceMeaning": "그들의 동화를 강요하다",
+      "unit": 20
+    },
+    {
+      "serial": 594,
+      "text": "reproduce",
+      "meaning": "(동) 번식하다, 재생하다, ??복사하다",
+      "sentence": "reproduce earlier",
+      "sentenceMeaning": "더 일찍 번식하다",
+      "unit": 20
+    },
+    {
+      "serial": 595,
+      "text": "substance",
+      "meaning": "(명) 물질, 물체",
+      "sentence": "mysterious substance",
+      "sentenceMeaning": "신비로운 물질",
+      "unit": 20
+    },
+    {
+      "serial": 596,
+      "text": "polish",
+      "meaning": "(동) 닦다, 윤을 내다",
+      "sentence": "the polished silver gate",
+      "sentenceMeaning": "윤이 나는 은빛 대문",
+      "unit": 20
+    },
+    {
+      "serial": 597,
+      "text": "compact",
+      "meaning": "(형) 빽빽한, 소형인",
+      "sentence": "compact cities",
+      "sentenceMeaning": "조밀한 도시",
+      "unit": 20
+    },
+    {
+      "serial": 598,
+      "text": "estimate",
+      "meaning": "(명) 평가, 견적(동) 추정(추산)하다",
+      "sentence": "many estimates",
+      "sentenceMeaning": "많은 견적들",
+      "unit": 20
+    },
+    {
+      "serial": 599,
+      "text": "convert",
+      "meaning": "(동) 전환하다, 바꾸다",
+      "sentence": "convert to crops and pasture land",
+      "sentenceMeaning": "경작지와 목초지로 전환되다",
+      "unit": 20
+    },
+    {
+      "serial": 600,
+      "text": "symptom",
+      "meaning": "(명) 징후, 증상",
+      "sentence": "a similar symptom",
+      "sentenceMeaning": "유사한 증상",
+      "unit": 20
+    }
+  ]
+}
