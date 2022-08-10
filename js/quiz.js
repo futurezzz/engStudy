@@ -161,6 +161,7 @@ function displayWords(){
   kor.style.display = 'none';
   answer.style.display = 'none';
   quizLeft.style.display = 'none';
+  wordLeft.style.display = 'none';
   numOfQuiz = word.length;
 
   // matchedNo = 0;
@@ -215,6 +216,7 @@ function displaySpeakWords(){
   kor.style.display = 'block';
   answer.style.display = 'block';
   quizLeft.style.display = 'block';
+  wordLeft.style.display = 'block';
   numOfQuiz = word.length;
 
   const li1 = document.createElement('li')
@@ -273,6 +275,7 @@ back.addEventListener('click',()=>{
     lis[undoNo].classList.add("onList");
     answer.textContent = answer.textContent.substring(0,textLength-undoLength-1);
     arrayLengthLeft += 1;
+    arrayLengthLeft = arrayLengthLeft = arrayLength ? arrayLengthLeft : arrayLength;
     wordLeft.textContent = arrayLengthLeft;
     // console.log(undoLength)
     // console.log(answer.textContent.length)

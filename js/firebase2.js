@@ -325,7 +325,7 @@ function afterClearQuiz(){
 function checkAnswerYes(){
   //7만점 미만일 때 정답이면 200점씩 증가.
   //7만점 이상일 때 정답이면 250점씩 증가.
-  let add = (scoreValue < 70000) ? 200 : 250;
+  let add = (scoreValue < 70000) ? 200 : 280;
       scoreAdd(add); 
       // answer.style.color = '#98d0d0';
       setTimeout(()=>{
