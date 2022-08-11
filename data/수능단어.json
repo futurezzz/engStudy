@@ -1334,7 +1334,7 @@
       "text": "trace",
       "meaning": "(명) 발자국, 자취, 흔적 (동) 추적하다, 찾아내다",
       "sentence": "the traces of dissolved salts",
-      "sentenceMeaning": "용해된 소금의 잔존물",
+      "sentenceMeaning": "용해된 소금의 흔적",
       "unit": 6
     },
     {
@@ -1350,7 +1350,7 @@
       "text": "wilderness",
       "meaning": "(명) 황야, 황무지",
       "sentence": "wilderness dining",
-      "sentenceMeaning": "야생에서의 식사",
+      "sentenceMeaning": "야생의 식사",
       "unit": 6
     },
     {
@@ -1358,7 +1358,7 @@
       "text": "achievement",
       "meaning": "(명) 성취, 달성",
       "sentence": "a key factor in high achievement",
-      "sentenceMeaning": "대성공에서 중요한 요인",
+      "sentenceMeaning": "높은 성취의 핵심 요소",
       "unit": 6
     },
     {
@@ -1366,7 +1366,7 @@
       "text": "article",
       "meaning": "(명) (신문?잡지의) 글, 기사, 물품(물건)",
       "sentence": "newspaper articles",
-      "sentenceMeaning": "신문기사",
+      "sentenceMeaning": "신문 기사",
       "unit": 6
     },
     {
@@ -1374,7 +1374,7 @@
       "text": "portion",
       "meaning": "(명) 부분, 몫",
       "sentence": "a large portion",
-      "sentenceMeaning": "많은 부분",
+      "sentenceMeaning": "상당 부분",
       "unit": 6
     },
     {
@@ -1382,7 +1382,7 @@
       "text": "handicapped",
       "meaning": "(형) 장애가 있는, 불구의",
       "sentence": "handicapped people",
-      "sentenceMeaning": "장애인",
+      "sentenceMeaning": "장애인들",
       "unit": 6
     },
     {
@@ -1398,7 +1398,7 @@
       "text": "admission",
       "meaning": "(명) 입장, 인정, 입장료",
       "sentence": "pay admission",
-      "sentenceMeaning": "입장료를 지불하다",
+      "sentenceMeaning": "입장료를 내다",
       "unit": 6
     },
     {
@@ -1406,7 +1406,7 @@
       "text": "despair",
       "meaning": "(명) 절망, 자포자기",
       "sentence": "sources of despair and anger",
-      "sentenceMeaning": "좌절과 분노의 원천",
+      "sentenceMeaning": "절망과 분노의 원천",
       "unit": 6
     },
     {
@@ -1422,7 +1422,7 @@
       "text": "unjust",
       "meaning": "(형) 부정한, 부당한",
       "sentence": "unjust criticism",
-      "sentenceMeaning": "부당한 비판",
+      "sentenceMeaning": "부당한 비평",
       "unit": 6
     },
     {
@@ -1430,7 +1430,7 @@
       "text": "tempting",
       "meaning": "(형) 유혹하는",
       "sentence": "it’s tempting to stretch one’s finances",
-      "sentenceMeaning": "자금 조달을 늘리고 싶어 하다",
+      "sentenceMeaning": "그들의 재정을 확장시키는 것은 유혹적이다.",
       "unit": 6
     },
     {
@@ -1438,15 +1438,15 @@
       "text": "circumstance",
       "meaning": "(명) 환경, 상",
       "sentence": "the immediate circumstances",
-      "sentenceMeaning": "즉각적인 환경",
+      "sentenceMeaning": "당면한 사정",
       "unit": 6
     },
     {
       "serial": 181,
       "text": "intrigue",
-      "meaning": "(동) 강한 흥미(호기심)를 불러일으키다",
+      "meaning": "(동) 강한 호기심를 불러일으키다",
       "sentence": "always intrigue researchers",
-      "sentenceMeaning": "항상 연구자들의 호기심을 자아내다",
+      "sentenceMeaning": "항상 연구자들의 호기심을 끌다",
       "unit": 7
     },
     {
@@ -1478,7 +1478,7 @@
       "text": "attain",
       "meaning": "(동) 이루다, 성취하다",
       "sentence": "attain some extrinsic reward",
-      "sentenceMeaning": "외적인 보상을 성취하다",
+      "sentenceMeaning": "어떤 외적인 보상을 받다",
       "unit": 7
     },
     {
@@ -1494,15 +1494,15 @@
       "text": "subtract",
       "meaning": "(동) 빼다, 감하다",
       "sentence": "subtract a few subjects",
-      "sentenceMeaning": "몇몇 주제를 빼다.",
+      "sentenceMeaning": "몇 과목(주제)을 빼다",
       "unit": 7
     },
     {
       "serial": 188,
       "text": "divert",
       "meaning": "(동) (관심을)돌리다, 전환하다",
-      "sentence": "divert him from finding the solution",
-      "sentenceMeaning": "그가 해결책을 찾아내는 것을 방해하다",
+      "sentence": "I diverted him from finding the solution",
+      "sentenceMeaning": "나는 그가 해결책을 찾는 것을 방해했다.",
       "unit": 7
     },
     {
@@ -1526,7 +1526,7 @@
       "text": "encounter",
       "meaning": "(명) 접촉, 만남(동) 우연히 만나다",
       "sentence": "the close encounter",
-      "sentenceMeaning": "근접한 조우",
+      "sentenceMeaning": "아슬아슬한 만남",
       "unit": 7
     },
     {
@@ -1574,7 +1574,7 @@
       "text": "identify",
       "meaning": "(동) 확인하다, 식별하다,  동일시하다",
       "sentence": "identify and relate to a new architectural",
-      "sentenceMeaning": "trend 확인하여 새로운 건축학의 동향과 관련 짓다",
+      "sentenceMeaning": "새로운 건축물을 식별하고 관련시킨다.",
       "unit": 7
     },
     {
@@ -1606,7 +1606,7 @@
       "text": "grain",
       "meaning": "(명) 곡물, 곡류",
       "sentence": "world grain production",
-      "sentenceMeaning": "세계 곡식생산",
+      "sentenceMeaning": "세계 곡물 생산량",
       "unit": 7
     },
     {
@@ -1646,7 +1646,7 @@
       "text": "accompany",
       "meaning": "(동) 동반하다, 동행하다",
       "sentence": "accompany the expedition",
-      "sentenceMeaning": "그 원정에 함께 동반하다",
+      "sentenceMeaning": "그 원정에 동행하다",
       "unit": 7
     },
     {
@@ -1654,7 +1654,7 @@
       "text": "intrude",
       "meaning": "(동) 무리하게 강요하다, 방해하다",
       "sentence": "intrude on all other attempts",
-      "sentenceMeaning": "온갖 다른 시도를 방해하다",
+      "sentenceMeaning": "다른 모든 시도를 방해하다.",
       "unit": 7
     },
     {
@@ -1662,7 +1662,7 @@
       "text": "prevalent",
       "meaning": "(형) (널리)보급된, 널리 행해지는",
       "sentence": "the prevalent belief",
-      "sentenceMeaning": "널리 유행하는 믿음",
+      "sentenceMeaning": "널리 퍼져 있는 신앙",
       "unit": 7
     },
     {
@@ -1670,7 +1670,7 @@
       "text": "impulsive",
       "meaning": "(형) 충동적인",
       "sentence": "impulsive decision",
-      "sentenceMeaning": "충동적 결정",
+      "sentenceMeaning": "충동적인 결정",
       "unit": 7
     },
     {
