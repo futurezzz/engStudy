@@ -6,7 +6,7 @@
       "text": "gather",
       "meaning": "(동) 모으다, (자료·정보)를 모으다, 얻다",
       "sentence": "gather up her courage",
-      "sentenceMeaning": "그녀의 용기를 모으다",
+      "sentenceMeaning": "그녀의 용기를 모아",
       "unit": 1
     },
     {
@@ -29,24 +29,24 @@
       "serial": 4,
       "text": "assign",
       "meaning": "(동) 할당하다",
-      "sentence": "be assigned a personal adviser",
-      "sentenceMeaning": "개인 강사를 할당받다",
+      "sentence": "I am assigned a personal adviser",
+      "sentenceMeaning": "나는 개인 자문을 배정받았다",
       "unit": 1
     },
     {
       "serial": 5,
       "text": "skip",
       "meaning": "(동) (일을) 거르다, 건너뛰다",
-      "sentence": "make him skip the day",
-      "sentenceMeaning": "그가 그 날을 거르게 하다",
+      "sentence": "I made him skip the day",
+      "sentenceMeaning": "나는 그가 하루를 건너뛰게 했다",
       "unit": 1
     },
     {
       "serial": 6,
       "text": "loneliness",
       "meaning": "(명) 외로움",
-      "sentence": "feelings of longing and loneliness",
-      "sentenceMeaning": "그리움과 외로움",
+      "sentence": "They have feelings of longing and loneliness",
+      "sentenceMeaning": "그들은 그리움과 외로움의 감정을 가지고 있습니다",
       "unit": 1
     },
     {
@@ -54,7 +54,7 @@
       "text": "knowledgeable ",
       "meaning": "(형) 지식이 있는",
       "sentence": "knowledgeable people",
-      "sentenceMeaning": "지식이 있는 사람들",
+      "sentenceMeaning": "지식이 풍부한 사람들",
       "unit": 1
     },
     {
@@ -62,7 +62,7 @@
       "text": "fundamental",
       "meaning": "(형) 근본적인",
       "sentence": "fundamental nature of causality",
-      "sentenceMeaning": "근본적인 인과 관계의 특징",
+      "sentenceMeaning": "인과관계의 근본적인 성질",
       "unit": 1
     },
     {
@@ -70,7 +70,7 @@
       "text": "force",
       "meaning": "(명) 힘, 세력",
       "sentence": "opposing forces",
-      "sentenceMeaning": "대립하는 힘",
+      "sentenceMeaning": "반대 세력",
       "unit": 1
     },
     {
@@ -78,7 +78,7 @@
       "text": "up to~",
       "meaning": "~에 달려있는, ~까지",
       "sentence": "the choice is up to you",
-      "sentenceMeaning": "선택은 당신에게 달려 있다",
+      "sentenceMeaning": "선택은 당신에게 달려 있습니다",
       "unit": 1
     },
     {
@@ -86,7 +86,7 @@
       "text": "regular",
       "meaning": "(형) 정규의, 정식의",
       "sentence": "their regular jobs",
-      "sentenceMeaning": "그들의 정규적인 직업",
+      "sentenceMeaning": "그들의 정규직",
       "unit": 1
     },
     {
@@ -102,7 +102,7 @@
       "text": "irrelevant",
       "meaning": "(형) 부적절한, 무관계한",
       "sentence": "irrelevant data",
-      "sentenceMeaning": "관련 없는 자료",
+      "sentenceMeaning": "관련 없는 데이터",
       "unit": 1
     },
     {
@@ -110,7 +110,7 @@
       "text": "include",
       "meaning": "(동) 포함하다",
       "sentence": "include smell, touch, and hearing",
-      "sentenceMeaning": "후각, 촉각, 청각을 포함하다",
+      "sentenceMeaning": "후각, 촉각, 청각을 포함",
       "unit": 1
     },
     {
@@ -118,7 +118,7 @@
       "text": "firm",
       "meaning": "(형) 굳은, 변치 않는, (명) 회사",
       "sentence": "firm determination",
-      "sentenceMeaning": "확고한 결심",
+      "sentenceMeaning": "확고한 결의",
       "unit": 1
     },
     {
@@ -126,7 +126,7 @@
       "text": "ecological",
       "meaning": "(형) 생태학의",
       "sentence": "ecological diversity",
-      "sentenceMeaning": "생태학적 다양성",
+      "sentenceMeaning": "생태적 다양성",
       "unit": 1
     },
     {
@@ -134,7 +134,7 @@
       "text": "solution",
       "meaning": "(명) 용해, 해결",
       "sentence": "a very simple solution",
-      "sentenceMeaning": "매우 간단한 해결책",
+      "sentenceMeaning": "아주 간단한 해결책",
       "unit": 1
     },
     {
@@ -142,7 +142,7 @@
       "text": "still",
       "meaning": "(형) 정지한, 조용한, 잔잔한 (부) 여전히, 아직도",
       "sentence": "still waters",
-      "sentenceMeaning": "잔잔한 물들",
+      "sentenceMeaning": "잔잔한 물",
       "unit": 1
     },
     {
@@ -150,7 +150,7 @@
       "text": "responsibility",
       "meaning": "(명) 책임, 의무",
       "sentence": "take responsibility",
-      "sentenceMeaning": "책임지다",
+      "sentenceMeaning": "책임을 지다",
       "unit": 1
     },
     {
@@ -158,7 +158,7 @@
       "text": "comprehension",
       "meaning": "(명) 이해",
       "sentence": "factual comprehension",
-      "sentenceMeaning": "사실 이해",
+      "sentenceMeaning": "사실적 이해",
       "unit": 1
     },
     {
@@ -166,7 +166,7 @@
       "text": "reconciliation",
       "meaning": "(명) 조정, 화해",
       "sentence": "a spirit of reconciliation",
-      "sentenceMeaning": "화해 정신",
+      "sentenceMeaning": "화해의 정신",
       "unit": 1
     },
     {
@@ -174,7 +174,7 @@
       "text": "resume",
       "meaning": "(동) 다시 시작하다",
       "sentence": "resume delivery",
-      "sentenceMeaning": "배달을 다시 시작하다",
+      "sentenceMeaning": "배달 재개",
       "unit": 1
     },
     {
@@ -182,7 +182,7 @@
       "text": "assemble",
       "meaning": "(동) 모으다, 집합시키다",
       "sentence": "assemble groups of students",
-      "sentenceMeaning": "학생 무리들을 모으다",
+      "sentenceMeaning": "학생들의 그룹을 모으다",
       "unit": 1
     },
     {
@@ -190,7 +190,7 @@
       "text": "abundance",
       "meaning": "(명) 풍부, 많음",
       "sentence": "an abundance of resources",
-      "sentenceMeaning": "자원의 풍부함",
+      "sentenceMeaning": "풍부한 자원",
       "unit": 1
     },
     {
@@ -198,15 +198,15 @@
       "text": "compensate",
       "meaning": "(동) 보상하다",
       "sentence": "compensate for this rather obvious defect",
-      "sentenceMeaning": "이러한 오히려 명백한 결점을 보상하다",
+      "sentenceMeaning": "이 다소 명백한 결함에 대한 보상",
       "unit": 1
     },
     {
       "serial": 26,
       "text": "suburb",
       "meaning": "(명) 교외, 근교, (the ~s) 도시 주변의 지역",
-      "sentence": "an block of homes in the suburbs",
-      "sentenceMeaning": "교외 부근 집들의 블록",
+      "sentence": "a block of homes in the suburbs",
+      "sentenceMeaning": "교외의 한 블록",
       "unit": 1
     },
     {
@@ -214,7 +214,7 @@
       "text": "pierce",
       "meaning": "(동) 꿰뚫다, 관통하다",
       "sentence": "pierce their membranes",
-      "sentenceMeaning": "그것들의 세포막을 뚫다",
+      "sentenceMeaning": "막을 뚫다",
       "unit": 1
     },
     {
@@ -222,15 +222,15 @@
       "text": "anatomy",
       "meaning": "(명) 해부학, 해부",
       "sentence": "the anatomy of a frog",
-      "sentenceMeaning": "개구리의 해부",
+      "sentenceMeaning": "개구리의 해부학",
       "unit": 1
     },
     {
       "serial": 29,
       "text": "sabotage",
       "meaning": "(동) 고의로 방해하다",
-      "sentence": "sabotage academic performance",
-      "sentenceMeaning": "학업을 방해하다",
+      "sentence": "Protesters?failed?to?sabotage?the?peace?talks",
+      "sentenceMeaning": "시위대들은 그 평화 회담을 방해하지 못했다.",
       "unit": 1
     },
     {
@@ -238,7 +238,7 @@
       "text": "ambiguity",
       "meaning": "(명) 모호성",
       "sentence": "without any distortion or ambiguity",
-      "sentenceMeaning": "어떤 왜곡 또는 모호성 없이",
+      "sentenceMeaning": "왜곡이나 모호함 없이",
       "unit": 2
     },
     {
@@ -246,7 +246,7 @@
       "text": "population",
       "meaning": "(명) 인구, 주민",
       "sentence": "the local human population",
-      "sentenceMeaning": "지역의 인구",
+      "sentenceMeaning": "그 지역의 인구",
       "unit": 2
     },
     {
@@ -254,7 +254,7 @@
       "text": "probability",
       "meaning": "(명) 있음직함, 확률",
       "sentence": "a high probability of selling",
-      "sentenceMeaning": "팔릴 가능성이 아주 높음",
+      "sentenceMeaning": "높은 매도 가능성",
       "unit": 2
     },
     {
@@ -262,15 +262,15 @@
       "text": "descent",
       "meaning": "(명) 하강, 가계, 혈통, 출신",
       "sentence": "East African descent",
-      "sentenceMeaning": "동아프리카계 혈통",
+      "sentenceMeaning": "동아프리카 혈통",
       "unit": 2
     },
     {
       "serial": 34,
       "text": "contend",
       "meaning": "(동) 논쟁하다, 주장하다",
-      "sentence": "contend with differences",
-      "sentenceMeaning": "차이점에 대해 논쟁하다",
+      "sentence": "Nurses?often?have?to?contend?with?violent?patients",
+      "sentenceMeaning": "간호사들은 폭력적인 환자들과 자주 싸워야 한다.",
       "unit": 2
     },
     {
@@ -278,15 +278,15 @@
       "text": "insightful",
       "meaning": "(형) 통찰력이 있는",
       "sentence": "receive insightful suggestions",
-      "sentenceMeaning": "통찰력 있는 조언을 얻다",
+      "sentenceMeaning": "통찰력 있는 제안을 받다.",
       "unit": 2
     },
     {
       "serial": 36,
       "text": "entail",
       "meaning": "(동) 일으키다, 수반하다",
-      "sentence": "what perception entails",
-      "sentenceMeaning": "인식이 수반하는 것",
+      "sentence": "The job entails a lot of hard work",
+      "sentenceMeaning": "그 자리에는 많은 힘든 일이 수반된다",
       "unit": 2
     },
     {
@@ -294,7 +294,7 @@
       "text": "involve",
       "meaning": "(동) 포함하다",
       "sentence": "involve interpretation",
-      "sentenceMeaning": "해석을 포함하다",
+      "sentenceMeaning": "통역을 수반하다",
       "unit": 2
     },
     {
@@ -302,7 +302,7 @@
       "text": "manipulation",
       "meaning": "(명) 조작, 속임",
       "sentence": "carry out a successful manipulation",
-      "sentenceMeaning": "성공적으로 속임수를 걸다",
+      "sentenceMeaning": "성공적인 조작을 수행하다",
       "unit": 2
     },
     {
@@ -318,7 +318,7 @@
       "text": "intent",
       "meaning": "(명) 의향, 목적, 의도",
       "sentence": "artist's original intent",
-      "sentenceMeaning": "예술가의 원래 의도",
+      "sentenceMeaning": "예술가의 초심",
       "unit": 2
     },
     {
@@ -326,7 +326,7 @@
       "text": "tragedy",
       "meaning": "(명) 비극(적인 사건)",
       "sentence": "after this tragedy",
-      "sentenceMeaning": "이러한 비극이 있고 난 후",
+      "sentenceMeaning": "이 비극 후에.",
       "unit": 2
     },
     {
@@ -334,7 +334,7 @@
       "text": "strict",
       "meaning": "(형) 엄격한, 엄한",
       "sentence": "strict limit",
-      "sentenceMeaning": "엄격한 제한",
+      "sentenceMeaning": "엄격한 한계",
       "unit": 2
     },
     {
@@ -342,7 +342,7 @@
       "text": "severe",
       "meaning": "(형) 심각한, 엄한",
       "sentence": "a severe disease",
-      "sentenceMeaning": "심각한 질병",
+      "sentenceMeaning": "중병",
       "unit": 2
     },
     {
@@ -358,7 +358,7 @@
       "text": "racial",
       "meaning": "(형) 인종의, 민족의",
       "sentence": "racial group",
-      "sentenceMeaning": "인종적 집단",
+      "sentenceMeaning": "인종 집단",
       "unit": 2
     },
     {
@@ -374,7 +374,7 @@
       "text": "cue",
       "meaning": "(명) 신호, 단서",
       "sentence": "use an external cue",
-      "sentenceMeaning": "외부의 신호를 사용하다",
+      "sentenceMeaning": "외부 신호를 사용하다",
       "unit": 2
     },
     {
@@ -382,7 +382,7 @@
       "text": "specific",
       "meaning": "(형) 구체적인, 특정한",
       "sentence": "have specific rules",
-      "sentenceMeaning": "구체적인 규칙들을 가지다",
+      "sentenceMeaning": "특정한 규칙이 있다",
       "unit": 2
     },
     {
@@ -390,15 +390,15 @@
       "text": "immediate",
       "meaning": "(형) 즉시의, 당면한",
       "sentence": "his immediate problem",
-      "sentenceMeaning": "그가 당면한 문제",
+      "sentenceMeaning": "그의 당면한 문제",
       "unit": 2
     },
     {
       "serial": 50,
       "text": "neglect",
       "meaning": "(동) 방치하다, 소홀히 하다",
-      "sentence": "neglect his duties",
-      "sentenceMeaning": "그의 의무를 소홀히 하다",
+      "sentence": "She denies neglecting her baby",
+      "sentenceMeaning": "그녀는 아기를 방치했다는 것을 부인하고 있다",
       "unit": 2
     },
     {
@@ -406,7 +406,7 @@
       "text": "character",
       "meaning": "(명) 특성, 인격, 성격",
       "sentence": "a man of sound character",
-      "sentenceMeaning": "건전한 성격을 가진 남자",
+      "sentenceMeaning": "건실한 사람",
       "unit": 2
     },
     {
@@ -414,7 +414,7 @@
       "text": "boredom",
       "meaning": "(명) 권태, 지루함",
       "sentence": "the boredom of long trips",
-      "sentenceMeaning": "긴 항해의 지루함",
+      "sentenceMeaning": "긴 여행의 지루함",
       "unit": 2
     },
     {
@@ -430,7 +430,7 @@
       "text": "rough",
       "meaning": "(형) 거친",
       "sentence": "travel through rough seas",
-      "sentenceMeaning": "거친 바다를 항해하다",
+      "sentenceMeaning": "거친 바다를 여행하다",
       "unit": 2
     },
     {
@@ -446,7 +446,7 @@
       "text": "numerous",
       "meaning": "(형) 수많은",
       "sentence": "numerous colorful butterflies",
-      "sentenceMeaning": "수많은 화려한 나비들",
+      "sentenceMeaning": "알록달록한 수많은 나비들",
       "unit": 2
     },
     {
@@ -454,7 +454,7 @@
       "text": "steep",
       "meaning": "(형) 가파른, 깎아지른 듯한",
       "sentence": "the slope is too steep",
-      "sentenceMeaning": "경사면이 너무 가파르다",
+      "sentenceMeaning": "경사가 너무 가파르다",
       "unit": 2
     },
     {
@@ -462,7 +462,7 @@
       "text": "limit",
       "meaning": "(명) 한계(선), 한도",
       "sentence": "a speed limit",
-      "sentenceMeaning": "속도제한",
+      "sentenceMeaning": "제한 속도",
       "unit": 2
     },
     {
@@ -470,7 +470,7 @@
       "text": "humid",
       "meaning": "(형) 습기 있는",
       "sentence": "humid environment",
-      "sentenceMeaning": "습기 찬 환경",
+      "sentenceMeaning": "습기가 많은 환경",
       "unit": 2
     },
     {
@@ -478,7 +478,7 @@
       "text": "distinguish",
       "meaning": "(동) 구별하다",
       "sentence": "observe and distinguish these changes",
-      "sentenceMeaning": "이 변화들을 관찰하고 구별하다",
+      "sentenceMeaning": "이러한 변화를 관찰하고 구별하다.",
       "unit": 3
     },
     {
@@ -486,7 +486,7 @@
       "text": "metaphor",
       "meaning": "(명) 은유",
       "sentence": "rhetorical vagueness and metaphor",
-      "sentenceMeaning": "화려하면서 애매모호한 표현과 은유적 표현",
+      "sentenceMeaning": "미사여구식의 모호성과 은유",
       "unit": 3
     },
     {
@@ -494,7 +494,7 @@
       "text": "fatality",
       "meaning": "(명) 불운, 재난, 사망자(수)",
       "sentence": "road accident fatalities",
-      "sentenceMeaning": "도로상의 사고로 인한 사망자 수",
+      "sentenceMeaning": "교통사고 사망자 수",
       "unit": 3
     },
     {
@@ -502,7 +502,7 @@
       "text": "integrated",
       "meaning": "(형) 통합된",
       "sentence": "the integrated and interactive media",
-      "sentenceMeaning": "통합적이고 쌍방향의 매체",
+      "sentenceMeaning": "통합 및 상호적인 미디어",
       "unit": 3
     },
     {
@@ -510,7 +510,7 @@
       "text": "competence",
       "meaning": "(명) 적성, 능력",
       "sentence": "key social competence",
-      "sentenceMeaning": "중요한 사교 능력",
+      "sentenceMeaning": "주요 사회적 역량",
       "unit": 3
     },
     {
@@ -518,7 +518,7 @@
       "text": "incorporate",
       "meaning": "(동) 통합하다, 포함하다",
       "sentence": "incorporate their ideas",
-      "sentenceMeaning": "그들의 아이디어들을 통합하다",
+      "sentenceMeaning": "그들의 사상을 통합하다.",
       "unit": 3
     },
     {
@@ -526,7 +526,7 @@
       "text": "verdict",
       "meaning": "(명) (배심원의) 평결, 결정",
       "sentence": "generate its verdict automatically",
-      "sentenceMeaning": "무의식적으로 결정을 내리다",
+      "sentenceMeaning": "자동적으로 평결을 내리다.",
       "unit": 3
     },
     {
@@ -534,7 +534,7 @@
       "text": "pledge",
       "meaning": "(명) 서약, 언질",
       "sentence": "pledges of money",
-      "sentenceMeaning": "돈을 기부하는 서약",
+      "sentenceMeaning": "금전상의 약속",
       "unit": 3
     },
     {
@@ -542,7 +542,7 @@
       "text": "resent",
       "meaning": "(동) 분개하다",
       "sentence": "resent constant interruptions",
-      "sentenceMeaning": "자꾸 방해받는 것에 분개하다",
+      "sentenceMeaning": "끊임없는 방해에 분개하다.",
       "unit": 3
     },
     {
@@ -550,7 +550,7 @@
       "text": "existence",
       "meaning": "(명) 존재, 실재",
       "sentence": "the continued existence of normal life",
-      "sentenceMeaning": "정상적인 생활의 지속적 존재",
+      "sentenceMeaning": "정상적인 생활의 지속.",
       "unit": 3
     },
     {
@@ -558,7 +558,7 @@
       "text": "passionate",
       "meaning": "(형) 열정적인",
       "sentence": "his passionate performance",
-      "sentenceMeaning": "그의 열정적인 연주",
+      "sentenceMeaning": "그의 열정적인 연기",
       "unit": 3
     },
     {
@@ -566,7 +566,7 @@
       "text": "cohesion",
       "meaning": "(명) 결합, 응집(력)",
       "sentence": "build social cohesion",
-      "sentenceMeaning": "사회적 응집력을 구축하다",
+      "sentenceMeaning": "사회적 결속을 다지다",
       "unit": 3
     },
     {
@@ -574,7 +574,7 @@
       "text": "accommodation",
       "meaning": "(명) 거처, 숙소, 숙박 시설",
       "sentence": "accommodation expenses",
-      "sentenceMeaning": "숙박비용",
+      "sentenceMeaning": "숙박비",
       "unit": 3
     },
     {
@@ -582,7 +582,7 @@
       "text": "worship",
       "meaning": "(명) 숭배 (동) 숭배하다",
       "sentence": "worship youth",
-      "sentenceMeaning": "젊음을 숭배하다",
+      "sentenceMeaning": "청년을 숭배하다",
       "unit": 3
     },
     {
@@ -590,7 +590,7 @@
       "text": "constitute",
       "meaning": "(동) 구성하다",
       "sentence": "constitute very different versions",
-      "sentenceMeaning": "아주 다른 견해를 구성하다",
+      "sentenceMeaning": "판이하게 다르다.",
       "unit": 3
     },
     {
@@ -622,7 +622,7 @@
       "text": "evolution",
       "meaning": "(명) 발전, 진화(론)",
       "sentence": "the evolution of science",
-      "sentenceMeaning": "과학의 발전",
+      "sentenceMeaning": "과학의 진화",
       "unit": 3
     },
     {
@@ -630,7 +630,7 @@
       "text": "outbreak",
       "meaning": "(명) 발발, 갑작스러운 분출",
       "sentence": "outbreaks of infectious diseases",
-      "sentenceMeaning": "전염성 질병의 발발",
+      "sentenceMeaning": "전염병의 발생",
       "unit": 3
     },
     {
@@ -638,7 +638,7 @@
       "text": "bias",
       "meaning": "(명) 편견, 편향",
       "sentence": "reduce bias in their experiments",
-      "sentenceMeaning": "그들의 실험에서 편견을 줄이다",
+      "sentenceMeaning": "그들의 실험의 편향을 줄이다.",
       "unit": 3
     },
     {
@@ -646,7 +646,7 @@
       "text": "arbitrary",
       "meaning": "(형) 임의의, 멋대로의",
       "sentence": "this is entirely arbitrary",
-      "sentenceMeaning": "이것은 전적으로 자의적이다",
+      "sentenceMeaning": "이것은 전적으로 제멋대로이다.",
       "unit": 3
     },
     {
@@ -661,8 +661,8 @@
       "serial": 83,
       "text": "colonize",
       "meaning": "(동) 식민지로 만들다",
-      "sentence": "be colonized 45,000 years ago",
-      "sentenceMeaning": "45,000년 전에 식민지로 개척되다",
+      "sentence": "Peru was colonized by the?Spanish?in the 16th?century",
+      "sentenceMeaning": "페루는 16세기에 스페인에 의해 식민지화되었다.",
       "unit": 3
     },
     {
@@ -678,7 +678,7 @@
       "text": "edible",
       "meaning": "(형) 먹을 수 있는",
       "sentence": "edible produce",
-      "sentenceMeaning": "먹을 수 있는 농산물",
+      "sentenceMeaning": "식용 농산물",
       "unit": 3
     },
     {
@@ -694,7 +694,7 @@
       "text": "structure",
       "meaning": "(명) 구조, 건축",
       "sentence": "the twenty-by-thirty-foot structure",
-      "sentenceMeaning": "가로 20피트, 세로 30피트의 구조물",
+      "sentenceMeaning": "가로 20피트, 세로 20피트 구조",
       "unit": 3
     },
     {
@@ -702,7 +702,7 @@
       "text": "physical",
       "meaning": "(형) 육체의, 신체의",
       "sentence": "children's physical development",
-      "sentenceMeaning": "아이들의 신체적 발달",
+      "sentenceMeaning": "아이들의 신체 발달",
       "unit": 3
     },
     {
@@ -718,7 +718,7 @@
       "text": "measure",
       "meaning": "(명) 조치, 척도, 단위, (동) 재다, 측정하다",
       "sentence": "preventive measure",
-      "sentenceMeaning": "예방 조치",
+      "sentenceMeaning": "예방조치",
       "unit": 3
     },
     {
@@ -726,7 +726,7 @@
       "text": "potential",
       "meaning": "(명) 잠재력, 가능성",
       "sentence": "a small part of their potential",
-      "sentenceMeaning": "그들의 잠재능력의 작은 부분",
+      "sentenceMeaning": "그들의 잠재력의 작은 부분.",
       "unit": 4
     },
     {
@@ -742,7 +742,7 @@
       "text": "analysis",
       "meaning": "(명) 분석, 분해",
       "sentence": "closer analysis",
-      "sentenceMeaning": "더 상세한 분석",
+      "sentenceMeaning": "면밀한 분석",
       "unit": 4
     },
     {
@@ -750,7 +750,7 @@
       "text": "notably",
       "meaning": "(부) 뚜렷하게, 특히",
       "sentence": "most notably",
-      "sentenceMeaning": "가장 뚜렷하게",
+      "sentenceMeaning": "가장 두드러지게",
       "unit": 4
     },
     {
@@ -758,15 +758,15 @@
       "text": "defense",
       "meaning": "(명) 방위, 방어, 수비",
       "sentence": "nation’s defense",
-      "sentenceMeaning": "국가 방어",
+      "sentenceMeaning": "국가의 방위",
       "unit": 4
     },
     {
       "serial": 96,
       "text": "function",
       "meaning": "(명) 가능 (동) 작용하다",
-      "sentence": "impact product or service functions",
-      "sentenceMeaning": "상품이나 서비스 기능에 영향을 미치다",
+      "sentence": "This impacts product or service functions",
+      "sentenceMeaning": "이는 제품 또는 서비스 기능에 영향을 미칩니다.",
       "unit": 4
     },
     {
@@ -790,15 +790,15 @@
       "text": "alienation",
       "meaning": "(명) 멀리함, 소외",
       "sentence": "a sense of alienation from the society",
-      "sentenceMeaning": "사회와의 단절감",
+      "sentenceMeaning": "사회로부터의 소외감",
       "unit": 4
     },
     {
       "serial": 100,
       "text": "anecdote",
       "meaning": "(명) 일화",
-      "sentence": "biographical anecdotes",
-      "sentenceMeaning": "전기적 일화",
+      "sentence": "amusing anecdotes about his life",
+      "sentenceMeaning": "그의 생애에 관한 재미있는 일화들",
       "unit": 4
     },
     {
@@ -806,7 +806,7 @@
       "text": "simultaneously",
       "meaning": "(부) 동시에",
       "sentence": "simultaneously all over the world",
-      "sentenceMeaning": "전 세계적으로 동시에",
+      "sentenceMeaning": "동시에 전 세계에",
       "unit": 4
     },
     {
@@ -814,7 +814,7 @@
       "text": "variance",
       "meaning": "(명) 변화, 변동, 불일치",
       "sentence": "at variance with the truth",
-      "sentenceMeaning": "진실과 일치하지 않는",
+      "sentenceMeaning": "사실과 상충하는",
       "unit": 4
     },
     {
@@ -822,7 +822,7 @@
       "text": "imitate",
       "meaning": "(동) 모방하다, 흉내 내다",
       "sentence": "observe and imitate adults",
-      "sentenceMeaning": "성인을 관찰하고 모방하다",
+      "sentenceMeaning": "어른을 관찰하고 흉내내다.",
       "unit": 4
     },
     {
@@ -837,8 +837,8 @@
       "serial": 105,
       "text": "resist",
       "meaning": "(동) 저항하다",
-      "sentence": "resist easy measurement",
-      "sentenceMeaning": "쉬운 측정에 저항하다",
+      "sentence": "He?tried?to?pin?me?down,?but?I?resisted",
+      "sentenceMeaning": "그는 나를 속박하려 했지만 나는 저항했다",
       "unit": 4
     },
     {
@@ -846,7 +846,7 @@
       "text": "myriad",
       "meaning": "(형) 무수한, 가지각색의",
       "sentence": "the complex and myriad differences",
-      "sentenceMeaning": "복잡하고 무수한 차이점들",
+      "sentenceMeaning": "복잡하고 무수한 차이점",
       "unit": 4
     },
     {
@@ -854,7 +854,7 @@
       "text": "requirement",
       "meaning": "(명) 필요조건, 자격",
       "sentence": "salary requirement",
-      "sentenceMeaning": "급여 요구조건",
+      "sentenceMeaning": "희망 연봉",
       "unit": 4
     },
     {
@@ -862,7 +862,7 @@
       "text": "emerge",
       "meaning": "(동) 나타나다",
       "sentence": "gradually emerge through the mist",
-      "sentenceMeaning": "안개를 뚫고 점차 모습을 드러내다",
+      "sentenceMeaning": "안개 속에서 서서히 나타나다.",
       "unit": 4
     },
     {
@@ -870,7 +870,7 @@
       "text": "subscription",
       "meaning": "(명) 기부금, 구독료",
       "sentence": "membership subscription",
-      "sentenceMeaning": "회원 기부금",
+      "sentenceMeaning": "회원 가입",
       "unit": 4
     },
     {
@@ -886,7 +886,7 @@
       "text": "surpass",
       "meaning": "(동) 능가하다",
       "sentence": "surpass their expectation",
-      "sentenceMeaning": "그들의 기대를 능가하다",
+      "sentenceMeaning": "그들의 예상을 뛰어넘다.",
       "unit": 4
     },
     {
@@ -894,7 +894,7 @@
       "text": "enhance",
       "meaning": "(동) 향상하다, 높이다",
       "sentence": "enhance subtle information",
-      "sentenceMeaning": "미묘한 정보를 부각시키다",
+      "sentenceMeaning": "미묘한 정보를 강화하다.",
       "unit": 4
     },
     {
@@ -902,7 +902,7 @@
       "text": "feminine",
       "meaning": "(형) 여자의, 여성의",
       "sentence": "feminine gender",
-      "sentenceMeaning": "여성",
+      "sentenceMeaning": "여성의 성별",
       "unit": 4
     },
     {
@@ -910,7 +910,7 @@
       "text": "nervous",
       "meaning": "(형) 불안해(초조해/두려워)하는, 신경의",
       "sentence": "nervous and trembling",
-      "sentenceMeaning": "불안하고 떨리는",
+      "sentenceMeaning": "초조하고 떨리는",
       "unit": 4
     },
     {
@@ -918,7 +918,7 @@
       "text": "suspicion",
       "meaning": "(명) 혐의, 의심",
       "sentence": "suspicion or tension",
-      "sentenceMeaning": "의심 또는 긴장",
+      "sentenceMeaning": "의혹 또는 긴장",
       "unit": 4
     },
     {
@@ -926,7 +926,7 @@
       "text": "awareness",
       "meaning": "(명) 인식",
       "sentence": "awareness of choice",
-      "sentenceMeaning": "선택의 인식",
+      "sentenceMeaning": "선택에 대한 인식",
       "unit": 4
     },
     {
@@ -934,7 +934,7 @@
       "text": "inspire",
       "meaning": "(동) (고무)격려하다, 영감을 주다",
       "sentence": "inspire a whole range of questions",
-      "sentenceMeaning": "온갖 질문이 떠오르게 하다",
+      "sentenceMeaning": "여러 가지 질문을 불러일으키다",
       "unit": 4
     },
     {
@@ -942,23 +942,23 @@
       "text": "compensation",
       "meaning": "(명) 배상, 보상",
       "sentence": "pay compensation",
-      "sentenceMeaning": "배상하다",
+      "sentenceMeaning": "보상금을 지급하다",
       "unit": 4
     },
     {
       "serial": 119,
       "text": "cherish",
       "meaning": "(동) 소중히 하다",
-      "sentence": "evoke both cherished memories and",
-      "sentenceMeaning": "소중한 기억과 아픈 기억을 모두 불러일으키다",
+      "sentence": "evoke both cherished memories and painful memories",
+      "sentenceMeaning": "소중한 기억과 아픈 기억을 동시에 불러일으키다.",
       "unit": 4
     },
     {
       "serial": 120,
       "text": "geological",
       "meaning": "(형) 지질학의",
-      "sentence": "are geologically trapped",
-      "sentenceMeaning": "지질학적으로 갇혀 있다",
+      "sentence": "These are geologically trapped",
+      "sentenceMeaning": "이것들은 지질학적으로 갇혀있다.",
       "unit": 4
     },
     {
@@ -1006,7 +1006,7 @@
       "text": "innocent",
       "meaning": "(형) 악의 없는, 순수한",
       "sentence": "innocent habit",
-      "sentenceMeaning": "악의 없는 습관",
+      "sentenceMeaning": "순수한 습관",
       "unit": 5
     },
     {
@@ -1014,7 +1014,7 @@
       "text": "muscle",
       "meaning": "(명) 근육, 힘줄",
       "sentence": "relax muscles",
-      "sentenceMeaning": "근육을 풀어주다",
+      "sentenceMeaning": "근육을 이완시키다",
       "unit": 5
     },
     {
@@ -1022,7 +1022,7 @@
       "text": "shelter",
       "meaning": "(명) 주거지, 피난 장소",
       "sentence": "provide some shelter",
-      "sentenceMeaning": "몇몇 주거지를 제공하다",
+      "sentenceMeaning": "쉼터를 제공하다",
       "unit": 5
     },
     {
@@ -1030,7 +1030,7 @@
       "text": "intentional",
       "meaning": "(형) 계획적인, 고의의",
       "sentence": "this intentional error",
-      "sentenceMeaning": "이러한 고의적인 오류",
+      "sentenceMeaning": "이 의도적인 오류",
       "unit": 5
     },
     {
@@ -1038,7 +1038,7 @@
       "text": "subject",
       "meaning": "(명) 주제, 제목, 과목",
       "sentence": "a particular subject",
-      "sentenceMeaning": "특정한 과목",
+      "sentenceMeaning": "특정 주제",
       "unit": 5
     },
     {
@@ -1046,7 +1046,7 @@
       "text": "advance",
       "meaning": "(명) 전진, 진전, 발전 (형) 사전의 (동) 증진되다",
       "sentence": "an advance warning system",
-      "sentenceMeaning": "조기경보체제",
+      "sentenceMeaning": "사전 경고 시스템",
       "unit": 5
     },
     {
@@ -1054,7 +1054,7 @@
       "text": "location",
       "meaning": "(명) 장소, 위치",
       "sentence": "location of discount store",
-      "sentenceMeaning": "할인점의 위치",
+      "sentenceMeaning": "할인매장 위치",
       "unit": 5
     },
     {
@@ -1062,7 +1062,7 @@
       "text": "breathe",
       "meaning": "(동) 호흡하다",
       "sentence": "burn all the oxygen we breathe in",
-      "sentenceMeaning": "우리가 들이쉬는 모든 산소를 태우다",
+      "sentenceMeaning": "우리가 호흡하는 모든 산소를 태우다",
       "unit": 5
     },
     {
@@ -1078,7 +1078,7 @@
       "text": "persistent",
       "meaning": "(형) 고집하는, 끊임없는",
       "sentence": "try persistently to follow me",
-      "sentenceMeaning": "나를 끈덕지게 따라오려 하다",
+      "sentenceMeaning": "끈질기게 나를 따르려 해",
       "unit": 5
     },
     {
@@ -1086,7 +1086,7 @@
       "text": "age",
       "meaning": "(명) 나이, 시기, 시대 (동) 나이가 들다",
       "sentence": "age biologically",
-      "sentenceMeaning": "생물학적으로 나이가 들다",
+      "sentenceMeaning": "생물학적으로 나이를 먹다",
       "unit": 5
     },
     {
@@ -1094,7 +1094,7 @@
       "text": "attend",
       "meaning": "(동) ~에 출석하다",
       "sentence": "attend the school festivals",
-      "sentenceMeaning": "학교 축제에 참여하다",
+      "sentenceMeaning": "학교 축제에 참석하다",
       "unit": 5
     },
     {
@@ -1102,7 +1102,7 @@
       "text": "appointment",
       "meaning": "(명) 임명, 지명, 약속",
       "sentence": "business appointments",
-      "sentenceMeaning": "사업 약속",
+      "sentenceMeaning": "업무 약속",
       "unit": 5
     },
     {
@@ -1110,7 +1110,7 @@
       "text": "document",
       "meaning": "(명) 서류 ,문서 (동) 증명하다, 기록하다",
       "sentence": "document personal history",
-      "sentenceMeaning": "개인의 역사를 기록하다",
+      "sentenceMeaning": "문서 개인 기록",
       "unit": 5
     },
     {
@@ -1118,7 +1118,7 @@
       "text": "share",
       "meaning": "(명) 몫, 배당 (동) 공유하다",
       "sentence": "share what we did well",
-      "sentenceMeaning": "우리가 잘 한 것을 공유하다",
+      "sentenceMeaning": "우리가 잘한 것을 공유",
       "unit": 5
     },
     {
@@ -1126,7 +1126,7 @@
       "text": "donation",
       "meaning": "(명) 기증, 기증품",
       "sentence": "public donation",
-      "sentenceMeaning": "공공 기부금",
+      "sentenceMeaning": "공공 기부",
       "unit": 5
     },
     {
@@ -1134,7 +1134,7 @@
       "text": "graze",
       "meaning": "(동) 풀을 뜯어먹게 하다, 방목하다",
       "sentence": "graze their animals free of charge",
-      "sentenceMeaning": "무료로 가축들을 방목하다",
+      "sentenceMeaning": "그들의 동물을 무료로 방목하다",
       "unit": 5
     },
     {
@@ -1142,7 +1142,7 @@
       "text": "fierce",
       "meaning": "(형) 맹렬한, 격심한",
       "sentence": "the fierce competition",
-      "sentenceMeaning": "격렬한 경쟁",
+      "sentenceMeaning": "치열한 경쟁",
       "unit": 5
     },
     {
@@ -1150,7 +1150,7 @@
       "text": "impose",
       "meaning": "(동) 부과하다, 강요하다",
       "sentence": "impose religion",
-      "sentenceMeaning": "종교를 강제하다",
+      "sentenceMeaning": "종교를 강요하다",
       "unit": 5
     },
     {
@@ -1158,7 +1158,7 @@
       "text": "patron",
       "meaning": "(명) 후원자",
       "sentence": "the commissions from wealthy patrons",
-      "sentenceMeaning": "부유한 후원자로부터 받는 많은 위탁일",
+      "sentenceMeaning": "부유한 후원자로부터의 수수료",
       "unit": 5
     },
     {
@@ -1166,7 +1166,7 @@
       "text": "enrollment",
       "meaning": "(명) 등록",
       "sentence": "school enrollment",
-      "sentenceMeaning": "취학(학교 등록)",
+      "sentenceMeaning": "학교 등록",
       "unit": 5
     },
     {
@@ -1174,7 +1174,7 @@
       "text": "combustion",
       "meaning": "(명) 연소",
       "sentence": "the internal combustion engine",
-      "sentenceMeaning": "내연기관",
+      "sentenceMeaning": "내적 연소 엔진",
       "unit": 5
     },
     {
@@ -1182,7 +1182,7 @@
       "text": "complain",
       "meaning": "(동) 불평하다, 항의하다",
       "sentence": "complain about a lack of time",
-      "sentenceMeaning": "시간이 부족한 것에 대해 불평하다",
+      "sentenceMeaning": "시간이 없다고 불평하다",
       "unit": 5
     },
     {
@@ -1190,7 +1190,7 @@
       "text": "modify",
       "meaning": "(동) 수정(변경)하다",
       "sentence": "genetically modified crops",
-      "sentenceMeaning": "유전자 변형곡물",
+      "sentenceMeaning": "유전자 변형 작물",
       "unit": 5
     },
     {
@@ -2027,10 +2027,10 @@
     },
     {
       "serial": 254,
-      "text": "특정한 진동 값과 관련 있다",
-      "meaning": "be associated with ~와 관련 있다",
-      "sentence": "be associated with particular frequency",
-      "sentenceMeaning": "values",
+      "text": "be associated with",
+      "meaning": "~와 관련 있다",
+      "sentence": "be associated with particular frequency values",
+      "sentenceMeaning": "특정한 진동 값과 관련 있다",
       "unit": 9
     },
     {
