@@ -1652,7 +1652,7 @@
     {
       "serial": 207,
       "text": "intrude",
-      "meaning": "(동) 무리하게 강요하다, 방해하다",
+      "meaning": "(동) 침범하다, 방해하다",
       "sentence": "intrude on all other attempts",
       "sentenceMeaning": "다른 모든 시도를 방해하다.",
       "unit": 7
@@ -2774,7 +2774,7 @@
       "text": " look forward to",
       "meaning": "~를 고대하다",
       "sentence": "look forward to your response",
-      "sentenceMeaning": "당신의 답변을 고대하다 look forward to ~를 고대하다",
+      "sentenceMeaning": "당신의 답변을 고대하다",
       "unit": 12
     },
     {
@@ -2878,7 +2878,7 @@
       "text": "take ~ for granted",
       "meaning": "~을 당연시하다",
       "sentence": "take it for granted that~",
-      "sentenceMeaning": "~를 당연시하다 take ~ for granted ~을 당연시하다",
+      "sentenceMeaning": "~를 당연시하다",
       "unit": 13
     },
     {
@@ -2918,7 +2918,7 @@
       "text": "put off",
       "meaning": "연기하다",
       "sentence": "put off doing his report",
-      "sentenceMeaning": "그의 과제 작성을 연기하다 put off 연기하다",
+      "sentenceMeaning": "그의 과제 작성을 연기하다",
       "unit": 13
     },
     {
@@ -3038,7 +3038,7 @@
       "text": "stick to",
       "meaning": "(동) 충실하다, 고집하다",
       "sentence": "stick to academics",
-      "sentenceMeaning": "학문을 고집하다 stick to (동) 충실하다, 고집하다",
+      "sentenceMeaning": "학문을 고집하다",
       "unit": 13
     },
     {
@@ -3166,7 +3166,7 @@
       "text": "be charged with ~",
       "meaning": " ~로 가득 채워지다, ~한 책임을 맡고 있다",
       "sentence": "be charged with a task",
-      "sentenceMeaning": "일의 책임을 맡고 있다 be charged with ~로 가득 채워지다,",
+      "sentenceMeaning": "일의 책임을 맡고 있다",
       "unit": 14
     },
     {
@@ -3230,7 +3230,7 @@
       "text": "account for",
       "meaning": "설명하다, 차지하다",
       "sentence": "account for over 40%",
-      "sentenceMeaning": "40% 이상을 차지하다 account for 설명하다, 차지하다",
+      "sentenceMeaning": "40% 이상을 차지하다",
       "unit": 14
     },
     {
@@ -3438,7 +3438,7 @@
       "text": "regardless of",
       "meaning": "~에 관계없이",
       "sentence": "regardless of your age",
-      "sentenceMeaning": "나이와 상관없이 regardless of ~에 관계없이",
+      "sentenceMeaning": "나이와 상관없이",
       "unit": 15
     },
     {
@@ -4326,7 +4326,7 @@
       "text": "be due to",
       "meaning": "~할 예정이다",
       "sentence": "was due to present my new idea",
-      "sentenceMeaning": "나의 새로운 아이디어를 발표할 예정이었다 be due to ~할 예정이다",
+      "sentenceMeaning": "나의 새로운 아이디어를 발표할 예정이었다",
       "unit": 19
     },
     {
