@@ -1877,8 +1877,8 @@
       "serial": 235,
       "text": "sprout",
       "meaning": "(동) 싹이 트다, 발아하다",
-      "sentence": "sprout quickly",
-      "sentenceMeaning": "빠르게 싹이 트다",
+      "sentence": "It?takes?about three?days?for the?seeds?to sprout.",
+      "sentenceMeaning": "씨앗이 싹트는 데는 약 3일이 걸린다.",
       "unit": 8
     },
     {
@@ -1973,7 +1973,7 @@
       "serial": 247,
       "text": "vulnerable",
       "meaning": "(형) 상처 입기 쉬운, 취약한, 연약한",
-      "sentence": "the most vulnerable, pedestrians",
+      "sentence": "the most vulnerable pedestrians",
       "sentenceMeaning": "가장 취약한 보행자들",
       "unit": 9
     },
@@ -2012,9 +2012,9 @@
     {
       "serial": 252,
       "text": "indulge",
-      "meaning": "(동) 만족시키다, 충족시키다",
+      "meaning": "(동) (나쁜것을)마음껏 하다. 탐닉하다",
       "sentence": "indulge fantasies of violence",
-      "sentenceMeaning": "폭력에 대한 공상을 충족시키다",
+      "sentenceMeaning": "폭력에 대한 환상에 빠지다",
       "unit": 9
     },
     {
@@ -2022,15 +2022,15 @@
       "text": "prevail",
       "meaning": "(동) 널리 보급되다, 유행하다",
       "sentence": "a prevailing method of interpretation",
-      "sentenceMeaning": "유행하는 해석방법",
+      "sentenceMeaning": "널리 쓰이는 해석방법",
       "unit": 9
     },
     {
       "serial": 254,
       "text": "be associated with",
       "meaning": "~와 관련 있다",
-      "sentence": "be associated with particular frequency values",
-      "sentenceMeaning": "특정한 진동 값과 관련 있다",
+      "sentence": "It is associated with particular frequency values",
+      "sentenceMeaning": "특정 주파수 값과 관련이 있습니다",
       "unit": 9
     },
     {
@@ -2054,7 +2054,7 @@
       "text": "dilute",
       "meaning": "(동) 묽게 하다, 희석하다",
       "sentence": "dilute the exactness of mathematics",
-      "sentenceMeaning": "수학의 정확성을 약화시키다",
+      "sentenceMeaning": "수학의 정확성을 희석시키다.",
       "unit": 9
     },
     {
@@ -2062,7 +2062,7 @@
       "text": "expedition",
       "meaning": "(명) 탐험, 원정",
       "sentence": "the first expeditions to Everest",
-      "sentenceMeaning": "첫 에베레스트 등반대",
+      "sentenceMeaning": "에베레스트 제1차 원정",
       "unit": 9
     },
     {
@@ -2070,7 +2070,7 @@
       "text": "term",
       "meaning": "(명) 기간, 조건, 용어",
       "sentence": "the term euphemism",
-      "sentenceMeaning": "완곡어법이라는 용어",
+      "sentenceMeaning": "완곡한 표현",
       "unit": 9
     },
     {
@@ -2078,7 +2078,7 @@
       "text": "irrigation",
       "meaning": "(명) 물을 댐, 관개",
       "sentence": "water for irrigation",
-      "sentenceMeaning": "관개를 위한 물",
+      "sentenceMeaning": "(농지에)수급용 물",
       "unit": 9
     },
     {
@@ -2086,7 +2086,7 @@
       "text": "marine",
       "meaning": "(형) 바다의",
       "sentence": "marine life",
-      "sentenceMeaning": "바다 속 생활",
+      "sentenceMeaning": "해양 생물",
       "unit": 9
     },
     {
@@ -2094,7 +2094,7 @@
       "text": "vary",
       "meaning": "(동) 변화를 주다, 다양화하다",
       "sentence": "constantly vary your diet",
-      "sentenceMeaning": "끊임없이 너의 식단을 다양화하다",
+      "sentenceMeaning": "식단을 끊임없이 바꾸다",
       "unit": 9
     },
     {
@@ -2102,7 +2102,7 @@
       "text": "barter",
       "meaning": "(동) 물물교환하다",
       "sentence": "barter system",
-      "sentenceMeaning": "물물교환 시스템",
+      "sentenceMeaning": "물물교환제도",
       "unit": 9
     },
     {
@@ -2110,7 +2110,7 @@
       "text": "barren",
       "meaning": "(형) (땅이) 불모의, 메마른",
       "sentence": "the barren landscapes",
-      "sentenceMeaning": "황량한 풍경",
+      "sentenceMeaning": "척박한 풍경",
       "unit": 9
     },
     {
@@ -2118,15 +2118,15 @@
       "text": "artificial",
       "meaning": "(형) 인공적인, 인위적인",
       "sentence": "artificial mothers",
-      "sentenceMeaning": "가짜의(인공의) 어미",
+      "sentenceMeaning": "인공 어미",
       "unit": 9
     },
     {
       "serial": 266,
       "text": "classify",
       "meaning": "(동) 분류하다",
-      "sentence": "name and classify plants",
-      "sentenceMeaning": "식물을 명명하고 분류하다",
+      "sentence": "I name and classify plants",
+      "sentenceMeaning": "나는 식물의 이름을 짓고 분류한다.",
       "unit": 9
     },
     {
@@ -2134,7 +2134,7 @@
       "text": "gratitude",
       "meaning": "(명) 감사",
       "sentence": "express gratitude",
-      "sentenceMeaning": "감사를 표현하다",
+      "sentenceMeaning": "감사의 뜻을 표하다",
       "unit": 9
     },
     {
@@ -2142,15 +2142,15 @@
       "text": "terrify",
       "meaning": "(동) 겁나게 하다, 놀래다",
       "sentence": "the most terrifying experiences",
-      "sentenceMeaning": "가장 무시무시한 경험",
+      "sentenceMeaning": "가장 무서운 경험",
       "unit": 9
     },
     {
       "serial": 269,
       "text": "contraction",
       "meaning": "(명) 수축, 위축",
-      "sentence": "sustain repeated contractions",
-      "sentenceMeaning": "반복적인 수축을 견디다",
+      "sentence": "Cold causes contraction of the metal",
+      "sentenceMeaning": "추위는 금속의 수축을 유발한다.",
       "unit": 9
     },
     {
@@ -2158,7 +2158,7 @@
       "text": "possess ",
       "meaning": "(동) 소유하다, 보유하다",
       "sentence": "the creativity that children possess",
-      "sentenceMeaning": "아이들이 지닌 창의력",
+      "sentenceMeaning": "아이들이 가지고 있는 창의력",
       "unit": 9
     },
     {
@@ -2182,7 +2182,7 @@
       "text": "distress",
       "meaning": "(명) 고통, 괴로움, 고충, 곤경",
       "sentence": "cause distress in our relationships",
-      "sentenceMeaning": "우리 관계에 고통을 야기하다",
+      "sentenceMeaning": "우리 관계에 어려움을 일으키다",
       "unit": 10
     },
     {
@@ -2198,7 +2198,7 @@
       "text": "empower",
       "meaning": "(동) 권한을 주다",
       "sentence": "feel empowered",
-      "sentenceMeaning": "권한을 부여받았다고 느끼다",
+      "sentenceMeaning": "힘이 솟다",
       "unit": 10
     },
     {
@@ -2206,7 +2206,7 @@
       "text": "faulty",
       "meaning": "(형) 결함 있는, 잘못된",
       "sentence": "faulty electrical wiring",
-      "sentenceMeaning": "결함 있는 전선",
+      "sentenceMeaning": "잘못된 전기 배선",
       "unit": 10
     },
     {
@@ -2214,7 +2214,7 @@
       "text": "alternative",
       "meaning": "(명) 대안",
       "sentence": "genuine alternative",
-      "sentenceMeaning": "진정한 선택",
+      "sentenceMeaning": "진정한 대안",
       "unit": 10
     },
     {
@@ -2222,7 +2222,7 @@
       "text": "initiative",
       "meaning": "(명) 계획, 주도권",
       "sentence": "embrace fish welfare initiatives",
-      "sentenceMeaning": "물고기 후생사업 계획을 수용하다",
+      "sentenceMeaning": "어류 복지 계획을 수용하다",
       "unit": 10
     },
     {
@@ -2230,7 +2230,7 @@
       "text": "resort",
       "meaning": "(동) 의지하다, 호소하다",
       "sentence": "resort to salesmanship",
-      "sentenceMeaning": "판매술에 의지하다",
+      "sentenceMeaning": "영업에 의지하다",
       "unit": 10
     },
     {
@@ -2238,7 +2238,7 @@
       "text": "exert",
       "meaning": "(동) 발휘하다, 행사하다",
       "sentence": "by exerting a force",
-      "sentenceMeaning": "힘을 발휘함으로써",
+      "sentenceMeaning": "힘을 가하여",
       "unit": 10
     },
     {
@@ -2246,7 +2246,7 @@
       "text": "context",
       "meaning": "(명) 문맥, 맥락, 상황",
       "sentence": "in two social contexts",
-      "sentenceMeaning": "두 가지 사회적 맥락 속에서",
+      "sentenceMeaning": "두 가지 사회적 맥락에서",
       "unit": 10
     },
     {
@@ -2254,7 +2254,7 @@
       "text": "local",
       "meaning": "(형) 지방의, 고장의",
       "sentence": "local conflict",
-      "sentenceMeaning": "지역적 갈등",
+      "sentenceMeaning": "지역 갈등",
       "unit": 10
     },
     {
@@ -2270,7 +2270,7 @@
       "text": "biological",
       "meaning": "(형) 생물학의",
       "sentence": "the modern system of biological classification",
-      "sentenceMeaning": "생물학적 분류의 현대적 체계",
+      "sentenceMeaning": "현대 생물학적 분류 체계",
       "unit": 10
     },
     {
@@ -2278,7 +2278,7 @@
       "text": "bankrupt",
       "meaning": "(동) 지급 불능으로 만들다, 파산시키다",
       "sentence": "bankrupt the accounts",
-      "sentenceMeaning": "계좌를 지급 불능으로 만들다",
+      "sentenceMeaning": "계좌를 파산시키다",
       "unit": 10
     },
     {
@@ -2286,7 +2286,7 @@
       "text": "stable",
       "meaning": "(형) 안정된, 견고한",
       "sentence": "a stable condition",
-      "sentenceMeaning": "안정된 환경",
+      "sentenceMeaning": "안정된 상태",
       "unit": 10
     },
     {
@@ -2310,15 +2310,15 @@
       "text": "coordinate",
       "meaning": "(동) 조정하다, 조화시키다",
       "sentence": "coordinate their actions",
-      "sentenceMeaning": "그들의 행동을 조정하다",
+      "sentenceMeaning": "그들의 행동을 조정",
       "unit": 10
     },
     {
       "serial": 290,
       "text": "summit",
-      "meaning": "(명) 정상, 꼭대기",
-      "sentence": "steepest at the summit",
-      "sentenceMeaning": "정상에서 가장 가파른",
+      "meaning": "(명) 정상, 꼭대기, 정상회담",
+      "sentence": "We?reached?the?summit?at?noon",
+      "sentenceMeaning": "우리는 정오에 정상에 이르렀다",
       "unit": 10
     },
     {
@@ -2326,7 +2326,7 @@
       "text": "cooperation",
       "meaning": "(명) 협력, 협동",
       "sentence": "the minimal cooperation of children",
-      "sentenceMeaning": "아이들의 최소한의 협력",
+      "sentenceMeaning": "아이들의 최소한의 협조",
       "unit": 10
     },
     {
@@ -2334,7 +2334,7 @@
       "text": "absent",
       "meaning": "(형) 부재의, 결석의",
       "sentence": "absent-mindedness",
-      "sentenceMeaning": "정신없는 상태",
+      "sentenceMeaning": "건망증, 정신없는 상태",
       "unit": 10
     },
     {
@@ -2350,7 +2350,7 @@
       "text": "legal",
       "meaning": "(형) 법률상의",
       "sentence": "legal authority",
-      "sentenceMeaning": "법적 권위",
+      "sentenceMeaning": "법적 권한",
       "unit": 10
     },
     {
@@ -2358,7 +2358,7 @@
       "text": "role",
       "meaning": "(명) 역할, 임무",
       "sentence": "their role models",
-      "sentenceMeaning": "그들의 역할 대상",
+      "sentenceMeaning": "그들의 롤모델",
       "unit": 10
     },
     {
@@ -2374,7 +2374,7 @@
       "text": "transmit",
       "meaning": "(동) 보내다, 발송하다",
       "sentence": "transmit speech and sounds",
-      "sentenceMeaning": "말과 소리를 전송하다",
+      "sentenceMeaning": "말과 소리를 전달하다",
       "unit": 10
     },
     {
@@ -2382,7 +2382,7 @@
       "text": "tragic",
       "meaning": "(형) 비극의",
       "sentence": "provide an extreme and tragic example",
-      "sentenceMeaning": "극단적이고 비극적인 사례를 제시하다",
+      "sentenceMeaning": "극단적이고 비극적인 예를 제시하다",
       "unit": 10
     },
     {
@@ -2390,7 +2390,7 @@
       "text": "concentration",
       "meaning": "(명) 집중",
       "sentence": "poor concentration",
-      "sentenceMeaning": "약한 집중력",
+      "sentenceMeaning": "집중력 저하",
       "unit": 10
     },
     {
@@ -2398,7 +2398,7 @@
       "text": "promise",
       "meaning": "(명) 가능성, 전망",
       "sentence": "with endless promises",
-      "sentenceMeaning": "끝없는 가능성과 함께",
+      "sentenceMeaning": "끝없는 약속으로",
       "unit": 10
     },
     {
@@ -2422,7 +2422,7 @@
       "text": "terminal",
       "meaning": "(형) 말기의, 불치의, 더 이상 손을 쓸 수 없는",
       "sentence": "seemingly terminal decline",
-      "sentenceMeaning": "외관상 가망 없는, 쇠퇴기",
+      "sentenceMeaning": "보아하니 가망 없는 쇠퇴기",
       "unit": 11
     },
     {
@@ -2430,7 +2430,7 @@
       "text": "fragment",
       "meaning": "(명) 파편, 조각",
       "sentence": "fragments from old songs",
-      "sentenceMeaning": "오랜 된 노래의 부분들",
+      "sentenceMeaning": "옛 노래의 파편",
       "unit": 11
     },
     {
@@ -2438,7 +2438,7 @@
       "text": "detached",
       "meaning": "(형) 떨어진, 분리한",
       "sentence": "connected yet detached in virtuality",
-      "sentenceMeaning": "가상에서 관계를 맺었지만 분리된",
+      "sentenceMeaning": "연결되었지만 가상에서 분리된",
       "unit": 11
     },
     {
@@ -2446,7 +2446,7 @@
       "text": "soak",
       "meaning": "(동) 담그다, 흠뻑 적시다",
       "sentence": "your clothes soaked",
-      "sentenceMeaning": "흠뻑 젖은 너의 옷",
+      "sentenceMeaning": "너의 옷이 흠뻑 젖었다",
       "unit": 11
     },
     {
@@ -2454,7 +2454,7 @@
       "text": "expertise",
       "meaning": "(명) 전문 지식",
       "sentence": "expertise in multiple area",
-      "sentenceMeaning": "여러 분야에서 전문지식",
+      "sentenceMeaning": "다방면에 걸친 전문 지식",
       "unit": 11
     },
     {
@@ -2478,7 +2478,7 @@
       "text": "commitment",
       "meaning": "(명) 약속, 전념, 헌신",
       "sentence": "their commitment to positive behavior",
-      "sentenceMeaning": "바람직한 행동에 대한 그들의 몰두",
+      "sentenceMeaning": "긍정적인 행동에 대한 그들의 헌신",
       "unit": 11
     },
     {
@@ -2533,8 +2533,8 @@
       "serial": 317,
       "text": "currency",
       "meaning": "(명) 통화, 화폐",
-      "sentence": "currency: coins and bills",
-      "sentenceMeaning": "현금인 동전이나 지폐",
+      "sentence": "Take some foreign currency to cover incidentals like the taxi fare.",
+      "sentenceMeaning": "택시비와 같은 부수적인 비용을 충당하기 위해 외화를 가져가세요",
       "unit": 11
     },
     {
@@ -2550,7 +2550,7 @@
       "text": "omit",
       "meaning": "(동) 빼다, 빠뜨리다, 생략하다",
       "sentence": "omit a word",
-      "sentenceMeaning": "한 단어를 생략하다",
+      "sentenceMeaning": "한 단어를 생략핟",
       "unit": 11
     },
     {
@@ -2558,7 +2558,7 @@
       "text": "artifact",
       "meaning": "(명) 인공물, 가공품",
       "sentence": "physical artifacts",
-      "sentenceMeaning": "물리적인 인공물",
+      "sentenceMeaning": "물적 공예품",
       "unit": 11
     },
     {
@@ -2574,7 +2574,7 @@
       "text": "sequence",
       "meaning": "(명) 연속적인 사건들, 순서",
       "sentence": "have connection and sequence",
-      "sentenceMeaning": "연관성과 순서를 가지다",
+      "sentenceMeaning": "연관성과 순서가 있다",
       "unit": 11
     },
     {
@@ -2638,7 +2638,7 @@
       "text": "modest",
       "meaning": "(형) 겸손한, 알맞은",
       "sentence": "modest house",
-      "sentenceMeaning": "적당한 집",
+      "sentenceMeaning": "수수한 집",
       "unit": 12
     },
     {
@@ -2662,7 +2662,7 @@
       "text": "device",
       "meaning": "(명) 장치, 설비",
       "sentence": "electric device",
-      "sentenceMeaning": "전자 장치",
+      "sentenceMeaning": "전기 장치",
       "unit": 12
     },
     {
@@ -2702,7 +2702,7 @@
       "text": "input",
       "meaning": "(명) 투입, 참여",
       "sentence": "local citizen input and knowledge",
-      "sentenceMeaning": "지역 주민의 참여나 지식",
+      "sentenceMeaning": "지역 주민의 참여와 지식",
       "unit": 12
     },
     {
@@ -2771,7 +2771,7 @@
     },
     {
       "serial": 347,
-      "text": " look forward to",
+      "text": "look forward to",
       "meaning": "~를 고대하다",
       "sentence": "look forward to your response",
       "sentenceMeaning": "당신의 답변을 고대하다",
@@ -4437,7 +4437,7 @@
       "serial": 555,
       "text": "agricultural",
       "meaning": "(형) 농업의",
-      "sentence": " agricultural product",
+      "sentence": "agricultural product",
       "sentenceMeaning": "농업 생산품",
       "unit": 19
     },
