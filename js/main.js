@@ -92,8 +92,7 @@ mainChapter.addEventListener('click', (e)=> {
   if ( chapter ) {
     init();
     console.log(chapter);
-    // SelectData();
-    // displayUnits();
+    // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
   }
 })
 
@@ -105,9 +104,7 @@ grammerChapter.addEventListener('click', (e)=> {
   // unitLength =  parseInt(e.target.dataset.unitNo);
   if ( chapter ) {
     init();
-    // console.log(chapter);
-    // SelectData();
-    // displayUnits();
+    // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
   }
 })
 
@@ -117,8 +114,7 @@ function init(){
   loadItems()
   .then(items => {
     displayItems(items);
-    console.log(collectionArray)
-    // displayUnits();
+    // console.log(collectionArray)
   })
   .catch(console.log);
 }
