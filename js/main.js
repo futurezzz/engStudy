@@ -86,6 +86,7 @@ changeUser.addEventListener('click',()=>{
 // firebase.jsdpeh mainChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
 mainChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
+  // unitLength = e.target.dataset.unitNo;
   calendar.style.visibility = 'hidden';
   // unitLength =  parseInt(e.target.dataset.unitNo);
   if ( chapter ) {
@@ -99,6 +100,7 @@ mainChapter.addEventListener('click', (e)=> {
 // firebase.jsdpeh grammerChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
 grammerChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
+  unitLength = e.target.dataset.unitNo;
   calendar.style.visibility = 'hidden';
   // unitLength =  parseInt(e.target.dataset.unitNo);
   if ( chapter ) {
@@ -115,6 +117,7 @@ function init(){
   loadItems()
   .then(items => {
     displayItems(items);
+    console.log(collectionArray)
     // displayUnits();
   })
   .catch(console.log);
@@ -234,7 +237,7 @@ function displayCalendar(){
 //   return map;
 // }
 function groupBy(list) {
-  
+  collectionArray = [];
   unitLength = 0;
   list.forEach((item) => {
     const collection = item.unit;
@@ -243,18 +246,17 @@ function groupBy(list) {
         collectionArray.push(collection);
     } 
   });
-  return unitLength;
+  console.log(`unitLength ${unitLength}`);
+  return collectionArray;
 }
 
 
 function displayItems(items){
   units = items.map(item=>item);
   groupBy(units);
-  // console.log(unitLength);
 }
 
 function displayUnits(){
-  console.log(scoreArray);
   calendarToday.textContent = '';
   calendarUnitList.innerHTML = '';
   subUnitList.innerHTML = ''; //unit메뉴들을 초기화
