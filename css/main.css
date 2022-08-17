@@ -174,9 +174,9 @@
 .user {
   z-index: 100;
   position: absolute;
-  top: 25px;
-  width: 300px;
-  height: 550px;
+  top: 10px;
+  width: 340px;
+  height: 610px;
   background-color: rgba(0,0,0,.8);
   border-radius: 20px;
   padding-top: 40px;
@@ -184,9 +184,14 @@
 }
 
 .user > div {
-  height: 160px;
+  height: 150px;
   text-align: center;
   cursor: pointer;
+}
+
+.user-guest {
+  display: flex;
+  padding: 0 20px;
 }
 
 .signIn {
@@ -231,6 +236,18 @@
 
 .thumbMirae {
   background-image: url('../img/userMirae.png');
+}
+
+.thumbGuest_X {
+  background-image: url('../img/userX.png');
+}
+
+.thumbGuest_Y {
+  background-image: url('../img/userY.png');
+}
+
+.thumbGuest_Z {
+  background-image: url('../img/userZ.png');
 }
 
 .change-user {
