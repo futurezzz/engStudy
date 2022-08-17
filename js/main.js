@@ -65,6 +65,15 @@ changeUser.addEventListener('click',()=>{
     else if (user == 'Lamon'){
       user = 'Mirae'
     }
+    else if (user == 'Mirae'){
+      user = 'Guest_X'
+    }
+    else if (user == 'Guest_X'){
+      user = 'Guest_Y'
+    }
+    else if (user == 'Guest_Y'){
+      user = 'Guest_Z'
+    }
     else {
       user = 'SkyShim'
     }
