@@ -229,7 +229,7 @@
       "serial": 29,
       "text": "sabotage",
       "meaning": "(동) 고의로 방해하다",
-      "sentence": "Protesters?failed?to?sabotage?the?peace?talks",
+      "sentence": "Protesters failed to sabotage the peace talks",
       "sentenceMeaning": "시위대들은 그 평화 회담을 방해하지 못했다.",
       "unit": 1
     },
@@ -269,7 +269,7 @@
       "serial": 34,
       "text": "contend",
       "meaning": "(동) 논쟁하다, 주장하다",
-      "sentence": "Nurses?often?have?to?contend?with?violent?patients",
+      "sentence": "Nurses often have to contend with violent patients",
       "sentenceMeaning": "간호사들은 폭력적인 환자들과 자주 싸워야 한다.",
       "unit": 2
     },
@@ -661,7 +661,7 @@
       "serial": 83,
       "text": "colonize",
       "meaning": "(동) 식민지로 만들다",
-      "sentence": "Peru was colonized by the?Spanish?in the 16th?century",
+      "sentence": "Peru was colonized by the Spanish in the 16th century",
       "sentenceMeaning": "페루는 16세기에 스페인에 의해 식민지화되었다.",
       "unit": 3
     },
@@ -837,7 +837,7 @@
       "serial": 105,
       "text": "resist",
       "meaning": "(동) 저항하다",
-      "sentence": "He?tried?to?pin?me?down,?but?I?resisted",
+      "sentence": "He tried to pin me down, but I resisted",
       "sentenceMeaning": "그는 나를 속박하려 했지만 나는 저항했다",
       "unit": 4
     },
@@ -1364,7 +1364,7 @@
     {
       "serial": 171,
       "text": "article",
-      "meaning": "(명) (신문?잡지의) 글, 기사, 물품(물건)",
+      "meaning": "(명) (신문 잡지의) 글, 기사, 물품(물건)",
       "sentence": "newspaper articles",
       "sentenceMeaning": "신문 기사",
       "unit": 6
@@ -1877,7 +1877,7 @@
       "serial": 235,
       "text": "sprout",
       "meaning": "(동) 싹이 트다, 발아하다",
-      "sentence": "It?takes?about three?days?for the?seeds?to sprout.",
+      "sentence": "It takes about three days for the seeds to sprout.",
       "sentenceMeaning": "씨앗이 싹트는 데는 약 3일이 걸린다.",
       "unit": 8
     },
@@ -2317,7 +2317,7 @@
       "serial": 290,
       "text": "summit",
       "meaning": "(명) 정상, 꼭대기, 정상회담",
-      "sentence": "We?reached?the?summit?at?noon",
+      "sentence": "We reached the summit at noon",
       "sentenceMeaning": "우리는 정오에 정상에 이르렀다",
       "unit": 10
     },
@@ -3501,7 +3501,7 @@
       "serial": 438,
       "text": "vice versa",
       "meaning": "반대로, 거꾸로, 반대로도또한 같음",
-      "sentence": "He doesn't?trust?her, and vice versa",
+      "sentence": "He doesn't trust her, and vice versa",
       "sentenceMeaning": "그는 그녀를 믿지 않으며 그 반대도 마찬가지입니다.",
       "unit": 15
     },
