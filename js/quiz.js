@@ -69,11 +69,23 @@ loadLocalStorage();
 loadItems()
 .then(items => {
   randomArray(); //DATA JASON파일 중 해당 유닛 문제 10개 랜덤추출
-  displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   displayItems(items); //DATA에서 랜덤으로 가져온 단어들을 word라는 변수에 할당
   //quizType이 matcing이면 짝맞추기 문제. speaking 이면 speaking 문제 내기
   quizLeft.textContent = word.length;
-  quizType === "matching" ? displayWords() : displaySpeakWords()
+  //  quiZtype에 따라 matching, speaking, history 형태의 문제를 출제
+  // grammer는 quizGrammer에 따로 있음
+  switch(quizType) {
+    case "sepaking":
+      displaySpeakWords();
+      break;
+    case "history":
+      displayShuffleEven(); //난수를 발생시켜 뜻의 자리 섞기 위함
+      displayHistoryWords();
+      break;
+    default: //단어 짝맞추기("matching")
+      displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
+      displayWords();
+  }
   
 })
 .catch(console.log);
@@ -112,7 +124,7 @@ function userImgDisplay(){
 
 function scoreProgressDisplay(){
   scoreProgressValue = scoreValue / 400;
-  console.log(scoreValue)
+  // console.log(scoreValue)
   if (scoreProgressValue >= 190) {
     scoreProgressValue = 200;
     scoreProgress.style.borderRadius = '10px'
@@ -145,10 +157,7 @@ function displayItems(items){
   word = items.map(item=>item);
 }
 
-
-
-function displayWords(){
-
+function showMatchHideSpeaks(){
   
   // -----짝맞추기에 활용된 아이템들 보이기
   wordsList.style.display = 'grid';
@@ -164,6 +173,11 @@ function displayWords(){
   wordLeft.style.display = 'none';
   numOfQuiz = word.length;
 
+}
+
+
+function displayWords(){
+  showMatchHideSpeaks(); //짝맞추기 아이템들은 보이고, 스피킹 아이템들은 감추고
   // matchedNo = 0;
   // combo = 0;
   wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
@@ -176,7 +190,7 @@ function displayWords(){
   for(let j=0; j<20; j++){
     let displayIndex = randomDisplay.indexOf(j);
     let isEven  = displayIndex%2; //영어인지.한글인지 인덱스자리를 알아내어 확인
-    //211,212번 코딩에 의하여 짝수는 영어, 홀수자리는 한글이다.
+    //172,173번 코딩에 의하여 짝수는 영어, 홀수자리는 한글이다.
     let serialOrder;
     if(isEven == 0 ){
       // english(인덱스가 짝수)
@@ -199,6 +213,44 @@ function displayWords(){
       wordsList.append(li2);
     }
   }
+}
+
+//한국사 문제
+function displayHistoryWords(){
+  showMatchHideSpeaks(); //짝맞추기 아이템들은 보이고, 스피킹 아이템들은 감추고
+  wordsList.innerHTML = ''; //자리 차지하고 있던 li들 모두 제거
+  for(let i=0 ; i<10; i++){
+    let index = randomNum[i];
+    // 시기: 구석기, 신석기 등등
+    displayText[2*i] =  word[index].text;
+
+    // 그 시기에 대한 설명
+    displayText[2*i+1] = word[index].meaning;
+
+  }
+
+// console.log(randomNum, displayText, randomDisplay);
+  for(let j=0; j<10; j++){
+    let index = randomNum[j];
+    let meaningIndex = randomNum[randomDisplay[j]];
+      // text(인덱스가 짝수)
+      const li1 = document.createElement('li')
+      li1.textContent = displayText[2*j]; //json data에 담겨있는 단어글자를 li에 표시
+      li1.classList.add('word');
+      li1.classList.add('text');
+      li1.dataset.serial = index;
+      wordsList.append(li1)
+
+      
+      // meaning(인덱스가 홀수)
+      const li2 = document.createElement('li')
+      li2.textContent = displayText[randomDisplay[j]*2+1];
+      li2.classList.add('word');
+      li2.classList.add('meaning');
+      li2.dataset.serial = meaningIndex;
+      wordsList.append(li2);
+    }
+  
 }
 
 function displaySpeakWords(){
@@ -342,6 +394,28 @@ function randomArray(){
   return randomNum;
 };
 
+// 한국사에서 사용됨
+function displayShuffleEven(){
+  randomDisplay.length = 0;
+  array.length = 0;
+  for (let j = 0; j< 10; j++){
+    array.push(j);
+  }
+
+  //자리순서 10개 지정
+  for ( let i = 0; i < 10; i++){
+    //0~9 사이 인덱스번호고르기
+    let n = Math.floor(Math.random()*array.length);
+
+    // 인덱스 번호에 있는 값을 빼서 num 에 넣기
+    num = array.splice(n,1);
+    randomDisplay.push(num[0]);
+  }
+  return randomDisplay;
+};
+
+
+// 짝맞추기에서 사용됨
 function displayShuffle(){
   randomDisplay.length = 0;
   array.length = 0;

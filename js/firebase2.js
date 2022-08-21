@@ -59,8 +59,10 @@ function resetData(){
   } else {
     quizType = "matching"
   }
-if (chapter === 'GRIU') {
-  quizType = 'grammer';
+  if (chapter === 'GRIU') {
+    quizType = 'grammer';
+  } else if (chapter === '한국사') {
+    quizType = "history"
 }
 
   //  quiZtype에 따라 matching, speaking, grammer 형태의 문제를 출제
@@ -74,6 +76,10 @@ if (chapter === 'GRIU') {
       quizLeft.textContent = randomNum.length;
       displayQuiz();
       break; 
+    case "history":
+      displayShuffleEven(); //난수를 발생시켜 뜻의 자리 섞기 위함
+      displayHistoryWords();
+      break;
     default: //단어 짝맞추기("matching")
       displayWords();
   }
@@ -373,87 +379,95 @@ wordsList.addEventListener('click',(e)=>{
             elem.replace('text','textOn')
             speech(e.target.textContent);
             serialE = e.target.dataset.serial;
+            console.log(serialE)
+            // console.log(serialE, word[serialE].text, word[serialE].meaning);
             checkedE = elem;
-      //선택된 것이 한글뜻이고
-    }else if(elem.contains('meaning')){
-      // 이미 선택된 한글뜻이 있으면 선택을 해제하고 현재 선택요소만 진하게
-      if(checkedK){
-        checkedK.replace('meaningOn','meaning')
-      }
-      elem.replace('meaning','meaningOn')
-      serialK = e.target.dataset.serial;
-      checkedK = elem;
+            //선택된 것이 한글뜻이고
+          }else if(elem.contains('meaning')){
+            // 이미 선택된 한글뜻이 있으면 선택을 해제하고 현재 선택요소만 진하게
+            if(checkedK){
+              checkedK.replace('meaningOn','meaning')
+            }
+            elem.replace('meaning','meaningOn')
+            serialK = e.target.dataset.serial;
+            checkedK = elem;
     }
     // 선택된 영단어와 한글뜻이 일치하면
-    if(serialE === serialK){
-    audioYes.play();
-    scoreValue = scoreValue + 100 + combo*10;
-    scoreTodayVariation = scoreTodayVariation  + 100 + combo*10;
-    
-    score.textContent = scoreValue;
-    scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
-    // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
-    if(combo>0){
-      comboBox.innerHTML = `${combo} combo!`;
-      comboBox.classList.add('combo-boxOn');
-    }
-    combo++;
-    matchedNo++;
-    // console.log(matchedNo);
-    setTimeout(()=>{
-      checkedE.add('hide');
-      checkedK.add('hide');
-      checkedE = '';
-      checkedK = '';
-    },100)
-    setTimeout(()=>{
-      comboBox.classList.remove('combo-boxOn');
-    },500)
-
-    // 10문제 다 맞히면 클리어. platBtn 활성화
-    if(matchedNo === 10 ){
-      character.classList.remove(`charater0${m}`);
-      setTimeout(()=>{
-        audioClear.play();
-        
-        m = Math.floor(Math.random()*10);
-        console.log(m);
-        //character.style.backgroundImage = `url('../img/character0${m}.png')`;
-        //위의 코드. backgroundImgae url 가 깃허브에서 작동을 안하므로
-        //classList.add 로 수정하여 바꿈
-        character.classList.add(`charater0${m}`);
-        clearBox.style.display = 'block';
-        scoreProgressDisplay();
-        // console.log(scoreValue);
-        if (scoreValue > 100){
-          playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
-          playBtn.innerText = 'YOU DID IT!';
-        }
-        checkedE = '';
-        checkedK = '';
+  //일단 영어와 한글이 하나씩 선택이 되어 있고
+  if(serialE && serialK){
+    //그것들의 뜻과 의미가 맞으면
+      if(word[serialE].text === word[serialK].text){
         serialE = '';
         serialK = '';
-        InsertData();
-      },300)
+        audioYes.play();
+        scoreValue = scoreValue + 100 + combo*10;
+        scoreTodayVariation = scoreTodayVariation  + 100 + combo*10;
+        score.textContent = scoreValue;
+        scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+        // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
+        if(combo>0){
+          comboBox.innerHTML = `${combo} combo!`;
+          comboBox.classList.add('combo-boxOn');
+        }
+        combo++;
+        matchedNo++;
+        // console.log(matchedNo);
+        setTimeout(()=>{
+          checkedE.add('hide');
+          checkedK.add('hide');
+          checkedE = '';
+          checkedK = '';
+        },100)
+        setTimeout(()=>{
+          comboBox.classList.remove('combo-boxOn');
+        },500)
+      
+        // 10문제 다 맞히면 클리어. platBtn 활성화
+        if(matchedNo === 10 ){
+          character.classList.remove(`charater0${m}`);
+          setTimeout(()=>{
+            audioClear.play();
+
+            m = Math.floor(Math.random()*10);
+            console.log(m);
+            //character.style.backgroundImage = `url('../img/character0${m}.png')`;
+            //위의 코드. backgroundImgae url 가 깃허브에서 작동을 안하므로
+            //classList.add 로 수정하여 바꿈
+            character.classList.add(`charater0${m}`);
+            clearBox.style.display = 'block';
+            scoreProgressDisplay();
+            // console.log(scoreValue);
+            if (scoreValue > 100){
+              playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
+              playBtn.innerText = 'YOU DID IT!';
+            }
+            checkedE = '';
+            checkedK = '';
+            serialE = '';
+            serialK = '';
+            InsertData();
+          },300)
+        }
+        // 선택된 영단어와 한글뜻이 각각 있고 서로 다르면
+      } else if(checkedE && checkedK && serialE !== serialK){
+        audioNo.play();
+        scoreValue -= 50;
+        scoreTodayVariation -= 50;
+        combo = 0;
+        score.textContent = scoreValue;
+        scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+
+        setTimeout(()=>{
+          checkedE.replace('textOn','text')
+          checkedK.replace('meaningOn','meaning')
+          checkedE = '';
+          checkedK = '';
+          serialE = '';
+          serialK = '';
+        },120)
+      }
     }
-    // 선택된 영단어와 한글뜻이 각각 있고 서로 다르면
-  } else if(checkedE && checkedK && serialE !== serialK){
-    audioNo.play();
-    scoreValue -= 50;
-    scoreTodayVariation -= 50;
-    combo = 0;
-    score.textContent = scoreValue;
-    scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
-    
-    setTimeout(()=>{
-      checkedE.replace('textOn','text')
-      checkedK.replace('meaningOn','meaning')
-      checkedE = '';
-      checkedK = '';
-      serialE = '';
-      serialK = '';
-    },120)
-  }
+  
 }
 });
 

@@ -42,6 +42,12 @@ grammerChapter.addEventListener('click',(e)=>{
   }
 })
 
+historyChapter.addEventListener('click',(e)=>{
+  if(user && chapter){
+    SelectData();
+  }
+})
+
 grammerSubUnitList.addEventListener('click',(e)=>{
   elem = e.target;
   chapterTitle = collectionArray[elem.dataset.unit-1];
@@ -54,6 +60,8 @@ grammerSubUnitList.addEventListener('click',(e)=>{
   }, 500);
   SelectTodayData();//방금 업데이트 된 점수들을 반영하여 transferData()를 실행한다.(자식폼에게 업데이트 점수 전달)
 })
+
+
 
 
 subUnitList.addEventListener('click',(e)=>{
@@ -76,6 +84,12 @@ subUnitList.addEventListener('click',(e)=>{
     } else {
       quizType = "matching"
     }
+
+    if (chapter == '한국사'){
+      quizType = 'history'
+    }
+
+    console.log(chapter);
     // quizType = scoreValue <=60000 ? "matching" : "speaking";
     // url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
     // console.log(elem, quizType);
