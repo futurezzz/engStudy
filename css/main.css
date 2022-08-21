@@ -36,7 +36,7 @@
 .main-unit {
   display: none;
   margin-top: -20px;
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
 }
 
 .main-unit-list {
@@ -50,40 +50,44 @@
   overflow-x: scroll;
 }
 
-.grammer-unit-list{
+.grammer-unit-list, .history-unit-list{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  height: 78px;
+  /* height: 78px; */
   user-select: none;
   cursor: pointer;
-  overflow-x: scroll;
-  margin: -15px 0;
+  /* overflow-x: scroll; */
+  margin: 5px 0;
 }
 
 .list {
   list-style: none;
   flex: 0 0 85px;
-  height: 35px;
+  height: 32px;
   margin: 2px;
   font-size: 13px;
   text-align: center;
-  line-height: 35px;
+  line-height: 32px;
   border-radius: 5px;
   background-color: var(--score-color);
   color: var(--white);
   transition: .3s;
 }
 
-.g-list{
+.g-list {
   flex: 0 0 185px;
   background-color: rgb(19, 91, 78);
 }
 
+.h-list {
+  flex: 0 0 185px;
+  background-color: rgb(16, 98, 53);
+}
+
 .list:hover {
-  background-color: rgb(19, 54, 68);
-  background-color: rgb(0, 80, 120);
+  background-color: rgb(200, 63, 26);
   margin-top: -3px;
 }
 
@@ -125,6 +129,7 @@
 .calendar {
   display: flex;
   visibility: hidden;
+  padding-top: 20px;
 }
 
 .arrow {
@@ -144,7 +149,7 @@
   grid-template-columns: repeat(7,1fr);
   gap: 1px;
   list-style: none;
-  margin-top: -20px;
+  margin-top: -40px;
   margin-bottom: 50px;
   font-size: 12px;
   text-align: center;
@@ -275,6 +280,7 @@
   content: 'change the user';
 }
 
+/* PC에서 볼 때 */
   @media screen and (min-width: 768px) {
 
   .list {
@@ -284,7 +290,7 @@
     font-size: 17px;
   }
 
-  .g-list{
+  .g-list, .h-list {
     flex: 0 0 265px;
   }
 
