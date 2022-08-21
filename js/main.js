@@ -1,6 +1,7 @@
 const mainChapter = document.querySelector('.main-unit-list');
 const grammerChapter = document.querySelector('.grammer-unit-list');
-const subUnitList = document.querySelector('.sub-unit-list');
+const historyChapter = document.querySelector('.history-unit-list');
+const subUnitList = document.querySelector('.sub-unit-list'); //한국사도 같이 이용함
 const grammerSubUnitList = document.querySelector('.grammer-sub-unit-list');
 // const subSpeakList = document.querySelector('.sub-speak-list');
 const calendar = document.querySelector('.calendar');
@@ -86,9 +87,8 @@ changeUser.addEventListener('click',()=>{
 // firebase.jsdpeh mainChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
 mainChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
-  // unitLength = e.target.dataset.unitNo;
+  unitLength =  parseInt(e.target.dataset.unitNo);
   calendar.style.visibility = 'hidden';
-  // unitLength =  parseInt(e.target.dataset.unitNo);
   if ( chapter ) {
     init();
     console.log(chapter);
@@ -96,12 +96,22 @@ mainChapter.addEventListener('click', (e)=> {
   }
 })
 
-// firebase.jsdpeh grammerChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
+// firebase.js에도 grammerChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
 grammerChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
-  unitLength = e.target.dataset.unitNo;
+  unitLength =  parseInt(e.target.dataset.unitNo);
   calendar.style.visibility = 'hidden';
-  // unitLength =  parseInt(e.target.dataset.unitNo);
+  if ( chapter ) {
+    init();
+    // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
+  }
+})
+
+// firebase.js에도 historyChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
+historyChapter.addEventListener('click', (e)=> {
+  chapter = e.target.dataset.chapter;
+  unitLength =  parseInt(e.target.dataset.unitNo);
+  calendar.style.visibility = 'hidden';
   if ( chapter ) {
     init();
     // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
@@ -118,7 +128,6 @@ function init(){
   })
   .catch(console.log);
 }
-
 
 function transferData(){
   let isAvailable = elem.classList.contains("unit"); //빈공간이 아닌 버튼을 눌렀으면 true
@@ -234,11 +243,11 @@ function displayCalendar(){
 // }
 function groupBy(list) {
   collectionArray = [];
-  unitLength = 0;
+  // unitLength = 0;
   list.forEach((item) => {
     const collection = item.unit;
     if (!collectionArray.includes(collection)){
-        unitLength++;
+        // unitLength++;
         collectionArray.push(collection);
     } 
   });
