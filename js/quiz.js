@@ -74,18 +74,25 @@ loadItems()
   quizLeft.textContent = word.length;
   //  quiZtype에 따라 matching, speaking, history 형태의 문제를 출제
   // grammer는 quizGrammer에 따로 있음
-  switch(quizType) {
-    case "sepaking":
-      displaySpeakWords();
-      break;
-    case "history":
-      displayShuffleEven(); //난수를 발생시켜 뜻의 자리 섞기 위함
-      displayHistoryWords();
-      break;
-    default: //단어 짝맞추기("matching")
-      displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
-      displayWords();
+console.log(quizType);
+  if(quizType === 'matching'){
+    displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
+    displayWords();
+  } else if (quizType === 'speaking'){
+    displaySpeakWords();
+  } else if (quizType === 'history'){
+    displayShuffleEven(); //난수를 발생시켜 뜻의 자리 섞기 위함
+    displayHistoryWords();
   }
+  // switch(quizType) {
+  //   case "sepaking":
+  //     break;
+  //   case "history":
+  //     break;
+  //   default: //단어 짝맞추기("matching")
+  //     displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
+  //     displayWords();
+  // }
   
 })
 .catch(console.log);
@@ -450,7 +457,8 @@ function setVoiceList() {
   alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");
   return;
   }
-  var lang = 'en-US';//ko-KR
+  // 한국사 풀 때는 한국말로, 단어공부할 때는 영어로
+  var lang = chapter !== '한국사' ? 'en-US': 'ko-KR' ;
   var utterThis = new SpeechSynthesisUtterance(txt);
   utterThis.onend = function (event) {
   // console.log('end');

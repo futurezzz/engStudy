@@ -64,27 +64,22 @@ function resetData(){
   } else if (chapter === '한국사') {
     quizType = "history"
 }
-
-  //  quiZtype에 따라 matching, speaking, grammer 형태의 문제를 출제
-  switch(quizType) {
-    case "sepaking":
-      displaySpeakWords();
-      break;
-    case "grammer":
-      grammerWords.style.display = 'flex'; 
-      checkGrammer.style.display = 'block';
-      quizLeft.textContent = randomNum.length;
-      displayQuiz();
-      break; 
-    case "history":
-      displayShuffleEven(); //난수를 발생시켜 뜻의 자리 섞기 위함
-      displayHistoryWords();
-      break;
-    default: //단어 짝맞추기("matching")
-      displayWords();
+console.log(quizType);
+  //  quiZtype에 따라 matching, speaking, grammer, history 형태의 문제를 출제
+  if(quizType === 'matching'){
+    displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
+    displayWords();
+  } else if (quizType === 'speaking'){
+    displaySpeakWords();
+  } else if (quizType === 'history'){
+    displayShuffleEven(); //난수를 발생시켜 뜻의 자리 섞기 위함
+    displayHistoryWords();
+  } else if(quizType === 'grammer'){
+    grammerWords.style.display = 'flex'; 
+    checkGrammer.style.display = 'block';
+    quizLeft.textContent = randomNum.length;
+    displayQuiz();
   }
-  // 아래는 위의 switch 문을 쓰기 전에 쓰던 문법
-  // quizType === "matching" ? displayWords() : displaySpeakWords()
 }
 
 // ----------- SELECT DATA FUNCTION ---------------------------------// 
@@ -377,7 +372,9 @@ wordsList.addEventListener('click',(e)=>{
             checkedE.replace('textOn','text')
           }
             elem.replace('text','textOn')
-            speech(e.target.textContent);
+            if(chapter!=='한국사'){
+              speech(e.target.textContent);
+            }
             serialE = e.target.dataset.serial;
             console.log(serialE)
             // console.log(serialE, word[serialE].text, word[serialE].meaning);
@@ -397,6 +394,12 @@ wordsList.addEventListener('click',(e)=>{
   if(serialE && serialK){
     //그것들의 뜻과 의미가 맞으면
       if(word[serialE].text === word[serialK].text){
+        
+        if(chapter==='한국사'){
+          let readText = word[serialK].text + ' ' + word[serialK].meaning
+          speech(readText);
+        }
+
         serialE = '';
         serialK = '';
         audioYes.play();
@@ -484,7 +487,10 @@ wordsList.addEventListener('click',(e)=>{
   alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");
   return;
   }
-  var lang = 'en-US';//ko-KR
+  
+  // 한국사 풀 때는 한국말로, 단어공부할 때는 영어로
+  var lang = chapter !== '한국사' ? 'en-US': 'ko-KR' ;
+  // var lang = 'en-US';//ko-KR
   var utterThis = new SpeechSynthesisUtterance(txt);
   //음성합성이 끝나면 onend
   utterThis.onend = function (event) {

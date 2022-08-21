@@ -88,7 +88,6 @@ subUnitList.addEventListener('click',(e)=>{
     if (chapter == '한국사'){
       quizType = 'history'
     }
-
     console.log(chapter);
     // quizType = scoreValue <=60000 ? "matching" : "speaking";
     // url = (quizType === "matching") ? "quiz.html" : "quizSpeak.html"
