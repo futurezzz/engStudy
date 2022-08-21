@@ -124,7 +124,6 @@ function init(){
   loadItems()
   .then(items => {
     displayItems(items);
-    // console.log(collectionArray)
   })
   .catch(console.log);
 }
