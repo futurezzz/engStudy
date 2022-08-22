@@ -284,1024 +284,1682 @@
     {
       "serial": 41,
       "chapter": "여러나라의 성장",
-      "text": "부여",
-      "meaning": "여러 가들이 별도로 사출도를 주관하였다",
+      "text": "우거왕",
+      "meaning": "고조선 마지막 왕. 주변국과 한나라의 중계무역 독점",
       "unit": 2
     },
     {
       "serial": 42,
       "chapter": "여러나라의 성장",
       "text": "부여",
-      "meaning": "12월 영고 라는 체천행사",
+      "meaning": "여러 가들이 별도로 사출도를 주관하였다",
       "unit": 2
     },
     {
       "serial": 43,
+      "chapter": "여러나라의 성장",
+      "text": "부여",
+      "meaning": "12월 영고 라는 체천행사",
+      "unit": 2
+    },
+    {
+      "serial": 44,
       "chapter": "여러나라의 성장",
       "text": "부여와 고구려",
       "meaning": "남의 물건을 훔쳤을 때 12배로 갚게 함",
       "unit": 2
     },
     {
-      "serial": 44,
+      "serial": 45,
       "chapter": "여러나라의 성장",
       "text": "고구려",
       "meaning": "제가회의에서 나라의 중요한 일 결정",
       "unit": 2
     },
     {
-      "serial": 45,
-      "chapter": "여러나라의 성장",
-      "text": "고구려",
-      "meaning": "왕 아래 상가,  고추가 등의 애가들이 있음- 사자, 조의 선인 등을 거느림",
-      "unit": 2
-    },
-    {
       "serial": 46,
       "chapter": "여러나라의 성장",
       "text": "고구려",
-      "meaning": "10월에 동맹이라는 제천행사",
+      "meaning": "왕 아래 상가,  고추가 등의 애가들이 있음.- 사자, 조의 선인 등을 거느림",
       "unit": 2
     },
     {
       "serial": 47,
       "chapter": "여러나라의 성장",
       "text": "고구려",
-      "meaning": "혼인풍습 서옥제",
+      "meaning": "10월에 동맹이라는 제천행사",
       "unit": 2
     },
     {
       "serial": 48,
       "chapter": "여러나라의 성장",
       "text": "고구려",
-      "meaning": "집집마다 부경이라는 창고가 존재",
+      "meaning": "혼인풍습 서옥제",
       "unit": 2
     },
     {
       "serial": 49,
       "chapter": "여러나라의 성장",
-      "text": "옥저",
-      "meaning": "혼인풍속 민며느리제",
+      "text": "고구려",
+      "meaning": "집집마다 부경이라는 창고가 존재",
       "unit": 2
     },
     {
       "serial": 50,
       "chapter": "여러나라의 성장",
       "text": "옥저",
-      "meaning": "가족의 유골을 한 목곽에 안치하는 풍습",
+      "meaning": "혼인풍속 민며느리제",
       "unit": 2
     },
     {
       "serial": 51,
       "chapter": "여러나라의 성장",
       "text": "옥저",
-      "meaning": "소금, 어물 등 해산물이 풍부하여 고구려에 바침",
+      "meaning": "가족의 유골을 한 목곽에 안치하는 풍습",
       "unit": 2
     },
     {
       "serial": 52,
       "chapter": "여러나라의 성장",
-      "text": "동예",
-      "meaning": "특산물 단궁, 과하마, 반어피",
+      "text": "옥저",
+      "meaning": "소금, 어물 등 해산물이 풍부하여 고구려에 바침",
       "unit": 2
     },
     {
       "serial": 53,
       "chapter": "여러나라의 성장",
       "text": "동예",
-      "meaning": "10월에 무천이라는 제천행사",
+      "meaning": "특산물 단궁, 과하마, 반어피",
       "unit": 2
     },
     {
       "serial": 54,
+      "chapter": "여러나라의 성장",
+      "text": "동예",
+      "meaning": "10월에 무천이라는 제천행사",
+      "unit": 2
+    },
+    {
+      "serial": 55,
       "chapter": "여러나라의 성장",
       "text": "옥저와 동예",
       "meaning": "읍군과 상로라 불리는 군장",
       "unit": 2
     },
     {
-      "serial": 55,
+      "serial": 56,
       "chapter": "여러나라의 성장",
       "text": "동예",
       "meaning": "읍락 간의 경계를 중시하는 책화 풍습",
       "unit": 2
     },
     {
-      "serial": 56,
+      "serial": 57,
       "chapter": "여러나라의 성장",
       "text": "삼한",
       "meaning": "신지, 읍차 등의 지배자",
       "unit": 2
     },
     {
-      "serial": 57,
+      "serial": 58,
       "chapter": "여러나라의 성장",
       "text": "삼한",
       "meaning": "제사장인 천군",
       "unit": 2
     },
     {
-      "serial": 58,
+      "serial": 59,
       "chapter": "여러나라의 성장",
       "text": "삼한",
       "meaning": "신성지역인 소도",
       "unit": 2
     },
     {
-      "serial": 59,
+      "serial": 60,
       "chapter": "여러나라의 성장",
       "text": "변한",
       "meaning": "철 생산이 많아 낙랑과 왜에 수출",
       "unit": 2
     },
     {
-      "serial": 60,
+      "serial": 61,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 태조왕",
       "meaning": "옥저를 정복, 동해안 진출",
       "unit": 3
     },
     {
-      "serial": 61,
+      "serial": 62,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 고국천왕",
       "meaning": "부족적 성격의 5부를 행정적 성격의 5부로 개편",
       "unit": 3
     },
     {
-      "serial": 62,
+      "serial": 63,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 고국천왕",
       "meaning": "빈민 구제를 위해 진대법 실시",
       "unit": 3
     },
     {
-      "serial": 63,
+      "serial": 64,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 동천왕",
       "meaning": "관구검이 이끄는 위의 군대가 고구려 침략",
       "unit": 3
     },
     {
-      "serial": 64,
+      "serial": 65,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 의천왕",
       "meaning": "서안평을 공격하여 영토를 확장",
       "unit": 3
     },
     {
-      "serial": 65,
+      "serial": 66,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 미천왕",
       "meaning": "낙랑군과 대방군을 축출하여 영토 확장",
       "unit": 3
     },
     {
-      "serial": 66,
+      "serial": 67,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 소수림왕",
       "meaning": "태학 설립, 율령 반포",
       "unit": 3
     },
     {
-      "serial": 67,
+      "serial": 68,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 광개토태왕",
       "meaning": "영락이라는 독자적 연호 사용",
       "unit": 3
     },
     {
-      "serial": 68,
+      "serial": 69,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 광개토태왕",
       "meaning": "후연을 공격하고 요동 땅을 차지",
       "unit": 3
     },
     {
-      "serial": 69,
+      "serial": 70,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 광개토태왕",
       "meaning": "신라에 군대를 파견, 신라에 침입한 왜를 격퇴",
       "unit": 3
     },
     {
-      "serial": 70,
+      "serial": 71,
       "chapter": "고대(고구려,가야)",
       "text": "호우총 청동그릇",
       "meaning": "5세기 신라와 고구려의 밀접관 관계를 증명",
       "unit": 3
     },
     {
-      "serial": 71,
+      "serial": 72,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 장수왕",
       "meaning": "백제의 수도 한성을 함락시킴, 북위에 매년 사신 파견",
       "unit": 3
     },
     {
-      "serial": 72,
+      "serial": 73,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 장수왕",
       "meaning": "국내성에서 평양으로 천도, 남진정책 본격화",
       "unit": 3
     },
     {
-      "serial": 73,
+      "serial": 74,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 장수왕",
       "meaning": "중국의 남북조 사이에서 균형외교를 펼침",
       "unit": 3
     },
     {
-      "serial": 74,
+      "serial": 75,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 장수왕",
       "meaning": "아버지를 기리기 위해 광개토 태왕릉비 세움",
       "unit": 3
     },
     {
-      "serial": 75,
+      "serial": 76,
       "chapter": "고대(고구려,가야)",
       "text": "충추 고구려비",
       "meaning": "고구려가 한강이님 지역까지 진출한 증거",
       "unit": 3
     },
     {
-      "serial": 76,
+      "serial": 77,
       "chapter": "고대(고구려,가야)",
       "text": "을지문덕 고구려군",
       "meaning": "수의 군대를 살수에서 크게 물리침-살수대첩",
       "unit": 3
     },
     {
-      "serial": 77,
+      "serial": 78,
       "chapter": "고대(고구려,가야)",
       "text": "고구려",
       "meaning": "당의 침입에 대비, 국경지역에 천리장성 축조",
       "unit": 3
     },
     {
-      "serial": 78,
+      "serial": 79,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 영류왕",
       "meaning": "연개소문이 정변을 일으켜 권력 장악",
       "unit": 3
     },
     {
-      "serial": 79,
+      "serial": 80,
       "chapter": "고대(고구려,가야)",
       "text": "고구려",
       "meaning": "당 태종의 침입으로 요동성, 백암성 함락",
       "unit": 3
     },
     {
-      "serial": 80,
+      "serial": 81,
       "chapter": "고대(고구려,가야)",
       "text": "고구려",
       "meaning": "안시성에서 당의 군대를 물리침",
       "unit": 3
     },
     {
-      "serial": 81,
+      "serial": 82,
       "chapter": "고대(고구려,가야)",
       "text": "고구려",
       "meaning": "나당 연합군에 의해 평양성이 함락, 멸망",
       "unit": 3
     },
     {
-      "serial": 82,
+      "serial": 83,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 장수 검모잠",
       "meaning": "안승을 왕으로 받들어 나라를 다시 세우고자 함",
       "unit": 3
     },
     {
-      "serial": 83,
+      "serial": 84,
       "chapter": "고대(고구려,가야)",
       "text": "고구려 안승",
       "meaning": "신라에 의해 보덕국왕으로 임명됨",
       "unit": 3
     },
     {
-      "serial": 84,
+      "serial": 85,
       "chapter": "고대(고구려,가야)",
       "text": "금관가야",
       "meaning": "김해를 중심으로 김수로왕이 건국",
       "unit": 3
     },
     {
-      "serial": 85,
+      "serial": 86,
       "chapter": "고대(고구려,가야)",
       "text": "금관가야",
       "meaning": "전기 가야 연맹을 주도",
       "unit": 3
     },
     {
-      "serial": 86,
+      "serial": 87,
       "chapter": "고대(고구려,가야)",
       "text": "금관가야",
       "meaning": "철이 풍부, 덩이쇠를 화폐처럼 사용",
       "unit": 3
     },
     {
-      "serial": 87,
+      "serial": 88,
       "chapter": "고대(고구려,가야)",
       "text": "금관가야",
       "meaning": "낙랑과 왜를 연결하는 중계무역으로 번성",
       "unit": 3
     },
     {
-      "serial": 88,
+      "serial": 89,
       "chapter": "고대(고구려,가야)",
       "text": "광개토대왕의 공격",
       "meaning": "가야 연맹이 고령지역의 대가야를 중심으로 재편됨",
       "unit": 3
     },
     {
-      "serial": 89,
+      "serial": 90,
       "chapter": "고대(고구려,가야)",
       "text": "금관가야 법흥왕",
       "meaning": "신라에 병합됨",
       "unit": 3
     },
     {
-      "serial": 90,
+      "serial": 91,
       "chapter": "고대(고구려,가야)",
       "text": "대가야 진흥왕",
       "meaning": "신라에 복속됨",
       "unit": 3
     },
     {
-      "serial": 91,
+      "serial": 92,
       "chapter": "고대(백제,신라)",
       "text": "백제 고이왕",
       "meaning": "마한의 목지국 병합, 지역의 맹주로 발돋움",
       "unit": 4
     },
     {
-      "serial": 92,
+      "serial": 93,
       "chapter": "고대(백제,신라)",
       "text": "백제 고이왕",
       "meaning": "좌평과 관등제의 기본골격 마련",
       "unit": 4
     },
     {
-      "serial": 93,
+      "serial": 94,
       "chapter": "고대(백제,신라)",
       "text": "백제 근초고왕",
       "meaning": "마한 정벌",
       "unit": 4
     },
     {
-      "serial": 94,
+      "serial": 95,
       "chapter": "고대(백제,신라)",
       "text": "백제 근초고왕",
       "meaning": "고구려의 평양성 공격, 고국원왕을 전사시킴",
       "unit": 4
     },
     {
-      "serial": 95,
+      "serial": 96,
       "chapter": "고대(백제,신라)",
       "text": "백제 칠지도",
       "meaning": "백제와 왜의 관계를 짐작 가능",
       "unit": 4
     },
     {
-      "serial": 96,
+      "serial": 97,
       "chapter": "고대(백제,신라)",
       "text": "백제 개로왕",
       "meaning": "고구려를 견제하고자 북위에 국서를 보냄",
       "unit": 4
     },
     {
-      "serial": 97,
+      "serial": 98,
       "chapter": "고대(백제,신라)",
       "text": "백제 문주왕",
       "meaning": "고구려의 공격으로 한성이 함락, 웅진(공주)으로 천도",
       "unit": 4
     },
     {
-      "serial": 98,
+      "serial": 99,
       "chapter": "고대(백제,신라)",
       "text": "백제 비유왕",
       "meaning": "나제동맹-신라의 눌지 마립간과 동맹, 고구려의 남진에 대항",
       "unit": 4
     },
     {
-      "serial": 99,
+      "serial": 100,
       "chapter": "고대(백제,신라)",
       "text": "백제 동성왕",
       "meaning": "나제 동맹을 강화",
       "unit": 4
     },
     {
-      "serial": 100,
+      "serial": 101,
       "chapter": "고대(백제,신라)",
       "text": "백제 무령왕",
       "meaning": "지방의 22담로에 왕족을 파견",
       "unit": 4
     },
     {
-      "serial": 101,
+      "serial": 102,
       "chapter": "고대(백제,신라)",
       "text": "백제 성왕",
       "meaning": "중앙 관청을 22부로 정비",
       "unit": 4
     },
     {
-      "serial": 102,
+      "serial": 103,
       "chapter": "고대(백제,신라)",
       "text": "백제 성왕",
       "meaning": "사비(부여)로 천도, 국호를 '남부여'로 고침",
       "unit": 4
     },
     {
-      "serial": 103,
+      "serial": 104,
       "chapter": "고대(백제,신라)",
       "text": "백제 성왕",
       "meaning": "신라 진흥왕과 연합, 한강 하류지역을 일시적 장악",
       "unit": 4
     },
     {
-      "serial": 104,
+      "serial": 105,
       "chapter": "고대(백제,신라)",
       "text": "백제 성왕",
       "meaning": "신라와의 관산성 전투에서 전사",
       "unit": 4
     },
     {
-      "serial": 105,
+      "serial": 106,
       "chapter": "고대(백제,신라)",
       "text": "백제 무왕",
       "meaning": "익산에 미륵사를 창건",
       "unit": 4
     },
     {
-      "serial": 106,
+      "serial": 107,
       "chapter": "고대(백제,신라)",
       "text": "백제 의자왕",
       "meaning": "신라를 공격, 대야성을 점령",
       "unit": 4
     },
     {
-      "serial": 107,
+      "serial": 108,
       "chapter": "고대(백제,신라)",
       "text": "백제 계백",
       "meaning": "결사대를 이끌고 황산벌에서 신라군과 맞서 싸움",
       "unit": 4
     },
     {
-      "serial": 108,
+      "serial": 109,
       "chapter": "고대(백제,신라)",
       "text": "백제 부흥 운동",
       "meaning": "북신과 도침은 주류성에서 부여풍(의자왕의 아들)을 왕으로 추대",
       "unit": 4
     },
     {
-      "serial": 109,
+      "serial": 110,
       "chapter": "고대(백제,신라)",
       "text": "백제 부흥군",
       "meaning": "임존성에서 소정방이 보낸 당군을 격퇴",
       "unit": 4
     },
     {
-      "serial": 110,
+      "serial": 111,
       "chapter": "고대(백제,신라)",
       "text": "백제 부흥군",
       "meaning": "왜의 지원군과 함께 백강에서 나당 연합군에 맞서 싸움",
       "unit": 4
     },
     {
-      "serial": 111,
+      "serial": 112,
       "chapter": "고대(백제,신라)",
       "text": "신라 내물 마립간 이전에는",
       "meaning": "박, 석, 김 씨가 교대로 왕위를 계승",
       "unit": 4
     },
     {
-      "serial": 112,
+      "serial": 113,
       "chapter": "고대(백제,신라)",
       "text": "신라 내물 마립간",
       "meaning": "최고 지배자의 칭호",
       "unit": 4
     },
     {
-      "serial": 113,
+      "serial": 114,
       "chapter": "고대(백제,신라)",
       "text": "신라 지증왕",
       "meaning": "국호를 신라로 확정, 왕 이라는 칭호를 사용",
       "unit": 4
     },
     {
-      "serial": 114,
+      "serial": 115,
       "chapter": "고대(백제,신라)",
       "text": "신라 지증왕",
       "meaning": "순장을 금지, 우경을 장려, 시장관리용 동시전 설치",
       "unit": 4
     },
     {
-      "serial": 115,
+      "serial": 116,
       "chapter": "고대(백제,신라)",
       "text": "신라 지증왕",
       "meaning": "이사부를 보내 우산국을 복속",
       "unit": 4
     },
     {
-      "serial": 116,
+      "serial": 117,
       "chapter": "고대(백제,신라)",
       "text": "신라 법흥왕",
       "meaning": "건원이라는 독자적 연호 사용",
       "unit": 4
     },
     {
-      "serial": 117,
+      "serial": 118,
       "chapter": "고대(백제,신라)",
       "text": "신라 법흥왕",
       "meaning": "병부와 상대등을 설치, 율령 반포",
       "unit": 4
     },
     {
-      "serial": 118,
+      "serial": 119,
       "chapter": "고대(백제,신라)",
       "text": "신라 법흥왕",
       "meaning": "금관가야 병합, 일부 왕족은 신라의 진골귀족으로 편입",
       "unit": 4
     },
     {
-      "serial": 119,
+      "serial": 120,
       "chapter": "고대(백제,신라)",
       "text": "신라 진흥왕",
       "meaning": "화랑도를 국가적 조직으로 개편",
       "unit": 4
     },
     {
-      "serial": 120,
+      "serial": 121,
       "chapter": "고대(백제,신라)",
       "text": "신라 진흥왕",
       "meaning": "대가야를 정복, 영토 확장",
       "unit": 4
     },
     {
-      "serial": 121,
+      "serial": 122,
       "chapter": "고대(백제,신라)",
       "text": "신라 진흥왕",
       "meaning": "한강 하류 지역 차지",
       "unit": 4
     },
     {
-      "serial": 122,
+      "serial": 123,
       "chapter": "고대(백제,신라)",
       "text": "신라 진흥왕",
       "meaning": "단양 신라 적성비와 4개의 순수비를 세움",
       "unit": 4
     },
     {
-      "serial": 123,
+      "serial": 124,
       "chapter": "고대(백제,신라)",
       "text": "신라 김춘추",
       "meaning": "고구려와의 동맹 실패 후 당과 군사동맹",
       "unit": 4
     },
     {
-      "serial": 124,
+      "serial": 125,
       "chapter": "고대(백제,신라)",
       "text": "신라 문무왕",
       "meaning": "당의 군대와 맞서 매소성, 기벌포 전투에서 승리, 삼국통일 이룩",
       "unit": 4
     },
     {
-      "serial": 125,
+      "serial": 126,
       "chapter": "고대(통일신라, 발해)",
       "text": "신래 태종 무열왕",
       "meaning": "김춘추-김유신의 지원을 받아 첫 진골출신의 왕이 됨",
       "unit": 5
     },
     {
-      "serial": 126,
+      "serial": 127,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 문무왕",
       "meaning": "나당 전쟁 승리. 삼국통일 이룩",
       "unit": 5
     },
     {
-      "serial": 127,
+      "serial": 128,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 신문왕",
       "meaning": "장인인 김흠돌의 반란을 진압, 진골귀족 세력 숙청, 왕권강화",
       "unit": 5
     },
     {
-      "serial": 128,
+      "serial": 129,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 신문왕",
       "meaning": "집사부 시중(중시)의 권한 강화",
       "unit": 5
     },
     {
-      "serial": 129,
+      "serial": 130,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 신문왕",
       "meaning": "9서당을 설치, 백제, 고구려, 말갈인까지 포함한 민족 융합을 꾀함",
       "unit": 5
     },
     {
-      "serial": 130,
+      "serial": 131,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 신문왕",
       "meaning": "관리에게 관료전 지급, 녹읍을 폐지",
       "unit": 5
     },
     {
-      "serial": 131,
+      "serial": 132,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 신문왕",
       "meaning": "유학교육을 위해 국학을 설립",
       "unit": 5
     },
     {
-      "serial": 132,
+      "serial": 133,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라",
       "meaning": "9주 5소경- 전국을 9주로 나누고 수도 분산을 위한 5소경 설치",
       "unit": 5
     },
     {
-      "serial": 133,
+      "serial": 134,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라",
       "meaning": "외사정을 파견하여 지방관 감찰",
       "unit": 5
     },
     {
-      "serial": 134,
+      "serial": 135,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라",
       "meaning": "지방세력 견제를 위해 상수리 제도 실시",
       "unit": 5
     },
     {
-      "serial": 135,
+      "serial": 136,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 말",
       "meaning": "웅천주 도독 김헌창의 난 이후 진골 귀족들의 왕위다툼 심화",
       "unit": 5
     },
     {
-      "serial": 136,
+      "serial": 137,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 말",
       "meaning": "왕권이 약화됨. 지방에서 호족들의 반독립적 세력 확장",
       "unit": 5
     },
     {
-      "serial": 137,
+      "serial": 138,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 말",
       "meaning": "일부 6두품 세력은 골품제 비판, 새로운 사회건설 추구",
       "unit": 5
     },
     {
-      "serial": 138,
+      "serial": 139,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 말",
       "meaning": "선종이 호족의 후원을 받으며 성행",
       "unit": 5
     },
     {
-      "serial": 139,
+      "serial": 140,
       "chapter": "고대(통일신라, 발해)",
       "text": "통일신라 말",
       "meaning": "장보고의 청해진 반란",
       "unit": 5
     },
     {
-      "serial": 140,
+      "serial": 141,
       "chapter": "고대(통일신라, 발해)",
       "text": "후백제 견훤",
       "meaning": "완산주를 도읍으로 후백제 건국",
       "unit": 5
     },
     {
-      "serial": 141,
+      "serial": 142,
       "chapter": "고대(통일신라, 발해)",
       "text": "후백제 견훤",
       "meaning": "중국과 외교를 맺어 후당, 오월에 사신 파견",
       "unit": 5
     },
     {
-      "serial": 142,
+      "serial": 143,
       "chapter": "고대(통일신라, 발해)",
       "text": "후백제 견훤",
       "meaning": "신라의 금성을 습격, 경애왕을 죽게함",
       "unit": 5
     },
     {
-      "serial": 143,
+      "serial": 144,
       "chapter": "고대(통일신라, 발해)",
       "text": "후고구려 궁예",
       "meaning": "송악지방 호족들의 후원을 받아 후고구려 건국",
       "unit": 5
     },
     {
-      "serial": 144,
+      "serial": 145,
       "chapter": "고대(통일신라, 발해)",
       "text": "후고구려 궁예",
       "meaning": "광평성을 비롯, 여러 관서를 설치하여 국가 체제를 갖춤",
       "unit": 5
     },
     {
-      "serial": 145,
+      "serial": 146,
       "chapter": "고대(통일신라, 발해)",
       "text": "후고구려 궁예",
       "meaning": "국호를 마진으로 바꾸고 철원으로 천도",
       "unit": 5
     },
     {
-      "serial": 146,
+      "serial": 147,
       "chapter": "고대(통일신라, 발해)",
       "text": "후백제",
       "meaning": "공산 전투에서 고려군에 대승",
       "unit": 5
     },
     {
-      "serial": 147,
+      "serial": 148,
       "chapter": "고대(통일신라, 발해)",
       "text": "신검의 후백제군",
       "meaning": "일리천 전투에서 왕건의 고려군에 패배",
       "unit": 5
     },
     {
-      "serial": 148,
+      "serial": 149,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해 대조영",
       "meaning": "지린성 동모산에서 발해 건국",
       "unit": 5
     },
     {
-      "serial": 149,
+      "serial": 150,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해",
       "meaning": "고려 국왕이라는 명칭을 사용, 고구려 계승 의식을 드러냄",
       "unit": 5
     },
     {
-      "serial": 150,
+      "serial": 151,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해 무왕",
       "meaning": "대문예로 하여금 흑수 말갈을 정벌하게 함",
       "unit": 5
     },
     {
-      "serial": 151,
+      "serial": 152,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해 무왕",
       "meaning": "장문휴를 보내 당의 등주를 공격",
       "unit": 5
     },
     {
-      "serial": 152,
+      "serial": 153,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해 무왕",
       "meaning": "인안 이라는 독자적 연호 사용, 일본에 사신과 국서를 보냄",
       "unit": 5
     },
     {
-      "serial": 153,
+      "serial": 154,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해 문왕",
       "meaning": "선진 문물 제도 수용, 3성 6부의 중앙 통치 체제 정비",
       "unit": 5
     },
     {
-      "serial": 154,
+      "serial": 155,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해 문왕",
       "meaning": "대흥이라는 독자적 연호 사용, 신라도를 개설",
       "unit": 5
     },
     {
-      "serial": 155,
+      "serial": 156,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해 선왕",
       "meaning": "건흥이라는 연호 사용, 발해의 전성이 해동성국",
       "unit": 5
     },
     {
-      "serial": 156,
+      "serial": 157,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해",
       "meaning": "중앙관제로 당의 3성 6부를 모방하였으나 명칭과 운영 방식은 독자적",
       "unit": 5
     },
     {
-      "serial": 157,
+      "serial": 158,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해",
       "meaning": "3성 가운데 정당성의 장관인 대내상이 국정을 총괄",
       "unit": 5
     },
     {
-      "serial": 158,
+      "serial": 159,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해",
       "meaning": "중정대를 두어 관리를 감찰",
       "unit": 5
     },
     {
-      "serial": 159,
+      "serial": 160,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해",
       "meaning": "5경 15분 62주의 지방 행정 제도",
       "unit": 5
     },
     {
-      "serial": 160,
+      "serial": 161,
       "chapter": "고대(통일신라, 발해)",
       "text": "발해",
       "meaning": "주자감을 설치하여 인재 앙성",
       "unit": 5
     },
     {
-      "serial": 161,
+      "serial": 162,
       "chapter": "고대(경제, 사회)",
       "text": "신라관리의 녹읍",
       "meaning": "조세 수취와 노동력 징발이 가능",
       "unit": 6
     },
     {
-      "serial": 162,
+      "serial": 163,
       "chapter": "고대(경제, 사회)",
       "text": "통일신라 신문왕",
       "meaning": "관리에게 관료전 지급, 녹읍을 폐지",
       "unit": 6
     },
     {
-      "serial": 163,
+      "serial": 164,
       "chapter": "고대(경제, 사회)",
       "text": "통일신라 경덕왕",
       "meaning": "폐지된 녹읍 부활",
       "unit": 6
     },
     {
-      "serial": 164,
+      "serial": 165,
       "chapter": "고대(경제, 사회)",
       "text": "통일신라 성덕왕",
       "meaning": "백성에게 정전을 지급",
       "unit": 6
     },
     {
-      "serial": 165,
+      "serial": 166,
       "chapter": "고대(경제, 사회)",
       "text": "민정문서 - 신라 촌락 문서",
       "meaning": "서원경 인근 4개촌의 정보 보유, 일본 도다이사쇼소인에서 발견",
       "unit": 6
     },
     {
-      "serial": 166,
+      "serial": 167,
       "chapter": "고대(경제, 사회)",
       "text": "신라 지증왕",
       "meaning": "시장을 감독하는 관청 동시전을 설치",
       "unit": 6
     },
     {
-      "serial": 167,
+      "serial": 168,
       "chapter": "고대(경제, 사회)",
       "text": "신라와 당의 교류 증가",
       "meaning": "신라방 형성 - 산둥반도 등지에 신라인의 집단거주지역",
       "unit": 6
     },
     {
-      "serial": 168,
+      "serial": 169,
       "chapter": "고대(경제, 사회)",
       "text": "당에 거주하는 신라인을 위한",
       "meaning": "관청 신라소, 사찰 신라원이 세워짐",
       "unit": 6
     },
     {
-      "serial": 169,
+      "serial": 170,
       "chapter": "고대(경제, 사회)",
       "text": "통일신라 울산항",
       "meaning": "국제 무역항으로 번성. 아라비아 상인 왕래",
       "unit": 6
     },
     {
-      "serial": 170,
+      "serial": 171,
       "chapter": "고대(경제, 사회)",
       "text": "통일신라 장보고",
       "meaning": "완도에 청해진 설치. 해상무역 전개",
       "unit": 6
     },
     {
-      "serial": 171,
+      "serial": 172,
       "chapter": "고대(경제, 사회)",
       "text": "통일신라 장보고",
       "meaning": "당에 신라 사찰인 법화원 설립",
       "unit": 6
     },
     {
-      "serial": 172,
+      "serial": 173,
       "chapter": "고대(경제, 사회)",
       "text": "당의 산둥반도",
       "meaning": "발해의 사신들이 머무는 발해관 설치",
       "unit": 6
     },
     {
-      "serial": 173,
+      "serial": 174,
       "chapter": "고대(경제, 사회)",
       "text": "발해",
       "meaning": "솔빈부의 말 특산물. 모피, 인삼, 자기, 담비 가죽 등을 수출.",
       "unit": 6
     },
     {
-      "serial": 174,
+      "serial": 175,
       "chapter": "고대(경제, 사회)",
       "text": "발해 ",
       "meaning": "신라도라는 상설 교통로로 신라와 왕래",
       "unit": 6
     },
     {
-      "serial": 175,
+      "serial": 176,
       "chapter": "고대(경제, 사회)",
       "text": "발해",
       "meaning": "거란도, 영주도 등을 통해 주변국가와 교류",
       "unit": 6
     },
     {
-      "serial": 176,
+      "serial": 177,
       "chapter": "고대(경제, 사회)",
       "text": "백제",
       "meaning": "정사암에서 국가 중대사를 결정, 재상을 선출",
       "unit": 6
     },
     {
-      "serial": 177,
+      "serial": 178,
       "chapter": "고대(경제, 사회)",
       "text": "신라",
       "meaning": "화백회의 - 귀족들로 구성된 만장일치제",
       "unit": 6
     },
     {
-      "serial": 178,
+      "serial": 179,
       "chapter": "고대(경제, 사회)",
       "text": "백제 지배층",
       "meaning": "왕족인 부여씨를 비롯한 8성의 귀족",
       "unit": 6
     },
     {
-      "serial": 179,
+      "serial": 180,
       "chapter": "고대(경제, 사회)",
       "text": "신라 골품제",
       "meaning": "개인의 정치 활동과 일상생활까지 규제한 폐쇄적 신분제",
       "unit": 6
     },
     {
-      "serial": 180,
+      "serial": 181,
       "chapter": "고대(경제, 사회)",
       "text": "신라 화랑도",
       "meaning": "진흥왕때 국가조직으로 정비. 계층간의 갈등 완화",
       "unit": 6
     },
     {
-      "serial": 181,
+      "serial": 182,
       "chapter": "고대(경제, 사회)",
       "text": "신라 화랑도",
       "meaning": "원광의 세속5계를 행동 규범으로 삼음",
       "unit": 6
     },
     {
-      "serial": 182,
+      "serial": 183,
       "chapter": "고대(경제, 사회)",
       "text": "신라 최치원",
       "meaning": "신라 6두품 출신의 도당 유학생. 귀국하여 사회를 개혁하고자 함",
       "unit": 6
     },
     {
-      "serial": 183,
+      "serial": 184,
       "chapter": "고대(경제, 사회)",
       "text": "신라 최치원",
       "meaning": "당에서 돌아와 진성여왕에게 시무 10여 조를 건의",
       "unit": 6
     },
     {
-      "serial": 184,
+      "serial": 185,
       "chapter": "고대(경제, 사회)",
       "text": "신라 말기",
       "meaning": "진골귀족간 다툼. 사회 혼란",
       "unit": 6
     },
     {
-      "serial": 185,
+      "serial": 186,
       "chapter": "고대(경제, 사회)",
       "text": "신라말기",
       "meaning": "지방에서 호족세력 성장",
       "unit": 6
     },
     {
-      "serial": 186,
+      "serial": 187,
       "chapter": "고대(경제, 사회)",
       "text": "신라 말기",
       "meaning": "6두품은 호족과 연계하여 사회개혁 추구",
       "unit": 6
+    },
+    {
+      "serial": 188,
+      "chapter": "고대문화1",
+      "text": "고구려",
+      "meaning": "수도에 태학을 설치하여 유학교육",
+      "unit": 7
+    },
+    {
+      "serial": 189,
+      "chapter": "고대문화1",
+      "text": "고구려",
+      "meaning": "지방에 경당을 설치하여 청소년에게 글과 활쏘기 가르침",
+      "unit": 7
+    },
+    {
+      "serial": 190,
+      "chapter": "고대문화1",
+      "text": "신라",
+      "meaning": "임시서기석- 유학교육의 흔적",
+      "unit": 7
+    },
+    {
+      "serial": 191,
+      "chapter": "고대문화1",
+      "text": "신라 설총",
+      "meaning": "화왕계를 지어 신문왕에게 조언",
+      "unit": 7
+    },
+    {
+      "serial": 192,
+      "chapter": "고대문화1",
+      "text": "신라 설총",
+      "meaning": "한자의 음과 훈을 차용한 이두를 체계적으로 정리",
+      "unit": 7
+    },
+    {
+      "serial": 193,
+      "chapter": "고대문화1",
+      "text": "신라 김대문",
+      "meaning": "진골귀족 출신. 화랑세기, 고승전, 한산기 저술",
+      "unit": 7
+    },
+    {
+      "serial": 194,
+      "chapter": "고대문화1",
+      "text": "신라 최치원",
+      "meaning": "당에 건너가 빈광과에 합격, 토황소격문, 계원필경을 지음",
+      "unit": 7
+    },
+    {
+      "serial": 195,
+      "chapter": "고대문화1",
+      "text": "신라 원성왕",
+      "meaning": "독서삼품과 시행.-유교적 학식을 갖춘 관리의 채용",
+      "unit": 7
+    },
+    {
+      "serial": 196,
+      "chapter": "고대문화1",
+      "text": "고구려 영양왕",
+      "meaning": "이문진이 유기를 간추린 산집을 편찬",
+      "unit": 7
+    },
+    {
+      "serial": 197,
+      "chapter": "고대문화1",
+      "text": "백제 근초고왕",
+      "meaning": "고흥에게 서기를 편찬토록 함",
+      "unit": 7
+    },
+    {
+      "serial": 198,
+      "chapter": "고대문화1",
+      "text": "신라 진흥왕",
+      "meaning": "거칠부에게 국사를 편찬토록 함",
+      "unit": 7
+    },
+    {
+      "serial": 199,
+      "chapter": "고대문화1",
+      "text": "고구려 사신도",
+      "meaning": "도교사상과 밀접한 관련",
+      "unit": 7
+    },
+    {
+      "serial": 200,
+      "chapter": "고대문화1",
+      "text": "백제 금동 대향로",
+      "meaning": "도교와 불교가 융합된 모습을 볼 수 있음",
+      "unit": 7
+    },
+    {
+      "serial": 201,
+      "chapter": "고대문화1",
+      "text": "고구려 소수림왕",
+      "meaning": "중국 전진으로부터 불교수용",
+      "unit": 7
+    },
+    {
+      "serial": 202,
+      "chapter": "고대문화1",
+      "text": "백제 침류왕",
+      "meaning": "중국 동진으로부터 불교수용",
+      "unit": 7
+    },
+    {
+      "serial": 203,
+      "chapter": "고대문화1",
+      "text": "신라 법흥왕",
+      "meaning": "이차돈의 순교를 계기로 불교를 공인",
+      "unit": 7
+    },
+    {
+      "serial": 204,
+      "chapter": "고대문화1",
+      "text": "신라 원효",
+      "meaning": "무애가를 지어 불교 대중화에 노력. ",
+      "unit": 7
+    },
+    {
+      "serial": 205,
+      "chapter": "고대문화1",
+      "text": "신라 원효",
+      "meaning": "금강삼매경론, 대승기신론소, 십문화쟁론을 저술.",
+      "unit": 7
+    },
+    {
+      "serial": 206,
+      "chapter": "고대문화1",
+      "text": "신라 의상",
+      "meaning": "화엄 사상을 정립.-화엄일승법계도",
+      "unit": 7
+    },
+    {
+      "serial": 207,
+      "chapter": "고대문화1",
+      "text": "신라 의상",
+      "meaning": "현세에서 고난을 구제받고자 하는 관음신앙 강조",
+      "unit": 7
+    },
+    {
+      "serial": 208,
+      "chapter": "고대문화1",
+      "text": "신라 혜초",
+      "meaning": "인도와 중앙아시아를 다녀와서 왕오천축국전을 남김",
+      "unit": 7
+    },
+    {
+      "serial": 209,
+      "chapter": "고대문화1",
+      "text": "고구려 금동연가 7년명 여래입상",
+      "meaning": "광배 뒷면에 새겨진 내용을 통해 제작시기를 알 수 있음",
+      "unit": 7
+    },
+    {
+      "serial": 210,
+      "chapter": "고대문화1",
+      "text": "백제 마에 여래 삼존상",
+      "meaning": "서산 용현리 위치. 백제의 미소라 불는 대표불상",
+      "unit": 7
+    },
+    {
+      "serial": 211,
+      "chapter": "고대문화1",
+      "text": "발해 이불미륵상",
+      "meaning": "고구려 문화의 영향을 받은 불상",
+      "unit": 7
+    },
+    {
+      "serial": 212,
+      "chapter": "고대문화1",
+      "text": "백제 무왕",
+      "meaning": "익산 미륵사지 석탑.-목탑에서 석탑으로 넘어가는 과도기적 모습",
+      "unit": 7
+    },
+    {
+      "serial": 213,
+      "chapter": "고대문화1",
+      "text": "부여 정림사지 5층 석탑",
+      "meaning": "목탑의 구조를 띤 석탑. 평제탑이라고도 불림",
+      "unit": 7
+    },
+    {
+      "serial": 214,
+      "chapter": "고대문화1",
+      "text": "경주 분황사 모전 석탑",
+      "meaning": "돌을 벽돌 모양으로 깎아 만든 석탑",
+      "unit": 7
+    },
+    {
+      "serial": 215,
+      "chapter": "고대문화1",
+      "text": "경주 황룡사지 9층 목탑",
+      "meaning": "신라 선덕여왕 때 자장의 건의로 세우짐. ",
+      "unit": 7
+    },
+    {
+      "serial": 216,
+      "chapter": "고대문화1",
+      "text": "경주 황룡사지 9층 목탑",
+      "meaning": "고려 때 몽골의 침입으로 소멸",
+      "unit": 7
+    },
+    {
+      "serial": 217,
+      "chapter": "고대문화1",
+      "text": "경주 불국사 3층 석탑",
+      "meaning": "석가탑이라고도 불림. 신라식 석탑의 정형. 간결. 비례가 아름다움",
+      "unit": 7
+    },
+    {
+      "serial": 218,
+      "chapter": "고대문화1",
+      "text": "무구정광 대다라니경",
+      "meaning": "경주 불국사 3층석탑 보수과정에서 발견",
+      "unit": 7
+    },
+    {
+      "serial": 219,
+      "chapter": "고대문화1",
+      "text": "양양 진전사지 3층석탑",
+      "meaning": "지방 호족에 의해 세워짐. 기단과 1층 몸돌에 비천상과 불상조각이 새겨짐",
+      "unit": 7
+    },
+    {
+      "serial": 220,
+      "chapter": "고대문화1",
+      "text": "신라말 선종의 유행",
+      "meaning": "화순 쌍봉상 철감선사탑 등 많은 승탑이 제작됨",
+      "unit": 7
+    },
+    {
+      "serial": 221,
+      "chapter": "고대문화2",
+      "text": "고구려 천문도",
+      "meaning": "조선 태조 때 만들어진 천상열차분야지도에 영향을 줌",
+      "unit": 8
+    },
+    {
+      "serial": 222,
+      "chapter": "고대문화2",
+      "text": "백제의 수준높은 공예기술",
+      "meaning": "금동 대향로, 칠지도",
+      "unit": 8
+    },
+    {
+      "serial": 223,
+      "chapter": "고대문화2",
+      "text": "신라 첨성대",
+      "meaning": "천문관측을 위해 세움",
+      "unit": 8
+    },
+    {
+      "serial": 224,
+      "chapter": "고대문화2",
+      "text": "통일신라 상원사 동종",
+      "meaning": "우리나라 가장 오래된 범종. 성덕왕 때 만들어짐",
+      "unit": 8
+    },
+    {
+      "serial": 225,
+      "chapter": "고대문화2",
+      "text": "통일신라 성덕대왕 신종",
+      "meaning": "우리나라 가장 큰 범종. 에밀레종이라고도 불림",
+      "unit": 8
+    },
+    {
+      "serial": 226,
+      "chapter": "고대문화2",
+      "text": "무구정광대다라니경",
+      "meaning": "현존하는 세계 가장 오래된 목판 인쇄물",
+      "unit": 8
+    },
+    {
+      "serial": 227,
+      "chapter": "고대문화2",
+      "text": "백제 무왕",
+      "meaning": "익산에 미륵사 건립",
+      "unit": 8
+    },
+    {
+      "serial": 228,
+      "chapter": "고대문화2",
+      "text": "신라 진흥왕",
+      "meaning": "경주에 황룡사 건립",
+      "unit": 8
+    },
+    {
+      "serial": 229,
+      "chapter": "고대문화2",
+      "text": "불국사, 석굴암",
+      "meaning": "신라 통일 후 신라를 불국토로 만들려는 염원에서 건립",
+      "unit": 8
+    },
+    {
+      "serial": 230,
+      "chapter": "고대문화2",
+      "text": "동궁와 월지",
+      "meaning": "통일신라 별궁터. 안압지라고도 불림",
+      "unit": 8
+    },
+    {
+      "serial": 231,
+      "chapter": "고대문화2",
+      "text": "발해의 수도 상경",
+      "meaning": "당의 수도 장안을 본떠 만듬. 중앙에 주작대로가 있음",
+      "unit": 8
+    },
+    {
+      "serial": 232,
+      "chapter": "고대문화2",
+      "text": "돌무지 무덤",
+      "meaning": "고구려. 백제의 초기무덤 양식. 두 나라 건국세력의 유사성을 알 수 있음",
+      "unit": 8
+    },
+    {
+      "serial": 233,
+      "chapter": "고대문화2",
+      "text": "굴식돌방무덤",
+      "meaning": "천장과 벽에 남겨진 벽화로 당시 모습 짐작",
+      "unit": 8
+    },
+    {
+      "serial": 234,
+      "chapter": "고대문화2",
+      "text": "공주의 무령왕릉",
+      "meaning": "중국의 영향을 받은 벽돌무덤. 묘지석이 있어 주인을 알 수 있음",
+      "unit": 8
+    },
+    {
+      "serial": 235,
+      "chapter": "고대문화2",
+      "text": "돌무지덧널무덤",
+      "meaning": "신라의 대표 무덤양식. 도굴이 어려워 많은 껴묻거리가 출토",
+      "unit": 8
+    },
+    {
+      "serial": 236,
+      "chapter": "고대문화2",
+      "text": "신라 김유신 묘",
+      "meaning": "굴식 돌방무덤으로 무덤의 둘레돌에 12지 신상이 새겨져 있음",
+      "unit": 8
+    },
+    {
+      "serial": 237,
+      "chapter": "고대문화2",
+      "text": "발해 정혜 공주 묘",
+      "meaning": "굴식 돌방무덤으로 벽돌무덤으로 만들어졌다.",
+      "unit": 8
+    },
+    {
+      "serial": 238,
+      "chapter": "고대문화2",
+      "text": "발해 정혜 공주 묘",
+      "meaning": "천장구조. 돌사자상 등을 통해 고구려의 영향을 받았음을 시사",
+      "unit": 8
+    },
+    {
+      "serial": 239,
+      "chapter": "고대문화2",
+      "text": "고구려 수산리 고분 벽화",
+      "meaning": "일본 다카마쓰 고분벽화와 유사. 두 나라의 교류 흔적",
+      "unit": 8
+    },
+    {
+      "serial": 240,
+      "chapter": "고대문화2",
+      "text": "고구려 승려 담징",
+      "meaning": "일본에 종이. 먹 제조기술 전파.",
+      "unit": 8
+    },
+    {
+      "serial": 241,
+      "chapter": "고대문화2",
+      "text": "고구려 승려 담징",
+      "meaning": "호류사의 금닥벽화를 그림",
+      "unit": 8
+    },
+    {
+      "serial": 242,
+      "chapter": "고대문화2",
+      "text": "고구려 승려 혜자",
+      "meaning": "일본으로 건너가 쇼토쿠 태자의 스승이 됨",
+      "unit": 8
+    },
+    {
+      "serial": 243,
+      "chapter": "고대문화2",
+      "text": "백제 학자 왕인",
+      "meaning": "일본에 천자문과 논어 전파",
+      "unit": 8
+    },
+    {
+      "serial": 244,
+      "chapter": "고대문화2",
+      "text": "삼국시대 금동미륵보살 반가 사유상",
+      "meaning": "일본의 목조 미륵보살 반가 사유상의 형태와 유사.",
+      "unit": 8
+    },
+    {
+      "serial": 245,
+      "chapter": "고대문화2",
+      "text": "삼국시대 금동미륵보살 반가 사유상",
+      "meaning": "삼국 문화가 일본에 영향을 줬음을 시사",
+      "unit": 8
+    },
+    {
+      "serial": 246,
+      "chapter": "고대문화2",
+      "text": "신라 축제술",
+      "meaning": "일본으로 전해져 한인의 연못이 만들어짐",
+      "unit": 8
+    },
+    {
+      "serial": 247,
+      "chapter": "고대문화2",
+      "text": "삼국의 문화",
+      "meaning": "일본의 아스카 문화형성에 영향을 줌",
+      "unit": 8
+    },
+    {
+      "serial": 248,
+      "chapter": "고려초기정치",
+      "text": "고려의 건국세력",
+      "meaning": "대대로 고위관리를 배출한 가문은 문벌을 형성",
+      "unit": 9
+    },
+    {
+      "serial": 249,
+      "chapter": "고려초기정치",
+      "text": "고려 말 원 간섭기",
+      "meaning": "권문세족은 원의 세력을 배경으로 권세를 누리며 대농장 소유",
+      "unit": 9
+    },
+    {
+      "serial": 250,
+      "chapter": "고려초기정치",
+      "text": "고려 태조 흑창",
+      "meaning": "후삼국 통일 후 민생안정을 위한 구휼기관",
+      "unit": 9
+    },
+    {
+      "serial": 251,
+      "chapter": "고려초기정치",
+      "text": "고려 태조 호족 우호정책",
+      "meaning": "결혼정책. 성을 하사하는 사성정책을 펼침",
+      "unit": 9
+    },
+    {
+      "serial": 252,
+      "chapter": "고려초기정치",
+      "text": "고려 태조 호족 견제정책",
+      "meaning": "기인제도. 사심관 제도 시행",
+      "unit": 9
+    },
+    {
+      "serial": 253,
+      "chapter": "고려초기정치",
+      "text": "고려 태조",
+      "meaning": "경순왕 김부를 경주의 사심관으로 삼음",
+      "unit": 9
+    },
+    {
+      "serial": 254,
+      "chapter": "고려초기정치",
+      "text": "고려 태조",
+      "meaning": "서경을 중시. 북진정책의 전진기지로 삼음",
+      "unit": 9
+    },
+    {
+      "serial": 255,
+      "chapter": "고려초기정치",
+      "text": "고려 태조",
+      "meaning": "정계, 계백료서 등을 저술하여 관리의 규범을 제시",
+      "unit": 9
+    },
+    {
+      "serial": 256,
+      "chapter": "고려초기정치",
+      "text": "고려 태조",
+      "meaning": "세자 대광현을 비롯. 발해유민을 포용",
+      "unit": 9
+    },
+    {
+      "serial": 257,
+      "chapter": "고려초기정치",
+      "text": "고려 광종 노비안검법",
+      "meaning": "강제로 노비가 된 자를 해방. 호족세력 견제",
+      "unit": 9
+    },
+    {
+      "serial": 258,
+      "chapter": "고려초기정치",
+      "text": "고려 광종 과거제",
+      "meaning": "쌍기의 건의를 받아들여 시험을 통해 관리를 뽑음",
+      "unit": 9
+    },
+    {
+      "serial": 259,
+      "chapter": "고려초기정치",
+      "text": "고려 광종",
+      "meaning": "광덕, 준풍 등의 독자적 연호 사용",
+      "unit": 9
+    },
+    {
+      "serial": 260,
+      "chapter": "고려초기정치",
+      "text": "고려 광종",
+      "meaning": "백관의 공복을 제정. 복색을 4등급으로 구분",
+      "unit": 9
+    },
+    {
+      "serial": 261,
+      "chapter": "고려초기정치",
+      "text": "고려 경종",
+      "meaning": "처음으로 직관.산관 각 품의 전시과를 제정",
+      "unit": 9
+    },
+    {
+      "serial": 262,
+      "chapter": "고려초기정치",
+      "text": "고려 성종",
+      "meaning": "최승로의 시무 28조를 받아들여 통치체제 정비",
+      "unit": 9
+    },
+    {
+      "serial": 263,
+      "chapter": "고려초기정치",
+      "text": "고려 성종",
+      "meaning": "전국에 12목을 설치. 지방관 파견",
+      "unit": 9
+    },
+    {
+      "serial": 264,
+      "chapter": "고려초기정치",
+      "text": "고려 성종 항리제",
+      "meaning": "지방세력 통제",
+      "unit": 9
+    },
+    {
+      "serial": 265,
+      "chapter": "고려초기정치",
+      "text": "고려 ",
+      "meaning": "당과 송의 제도를 본뜬 2성과 6부를 둠",
+      "unit": 9
+    },
+    {
+      "serial": 266,
+      "chapter": "고려초기정치",
+      "text": "고려",
+      "meaning": "중추원. 어사대. 삼사 등의 중앙정치기구 설치",
+      "unit": 9
+    },
+    {
+      "serial": 267,
+      "chapter": "고려초기정치",
+      "text": "고려 중서문하성",
+      "meaning": "국정을 총괄하는 최고중앙 관서. 수장은 문하시중",
+      "unit": 9
+    },
+    {
+      "serial": 268,
+      "chapter": "고려초기정치",
+      "text": "고려 재추회의",
+      "meaning": "중시문하성의 재신과 중추원의 추밀이 만나 회의",
+      "unit": 9
+    },
+    {
+      "serial": 269,
+      "chapter": "고려초기정치",
+      "text": "고려 도병마사",
+      "meaning": "군사문제관련 회의기구. 원 간섭기 때 도평의사사로 명칭변경",
+      "unit": 9
+    },
+    {
+      "serial": 270,
+      "chapter": "고려초기정치",
+      "text": "고려 식목도감",
+      "meaning": "재추회의 중 하나. 법제와 격식을 논의하는 임시회의기구",
+      "unit": 9
+    },
+    {
+      "serial": 271,
+      "chapter": "고려초기정치",
+      "text": "대간",
+      "meaning": "중서문하성의 낭사와 어사대의 관원. ",
+      "unit": 9
+    },
+    {
+      "serial": 272,
+      "chapter": "고려초기정치",
+      "text": "대간",
+      "meaning": "간쟁, 서경, 봉박의 권한을 가지고 언론 기능 담당",
+      "unit": 9
+    },
+    {
+      "serial": 273,
+      "chapter": "고려초기정치",
+      "text": "고려 중추원",
+      "meaning": "왕명 출납과 군사기밀 담당",
+      "unit": 9
+    },
+    {
+      "serial": 274,
+      "chapter": "고려초기정치",
+      "text": "고려 어사대",
+      "meaning": "관리감찰, 풍기단속",
+      "unit": 9
+    },
+    {
+      "serial": 275,
+      "chapter": "고려초기정치",
+      "text": "고려 삼사",
+      "meaning": "화폐와 곡식의 출납. 회계 담당",
+      "unit": 9
+    },
+    {
+      "serial": 276,
+      "chapter": "고려초기정치",
+      "text": "고려의 지방",
+      "meaning": "일반행정구역인 5도와 군사지역 양계로 구성",
+      "unit": 9
+    },
+    {
+      "serial": 277,
+      "chapter": "고려초기정치",
+      "text": "고려 안찰사. 병마사",
+      "meaning": "각각 5도와 양계로 파견된 관직",
+      "unit": 9
+    },
+    {
+      "serial": 278,
+      "chapter": "고려초기정치",
+      "text": "고려 특수행정구역",
+      "meaning": "향. 부곡. 소가",
+      "unit": 9
+    },
+    {
+      "serial": 279,
+      "chapter": "고려초기정치",
+      "text": "고려 중앙군 2군6위",
+      "meaning": "국왕의 친위부대인 2군, 수도경비 및 국경방위를 맡는 6위로 구성",
+      "unit": 9
+    },
+    {
+      "serial": 280,
+      "chapter": "고려초기정치",
+      "text": "고려 5도",
+      "meaning": "예비군 성격의 주현군이, 양계에는 상비군 성격의 주진군이 설치",
+      "unit": 9
     }
   ]
 }
