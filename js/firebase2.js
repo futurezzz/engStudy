@@ -396,7 +396,7 @@ wordsList.addEventListener('click',(e)=>{
       if(word[serialE].text === word[serialK].text){
         
         if(chapter==='한국사'){
-          let readText = word[serialK].text + ' ' + word[serialK].meaning
+          let readText = word[serialK].text + ',' + word[serialK].meaning
           speech(readText);
         }
 
