@@ -1094,7 +1094,7 @@
       "text": "sculpture",
       "meaning": "조각(품)",
       "sentence": "a marble sculpture of Venus",
-      "sentenceMeaning": "금성의 대리석 조각",
+      "sentenceMeaning": "비너스의 대리석 조각",
       "unit": 6
     },
     {
@@ -1149,7 +1149,7 @@
       "serial": 144,
       "text": "view",
       "meaning": "경치. 의견",
-      "sentence": "e view of the lake is beautiful",
+      "sentence": "the view of the lake is beautiful",
       "sentenceMeaning": "호수의 경치는 아름답다.",
       "unit": 6
     },
