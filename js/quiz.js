@@ -20,6 +20,9 @@ const scoreProgress = document.querySelector('.scoreProgress');
 let scoreProgressValue;
 const scoreToday = document.querySelector('.score-today');
 const comboBox = document.querySelector('.combo-box');
+const matchBtn = document.querySelector('.match');
+const sentenceBtn = document.querySelector('.sentence');
+const spellingBtn = document.querySelector('.spelling');
 const clearBox = document.querySelector('.clearBox');
 const playBtn = document.querySelector('.playBtn');
 const character = document.querySelector('#character');
@@ -65,6 +68,8 @@ matchedNo = 0;
 combo = 0;
 
 
+
+
 loadLocalStorage();
 loadItems()
 .then(items => {
@@ -74,7 +79,6 @@ loadItems()
   quizLeft.textContent = word.length;
   //  quiZtype에 따라 matching, speaking, history 형태의 문제를 출제
   // grammer는 quizGrammer에 따로 있음
-console.log(quizType);
   if(quizType === 'matching'){
     displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
     displayWords();
@@ -84,15 +88,7 @@ console.log(quizType);
     displayShuffleEven(); //난수를 발생시켜 뜻의 자리 섞기 위함
     displayHistoryWords();
   }
-  // switch(quizType) {
-  //   case "sepaking":
-  //     break;
-  //   case "history":
-  //     break;
-  //   default: //단어 짝맞추기("matching")
-  //     displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
-  //     displayWords();
-  // }
+  
   
 })
 .catch(console.log);

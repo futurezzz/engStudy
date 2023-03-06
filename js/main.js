@@ -1,6 +1,6 @@
 const mainChapter = document.querySelector('.main-unit-list');
 const grammerChapter = document.querySelector('.grammer-unit-list');
-const historyChapter = document.querySelector('.history-unit-list');
+// const historyChapter = document.querySelector('.history-unit-list');
 const subUnitList = document.querySelector('.sub-unit-list'); //한국사도 같이 이용함
 const grammerSubUnitList = document.querySelector('.grammer-sub-unit-list');
 // const subSpeakList = document.querySelector('.sub-speak-list');
@@ -108,15 +108,15 @@ grammerChapter.addEventListener('click', (e)=> {
 })
 
 // firebase.js에도 historyChapter.addEventListner 에도 보강이 있음. 동시에 진행됨
-historyChapter.addEventListener('click', (e)=> {
-  chapter = e.target.dataset.chapter;
-  unitLength =  parseInt(e.target.dataset.unitNo);
-  calendar.style.visibility = 'hidden';
-  if ( chapter ) {
-    init();
-    // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
-  }
-})
+// historyChapter.addEventListener('click', (e)=> {
+//   chapter = e.target.dataset.chapter;
+//   unitLength =  parseInt(e.target.dataset.unitNo);
+//   calendar.style.visibility = 'hidden';
+//   if ( chapter ) {
+//     init();
+//     // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
+//   }
+// })
 
 
 //main

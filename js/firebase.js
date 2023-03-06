@@ -42,11 +42,11 @@ grammerChapter.addEventListener('click',(e)=>{
   }
 })
 
-historyChapter.addEventListener('click',(e)=>{
-  if(user && chapter){
-    SelectData();
-  }
-})
+// historyChapter.addEventListener('click',(e)=>{
+//   if(user && chapter){
+//     SelectData();
+//   }
+// })
 
 grammerSubUnitList.addEventListener('click',(e)=>{
   elem = e.target;
@@ -71,19 +71,20 @@ subUnitList.addEventListener('click',(e)=>{
   setTimeout(() => {
     scoreValue = scoreValue ?? 0; //scoreValue가 null or undefined 이면 0을 사용하라
     elem.innerHTML = `${chapter} ${elem.dataset.unit} <br/> ${scoreValue}`;
-    if (scoreValue >= 50000){
-      quizType = "speaking"
-    } else if (scoreValue >= 45000){
-      quizType = "matching";
-    } else if (scoreValue >= 30000){
-      quizType = "speaking"
-    } else if (scoreValue >= 25000){
-      quizType = "matching";
-    } else if (scoreValue >= 6000){
-      quizType = "speaking"
-    } else {
-      quizType = "matching"
-    }
+    quizType = 'speaking';
+    // if (scoreValue >= 50000){
+    //   quizType = "speaking"
+    // } else if (scoreValue >= 45000){
+    //   quizType = "matching";
+    // } else if (scoreValue >= 30000){
+    //   quizType = "speaking"
+    // } else if (scoreValue >= 25000){
+    //   quizType = "matching";
+    // } else if (scoreValue >= 6000){
+    //   quizType = "speaking"
+    // } else {
+    //   quizType = "matching"
+    // }
 
     if (chapter == '한국사'){
       quizType = 'history'
@@ -191,6 +192,7 @@ async function SelectCalendarData(){
             //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
             else {
               //새로운 배열을 만들고 0을 채운다. 배열의 자릿수는 해당월의 날짜만큼이다.(lastDayOfMonth)
+              
               dateScoreArray = new Array(lastDayOfMonth).fill(0); 
             }
           })

@@ -46,19 +46,19 @@ function resetData(){
   displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
   // displayItems(items);
 //-----------firesbase에도 같은 조건문 있음.(시작할 때 판단용)
-  if (scoreValue >= 50000){
-    quizType = "speaking"
-  } else if (scoreValue >= 45000){
-    quizType = "matching";
-  } else if (scoreValue >= 30000){
-    quizType = "speaking"
-  } else if (scoreValue >= 25000){
-    quizType = "matching";
-  } else if (scoreValue >= 6000){
-    quizType = "speaking"
-  } else {
-    quizType = "matching"
-  }
+  // if (scoreValue >= 50000){
+  //   quizType = "speaking"
+  // } else if (scoreValue >= 45000){
+  //   quizType = "matching";
+  // } else if (scoreValue >= 30000){
+  //   quizType = "speaking"
+  // } else if (scoreValue >= 25000){
+  //   quizType = "matching";
+  // } else if (scoreValue >= 6000){
+  //   quizType = "speaking"
+  // } else {
+  //   quizType = "matching"
+  // }
   if (chapter === 'GRIU') {
     quizType = 'grammer';
   } else if (chapter === '한국사') {
@@ -81,6 +81,26 @@ console.log(quizType);
     displayQuiz();
   }
 }
+
+
+// -----------문제 타입 바꾸기 matchBtn누르면 짝맞추기 -----------------------//
+// -----------문제 타입 바꾸기 sentenceBtn누르면 문장만들기 -----------------------//
+// -----------문제 타입 바꾸기 wordBtn누르면 단어 스펠링 -----------------------//
+matchBtn.addEventListener('click',(e)=>{
+  matchedNo = 0;
+  combo = 0;
+  quizType = 'matching';
+  displayShuffle(); //난수를 발생시켜 단어와 뜻을 섞음. 화면에 표시할 랜덤
+  displayWords();
+})
+
+sentenceBtn.addEventListener('click',(e)=>{
+  quizLeft.textContent = numOfQuiz;
+  matchedNo = 0;
+  combo = 0;
+  quizType = 'speaking';
+  displaySpeakWords();
+})
 
 // ----------- SELECT DATA FUNCTION ---------------------------------// 
     //선택한 단원에 해당하는 각 unit점수들 불러오기 
@@ -115,12 +135,14 @@ async function SelectTodayData(){
         //unit개수만큼 점수0을 넣은 scoreArray를 생성한다.
         else {
           //새로운 배열을 만들고 0을 채운다. 배열의 자릿수는 해당월의 날짜만큼이다.(lastDayOfMonth)
+          let lastDay = new Date(today.getFullYear(),today.getMonth()+1,0);
+          let lastDayOfMonth = lastDay.getDate();
           dateScoreArray = new Array(lastDayOfMonth).fill(0); 
         }
         // console.log(dateScoreArray)
       })
       .catch((error)=>{
-        alert("unsuccessful, error" + error);
+        alert("unsuccessful, error " + error);
       });
     }
 
@@ -128,7 +150,6 @@ async function SelectTodayData(){
     // ----------- INSERT DATA FUNTION ---------------------------------//    
 function InsertData(){
   
-  // quizType === "matching" ? scoreArray[unit-1] = scoreValue : scoreSpeakArray[unit-1] = scoreValue;
   scoreArray[unit-1] = scoreValue;
   scoreTodayValue = dateScoreArray[new Date().getDate()-1];
   dateScoreArray[new Date().getDate()-1] = scoreTodayValue + scoreTodayVariation;
