@@ -1,0 +1,1877 @@
+{
+  "items":
+  [
+    {
+      "serial": 1,
+      "eng": "be capable of A",
+      "kor": "A를 할 수 있다",
+      "sentence": ""
+    },
+    {
+      "serial": 2,
+      "eng": "diligent",
+      "kor": "부지런한",
+      "sentence": ""
+    },
+    {
+      "serial": 3,
+      "eng": "considerable",
+      "kor": "상당한",
+      "sentence": ""
+    },
+    {
+      "serial": 4,
+      "eng": "indispensable",
+      "kor": "없어서는 안되는",
+      "sentence": ""
+    },
+    {
+      "serial": 5,
+      "eng": "flee",
+      "kor": "대피하다 (flee-fled-fled)",
+      "sentence": ""
+    },
+    {
+      "serial": 6,
+      "eng": "evolution",
+      "kor": "진화(론)",
+      "sentence": ""
+    },
+    {
+      "serial": 7,
+      "eng": "evolve",
+      "kor": "진화하다",
+      "sentence": ""
+    },
+    {
+      "serial": 8,
+      "eng": "verterbrate",
+      "kor": "척추동물",
+      "sentence": ""
+    },
+    {
+      "serial": 9,
+      "eng": "inverterbrate",
+      "kor": "무척추동물",
+      "sentence": ""
+    },
+    {
+      "serial": 10,
+      "eng": "crayfish",
+      "kor": "가재",
+      "sentence": ""
+    },
+    {
+      "serial": 11,
+      "eng": "anxiety",
+      "kor": "근심. 걱정",
+      "sentence": ""
+    },
+    {
+      "serial": 12,
+      "eng": "ape",
+      "kor": "유인원",
+      "sentence": ""
+    },
+    {
+      "serial": 13,
+      "eng": "primate",
+      "kor": "영장류의",
+      "sentence": ""
+    },
+    {
+      "serial": 14,
+      "eng": "numb",
+      "kor": "마비된",
+      "sentence": ""
+    },
+    {
+      "serial": 15,
+      "eng": "crevice",
+      "kor": "틈이 생기다",
+      "sentence": ""
+    },
+    {
+      "serial": 16,
+      "eng": "moray",
+      "kor": "공치",
+      "sentence": ""
+    },
+    {
+      "serial": 17,
+      "eng": "convolution",
+      "kor": "복잡(난해)한 것. 얽힘",
+      "sentence": ""
+    },
+    {
+      "serial": 18,
+      "eng": "anesthesia",
+      "kor": "마취(제)",
+      "sentence": ""
+    },
+    {
+      "serial": 19,
+      "eng": "equator",
+      "kor": "적도",
+      "sentence": ""
+    },
+    {
+      "serial": 20,
+      "eng": "thrive",
+      "kor": "번창하다",
+      "sentence": ""
+    },
+    {
+      "serial": 21,
+      "eng": "stumble",
+      "kor": "비틀거리다",
+      "sentence": ""
+    },
+    {
+      "serial": 22,
+      "eng": "stumble on A",
+      "kor": "A를 우연히 발견하다",
+      "sentence": ""
+    },
+    {
+      "serial": 23,
+      "eng": "awkward",
+      "kor": "어색한. 서툰",
+      "sentence": ""
+    },
+    {
+      "serial": 24,
+      "eng": "superior",
+      "kor": "우월한",
+      "sentence": ""
+    },
+    {
+      "serial": 25,
+      "eng": "inferior",
+      "kor": "열등한",
+      "sentence": ""
+    },
+    {
+      "serial": 26,
+      "eng": "singular",
+      "kor": "단수의",
+      "sentence": ""
+    },
+    {
+      "serial": 27,
+      "eng": "plural",
+      "kor": "복수의",
+      "sentence": ""
+    },
+    {
+      "serial": 28,
+      "eng": "be fond of A",
+      "kor": "A를 좋아하다",
+      "sentence": ""
+    },
+    {
+      "serial": 29,
+      "eng": "regard A as B",
+      "kor": "A를 B로 여기다",
+      "sentence": ""
+    },
+    {
+      "serial": 30,
+      "eng": "tortured",
+      "kor": "고문 당하다",
+      "sentence": ""
+    },
+    {
+      "serial": 31,
+      "eng": "distort",
+      "kor": "왜곡하다. 뒤틀다",
+      "sentence": ""
+    },
+    {
+      "serial": 32,
+      "eng": "contrary to A",
+      "kor": "A와 상반된",
+      "sentence": ""
+    },
+    {
+      "serial": 33,
+      "eng": "can't help ~ing",
+      "kor": "~할 수 밖에 없다",
+      "sentence": ""
+    },
+    {
+      "serial": 34,
+      "eng": "disregard",
+      "kor": "무시하다",
+      "sentence": ""
+    },
+    {
+      "serial": 35,
+      "eng": "be notorious for A",
+      "kor": "A로 악명 높은",
+      "sentence": ""
+    },
+    {
+      "serial": 36,
+      "eng": "refer A to B",
+      "kor": "A를 (도움 위해)B에게 보내다",
+      "sentence": ""
+    },
+    {
+      "serial": 37,
+      "eng": "refer to A",
+      "kor": "A에 참고하다. 언급하다",
+      "sentence": ""
+    },
+    {
+      "serial": 38,
+      "eng": "refer to A as B",
+      "kor": "A를 B라고 부르다. 지칭하다",
+      "sentence": ""
+    },
+    {
+      "serial": 39,
+      "eng": "victim",
+      "kor": "희생자. 피해자",
+      "sentence": ""
+    },
+    {
+      "serial": 40,
+      "eng": "suspect",
+      "kor": "용의자. ~일거라고 의심하다",
+      "sentence": ""
+    },
+    {
+      "serial": 41,
+      "eng": "burglar",
+      "kor": "강도",
+      "sentence": ""
+    },
+    {
+      "serial": 42,
+      "eng": "reference",
+      "kor": "언급. 참고자료",
+      "sentence": ""
+    },
+    {
+      "serial": 43,
+      "eng": "handy",
+      "kor": "간편한. 편리한",
+      "sentence": ""
+    },
+    {
+      "serial": 44,
+      "eng": "domestic",
+      "kor": "가정의. 국내의",
+      "sentence": ""
+    },
+    {
+      "serial": 45,
+      "eng": "index",
+      "kor": "지표",
+      "sentence": ""
+    },
+    {
+      "serial": 46,
+      "eng": "transaction",
+      "kor": "거래",
+      "sentence": ""
+    },
+    {
+      "serial": 47,
+      "eng": "real estate",
+      "kor": "부동산",
+      "sentence": ""
+    },
+    {
+      "serial": 48,
+      "eng": "indicate",
+      "kor": "~를 보여주다. 나타내다",
+      "sentence": ""
+    },
+    {
+      "serial": 49,
+      "eng": "have something to do with A",
+      "kor": "A와 관련이 있다",
+      "sentence": ""
+    },
+    {
+      "serial": 50,
+      "eng": "have nothing to do with A",
+      "kor": "A와 관련이 없다",
+      "sentence": ""
+    },
+    {
+      "serial": 51,
+      "eng": "nothing but A",
+      "kor": "오직 A만 (=no more than A)",
+      "sentence": ""
+    },
+    {
+      "serial": 52,
+      "eng": "guarantee",
+      "kor": "보장하다",
+      "sentence": ""
+    },
+    {
+      "serial": 53,
+      "eng": "in that S + V",
+      "kor": "~가 ~라는 점에서",
+      "sentence": ""
+    },
+    {
+      "serial": 54,
+      "eng": "superficial",
+      "kor": "피상적인. 알팍한",
+      "sentence": ""
+    },
+    {
+      "serial": 55,
+      "eng": "substantial",
+      "kor": "상당한",
+      "sentence": ""
+    },
+    {
+      "serial": 56,
+      "eng": "feasible",
+      "kor": "실현 가능한",
+      "sentence": ""
+    },
+    {
+      "serial": 57,
+      "eng": "dysentery",
+      "kor": "급성 설사병",
+      "sentence": ""
+    },
+    {
+      "serial": 58,
+      "eng": "revisit",
+      "kor": "재방문하다",
+      "sentence": ""
+    },
+    {
+      "serial": 59,
+      "eng": "wander",
+      "kor": "배회하다. 방황하다",
+      "sentence": ""
+    },
+    {
+      "serial": 60,
+      "eng": "brood over about A",
+      "kor": "A에 대해 곰곰히 생각하다(over를 about, on로 대체가능)",
+      "sentence": ""
+    },
+    {
+      "serial": 61,
+      "eng": "envision",
+      "kor": "상상하다",
+      "sentence": ""
+    },
+    {
+      "serial": 62,
+      "eng": "spontaneous",
+      "kor": "자발적인. 즉흥적인",
+      "sentence": ""
+    },
+    {
+      "serial": 63,
+      "eng": "pursue",
+      "kor": "추구하다",
+      "sentence": ""
+    },
+    {
+      "serial": 64,
+      "eng": "prefrontal",
+      "kor": "전두엽의",
+      "sentence": ""
+    },
+    {
+      "serial": 65,
+      "eng": "cortex",
+      "kor": "피질",
+      "sentence": ""
+    },
+    {
+      "serial": 66,
+      "eng": "simultaneous",
+      "kor": "동시의",
+      "sentence": ""
+    },
+    {
+      "serial": 67,
+      "eng": "introverted",
+      "kor": "내성적인",
+      "sentence": ""
+    },
+    {
+      "serial": 68,
+      "eng": "extroverted",
+      "kor": "외향적인",
+      "sentence": ""
+    },
+    {
+      "serial": 69,
+      "eng": "show off A",
+      "kor": "A를 뽐내다. 과시하다",
+      "sentence": ""
+    },
+    {
+      "serial": 70,
+      "eng": "loan",
+      "kor": "대출. 대출하다",
+      "sentence": ""
+    },
+    {
+      "serial": 71,
+      "eng": "in that sense",
+      "kor": "그런 면에서",
+      "sentence": ""
+    },
+    {
+      "serial": 72,
+      "eng": "succeed",
+      "kor": "성공하다. 계승하다. 뒤를잇다",
+      "sentence": ""
+    },
+    {
+      "serial": 73,
+      "eng": "successive",
+      "kor": "연속적인",
+      "sentence": ""
+    },
+    {
+      "serial": 74,
+      "eng": "successful",
+      "kor": "성공적인",
+      "sentence": ""
+    },
+    {
+      "serial": 75,
+      "eng": "committee",
+      "kor": "위원회",
+      "sentence": ""
+    },
+    {
+      "serial": 76,
+      "eng": "consecutive",
+      "kor": "연이은. 연속적인",
+      "sentence": ""
+    },
+    {
+      "serial": 77,
+      "eng": "trait",
+      "kor": "특성",
+      "sentence": ""
+    },
+    {
+      "serial": 78,
+      "eng": "publicity",
+      "kor": "널리알림. 홍보",
+      "sentence": ""
+    },
+    {
+      "serial": 79,
+      "eng": "corporation",
+      "kor": "회사(대기업)",
+      "sentence": ""
+    },
+    {
+      "serial": 80,
+      "eng": "leave out A",
+      "kor": "A를 빼다. 빠뜨리다",
+      "sentence": ""
+    },
+    {
+      "serial": 81,
+      "eng": "tragic",
+      "kor": "비극적인",
+      "sentence": ""
+    },
+    {
+      "serial": 82,
+      "eng": "tragedy",
+      "kor": "비극적인",
+      "sentence": ""
+    },
+    {
+      "serial": 83,
+      "eng": "engaging",
+      "kor": "매력적인. 관심을 끄는",
+      "sentence": ""
+    },
+    {
+      "serial": 84,
+      "eng": "sorrowful",
+      "kor": "슬픈. 서글픈",
+      "sentence": ""
+    },
+    {
+      "serial": 85,
+      "eng": "orphan",
+      "kor": "고아",
+      "sentence": ""
+    },
+    {
+      "serial": 86,
+      "eng": "perceive",
+      "kor": "인식(인지)하다",
+      "sentence": ""
+    },
+    {
+      "serial": 87,
+      "eng": "factor",
+      "kor": "요인. 요소",
+      "sentence": ""
+    },
+    {
+      "serial": 88,
+      "eng": "brisk",
+      "kor": "쾌활한. 상쾌한. 경쾌한",
+      "sentence": ""
+    },
+    {
+      "serial": 89,
+      "eng": "vital",
+      "kor": "필수적인. 생명의",
+      "sentence": ""
+    },
+    {
+      "serial": 90,
+      "eng": "vital organs",
+      "kor": "필수장기",
+      "sentence": ""
+    },
+    {
+      "serial": 91,
+      "eng": "suffocate",
+      "kor": "질식시키다",
+      "sentence": ""
+    },
+    {
+      "serial": 92,
+      "eng": "crave",
+      "kor": "갈망하다",
+      "sentence": ""
+    },
+    {
+      "serial": 93,
+      "eng": "intrigue",
+      "kor": "(호기심을)자극하다. 음모를 꾸미다",
+      "sentence": ""
+    },
+    {
+      "serial": 94,
+      "eng": "glamorous",
+      "kor": "멋진. 우아한. 쭉쭉빵빵",
+      "sentence": ""
+    },
+    {
+      "serial": 95,
+      "eng": "amidsㅅ",
+      "kor": "중간의. 한가운데에",
+      "sentence": ""
+    },
+    {
+      "serial": 96,
+      "eng": "rugged",
+      "kor": "울퉁불퉁한. 거친",
+      "sentence": ""
+    },
+    {
+      "serial": 97,
+      "eng": "crusade",
+      "kor": "십자군. 상당한노력",
+      "sentence": ""
+    },
+    {
+      "serial": 98,
+      "eng": "mundane",
+      "kor": "세속적인",
+      "sentence": ""
+    },
+    {
+      "serial": 99,
+      "eng": "pull up",
+      "kor": "차를 세우다 (pullover)",
+      "sentence": ""
+    },
+    {
+      "serial": 100,
+      "eng": "pull out",
+      "kor": "~를 빼다. 철수하다",
+      "sentence": ""
+    },
+    {
+      "serial": 101,
+      "eng": "devote A to B",
+      "kor": "A를 B에 바치다",
+      "sentence": ""
+    },
+    {
+      "serial": 102,
+      "eng": "dedicate",
+      "kor": "바치다. 헌납하다",
+      "sentence": ""
+    },
+    {
+      "serial": 103,
+      "eng": "head for A",
+      "kor": "A로 향하다",
+      "sentence": ""
+    },
+    {
+      "serial": 104,
+      "eng": "in the face of A",
+      "kor": "A에 직면하여",
+      "sentence": ""
+    },
+    {
+      "serial": 105,
+      "eng": "carry out A",
+      "kor": "A를 수행하다",
+      "sentence": ""
+    },
+    {
+      "serial": 106,
+      "eng": "invest",
+      "kor": "투자하다",
+      "sentence": ""
+    },
+    {
+      "serial": 107,
+      "eng": "tackle",
+      "kor": "(문제)와 논쟁하다. 다루다. 부딪치다",
+      "sentence": ""
+    },
+    {
+      "serial": 108,
+      "eng": "cope with A",
+      "kor": "A에 대처하다",
+      "sentence": ""
+    },
+    {
+      "serial": 109,
+      "eng": "obstacle",
+      "kor": "장애",
+      "sentence": ""
+    },
+    {
+      "serial": 110,
+      "eng": "dictator",
+      "kor": "독재자",
+      "sentence": ""
+    },
+    {
+      "serial": 111,
+      "eng": "inevitable",
+      "kor": "불가피한. 피할 수 없는",
+      "sentence": ""
+    },
+    {
+      "serial": 112,
+      "eng": "proceed",
+      "kor": "나아가다. 진행하다",
+      "sentence": ""
+    },
+    {
+      "serial": 113,
+      "eng": "fulfill",
+      "kor": "충족시키다",
+      "sentence": ""
+    },
+    {
+      "serial": 114,
+      "eng": "obligation",
+      "kor": "의무",
+      "sentence": ""
+    },
+    {
+      "serial": 115,
+      "eng": "aspect",
+      "kor": "특성. 측면",
+      "sentence": ""
+    },
+    {
+      "serial": 116,
+      "eng": "pursue",
+      "kor": "추구하다",
+      "sentence": ""
+    },
+    {
+      "serial": 117,
+      "eng": "pursuit",
+      "kor": "추구. 추적. 추격",
+      "sentence": ""
+    },
+    {
+      "serial": 118,
+      "eng": "optimal",
+      "kor": "최적의",
+      "sentence": ""
+    },
+    {
+      "serial": 119,
+      "eng": "shortcoming",
+      "kor": "약점. 단점",
+      "sentence": ""
+    },
+    {
+      "serial": 120,
+      "eng": "stem",
+      "kor": "줄기",
+      "sentence": ""
+    },
+    {
+      "serial": 121,
+      "eng": "stem from A",
+      "kor": "A로부터 비롯되다",
+      "sentence": ""
+    },
+    {
+      "serial": 122,
+      "eng": "cherished",
+      "kor": "소중히 여기다",
+      "sentence": ""
+    },
+    {
+      "serial": 123,
+      "eng": "considerate",
+      "kor": "고려해주는 배려심 있는",
+      "sentence": ""
+    },
+    {
+      "serial": 124,
+      "eng": "relieve A of B",
+      "kor": "A에서 B를 빼다",
+      "sentence": "gently?relieved her of the gun."
+    },
+    {
+      "serial": 125,
+      "eng": "controversy",
+      "kor": "논쟁",
+      "sentence": ""
+    },
+    {
+      "serial": 126,
+      "eng": "controversial",
+      "kor": "논쟁의 여지가 있는",
+      "sentence": ""
+    },
+    {
+      "serial": 127,
+      "eng": "alliance",
+      "kor": "동맹. 연합",
+      "sentence": ""
+    },
+    {
+      "serial": 128,
+      "eng": "priority",
+      "kor": "우선순위. 취우선인 것",
+      "sentence": ""
+    },
+    {
+      "serial": 129,
+      "eng": "prioritize",
+      "kor": "가장 우선시하다",
+      "sentence": ""
+    },
+    {
+      "serial": 130,
+      "eng": "prevail",
+      "kor": "우세하다. 이기다",
+      "sentence": ""
+    },
+    {
+      "serial": 131,
+      "eng": "conventional",
+      "kor": "관습적인. 상투적인",
+      "sentence": ""
+    },
+    {
+      "serial": 132,
+      "eng": "notion",
+      "kor": "개념",
+      "sentence": ""
+    },
+    {
+      "serial": 133,
+      "eng": "criteria",
+      "kor": "기준. 척도",
+      "sentence": ""
+    },
+    {
+      "serial": 134,
+      "eng": "assess",
+      "kor": "평가하다(=evalutate)",
+      "sentence": ""
+    },
+    {
+      "serial": 135,
+      "eng": "congress",
+      "kor": "의회",
+      "sentence": ""
+    },
+    {
+      "serial": 136,
+      "eng": "bill",
+      "kor": "지폐. 청구서. 계산서. 새부리",
+      "sentence": ""
+    },
+    {
+      "serial": 137,
+      "eng": "resign",
+      "kor": "사직하다",
+      "sentence": ""
+    },
+    {
+      "serial": 138,
+      "eng": "corruption",
+      "kor": "부정. 부패",
+      "sentence": ""
+    },
+    {
+      "serial": 139,
+      "eng": "optimistic",
+      "kor": "낙천적인",
+      "sentence": ""
+    },
+    {
+      "serial": 140,
+      "eng": "pessimistic",
+      "kor": "비관적인",
+      "sentence": ""
+    },
+    {
+      "serial": 141,
+      "eng": "as long as",
+      "kor": "~하기만 한다면",
+      "sentence": ""
+    },
+    {
+      "serial": 142,
+      "eng": "in the short run",
+      "kor": "단기적으로는",
+      "sentence": ""
+    },
+    {
+      "serial": 143,
+      "eng": "set back",
+      "kor": "장애물. 방해",
+      "sentence": ""
+    },
+    {
+      "serial": 144,
+      "eng": "amends",
+      "kor": "고치다. 수정하다. 개선하다",
+      "sentence": ""
+    },
+    {
+      "serial": 145,
+      "eng": "clarify",
+      "kor": "명확히 하다. 분명히하다",
+      "sentence": ""
+    },
+    {
+      "serial": 146,
+      "eng": "rationalize",
+      "kor": "합리화하다",
+      "sentence": ""
+    },
+    {
+      "serial": 147,
+      "eng": "transgress",
+      "kor": "위반하다",
+      "sentence": ""
+    },
+    {
+      "serial": 148,
+      "eng": "remorse",
+      "kor": "후회. 회한(=regret)",
+      "sentence": ""
+    },
+    {
+      "serial": 149,
+      "eng": "offense",
+      "kor": "감정을 상하게 해다. 범죄. 위반",
+      "sentence": ""
+    },
+    {
+      "serial": 150,
+      "eng": "concern",
+      "kor": "우려. 관심. 고민",
+      "sentence": ""
+    },
+    {
+      "serial": 151,
+      "eng": "verbal",
+      "kor": "말의. 구두의",
+      "sentence": ""
+    },
+    {
+      "serial": 152,
+      "eng": "reconciliation",
+      "kor": "타협. 화해",
+      "sentence": ""
+    },
+    {
+      "serial": 153,
+      "eng": "bray about A",
+      "kor": "A를 뽐내다. A에 대해 떠들어대다",
+      "sentence": ""
+    },
+    {
+      "serial": 154,
+      "eng": "lose one's temper",
+      "kor": "화를 내다",
+      "sentence": ""
+    },
+    {
+      "serial": 155,
+      "eng": "backfire on A",
+      "kor": "A에 역효과를 내다",
+      "sentence": ""
+    },
+    {
+      "serial": 156,
+      "eng": "attribute A to B",
+      "kor": "A를 B의 탓으로 돌리다",
+      "sentence": ""
+    },
+    {
+      "serial": 157,
+      "eng": "at hand",
+      "kor": "지금 갖고있는. 당면한",
+      "sentence": ""
+    },
+    {
+      "serial": 158,
+      "eng": "in and of itself",
+      "kor": "그 자체로",
+      "sentence": ""
+    },
+    {
+      "serial": 159,
+      "eng": "medium",
+      "kor": "중간의. 매개체",
+      "sentence": ""
+    },
+    {
+      "serial": 160,
+      "eng": "exhibit",
+      "kor": "전시하다",
+      "sentence": ""
+    },
+    {
+      "serial": 161,
+      "eng": "grueling",
+      "kor": "지독히 힘든. 아주 힘겨운",
+      "sentence": ""
+    },
+    {
+      "serial": 162,
+      "eng": "scenic",
+      "kor": "풍경이 아름다운. 경치가 좋은",
+      "sentence": ""
+    },
+    {
+      "serial": 163,
+      "eng": "desolate",
+      "kor": "황량한",
+      "sentence": ""
+    },
+    {
+      "serial": 164,
+      "eng": "assume",
+      "kor": "추정하다. 가정하다",
+      "sentence": ""
+    },
+    {
+      "serial": 165,
+      "eng": "surmount",
+      "kor": "극복하다",
+      "sentence": ""
+    },
+    {
+      "serial": 166,
+      "eng": "insurmountable",
+      "kor": "극복할 수 없는",
+      "sentence": ""
+    },
+    {
+      "serial": 167,
+      "eng": "enormous",
+      "kor": "막대한. 엄청난",
+      "sentence": ""
+    },
+    {
+      "serial": 168,
+      "eng": "enormity",
+      "kor": "광대함. 엄청남",
+      "sentence": ""
+    },
+    {
+      "serial": 169,
+      "eng": "jeopardy",
+      "kor": "위험. 유죄가 될 위험성",
+      "sentence": ""
+    },
+    {
+      "serial": 170,
+      "eng": "prevent",
+      "kor": "막다. 예방하다",
+      "sentence": ""
+    },
+    {
+      "serial": 171,
+      "eng": "eradicate",
+      "kor": "제거하다. 뿌리를 뽑다",
+      "sentence": ""
+    },
+    {
+      "serial": 172,
+      "eng": "staggering",
+      "kor": "경이적인. 압도적인. 비틀거리는",
+      "sentence": ""
+    },
+    {
+      "serial": 173,
+      "eng": "stagger",
+      "kor": "비틀거리다",
+      "sentence": ""
+    },
+    {
+      "serial": 174,
+      "eng": "convince",
+      "kor": "납득시키다. 설득하다",
+      "sentence": ""
+    },
+    {
+      "serial": 175,
+      "eng": "adverse",
+      "kor": "불리한. 역경의. 거스르는",
+      "sentence": ""
+    },
+    {
+      "serial": 176,
+      "eng": "budget",
+      "kor": "예산",
+      "sentence": ""
+    },
+    {
+      "serial": 177,
+      "eng": "bring about A",
+      "kor": "A를 유발하다. 초래하다",
+      "sentence": ""
+    },
+    {
+      "serial": 178,
+      "eng": "intrinsic",
+      "kor": "본질적인",
+      "sentence": ""
+    },
+    {
+      "serial": 179,
+      "eng": "futile",
+      "kor": "헛된. 허무한",
+      "sentence": ""
+    },
+    {
+      "serial": 180,
+      "eng": "fertile",
+      "kor": "비옥한",
+      "sentence": ""
+    },
+    {
+      "serial": 181,
+      "eng": "cease",
+      "kor": "중지하다. 멈추다",
+      "sentence": ""
+    },
+    {
+      "serial": 182,
+      "eng": "analogy",
+      "kor": "유사. 비슷함. 유추",
+      "sentence": ""
+    },
+    {
+      "serial": 183,
+      "eng": "radiate",
+      "kor": "방사하다",
+      "sentence": ""
+    },
+    {
+      "serial": 184,
+      "eng": "density",
+      "kor": "밀도",
+      "sentence": ""
+    },
+    {
+      "serial": 185,
+      "eng": "schema",
+      "kor": "그림. 도표. 도식",
+      "sentence": ""
+    },
+    {
+      "serial": 186,
+      "eng": "author",
+      "kor": "작가",
+      "sentence": ""
+    },
+    {
+      "serial": 187,
+      "eng": "nurture",
+      "kor": "육성하다. 기르다. 양육하다",
+      "sentence": ""
+    },
+    {
+      "serial": 188,
+      "eng": "juvenile",
+      "kor": "청소년의. 어린이다운",
+      "sentence": ""
+    },
+    {
+      "serial": 189,
+      "eng": "embryonic",
+      "kor": "태아의",
+      "sentence": ""
+    },
+    {
+      "serial": 190,
+      "eng": "docile",
+      "kor": "유순한. 온순한",
+      "sentence": ""
+    },
+    {
+      "serial": 191,
+      "eng": "elicit",
+      "kor": "이끌어내다",
+      "sentence": ""
+    },
+    {
+      "serial": 192,
+      "eng": "hypothesize",
+      "kor": "가설을 세우다",
+      "sentence": ""
+    },
+    {
+      "serial": 193,
+      "eng": "immense",
+      "kor": "거대한. 상당한",
+      "sentence": ""
+    },
+    {
+      "serial": 194,
+      "eng": "wield",
+      "kor": "(권력을) 휘두르다",
+      "sentence": ""
+    },
+    {
+      "serial": 195,
+      "eng": "incident",
+      "kor": "우발적 사건. 사변",
+      "sentence": ""
+    },
+    {
+      "serial": 196,
+      "eng": "provoke",
+      "kor": "유발하다. 폭발시키다. 화나게하다",
+      "sentence": ""
+    },
+    {
+      "serial": 197,
+      "eng": "impulse",
+      "kor": "충동",
+      "sentence": ""
+    },
+    {
+      "serial": 198,
+      "eng": "impulsive",
+      "kor": "충동적인",
+      "sentence": ""
+    },
+    {
+      "serial": 199,
+      "eng": "contemplate",
+      "kor": "깊게 생각하다(=ponder)",
+      "sentence": ""
+    },
+    {
+      "serial": 200,
+      "eng": "excessive",
+      "kor": "과도한",
+      "sentence": ""
+    },
+    {
+      "serial": 201,
+      "eng": "for good",
+      "kor": "영원히(=forever)",
+      "sentence": ""
+    },
+    {
+      "serial": 202,
+      "eng": "when it comes to A",
+      "kor": "A에 대해 말하자면, A에 관한 한",
+      "sentence": ""
+    },
+    {
+      "serial": 203,
+      "eng": "equivalent",
+      "kor": "동등한",
+      "sentence": ""
+    },
+    {
+      "serial": 204,
+      "eng": "conform to A",
+      "kor": "A에 순응하다. 따르다",
+      "sentence": ""
+    },
+    {
+      "serial": 205,
+      "eng": "undergo",
+      "kor": "겪다. 경험하다.",
+      "sentence": ""
+    },
+    {
+      "serial": 206,
+      "eng": "prune",
+      "kor": "가지치기 하다",
+      "sentence": ""
+    },
+    {
+      "serial": 207,
+      "eng": "insulate",
+      "kor": "단열(절연.방음)하다. 분리하다",
+      "sentence": ""
+    },
+    {
+      "serial": 208,
+      "eng": "cognition",
+      "kor": "인지. 인식",
+      "sentence": ""
+    },
+    {
+      "serial": 209,
+      "eng": "strategic",
+      "kor": "전략적인",
+      "sentence": ""
+    },
+    {
+      "serial": 210,
+      "eng": "utilize",
+      "kor": "활용하다",
+      "sentence": ""
+    },
+    {
+      "serial": 211,
+      "eng": "trivial",
+      "kor": "사소한. 자질구레한",
+      "sentence": ""
+    },
+    {
+      "serial": 212,
+      "eng": "jack-of-all-trades",
+      "kor": "팔방미인",
+      "sentence": ""
+    },
+    {
+      "serial": 213,
+      "eng": "stupefy",
+      "kor": "깜짝 놀라게 하다. 멍하게 하다. 마비시키다.",
+      "sentence": ""
+    },
+    {
+      "serial": 214,
+      "eng": "hedge",
+      "kor": "울티리를 치다. 회피하다",
+      "sentence": ""
+    },
+    {
+      "serial": 215,
+      "eng": "inquire",
+      "kor": "문의하다",
+      "sentence": ""
+    },
+    {
+      "serial": 216,
+      "eng": "acquire",
+      "kor": "얻다. 습득하다",
+      "sentence": ""
+    },
+    {
+      "serial": 217,
+      "eng": "get in the way",
+      "kor": "방해가 되다",
+      "sentence": ""
+    },
+    {
+      "serial": 218,
+      "eng": "unparalleled",
+      "kor": "월등한. 전에 없던",
+      "sentence": ""
+    },
+    {
+      "serial": 219,
+      "eng": "ubiquitous",
+      "kor": "어디에나 있는",
+      "sentence": ""
+    },
+    {
+      "serial": 220,
+      "eng": "to name but a few",
+      "kor": "몇 가지 예를 들자며",
+      "sentence": ""
+    },
+    {
+      "serial": 221,
+      "eng": "spontaneous",
+      "kor": "자발적인. 즉흥적인",
+      "sentence": ""
+    },
+    {
+      "serial": 222,
+      "eng": "instinct",
+      "kor": "본능",
+      "sentence": ""
+    },
+    {
+      "serial": 223,
+      "eng": "ovulation",
+      "kor": "배란",
+      "sentence": ""
+    },
+    {
+      "serial": 224,
+      "eng": "saliva",
+      "kor": "침. 타액",
+      "sentence": ""
+    },
+    {
+      "serial": 225,
+      "eng": "crucial",
+      "kor": "중대한. 아주 중요한",
+      "sentence": ""
+    },
+    {
+      "serial": 226,
+      "eng": "briefly",
+      "kor": "간단히. 간략하게",
+      "sentence": ""
+    },
+    {
+      "serial": 227,
+      "eng": "offspring",
+      "kor": "자손. (동물의)새끼",
+      "sentence": ""
+    },
+    {
+      "serial": 228,
+      "eng": "stoic",
+      "kor": "스토아 철학의. 극기의. 금욕의",
+      "sentence": ""
+    },
+    {
+      "serial": 229,
+      "eng": "dilate",
+      "kor": "팽창하다. 확장시키다",
+      "sentence": ""
+    },
+    {
+      "serial": 230,
+      "eng": "correlated",
+      "kor": "상관된",
+      "sentence": ""
+    },
+    {
+      "serial": 231,
+      "eng": "physiology",
+      "kor": "생리학(신체의 작용을 연구하는)",
+      "sentence": ""
+    },
+    {
+      "serial": 232,
+      "eng": "anatomy",
+      "kor": "해부학",
+      "sentence": ""
+    },
+    {
+      "serial": 233,
+      "eng": "tactile",
+      "kor": "촉각의",
+      "sentence": ""
+    },
+    {
+      "serial": 234,
+      "eng": "auditory",
+      "kor": "청가의",
+      "sentence": ""
+    },
+    {
+      "serial": 235,
+      "eng": "olfactory",
+      "kor": "후각의",
+      "sentence": ""
+    },
+    {
+      "serial": 236,
+      "eng": "passive",
+      "kor": "수동적인",
+      "sentence": ""
+    },
+    {
+      "serial": 237,
+      "eng": "run an errand",
+      "kor": "심부름을 하다",
+      "sentence": ""
+    },
+    {
+      "serial": 238,
+      "eng": "dozen",
+      "kor": "12개. 많은",
+      "sentence": ""
+    },
+    {
+      "serial": 239,
+      "eng": "interpersonal",
+      "kor": "사람 상호간의. 대인관계의",
+      "sentence": ""
+    },
+    {
+      "serial": 240,
+      "eng": "acquaintance",
+      "kor": "지인. 아는사람",
+      "sentence": ""
+    },
+    {
+      "serial": 241,
+      "eng": "plausible",
+      "kor": "가능성이 있는",
+      "sentence": ""
+    },
+    {
+      "serial": 242,
+      "eng": "turn down A",
+      "kor": "A를 정중히 거절핟",
+      "sentence": ""
+    },
+    {
+      "serial": 243,
+      "eng": "ask A out",
+      "kor": "A에게 데이트 신청하다",
+      "sentence": ""
+    },
+    {
+      "serial": 244,
+      "eng": "in one's shoes",
+      "kor": "~의 처기가 되어",
+      "sentence": ""
+    },
+    {
+      "serial": 245,
+      "eng": "approximately",
+      "kor": "대략적인",
+      "sentence": ""
+    },
+    {
+      "serial": 246,
+      "eng": "time and time again",
+      "kor": "자주. 빈번하게",
+      "sentence": ""
+    },
+    {
+      "serial": 247,
+      "eng": "underscore",
+      "kor": "강조하다",
+      "sentence": ""
+    },
+    {
+      "serial": 248,
+      "eng": "trifling",
+      "kor": "사소한. 하찮은",
+      "sentence": ""
+    },
+    {
+      "serial": 249,
+      "eng": "hardwired",
+      "kor": "선천적으로 성향이 있는. 하드웨어에 내장된",
+      "sentence": ""
+    },
+    {
+      "serial": 250,
+      "eng": "dwell",
+      "kor": "거주하다. ~에 살다",
+      "sentence": ""
+    },
+    {
+      "serial": 251,
+      "eng": "lethal",
+      "kor": "치명적인",
+      "sentence": ""
+    },
+    {
+      "serial": 252,
+      "eng": "sterile",
+      "kor": "무균의. 살균된",
+      "sentence": ""
+    },
+    {
+      "serial": 253,
+      "eng": "niche",
+      "kor": "틈새의. 적합한 분야. 적소",
+      "sentence": ""
+    },
+    {
+      "serial": 254,
+      "eng": "collapse",
+      "kor": "붕괴하다",
+      "sentence": ""
+    },
+    {
+      "serial": 255,
+      "eng": "pathogens",
+      "kor": "병원균",
+      "sentence": ""
+    },
+    {
+      "serial": 256,
+      "eng": "chromos one",
+      "kor": "염색체",
+      "sentence": ""
+    },
+    {
+      "serial": 257,
+      "eng": "implant",
+      "kor": "(신체에) 심다",
+      "sentence": ""
+    },
+    {
+      "serial": 258,
+      "eng": "collide",
+      "kor": "부딪히다. 충돌하다",
+      "sentence": ""
+    },
+    {
+      "serial": 259,
+      "eng": "antigen",
+      "kor": "(항체를 유발하는)항원",
+      "sentence": ""
+    },
+    {
+      "serial": 260,
+      "eng": "antibody",
+      "kor": "항체",
+      "sentence": ""
+    },
+    {
+      "serial": 261,
+      "eng": "casualty",
+      "kor": "사상자",
+      "sentence": ""
+    },
+    {
+      "serial": 262,
+      "eng": "prospect",
+      "kor": "전망. 가능성",
+      "sentence": ""
+    },
+    {
+      "serial": 263,
+      "eng": "disrupt",
+      "kor": "방해하다. 교란하다",
+      "sentence": ""
+    },
+    {
+      "serial": 264,
+      "eng": "top-of-the-lime",
+      "kor": "최천단의. 최고의",
+      "sentence": ""
+    },
+    {
+      "serial": 265,
+      "eng": "prudent",
+      "kor": "신중한",
+      "sentence": ""
+    },
+    {
+      "serial": 266,
+      "eng": "convince",
+      "kor": "설득시키다",
+      "sentence": ""
+    },
+    {
+      "serial": 267,
+      "eng": "convinced",
+      "kor": "확신하는",
+      "sentence": ""
+    },
+    {
+      "serial": 268,
+      "eng": "besides",
+      "kor": "게다가",
+      "sentence": ""
+    },
+    {
+      "serial": 269,
+      "eng": "nevertheless",
+      "kor": "그럼에도 불구하고",
+      "sentence": ""
+    },
+    {
+      "serial": 270,
+      "eng": "increment",
+      "kor": "가중치. 증가",
+      "sentence": ""
+    },
+    {
+      "serial": 271,
+      "eng": "faint",
+      "kor": "희미한. 기절하다",
+      "sentence": ""
+    },
+    {
+      "serial": 272,
+      "eng": "finite",
+      "kor": "유한의",
+      "sentence": ""
+    },
+    {
+      "serial": 273,
+      "eng": "indigenous",
+      "kor": "토착의. 토종의",
+      "sentence": ""
+    },
+    {
+      "serial": 274,
+      "eng": "take stock of A",
+      "kor": "(결정전에)A를 신중히 생각하다. 조사하다.",
+      "sentence": ""
+    },
+    {
+      "serial": 275,
+      "eng": "headpieces",
+      "kor": "머리장식. 헤드피스",
+      "sentence": ""
+    },
+    {
+      "serial": 276,
+      "eng": "infants",
+      "kor": "유아",
+      "sentence": ""
+    },
+    {
+      "serial": 277,
+      "eng": "manufacture",
+      "kor": "제조하다",
+      "sentence": ""
+    },
+    {
+      "serial": 278,
+      "eng": "dosage",
+      "kor": "복용량",
+      "sentence": ""
+    },
+    {
+      "serial": 279,
+      "eng": "retail",
+      "kor": "소매",
+      "sentence": ""
+    },
+    {
+      "serial": 280,
+      "eng": "wholesale",
+      "kor": "도매. 도매의",
+      "sentence": ""
+    },
+    {
+      "serial": 281,
+      "eng": "sector",
+      "kor": "부문",
+      "sentence": ""
+    },
+    {
+      "serial": 282,
+      "eng": "indeed",
+      "kor": "실제로",
+      "sentence": ""
+    },
+    {
+      "serial": 283,
+      "eng": "term",
+      "kor": "용어",
+      "sentence": ""
+    },
+    {
+      "serial": 284,
+      "eng": "skeptical",
+      "kor": "회의적인",
+      "sentence": ""
+    },
+    {
+      "serial": 285,
+      "eng": "seismic",
+      "kor": "지진의",
+      "sentence": ""
+    },
+    {
+      "serial": 286,
+      "eng": "anticipate",
+      "kor": "예상하다. 기대하다",
+      "sentence": ""
+    },
+    {
+      "serial": 287,
+      "eng": "juxtapose",
+      "kor": "병치하다. 병렬하다.",
+      "sentence": ""
+    },
+    {
+      "serial": 288,
+      "eng": "diverse",
+      "kor": "다양한",
+      "sentence": ""
+    },
+    {
+      "serial": 289,
+      "eng": "lubricate",
+      "kor": "윤활유를 바르다.",
+      "sentence": ""
+    },
+    {
+      "serial": 290,
+      "eng": "isotope",
+      "kor": "동위원소",
+      "sentence": ""
+    },
+    {
+      "serial": 291,
+      "eng": "tremble",
+      "kor": "부들부들 떨다",
+      "sentence": ""
+    },
+    {
+      "serial": 292,
+      "eng": "wreak havoc on A",
+      "kor": "A에게 막대한 피해를 입히다",
+      "sentence": ""
+    },
+    {
+      "serial": 293,
+      "eng": "sufficient",
+      "kor": "충분한",
+      "sentence": ""
+    },
+    {
+      "serial": 294,
+      "eng": "relevant",
+      "kor": "연관된",
+      "sentence": ""
+    },
+    {
+      "serial": 295,
+      "eng": "recession",
+      "kor": "불경기. 경기침체",
+      "sentence": ""
+    },
+    {
+      "serial": 296,
+      "eng": "reciprocal",
+      "kor": "상호적인",
+      "sentence": ""
+    },
+    {
+      "serial": 297,
+      "eng": "altruistic",
+      "kor": "이타적인",
+      "sentence": ""
+    },
+    {
+      "serial": 298,
+      "eng": "extensive",
+      "kor": "광범위한",
+      "sentence": ""
+    },
+    {
+      "serial": 299,
+      "eng": "expand",
+      "kor": "팽창하다",
+      "sentence": ""
+    },
+    {
+      "serial": 300,
+      "eng": "spoil",
+      "kor": "망치다. 상하다",
+      "sentence": ""
+    },
+    {
+      "serial": 301,
+      "eng": "trajectory",
+      "kor": "궤적. 경로",
+      "sentence": ""
+    },
+    {
+      "serial": 302,
+      "eng": "venture",
+      "kor": "모험하다. 위험을 무릅쓰다",
+      "sentence": ""
+    },
+    {
+      "serial": 303,
+      "eng": "contagions",
+      "kor": "전염",
+      "sentence": ""
+    },
+    {
+      "serial": 304,
+      "eng": "contagious",
+      "kor": "전영성의",
+      "sentence": ""
+    },
+    {
+      "serial": 305,
+      "eng": "catastrophe",
+      "kor": "재앙. 대참사",
+      "sentence": ""
+    },
+    {
+      "serial": 306,
+      "eng": "figurative",
+      "kor": "은유적인. 비유의",
+      "sentence": ""
+    },
+    {
+      "serial": 307,
+      "eng": "decimate",
+      "kor": "대량으로 살상하다. 살처분하다",
+      "sentence": ""
+    },
+    {
+      "serial": 308,
+      "eng": "ruthless",
+      "kor": "무자비한",
+      "sentence": ""
+    },
+    {
+      "serial": 309,
+      "eng": "gossip",
+      "kor": "뒷담화(하다)",
+      "sentence": ""
+    },
+    {
+      "serial": 310,
+      "eng": "pregnancy",
+      "kor": "임신",
+      "sentence": ""
+    },
+    {
+      "serial": 311,
+      "eng": "pregnant",
+      "kor": "임신한",
+      "sentence": ""
+    },
+    {
+      "serial": 312,
+      "eng": "fond",
+      "kor": "애착. 애뜻한",
+      "sentence": ""
+    }
+  ]
+}
