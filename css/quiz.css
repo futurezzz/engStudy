@@ -94,14 +94,28 @@
   font-size: 10px;
   font-style: italic;
   color: orangered;
-  text-align: left;
+  /* text-align: left; */
   width: 100px;
   height: 30px;
   line-height: 30px;
+  display: flex;
 }
 
 .score-today{
-  margin-top: -18px;
+  margin-right: 10px;
+}
+
+.quiz-type{
+  background-color: rgb(132, 199, 212);
+  width: 35px;
+  height: 25px;
+  margin: 0 0 0 5px;
+  padding: 0 10px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 25px;
+  color: #4d4d4d;
+  cursor: pointer;
 }
 
 .quiz-left{

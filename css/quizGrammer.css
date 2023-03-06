@@ -87,6 +87,7 @@
   background-color: var(--score-porgress-color);
 }
 
+
 .score-today-box{
   position: absolute;
   margin-left: 320px;
@@ -98,11 +99,13 @@
   width: 100px;
   height: 30px;
   line-height: 30px;
+  display: flex;
 }
 
 .score-today{
-  margin-top: -18px;
+  margin-right: 10px;
 }
+
 
 .quiz-left{
   margin-top: -10px;
@@ -118,9 +121,9 @@
   margin-top: 2px;
   padding: 3px;
   width: 50px;
-  cursor: pointer;
-  background-color: rgb(111, 200, 238);
-  box-shadow: 2px 2px 2px rgba(0,0,0,.3);
+  cursor: none;
+  background-color: white;
+  box-shadow: 0px 2px 2px rgba(255, 255, 255, 0.3);
   color: white;
   border: none;
   border-radius: 5px;

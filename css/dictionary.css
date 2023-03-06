@@ -133,8 +133,29 @@
   align-items: center;
   flex-direction: column;
   width: 100%;
-  max-width: 700px;
+  /* max-width: 700px; */
   background-color: #f0f0f0;
+}
+
+.unitList{
+  margin: 0 0 2px 35px;
+  width: 350px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  /* margin-bottom: 5px; */
+}
+
+.unitBtn{
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  color: #cfcfcf;
+  font-size: 12px;
+  background-color: rgb(80, 95, 121);
+  border-radius: 3px;
+  margin: 0 1px 2px 1px;
+  user-select: none;
 }
 
 .word-scroll {
@@ -156,9 +177,10 @@
 
 
 .words-list {
+  overflow-x: auto;
   display: grid;
-  /* grid-template-columns: repeat(6,auto); */
-  grid-template-columns: 30px 40px 250px 250px;
+  grid-template-columns: repeat(5,auto);
+  /* grid-template-columns: 30px 40px 250px 250px 300px; */
   list-style: none;
 }
 
@@ -191,9 +213,9 @@
     height: 500px;
   }
   
-  .words {
+  /* .words {
     max-width: 380px;
-  }
+  } */
   
   .word {
     font-size: 12px;
@@ -202,8 +224,8 @@
   .words-list {
     display: grid;
     
-    /* grid-template-columns: repeat(6,auto); */
-    grid-template-columns: 25px 30px 160px 160px;
+    grid-template-columns: repeat(5,auto);
+    /* grid-template-columns: 25px 30px 160px 160px 230px; */
     list-style: none;
   }
   
