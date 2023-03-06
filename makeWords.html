@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Words</title>
+    <!-- favicon -->
+    <link rel="apple-touch-icon-precomposed" href="img/favicon.png" />
+    <link rel="shortcut icon" href="img/favicon.png" />
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+  <title>Insert Words</title>
+  <style>
+    .studyWord {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .insertWord {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .wordBox {
+      width: 360px;
+      margin: 0 auto;
+      margin-top: 20px;
+    }
+    .wordList {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .serialMini {
+      flex: 25px;
+      font-size: 12px;
+      color: #777;
+      line-height: 25px;
+    }
+    
+    .given {
+      flex: 325px;
+    }
+
+    .match {
+      flex: 280px;
+      padding-left: 25px;
+      color: rgb(0, 135, 135);
+      font-size: 25px;
+      height: 45px;
+      line-height: 42px;
+      margin: 5px 0 30px 5px;
+      background-color: rgb(228, 228, 228);
+      border-radius: 5px;
+    }
+
+    .hint {
+      flex: 25px;
+      font-size: 25px;
+      line-height: 45px;
+      padding-left: 7px;
+      margin-right: 10px;
+      color: rgb(87, 152, 152);
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .all {
+      text-align: center;
+      flex: 25px;
+      font-size: 15px;
+      width: 25px;
+      height: 30px;
+      line-height: 29px;
+      margin-top: 7px;
+      background-color:  rgb(87, 152, 152);
+      border-radius: 5px;
+      color: #eee;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    #clear, #language, #new, #newInsert, #quiz, #Insbtn, #Updbtn{
+      width: 150px;
+      height: 50px;
+      padding: 10px 0;
+      cursor: pointer;
+    }
+
+    #clear, #Insbtn {
+      flex: 70px;
+    }
+
+    #language, #newInsert {
+      background-color: #e23c00;
+    }
+    
+    #new {
+      font-size: 20px;
+      line-height: 20px;
+      font-weight: 500;
+      background-color: white;
+      color: #e23c00;
+      border: 2px solid orangered;
+    }
+
+    .Insbtn{
+      font-size: larger;
+      background-color: #fff;
+      border: 2px solid orangered;
+      color: orangered;
+    }
+
+    /* 버튼을 kor로 바꾸면 버튼색을 초록으로 */
+    .kor {
+      background-color: #005514;
+    }
+
+    #quiz {
+      background-color: #fff;
+      border: 2px solid orangered;
+      color: orangered;
+    }
+
+    
+    #pageLeft, #pageRight, #pageLeft50, #pageRight50,
+    #pageLeft1, #pageRight1, #pageLeft20, #pageRight20 {
+      margin-top: 10px;
+      width: 70px;
+      font-size: 20px;
+      line-height: 20px;
+      height: 40px;
+    }
+
+    #pageLeft, #pageRight, #pageLeft1, #pageRight1
+    {
+      background-color:  hsl(190, 30%, 30%);
+    }
+
+    #pageLeft50, #pageRight50, #pageLeft20, #pageRight20
+    {
+      width: 50px;
+      background-color:  hsl(190, 25%, 25%);
+    }
+
+    img {
+      width: 30px;
+      filter: invert(99%) sepia(0%) saturate(1%) hue-rotate(210deg) brightness(114%) contrast(87%);
+
+    }
+    /* #pageLeft50 img, #pageRight50 img { */
+    
+    .svgImg {
+      width: 20px;
+      font-size: 20px;
+    }
+
+    .insertWord {
+      display: none;
+    }
+
+    .serialNo {
+      margin: 0 0 5px 10px;
+      font-weight: bold;
+      font-size: 30px;
+      font-style: italic;
+      color: #777;
+    }
+
+    label {
+      display: inline-block;
+      width: 80px;
+      height: 25px;
+      margin-left: 10px;
+    }
+    input {
+      width: 350px;
+      height: 50px;
+      font-size: 15px;
+      margin-left: 10px;
+      padding-left: 10px;
+    }
+    
+    #engbox {
+      font-size: 20px;
+      color: #ff4500;
+    }
+    #wordForm {
+      width: 380px;
+      margin: 0 auto;
+    }
+
+    .buttonBox, .pageMove {
+      display: flex;
+      width: 280px;
+      margin: 0 auto;
+      
+    }
+
+
+    button {
+      flex: 1;
+      height: 30px;
+      margin: 0 2px;
+      color: rgb(227, 227, 227);
+      font-weight: 500;
+      background-color: rgb(40, 112, 128);
+      border: none;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+
+<body>
+  <!-- 단어공부창 -->
+  <div class="studyWord">
+    <div class="wordBox">
+      <ul class="wordList">
+        <!-- <li class="word serialMini">serial</li>
+        <li class="word kor">kor</li>
+        <li class="word eng">eng</li> 
+        <li class="word hint">h</li>
+        <li class="word all">all</li>  -->
+      </ul>
+    </div>
+    
+    <div class="buttonBox">
+      <button id="clear">CLEAR</button>
+      <button id="language">eng</button>
+      <button id="new">+</button>
+    </div>
+    <div class="pageMove">
+      <button id="pageLeft50"><img src="img/arrow-left-svgrepo-com.svg"></button>
+      <button id="pageLeft"><img src="img/arrow-small-left-svgrepo-com.svg"></button>
+      <button id="pageRight"><img src="img/arrow-small-right-svgrepo-com.svg"></button>
+      <button id="pageRight50"><img src="img/arrow-right-svgrepo-com.svg"></button>
+    </div>
+  </div>
+
+
+  <!-- 단어입력창 -->
+  <div class="insertWord">
+    <form id="wordForm">
+      <br><br>
+      <div class="serialNo">d</div>
+        <label>Word</label><input type="text" id="engbox" ><br><br>
+        <label>Meaning</label> <input type="text" id="meaningbox"><br><br>
+        <label>Sentence</label> <input type="text" id="sentencebox"><br><br>
+    
+      </form>
+      <div class="buttonBox">
+        <button id="Insbtn">INSERT</button>
+        <!-- <button id="Updbtn">UPDATE</button> -->
+        <button id="newInsert">New</button>
+        <button id="quiz">quiz</button>
+        <!-- <button id="Delbtn">DELETE</button>
+        <button id="Selbtn">NEXT</button> -->
+      </div>
+      <div class="pageMove">
+        <button id="pageLeft20"><img src="img/arrow-left-svgrepo-com.svg"></button>
+        <button id="pageLeft1"><img src="img/arrow-small-left-svgrepo-com.svg"></button>
+        <button id="pageRight1"><img src="img/arrow-small-right-svgrepo-com.svg"></button>
+        <button id="pageRight20"><img src="img/arrow-right-svgrepo-com.svg"></button>
+      </div>
+  </div>
+
+  <!-- IMPORTS + CONFIGURATION -->
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.7/firebase-app.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyCyvxJ4o69EA98FUQHjpoKlVoEuPakISvE",
+      authDomain: "english-study-337311.firebaseapp.com",
+      projectId: "english-study-337311",
+      storageBucket: "english-study-337311.appspot.com",
+      messagingSenderId: "776839753287",
+      appId: "1:776839753287:web:3f72d5e6dfe55ff28bcb62"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+
+    import { getDatabase, ref, get, set, child, update, remove } from "https://www.gstatic.com/firebasejs/9.6.7/firebase-database.js";
+
+      const db = getDatabase();
+
+// ----------- References ---------------------------------//
+    const serialNo = document.querySelector('.serialNo');
+    const insertWordBox = document.querySelector('.insertWord');
+    const studyWord = document.querySelector('.studyWord');
+    const wordList = document.querySelector('.wordList');
+    const clearBtn = document.querySelector('#clear');
+    const languageBtn = document.querySelector('#language');
+    const newBtn = document.querySelector('#new');
+    const newInsertBtn = document.querySelector('#newInsert');
+    const quizBtn = document.querySelector('#quiz');
+    const pageLeftBtn = document.querySelector('#pageLeft');
+    const pageRightBtn = document.querySelector('#pageRight');
+    const pageLeft50Btn = document.querySelector('#pageLeft50');
+    const pageRight50Btn = document.querySelector('#pageRight50');
+    const pageLeft1Btn = document.querySelector('#pageLeft1');
+    const pageRight1Btn = document.querySelector('#pageRight1');
+    const pageLeft20Btn = document.querySelector('#pageLeft20');
+    const pageRight20Btn = document.querySelector('#pageRight20');
+    let form = document.querySelector("#wordForm");
+    let engBox = document.querySelector("#engbox");
+    let meaningBox = document.getElementById("meaningbox");
+    let sentenceBox = document.getElementById("sentencebox");
+    let insBtn = document.getElementById("Insbtn");
+    let selBtn = document.getElementById("Selbtn");
+    let updBtn = document.getElementById("Updbtn");
+    let delBtn = document.getElementById("Delbtn");
+    let wordArrayLength;
+    let matchLang = 'eng';
+    let givenLang = 'kor';
+    let lastNo;
+    let NewSerial;
+    let serialNow; //현재 보여지고 있는 단어의 serial 번호
+    let startNo;
+    let wordArray = [];
+    let itemArray = [];
+
+class makeWord {
+  constructor(serial,word,meaning) {
+    this.serial = serial;
+    this.word = word;
+    this.meaning = meaning;
+  }
+}    
+
+main();
+
+async function main(){
+  await SelectData()
+
+  
+  // loadItems()
+  // .then(items => {
+  //   displayWords(givenLang,matchLang)
+  // })
+  // .catch(console.log);
+}
+
+function hideInsertWordBox(){
+  insertWordBox.style.display = 'none';
+}
+
+function displayWords(lang1,lang2){
+  wordList.textContent = '';
+  startNo = serialNow-5 > 0 ? serialNow-5 : 0;
+  // 시작번호는 serialNow에서 5를 뺀 값이지만, 그 값이 0보다 작으면 0을 시작번호로 한다.
+  // console.log(startNo, serialNow)
+  for(let i=startNo; i<serialNow; i++){
+      const li1 = document.createElement('li')
+      const li2 = document.createElement('li')
+      const li3 = document.createElement('li')
+      const li4 = document.createElement('li')
+      const li5 = document.createElement('li')
+
+    //serial
+      li1.textContent = wordArray[i].serial; //json data에 담겨있는 단어글자를 li에 표시
+      li1.classList.add('word');
+      li1.classList.add('serialMini');
+      wordList.append(li1)
+
+      // given (주어진 단어. 한국어 또는 영어)
+      li2.textContent = wordArray[i][lang1]; 
+      li2.classList.add('word');
+      li2.classList.add('given');
+      wordList.append(li2);
+
+      // match (맞춰야 할 단어)
+      li3.textContent = wordArray[i][lang2].substr(0,0); 
+      li3.classList.add('word');
+      li3.classList.add('match');
+      li3.dataset.substr = 0;
+      wordList.append(li3);
+      
+      // hintBtn
+      li4.textContent = '▶'; 
+      li4.classList.add('word');
+      li4.classList.add('hint');
+      li4.dataset.serial = i-startNo; //li 몇번째 줄에 표시되는지 표시
+      wordList.append(li4);
+      
+      // allBtn
+      li5.textContent = 'All'; 
+      li5.classList.add('word');
+      li5.classList.add('all');
+      li5.dataset.serial = i-startNo; //li 몇번째 줄에 표시되는지 표시
+      wordList.append(li5);
+    }
+}
+
+wordList.addEventListener('click',(e)=>{
+  // dataset.serial이 있는 hint버튼이나 all버튼이 아니면 멈추어라
+  if(!e.target.dataset.serial) {
+    return;
+  }
+  
+  let serial = e.target.dataset.serial;
+  let engElem = document.querySelectorAll('.match')[serial];
+  let clickedSerial = startNo+parseInt(serial)+1
+  if(e.target.classList.contains('hint')){
+    let subStr = parseInt(engElem.dataset.substr);
+    if(subStr == wordArray[clickedSerial-1][matchLang].length){
+      speech(engElem.textContent);
+      return;
+      //단어 낱자를 다 보여주고 나면 읽어주고 더 이상 진행하지 않기
+    }
+    subStr += 1 ;
+    //현재 보여지고있는 영단어 낱자에서 한글자 더 보여주기
+    engElem.textContent = wordArray[clickedSerial-1][matchLang].substr(0,subStr); 
+    //마지막까지 보여준 낱자의 순서를 +1한 subStr로 갱신하기
+    engElem.dataset.substr = subStr; 
+  }
+  
+  if(e.target.classList.contains('all')){
+    engElem.textContent = wordArray[clickedSerial-1][matchLang];
+    engElem.dataset.substr = wordArray[clickedSerial-1][matchLang].length;
+    speech(engElem.textContent);
+  }
+
+})
+
+
+// -----------buttons 이벤트 -----------------------------//
+// 현재 화면에 보여진 givenLanguage를 다시 안보이게
+clearBtn.addEventListener('click',()=>{
+  let engElem = document.querySelectorAll('.match');
+  for(let i=0; i<5; i++){
+    engElem[i].textContent = '';
+    engElem[i].dataset.substr = 0;
+  }
+})
+
+// 맞춰야 할 언어를 영어 또는 한국어로 바꿀 때
+languageBtn.addEventListener('click',(e)=>{
+  console.log(e.target.textContent);
+  //현재 E였으면 K로 바꾸면서 뜻 맞추기로
+  //현재 K였으면 E로 바꾸면서 영단어 맞추기로
+  matchLang = e.target.textContent == 'eng' ? 'kor': 'eng';
+  givenLang = matchLang == 'eng' ? 'kor' : 'eng';
+  languageBtn.textContent = matchLang;
+  languageBtn.style.backgroundColor = matchLang == 'kor' ? '#005514' : '#e23c00';
+  displayWords(givenLang,matchLang);
+})
+
+// 단어를 새로 추가하고자 할 때
+newBtn.addEventListener('click',(e)=>{
+  newBtnProcess();
+  studyWord.style.display = 'none';
+  insertWordBox.style.display = 'block';
+  console.log(serialNow,wordArrayLength);
+})
+
+newInsertBtn.addEventListener('click',(e)=>{
+  newBtnProcess();
+  insBtn.textContent = 'INSERT'
+  console.log(wordArrayLength);
+})
+
+function newBtnProcess(){
+  insBtn.classList.add('Insbtn');
+  engBox.value = '';
+  meaningBox.value = '';
+  sentenceBox.value = '';
+  serialNow = wordArrayLength;
+  serialNo.textContent = serialNow + 1;
+}
+
+// 단어맞추기로 돌아가고자 할 때
+quizBtn.addEventListener('click',(e)=>{
+  studyWord.style.display = 'block';
+  insertWordBox.style.display = 'none';
+  displayWords(givenLang,matchLang);
+  console.log(serialNow)
+})
+
+
+
+
+pageLeftBtn.addEventListener('click',()=>{
+  if(serialNow <= 5){
+    return;
+  }
+  serialNow = serialNow - 5;
+  displayWords(givenLang,matchLang);
+})
+
+pageRightBtn.addEventListener('click',()=>{
+  if(serialNow == wordArrayLength){
+    return;
+  }
+  serialNow = serialNow + 5;
+  displayWords(givenLang,matchLang);
+})
+
+pageLeft50Btn.addEventListener('click',()=>{
+  if(serialNow == 5){
+    return;
+  }
+  serialNow = serialNow <50 ? 5 : serialNow - 50;
+  displayWords(givenLang,matchLang);
+})
+
+pageRight50Btn.addEventListener('click',()=>{
+  if(serialNow == wordArrayLength){
+    return;
+  }
+  serialNow = serialNow >= wordArrayLength - 50 ? wordArrayLength : serialNow + 50;
+  displayWords(givenLang,matchLang);
+})
+
+
+
+//--------- insert New Word에 쓰이는 버튼들 -----------------------------------
+function displayEachWord(serial){
+  serialNo.textContent = serial + 1;
+  engBox.value = wordArray[serial].eng;
+  meaningBox.value = wordArray[serial].kor;
+  sentenceBox.value = wordArray[serial].sentence;
+}
+
+pageLeft1Btn.addEventListener('click',()=>{
+  if(serialNow == 0){
+    return;
+  }
+  insBtn.textContent = 'UPDATE';
+  insBtn.classList.remove('Insbtn');
+  serialNow = serialNow - 1;
+  // console.log(serialNow, wordArrayLength, wordArray[serialNow]);
+  displayEachWord(serialNow);
+})
+
+pageRight1Btn.addEventListener('click',()=>{
+  if(serialNow == wordArrayLength-1){
+    return;
+  }
+  serialNow = serialNow + 1;
+  // console.log(serialNow, wordArrayLength, wordArray[serialNow]);
+  displayEachWord(serialNow);
+})
+
+pageLeft20Btn.addEventListener('click',()=>{
+  if(serialNow == 0){
+    return;
+  }
+  insBtn.textContent = 'UPDATE';
+  insBtn.classList.remove('Insbtn');
+  serialNow = serialNow < 20 ? 0 : serialNow - 20;
+  displayEachWord(serialNow);
+})
+
+pageRight20Btn.addEventListener('click',()=>{
+  if(serialNow == wordArrayLength-1){
+    return;
+  }
+  serialNow = serialNow >= wordArrayLength - 20 ? wordArrayLength-1 : serialNow + 20;
+  displayEachWord(serialNow);
+})
+
+
+function makeWordClass(items){
+  console.log(items.length)
+  items.forEach(item=>{
+    console.log(item)
+  })
+  wordArray.push({serial:i+1, word:'', meaning:''});
+}
+
+async function loadItems(){
+  const response = await fetch(`data/준쌤.json`);
+  const json = await response.json();
+  wordArray = json.items
+  // const response = await SelectData();
+    // .filter(item => (item.serial > 0 && item.serial <= 13));
+  wordArrayLength = wordArray.length;
+  serialNow = wordArrayLength;
+  console.log(serialNow);
+  return wordArray;
+}
+
+function makeWordArray(){
+  for (let i=0; i<5; i++){
+    // wordArray.push(new makeWord(i+1,'',''));
+    // ---- class 생성자 makeWord를 안쓰고 바로 클래스를 배열에 넣도록 작성했음.
+    wordArray.push({serial:i+1, word:'', meaning:''});
+  }
+}
+
+// ----------- INSERT DATA FUNTION ---------------------------------//    
+function InsertData(){
+  serialNow = serialNow +1;
+  wordArrayLength = serialNow;
+  wordArray.push({serial:serialNow, kor:engBox.value, eng:meaningBox.value, sentence:sentenceBox.value});
+  console.log(wordArrayLength, wordArray[serialNow-1], serialNow);
+
+
+  
+  // json파일 넣을 때만 사용--------------------------------------------
+  // set(ref(db, 'Words/'), {
+  //   wordArray
+  // }
+
+
+  //실제 폰에서 사용할 때 사용-------------------------------------------------
+  set(ref(db, 'Words/wordArray/'+ (serialNow-1)), {
+    serial:serialNow, 
+    eng:engBox.value, 
+    kor:meaningBox.value, 
+    sentence:sentenceBox.value
+  }
+      )
+      .then(() => {
+        alert("data stored successfully");
+      })
+      .catch((error)=>{
+        alert("unsuccessful, error" + error);
+      });
+    }
+    
+  
+    // ----------- SELECT DATA FUNCTION ---------------------------------//    
+    function SelectData(){
+      const dbref = ref(db);
+      // get(child(dbref, "Progress/"+ user)).then((snapshot)=>{
+        get(child(dbref, "Words/wordArray/")).then((snapshot)=>{
+          if(snapshot.exists()){
+            // rollbox.value = snapshot.val().Score;
+            wordArray = snapshot.val(); //해당 유닛에 있는 단어들 wordArray에 담기
+            // console.log(wordArray);
+            // for(let [key,value] of Object.entries(wordObj)){
+
+            // }
+            serialNow = Object.keys(wordArray).length;
+            wordArrayLength = serialNow;
+            // console.log(serialNow, typeof(wordArray));
+            displayWords(givenLang,matchLang)
+        }
+        else {
+          alert("No data found") ;
+        }
+      })
+      .catch((error)=>{
+        alert("unsuccessful, error" + error);
+      });
+    }
+    
+    // ----------- UPDATE DATA FUNCTION ---------------------------------//    
+    function UpdateData(){
+      update(ref(db, "Words/wordArray/"+serialNow), {
+        serial:serialNow, 
+        eng:engBox.value, 
+        kor:meaningBox.value, 
+        sentence:sentenceBox.value
+      })
+      .then(() => {
+        alert("data updated successfully");
+      wordArray[serialNow].eng = engBox.value;
+      wordArray[serialNow].kor = meaningBox.value;
+      wordArray[serialNow].sentence = sentenceBox.value;
+      console.log(wordArrayLength, wordArray[serialNow]);
+      })
+      .catch((error)=>{
+        alert("unsuccessful, error" + error);
+      });
+    }
+
+    // ----------- DELETE DATA FUNCTION ---------------------------------//    
+    function DeleteData(){
+      remove(ref(db, "TheStudents/"+ rollbox.value))
+      .then(() => {
+        alert("data removed successfully");
+      })
+      .catch((error)=>{
+        alert("unsuccessful, error" + error);
+      });
+    }
+
+    // ----------- Assign Events to Btns ---------------------------------//    
+    //단어추가 페이지에서 INSERT버튼을 누르면
+    insBtn.addEventListener('click', (e)=>{
+      if (engbox.value == '' || meaningBox.value == ''){
+        alert('단어와 뜻을 입력하세요.');
+        return;
+      }
+      // 버튼에 INSERT가 찍혀있으면 insertData를 진행하고, Update가 찍혀있으면 UpdateData를 실행
+      e.target.textContent == 'INSERT' ? InsertData() : UpdateData();
+      console.log(e.target.textContent);
+    });
+    // updBtn.addEventListener('click', UpdateData);
+    // selBtn.addEventListener('click', SelectData);
+    // delBtn.addEventListener('click', DeleteData);
+
+
+
+
+    // ------------------------- 음성합성 --------------------------------------//
+  function setVoiceList() {
+  voices = window.speechSynthesis.getVoices();
+  }
+  function speech(txt) {
+  if(!window.speechSynthesis) {
+  alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");
+  return;
+  }
+  
+  // 한국사 풀 때는 한국말로, 단어공부할 때는 영어로
+  var lang = 'en-US';
+  var utterThis = new SpeechSynthesisUtterance(txt);
+  //음성합성이 끝나면 onend
+  utterThis.onend = function (event) {
+    //문장을 읽고 나면 
+
+  };
+  utterThis.onerror = function(event) {
+  console.log('error', event);
+  };
+
+  utterThis.lang = lang;
+  utterThis.pitch = 1;
+  utterThis.rate = 1; //속도
+  window.speechSynthesis.speak(utterThis);
+};
+
+  </script>
+</body>
+</html>
