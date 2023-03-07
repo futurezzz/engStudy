@@ -101,7 +101,8 @@ grammerChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
   unitLength =  parseInt(e.target.dataset.unitNo);
   calendar.style.visibility = 'hidden';
-  if ( chapter ) {
+  if ( chapter == 'GRUI' ) {
+    // chapter == 'WORD' ? wordPage() : init();
     init();
     // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
   }

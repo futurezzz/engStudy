@@ -38,9 +38,20 @@ mainChapter.addEventListener('click',(e)=>{
 
 grammerChapter.addEventListener('click',(e)=>{
   if(user && chapter){
-    SelectData();
+    chapter == 'WORD' ? wordPage() : SelectData();
   }
 })
+
+
+function wordPage(){
+  subUnitList.innerHTML = ''; //unit메뉴들을 초기화
+  grammerSubUnitList.innerHTML = ''; //unit메뉴들을 초기화
+  let url = "makeWords.html";
+  if (typeof (window.open) == "function")
+  { window.open(url); 
+  } else { window.location.href = url;
+  }
+}
 
 // historyChapter.addEventListener('click',(e)=>{
 //   if(user && chapter){
