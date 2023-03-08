@@ -101,9 +101,9 @@ grammerChapter.addEventListener('click', (e)=> {
   chapter = e.target.dataset.chapter;
   unitLength =  parseInt(e.target.dataset.unitNo);
   calendar.style.visibility = 'hidden';
-  if ( chapter == 'GRUI' ) {
-    // chapter == 'WORD' ? wordPage() : init();
+  if ( chapter !== 'WORD' ) {
     init();
+    // chapter == 'WORD' ? wordPage() : init();
     // firebase.js 에서 SelectData()를 실행하고, 그 안에서 displayUnits()가 마지막에 실행됨
   }
 })
@@ -125,6 +125,7 @@ function init(){
   loadItems()
   .then(items => {
     displayItems(items);
+    console.log('first')
   })
   .catch(console.log);
 }

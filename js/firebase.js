@@ -62,7 +62,6 @@ function wordPage(){
 grammerSubUnitList.addEventListener('click',(e)=>{
   elem = e.target;
   chapterTitle = collectionArray[elem.dataset.unit-1];
-  console.log(chapterTitle);
   quizType = 'grammer';
   SelectScore(parseInt(elem.dataset.unit)-1); //scoreValue를 업데이트 해서 다시 불러오기 위함
   setTimeout(() => {
