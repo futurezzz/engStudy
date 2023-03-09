@@ -275,4 +275,151 @@ dictionary.addEventListener('click',()=>{
 
 
 
+checkGrammer.addEventListener('click',(e)=>{
+  let checked = document.querySelectorAll('.answer-click');
+  let checkedAnswer = '';
+  let answer = itemArray[randomNum[matchedNo]]['ANSWER'];
+    
+    //보기를 하나도 선택하지 않았거나 정답수 만큼 선택하지 않으면 중지하라
+  if (checked.length !== answer.length){
+    alert(`보기를 ${answer.length}개 선택하세요`);
+    return;
+  }
+  
+  // console.log(answer, checked.length, checked.item(0).classList.item(0));
+  for (let i=0; i<checked.length; i++){
+    // checkedArray.push(checked.item(i).classList.item(0));
+    checkedAnswer += checked.item(i).classList.item(0);
+  }
+  checkedAnswer = checkedAnswer.split('').sort().join('') //문자열 오름차순 정렬
+  if( checkedAnswer === answer){
+    let speakAnswer = answer.length === 1 ? answer : checked.item(0).classList.item(0);
+    console.log(itemArray[randomNum[matchedNo]][speakAnswer])
+    checkGrammerYes(speakAnswer);
+  } else {
+    // grammer 퀴즈에서 틀렸을 때
+    checked.forEach(elem => elem.classList.remove('answer-click'));
+    scoreSubtract();
+  };
+});
+
+
+
+//grammer퀴즈에서 정답을 맞혔을 때 사용
+function checkGrammerYes(answer){
+  let speakingText = quiz.textContent.replace('___',itemArray[randomNum[matchedNo]][answer])
+  // 문제에 있는 ___ 빈칸을 처음 선택한 정답으로 교체한 후 읽어주기
+  speech(speakingText);
+  // 기존에는 speech가 끝나면 다음 문제를 출제하도록 했었음. onend. 
+  // 다음 퀴즈 기다리기가 지루해서 지금과 같이 바꿈
+  
+  //정답이면 100점씩 증가.
+  scoreAdd(150); 
+  nextQuiz();
+
+  setTimeout(()=>{
+    comboBox.classList.remove('combo-boxOn');
+  },1000)
+}
+
+
+//퀴즈에서 맞히면 점수 증가
+function scoreAdd(add){
+  audioYes.play();
+  scoreValue += add + combo*10;
+  
+  scoreTodayVariation = scoreTodayVariation + add + combo*10;
+  score.textContent = scoreValue;
+  scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+  
+  // 연속 정답수(combo)가 0보다 크면 화면에 combo표시
+  if(combo>0){
+    comboBox.innerHTML = `${combo} combo!`;
+    comboBox.classList.add('combo-boxOn');
+} 
+combo++;
+matchedNo++;
+// console.log(numOfQuiz, matchedNo, scoreValue)
+quizLeft.textContent = numOfQuiz - matchedNo;
+}
+
+
+
+//퀴즈에서 틀리면 점수 감소
+function scoreSubtract(){
+  audioNo.play();
+  scoreValue -= 50;
+  scoreTodayVariation -= 50;
+  combo = 0;
+  score.textContent = scoreValue;
+  scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+}
+
+
+function speech(txt) {
+  if(!window.speechSynthesis) {
+  alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");
+  return;
+  }
+  
+  // 한국사 풀 때는 한국말로, 단어공부할 때는 영어로
+  var lang = chapter !== '한국사' ? 'en-US': 'ko-KR' ;
+  // var lang = 'en-US';//ko-KR
+  var utterThis = new SpeechSynthesisUtterance(txt);
+  //음성합성이 끝나면 onend
+  utterThis.onend = function (event) {
+    //문장을 읽고 나면 
+
+  };
+  utterThis.onerror = function(event) {
+  console.log('error', event);
+  };
+
+  utterThis.lang = lang;
+  utterThis.pitch = 1;
+  utterThis.rate = 1; //속도
+  window.speechSynthesis.speak(utterThis);
+};
+
+
+
+
+
+function nextQuiz(){
+  
+  // 10문제 다 맞히면 클리어. platBtn 활성화
+  // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
+  // if(matchedNo === 2 ){
+  if(matchedNo === numOfQuiz ){
+    grammerWords.style.display = 'none'; 
+    checkGrammer.style.display = 'none';
+    afterClearQuiz();
+    }
+    //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
+    else {
+    displayQuiz();
+    }
+  
+}
+
+
+//주어진 문제 맞춘 후 캐릭터 나오면서 큰 버튼 나오기
+function afterClearQuiz(){
+  character.classList.remove(`charater0${m}`);
+  setTimeout(()=>{
+    audioClear.play();
+    
+    m = Math.floor(Math.random()*10);
+    // console.log(m);
+    character.classList.add(`charater0${m}`);
+    clearBox.style.display = 'block'; //버튼 보이기
+    scoreProgressDisplay();
+    if (scoreValue > 100){
+      playBtn.classList.add('playBtnClear'); //버튼 색깔 바뀌는 css추가
+      playBtn.innerText = 'YOU DID IT!';
+    }
+    words.style.opacity = '0';
+    InsertData();
+  },300)
+}
 

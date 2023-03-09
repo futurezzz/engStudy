@@ -220,7 +220,7 @@ checkGrammer.addEventListener('click',(e)=>{
     // checkedArray.push(checked.item(i).classList.item(0));
     checkedAnswer += checked.item(i).classList.item(0);
   }
-  
+  console.log('eeee')
   checkedAnswer = checkedAnswer.split('').sort().join('') //문자열 오름차순 정렬
   if( checkedAnswer === answer){
     let speakAnswer = answer.length === 1 ? answer : checked.item(0).classList.item(0);
