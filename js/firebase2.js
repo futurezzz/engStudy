@@ -182,7 +182,7 @@ speakList.addEventListener('click',(e)=>{
   if(elem.classList.contains("onList")) {
     let text = elem.textContent;
 
-    speech(elem.textContent);
+    speech(elem.textContent); //읽어주기
     answer.textContent = answer.textContent ? `${answer.textContent} ${text}` : `${text}`;
     elem.style.opacity = "0";
     elem.classList.remove("onList");
@@ -198,7 +198,17 @@ speakList.addEventListener('click',(e)=>{
     //나열된 영어 단어를 문장으로 다 만들면 맞았나 틀렸나 확인
     if (arrayLengthLeft === 0){ 
        //정답이면
+       // 난이도를 높여보자
+      // if (answer.textContent.replace(/(\s*)/g, "").toLowerCase() === answerCheck.toLowerCase()) {
+
+      //원래 쓰던 문장
       if (answer.textContent.toLowerCase() === (word[matchedNo].sentence ? word[matchedNo].sentence.toLowerCase() : word[matchedNo].text.toLowerCase())){
+
+        //아래 3문장은 완성된 문장을 한 번 쭉 읽어주기
+        // let speakAnswer = (word[matchedNo].sentence ? word[matchedNo].sentence.toLowerCase() : word[matchedNo].text.toLowerCase());
+        // console.log(speakAnswer);
+        // speech(speakAnswer);
+        
         checkAnswerYes();
     }
 
@@ -278,8 +288,12 @@ check.addEventListener('click',()=>{
 })
 
 function checkSpeakAnswer(){
+  if(answer.textContent == ''){
+    return;
+  }
   // let answerTrans = word[randomNum[matchedNo]].sentence? word[randomNum[matchedNo]].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
   let answerTrans = word[matchedNo].sentence? word[matchedNo].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[matchedNo].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
+  // console.log(answerTrans,'/',answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,""));
   //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
   if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
     checkAnswerYes();
@@ -366,7 +380,6 @@ function checkAnswerYes(){
       }
     }
 
-
 function checkAnswerNo(){
   scoreSubtract()
   // answer.style.color = '#98d0d0';
@@ -376,6 +389,47 @@ function checkAnswerNo(){
   },1000)
   displaySpeakWords();
 }
+
+
+//----------------------- QUIZ.js에 있는 skipBtn 눌렀을 때 ----------------------//
+//-----------------------SKIP BUTTON (다음문제로)------------------------------//
+skpiBtn.addEventListener('click',()=>{
+
+  // scoreSubtract()의 변형버전--- 오디오를 바꾸고 1.7초 후에 재생. 차감점수도 기존 50점에서 100점 깍임
+  scoreValue -= 50;
+  scoreTodayVariation -= 50;
+  combo = 0;
+  score.textContent = scoreValue;
+  scoreToday.textContent = scoreTodayValue + scoreTodayVariation;
+  ////////////////////////////////////////////////////////////////////////
+
+
+
+  answer.textContent = speakList.textContent;
+  speech(speakList.textContent);
+  // answer.style.color = '#98d0d0';
+  setTimeout(()=>{
+    comboBox.classList.remove('combo-boxOn');
+    resetSpeech();
+    // 10문제 다 맞히면 클리어. platBtn 활성화
+    // speak페이지에선 unit개수를 다 맞춰야 함. 보통 20~25개
+    matchedNo += 1;
+    if(matchedNo === numOfQuiz ){
+      afterClearQuiz();
+    }
+    //아직 주어진 문제들을 다 맞히지 못했다면 또 다른 문제 출제
+  else {
+    console.log(matchedNo, numOfQuiz);
+    quizLeft.textContent = numOfQuiz - matchedNo;
+    displaySpeakWords();
+  }
+  audioSkip.play();
+},1700)
+})
+
+
+
+
 
 
 // quiz.js 에서 가져옴--짝맞추기에 쓰이는 코딩------------------------------------------------------
@@ -503,6 +557,8 @@ wordsList.addEventListener('click',(e)=>{
   function setVoiceList() {
   voices = window.speechSynthesis.getVoices();
   }
+
+  
   function speech(txt) {
   if(!window.speechSynthesis) {
   alert("음성 재생을 지원하지 않는 브라우저입니다. 크롬, 파이어폭스 등의 최신 브라우저를 이용하세요");

@@ -7,9 +7,12 @@ const speakList = document.querySelector('.speak-list');
 const words = document.querySelector('.words');
 const kor = document.querySelector('.kor');
 const answer = document.querySelector('.answer');
+const hint = document.querySelector('.hint');
 const bottom = document.querySelector('.bottom');
 const back = document.querySelector('.back');
 const check = document.querySelector('.check');
+const speakBtn = document.querySelector('.speakBtn');
+const skpiBtn = document.querySelector('.skipBtn');
 const checkGrammer = document.querySelector('.check-grammer');
 let quizLeft = document.querySelector('.quiz-left'); 
 let wordLeft = document.querySelector('.word-left'); 
@@ -28,6 +31,7 @@ const playBtn = document.querySelector('.playBtn');
 const character = document.querySelector('#character');
 const audioYes = new Audio('audio/yes.mp3');
 const audioNo = new Audio('audio/no.mp3');
+const audioSkip = new Audio('audio/skip.wav');
 const audioClear = new Audio('audio/clear.mp3');
 let removeSpecialCha = /[\{\}\[\]\/?.,;:|\)*~`!^\-_+<>@\#$%&\\\=\’\'\(\"]/gi  //특수문자 제거 정규표현식
 let today = new Date();
@@ -45,6 +49,7 @@ let engArray2 = []; //speak퀴즈 낼 때, 다음 문장까지 단어를 섞어 
 let engArray3 = []; //speak퀴즈 낼 때, 다다음 문장까지 단어를 섞어 낼 때 사용
 let engArrayAll = []; //speak퀴즈 낼 때, 섞을 모든 문장의 단어 합칠 때 사용
 let engRandomArray = []; //해당 unit에 속하는 모든 문제들 담기
+let answerCheck;
 const randomNum = []; //문제 10개 랜덤추출
 const randomDisplay = [];  // 추출한 문제와 뜻 총 20개 객체를 랜덤으로 화면에 표시
 let displayText = [];
@@ -171,6 +176,7 @@ function showMatchHideSpeaks(){
   speakList.style.display = 'none';
   bottom.style.display = 'none';
   kor.style.display = 'none';
+  hint.style.display = 'none';
   answer.style.display = 'none';
   quizLeft.style.display = 'none';
   wordLeft.style.display = 'none';
@@ -261,6 +267,7 @@ function displaySpeakWords(){
   wordsList.style.display = 'none';
   score.textContent = scoreValue;
   kor.textContent = '';
+  hint.textContent = '';
   answer.textContent = '';
   speakList.textContent = '';
   words.style.opacity = '1';
@@ -269,6 +276,7 @@ function displaySpeakWords(){
   speakList.style.display = 'flex';
   bottom.style.display = 'flex';
   kor.style.display = 'block';
+  hint.style.display = 'block';
   answer.style.display = 'block';
   quizLeft.style.display = 'block';
   wordLeft.style.display = 'block';
@@ -280,6 +288,20 @@ function displaySpeakWords(){
   //json data에 담겨있는 단어의미(또는 문장의미)를 li에 표시 (sentenceMeaning이 있으면 그걸 우선 쓰라)
   li1.classList.add('kor');
   kor.append(li1);
+
+  const li3 = document.createElement('li')
+  li3.textContent = word[matchedNo].hint ? word[matchedNo].hint : '';
+  hint.append(li3);
+
+
+//------------초반 3만점까지는 문장을 다 보여주고 speaking을 통해서 맞추게 함-------------------//
+//------------------------------------------------------------------------------------------//
+  if(scoreValue <= 30000){
+  //답안 작성용 단어들을 보여주기만 하고, 선택은 못하게 함 (pointerEvents = none)
+  // speakList.style.userSelect = "none"; 
+  speakList.textContent = word[matchedNo].sentence ? word[matchedNo].sentence : word[matchedNo].text;
+  return;
+}
 
   // engArray = word[randomNum[matchedNo]].sentence ? word[randomNum[matchedNo]].sentence.split(' ') : word[randomNum[matchedNo]].text.split(' ');
   engArray = word[matchedNo].sentence ? word[matchedNo].sentence.split(' ') : word[matchedNo].text.split(' ');
@@ -299,18 +321,35 @@ function displaySpeakWords(){
   // 점수가 7만점보다 작으면 한문장에서만 단어들 섞기
   engArrayAll = [...engArray]
 }
-
   noOfRepeat = engArrayAll.length; // randomSpeakArray 에서 섞을 단어의 개수.
   
   randomSpeakArray();
+  answerCheck = '';
+
+
+
+  //---------- 난이도 상승 전 ----------------------------------
+  // 원래 답안 문장의 단어들을 분리해서 섞어서 나열함--------------------
   for ( let i=0; i<noOfRepeat; i++){
     const li2 = document.createElement('li')
     // engRandomArray는 단어를 섞은 배열
+    //나열된 단어들은 첫글자만 보여줄 때
+    // li2.textContent = engRandomArray[i][0];
+
+    //나열된 단어들
     li2.textContent = engRandomArray[i];
     li2.classList.add('eng')
     li2.classList.add('onList')
+    // li2.style.pointerEvents = "none"
     speakList.append(li2);
+
+    //answerCheck: 나중에 단어들의 초성만 따서 답안 맞추기 할 때 사용하려고 만들어 본 것임
+    // answerCheck += engArray[i][0]; 
+
   }
+  //-----------------------------------------------------------------------------------
+
+  // console.log(answerCheck);
   console.log(arrayLengthLeft);
   wordLeft.innerHTML = `${arrayLengthLeft}`;
 }
@@ -350,6 +389,22 @@ reset.addEventListener('click',()=>{
   wordLeft.textContent = arrayLengthLeft;
 })
 
+
+//--------------------SPEAK SENTENCE-----------------------------//
+speakBtn.addEventListener('click',()=>{
+  speech(speakList.textContent);
+})
+
+
+//--------------------SKIP TO NEXT QUIZ ------------skipBtn 눌렀을 때 ----------------//
+//  firebase2에 있음------------------------------------------------------------------//
+
+
+
+
+//------------------------FUNCTIONS---------------------------------//
+//------------------------FUNCTIONS---------------------------------//
+//------------------------FUNCTIONS---------------------------------//
 function resetSpeech(){
   answer.textContent = '';
   speechToText = '';
