@@ -66,14 +66,14 @@
     },
     {
       "serial": 10,
-      "text": "It rained/was raining too much to go fishing",
+      "text": "It rained too much to go fishing",
       "meaning": "비가 너무 많이 와서 낚시하러 가지 못했다",
       "hint": "* 낚시하러 가다 : go fishing",
       "unit": 1
     },
     {
       "serial": 11,
-      "text": "am pleased to meet you",
+      "text": "I am pleased to meet you",
       "meaning": "너를 만나서 기쁘다",
       "hint": "",
       "unit": 1
