@@ -136,14 +136,14 @@
     },
     {
       "serial": 20,
-      "text": "Most people prefer working/to work during the day, but I get my best work done at night",
+      "text": "Most people prefer working during the day, but I get my best work done at night",
       "meaning": "대부분의 사람들은 낮에 일하는 것을 선호하지만, 나는 밤에 가장 좋은 성과를 낸다",
       "hint": "* 가장 좋은 성과를 내다 : get one's best work done",
       "unit": 2
     },
     {
       "serial": 21,
-      "text": "The best part of having free time is being able to relax/rest",
+      "text": "The best part of having free time is being able to relax",
       "meaning": "자유 시간을 갖는 것의 최고의 부분은 쉴 수 있다는 것이다",
       "hint": "* ~할 수 있다 : be able to 부정사",
       "unit": 2
@@ -185,7 +185,7 @@
     },
     {
       "serial": 27,
-      "text": "To be truly successful in life, one needs to have common ·sense",
+      "text": "To be truly successful in life, one needs to have common sense",
       "meaning": "인생에서 진정으로(truly) 성공적이기 위해서는, 상식(common sense)을 가질 필요가 있다",
       "hint": "* ~할 필요가 있다 : need to 부정사",
       "unit": 2
@@ -304,14 +304,14 @@
     },
     {
       "serial": 44,
-      "text": "Comered by his parents, the boy finally told the truth",
+      "text": "Cornered by his parents, the boy finally told the truth",
       "meaning": "부모님들에 의해 궁지에 몰려, 그 소년은 마침내 진실을 말했다",
       "hint": "* 궁지에 몰다 : corner",
       "unit": 3
     },
     {
       "serial": 45,
-      "text": "The pioneers moved West, leaving behind their old lives. (= Leaving behind their old lives, the pioneers moved West.)",
+      "text": "The pioneers moved West, leaving behind their old lives",
       "meaning": "개척자들(pioneers)은 자신들의 옛 삶들을 뒤에 남겨둔 채, 서쪽으로 이동했다",
       "hint": "* ~를 뒤에 남겨 두다 : leave behind ~",
       "unit": 3
@@ -374,7 +374,7 @@
     },
     {
       "serial": 54,
-      "text": "Asked to send one thing representing my country, I would choose a semiconductor. chip",
+      "text": "Asked to send one thing representing my country, I would choose a semiconductor chip",
       "meaning": "우리 나라를 대표하는 어떤 것 하나(one thing)를 보내라고 요구 받는다면, 나는 반도체 칩을 선택하겠다",
       "hint": "* ~할 것을 요구받다 : be asked to부정사 *대표하다: ropresent * 반도체 칩 a semicanductor chip ",
       "unit": 4
@@ -388,7 +388,7 @@
     },
     {
       "serial": 56,
-      "text": "Lessons learned through personal experience stay with you; advice does not",
+      "text": "Lessons learned through personal experience stay with you but advice does not",
       "meaning": "개인적인 경험을 통해(through) 배운 교훈(lessons)은 너와 함께 머무른다. 그러나 충고는 그렇지 않다",
       "hint": "",
       "unit": 4
@@ -437,7 +437,7 @@
     },
     {
       "serial": 63,
-      "text": "He did not know if/whether there was a post office nearby",
+      "text": "He did not know if there was a post office nearby",
       "meaning": "그는 이 근처에(nearby) 우체국이 있는지 없는지 몰랐다",
       "hint": "",
       "unit": 5
@@ -458,7 +458,7 @@
     },
     {
       "serial": 66,
-      "text": "When I hear your volce, my heart starts to pound",
+      "text": "When I hear your voice, my heart starts to pound",
       "meaning": "내가 당신의 목소리를 들을 때, 나의 가슴은 뛰기 시작한다",
       "hint": "* (심장이) 두근거리다. 세게 치다 : pound",
       "unit": 5
@@ -493,21 +493,21 @@
     },
     {
       "serial": 71,
-      "text": "If you marry Chris, you will be unhappy",
-      "meaning": "만일 당신이 Chris와 결혼한다면, 당신은 불행할 것이다",
+      "text": "If you marry John, you will be unhappy",
+      "meaning": "만일 당신이 John과 결혼한다면, 당신은 불행할 것이다",
       "hint": "* ~와 결혼하다 : marry ~",
       "unit": 5
     },
     {
       "serial": 72,
-      "text": "Since we are putting on weight, we should eat less, are still being used",
+      "text": "Since we are putting on weight, we should eat less",
       "meaning": "우리는 살이 찌고 있으므로, 더 적게 먹어야 한다",
       "hint": "* 살찌다 : put on weight * 더 적게 먹다 : eat less",
       "unit": 5
     },
     {
       "serial": 73,
-      "text": "Although the company went out of business, its products",
+      "text": "Although the company went out of business, its products are still being used",
       "meaning": "비록 그 회사는 도산했지만, 그 회사의 제품(products)은 여전히 사용되고 있다",
       "hint": "* 도산하다, 폐업하다 : go out of business",
       "unit": 5
@@ -696,14 +696,14 @@
     },
     {
       "serial": 100,
-      "text": "My favorite childhood memories are the times when played baseball with my father",
+      "text": "My favorite childhood memories are the times when I played baseball with my father",
       "meaning": "내가 좋아하는 어린 시절의 기억은 내가 아버지와 함께 야구를 했던 시간들이다",
       "hint": "* 내가 좋아하는 어린 시절의 기억 : my favorite childhood memories",
       "unit": 7
     },
     {
       "serial": 101,
-      "text": "know a girl whose father is a professor at this university",
+      "text": "I know a girl whose father is a professor at this university",
       "meaning": "나는 아버지가 이 대학의 교수인 소녀를 알고 있다",
       "hint": "",
       "unit": 7
@@ -808,7 +808,7 @@
     },
     {
       "serial": 116,
-      "text": "Parents that push their children too hard may cause th?m to rebel",
+      "text": "Parents that push their children too hard may cause them to rebel",
       "meaning": "아이들을 심하게 들볶는 부모들은 아이들이 반항하게 만들지도 모른다",
       "hint": "* 들볶다 : push *A가 ~하게 만들다, 초래하다 : cause A to 부정사 * 반항하다 : rebel",
       "unit": 8
@@ -850,7 +850,7 @@
     },
     {
       "serial": 122,
-      "text": "It's hard for me to say good bye",
+      "text": "It's hard for me to say goodbye",
       "meaning": "내가 안녕이라고 말하기가 힘들다",
       "hint": "",
       "unit": 9

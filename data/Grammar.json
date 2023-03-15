@@ -1227,7 +1227,7 @@
     },
     {
       "serial": 205,
-      "text": "Do you hear a baby cry every night",
+      "text": "Do you hear a baby crying every night",
       "meaning": "당신은 매일 밤 아기 울음소리를 듣습니까?",
       "unit": 9
     },
@@ -1293,8 +1293,8 @@
     },
     {
       "serial": 216,
-      "text": "Were there any cups on the table",
-      "meaning": "테이블 위에 컵이 있었나요?",
+      "text": "Were there any books on the table",
+      "meaning": "테이블 위에 책이 있었나요?",
       "unit": 9
     },
     {
@@ -1317,8 +1317,8 @@
     },
     {
       "serial": 220,
-      "text": "He doesn't live in Seoul",
-      "meaning": "그는 서울에 살지 않는다",
+      "text": "He doesn't live in Busan",
+      "meaning": "그는 부산에 살지 않는다",
       "unit": 9
     },
     {
