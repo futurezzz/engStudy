@@ -292,10 +292,11 @@ function checkSpeakAnswer(){
     return;
   }
   // let answerTrans = word[randomNum[matchedNo]].sentence? word[randomNum[matchedNo]].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[randomNum[matchedNo]].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
-  let answerTrans = word[matchedNo].sentence? word[matchedNo].sentence.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[matchedNo].text.toLowerCase().replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
-  // console.log(answerTrans,'/',answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,""));
+  let answerTrans = word[matchedNo].sentence? word[matchedNo].sentence.toLowerCase().replace(/\-/,' ').replace("he's",'he is').replace("it's",'it is').replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"") : word[matchedNo].text.toLowerCase().replace(/\-/,' ').replace('gotta','got to').replace('gonna','going to').replace('wanna','want to').replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"");
+  let checkAnswer  = answer.textContent.toLocaleLowerCase().replace(/\-/,' ').replace(/^\s*/, "").replace("he's",'he is').replace("it's",'it is').replace("'ll"," will").replace("'m"," am").replace("'re"," are").replace(removeSpecialCha,"");
+  console.log(answerTrans,'/',checkAnswer);
   //말한 답을 모두 소문자로 바꾸고 앞의 공백을 지우라.replace(/^\s*/, "")
-  if (answerTrans === answer.textContent.toLocaleLowerCase().replace(/^\s*/, "").replace("'ll"," will").replace("'re"," are").replace(removeSpecialCha,"")){
+  if (answerTrans === checkAnswer){
     checkAnswerYes();
   }
   else{
@@ -424,7 +425,7 @@ skpiBtn.addEventListener('click',()=>{
     displaySpeakWords();
   }
   audioSkip.play();
-},1700)
+},2500)
 })
 
 

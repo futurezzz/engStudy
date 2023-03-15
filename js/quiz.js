@@ -178,6 +178,7 @@ function showMatchHideSpeaks(){
   kor.style.display = 'none';
   hint.style.display = 'none';
   answer.style.display = 'none';
+  // answerBox.style.display = 'none';
   quizLeft.style.display = 'none';
   wordLeft.style.display = 'none';
   numOfQuiz = word.length;
@@ -277,7 +278,7 @@ function displaySpeakWords(){
   bottom.style.display = 'flex';
   kor.style.display = 'block';
   hint.style.display = 'block';
-  answer.style.display = 'block';
+  answer.style.display = 'flex';
   quizLeft.style.display = 'block';
   wordLeft.style.display = 'block';
   numOfQuiz = word.length;
@@ -286,7 +287,7 @@ function displaySpeakWords(){
   // li1.textContent = word[randomNum[matchedNo]].sentenceMeaning ? word[randomNum[matchedNo]].sentenceMeaning : word[randomNum[matchedNo]].meaning; 
   li1.textContent = word[matchedNo].sentenceMeaning ? word[matchedNo].sentenceMeaning : word[matchedNo].meaning; 
   //json data에 담겨있는 단어의미(또는 문장의미)를 li에 표시 (sentenceMeaning이 있으면 그걸 우선 쓰라)
-  li1.classList.add('kor');
+  li1.classList.add('lineCenter');
   kor.append(li1);
 
   const li3 = document.createElement('li')
@@ -298,7 +299,6 @@ function displaySpeakWords(){
 //------------------------------------------------------------------------------------------//
   if(scoreValue <= 30000){
   //답안 작성용 단어들을 보여주기만 하고, 선택은 못하게 함 (pointerEvents = none)
-  // speakList.style.userSelect = "none"; 
   speakList.textContent = word[matchedNo].sentence ? word[matchedNo].sentence : word[matchedNo].text;
   return;
 }
@@ -555,7 +555,6 @@ recognition.continuous = true;
 // 숫자가 작을수록 발음대로 적고, 크면 문장의 적합도에 따라 알맞은 단어로 대체합니다.
 // maxAlternatives가 크면 이상한 단어도 문장에 적합하게 알아서 수정합니다.
 recognition.maxAlternatives = 100;
-
 let mic = document.querySelector(".mic")
 let speechToText = ""; 
 recognition.addEventListener("result", e => {
